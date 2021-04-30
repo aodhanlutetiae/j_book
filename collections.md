@@ -1,6 +1,6 @@
 # Collections
 
-Lists of datasets built by journalists or governments or others.
+Lists of datasets released by journalists or governments or others.
 
 [538: all story datasets](https://fivethirtyeight.datasettes.com/fivethirtyeight)
 
