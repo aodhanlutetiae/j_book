@@ -1,7 +1,9 @@
 Monitoring
 ==========
 
-Who's releasing what? Get alerted to what's coming out or what's been updated or been changed
+Who's releasing what?
+
+Get alerted to what's coming out or what's been updated or been changed
 
 [Bureau Local slack channel that monitors UK govt releases](https://bureau-local-slack-invite.herokuapp.com/)
 
@@ -13,6 +15,6 @@ Who's releasing what? Get alerted to what's coming out or what's been updated or
 
 [ONS updates by email on new statistics](https://public.govdelivery.com/accounts/UKONS/subscriber/network)
 
-[Statistics for Wales on twitter](https://twitter.com/statisticswales)
+[Statistics for Wales (on twitter)](https://twitter.com/statisticswales)
 
 [UK government alerts by email on updated pages or data](https://www.gov.uk/help/update-email-notifications)
