@@ -1,5 +1,7 @@
 # UK government
 
+[My society published datasets (Democracy, FOI, Better cities)](https://data.mysociety.org/)
+
 [London planning datahub - not yet live](https://www.london.gov.uk/what-we-do/planning/digital-planning/planning-london-datahub#acc-i-62159)
 
 [List of former UK GOV sites](https://www.gov.uk/performance/central-government-websites)

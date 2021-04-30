@@ -1,5 +1,7 @@
 # Tech & IT
 
+[Adobserver database: tracking Facebook & YouTube ads](https://adobserver.org/ad-database/)
+
 [List of browser trackers from DuckDuckGo](https://spreadprivacy.com/duckduckgo-tracker-radar/)
 
 [National Chargepoint Registry UK](https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints)
