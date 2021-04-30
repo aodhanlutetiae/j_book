@@ -1,5 +1,7 @@
 # Mapping
 
+[11M placenames](http://www.geonames.org/)
+
 [High resolution population density (facebook & humanitarian data exchange)](https://dataforgood.fb.com/docs/high-resolution-population-density-maps-demographic-estimates-documentation/#how-to-access-data) & [here (AWS)](https://registry.opendata.aws/dataforgood-fb-hrsl/)
 
 [Find postboxes (global)](https://postboxmap.com/en)

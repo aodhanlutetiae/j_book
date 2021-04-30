@@ -1,111 +1,73 @@
 # Collections
 
-Lists of datasets by media (Buzzfeed, BBC, The Pudding) or governments or by format or for learners ...
+Lists of datasets built by journalists or governments or others.
 
-[Open University list of datasets](https://www.open.ac.uk/library/library-resources/datasets)
+[538: all story datasets](https://fivethirtyeight.datasettes.com/fivethirtyeight)
 
-[All datasets used in stories by The Pudding](https://github.com/the-pudding/data)
+[BBC data unit: all story datasets](https://github.com/BBC-Data-Unit/shared-data-unit)
 
-[A hub for humanitarian data (beware!)](https://data.humdata.org/)
+[Buzzfeed: all story datasets & analyses](https://github.com/BuzzFeedNews/everything#guides)
 
-[Harvard research data repository](https://dataverse.harvard.edu/)
+Cities: [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified)
 
-[Buzzfeed’s full repo of all story data and analyses](https://github.com/BuzzFeedNews/everything#guides)
+[Datassist: catalogue of different indexes available](https://docs.google.com/document/d/15BMSmaHGtR0hvhl80g32sfsJ-GhYjKAWSZJaUSA6iWQ/edit?mc_cid=9d475b8bdc&mc_eid=88c7f91a73)
 
-[Extremely random list of UK opendata csvs (3.7K)](https://datacac.uk/list/united-kingdom/index.html)
+[Data Is Plural: archive of data mentioned in email — J Singer-Vine](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 
-[538 datasets by story](https://datahub.io/five-thirty-eight)
+[Get the data: Q&A forum for finding answers in or about data](http://getthedata.org/)
 
-[Italy's ONS](https://www.istat.it/)
+[Google Bigquery datasets on Kaggle](https://www.kaggle.com/datasets?search=%23bigquery)
 
-[BBC data unit github repositories by story](https://github.com/BBC-Data-Unit/shared-data-unit)
+[Harvard University's data repository](https://dataverse.harvard.edu/)
 
-[Portfolio of ONS data stories](https://onsvisual.github.io/project_cairo/)
+[Humanitarian data exchange](https://data.humdata.org/)
 
-[List of large data science datasets](http://www.ee.columbia.edu/~cylin/course/bigdata/getdatasetinfo.html)
+[Interesting datasets for computational journalists (2015) — Dan Nguyen](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
 
-[List of important UK gov reports on data and open government - Gavin Freeguard](https://docs.google.com/spreadsheets/d/1lbGnx9sD3eXuQaz0yV6XClznDLwfd3X4PHfhEbSXKIs/edit#gid=0)
+[Istat: data from Italy's ONS](https://www.istat.it/)
 
-[Sourceful: finding useful public google docs](https://sourceful.co.uk/)
+[JSON format datasets (random list)](https://github.com/jdorfman/awesome-json-datasets)
 
-[Stanford list of (heavily US-centered) datasets](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
+[Makeover Monday](http://www.makeovermonday.co.uk/data/)
 
-[Propublica's data store](https://www.propublica.org/datastore/)
+[MIT: Knight Science Journalism dataset list](https://ksj.mit.edu/resource/data-journalism-tools/databases/)
 
-[Hub for questions like "Where can I get data on...?"](http://getthedata.org/)
+[New York Times training: some datasets (Word doc)](https://github.com/nytimes/data-training/tree/master/Various-tip-sheets)
 
-[List of interesting and open JSON format datasets](https://github.com/jdorfman/awesome-json-datasets)
+[NHS Digital](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets)
 
-[Some Cool Datasets -- New York Times (from their training course)](https://github.com/nytimes/data-training/blob/master/Various-tip-sheets/Some-Cool-Datasets.docx?raw=true)
-
-[The Roper Center for Public Opinion Research](https://ropercenter.cornell.edu/CFIDE/cf/action/catalog/catalogResult.cfm?keyword=cold%20war%20or%20communism&country=All%20Countries&organization=&type=&fromDate=1/1/1945&toDate=12/31/1991&search_x=65&search_y=13&sortBy=BEG_DATE_DESC)
-
-[Data Is Plural — Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+[NICAR database library (US)](https://www.ire.org/nicar/database-library)
 
 [OECD Data](https://data.oecd.org/)
 
 [Ofcom data releases](https://www.ofcom.org.uk/research-and-data/data/statistics/stats20)
 
-[Office for National Statistics UK](https://www.ons.gov.uk/)
+[ONS data stories: Project Cairo](https://onsvisual.github.io/project_cairo/)
 
-[Release calendar -- ONS](https://www.ons.gov.uk/releasecalendar)
+[ONS](https://www.ons.gov.uk/)
 
-[Stats Wales Catalogue](https://statswales.gov.wales/Catalogue)
+[Our World in Data: long list of datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
 
-[UNdata](http://data.un.org/)
+[Paris Tech: random datasets — James Eagan](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets)
 
-[Our World in Data’s long list of datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
+[Propublica: story datasets](https://www.propublica.org/datastore/)
 
-[Datasets for data cleaning practice](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
+[Pudding: all story datasets](https://github.com/the-pudding/data)
 
-[New York City Open Data](https://opendata.cityofnewyork.us/)
+[Random datasets for cleaning — Rachel Tatman](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
 
-[Edinburgh city data portal](https://edinburghopendata.info/)
+[Sourceful: finding useful public Google documents](https://sourceful.co.uk/)
 
-[Database Library (National Institute for computer-assisted reporting (US))](https://www.ire.org/nicar/database-library)
+[SODP: data sources for journalists](https://www.stateofdigitalpublishing.com/insights/top-data-sources-journalists/)
 
-[Awesome public datasets (github list)](https://github.com/awesomedata/awesome-public-datasets)
+[Stats Wales catalogue](https://statswales.gov.wales/Catalogue)
 
-[Google Dataset Search](https://toolbox.google.com/datasetsearch)
+[UK govt reports on open data and government — Gavin Freeguard](https://docs.google.com/spreadsheets/d/1lbGnx9sD3eXuQaz0yV6XClznDLwfd3X4PHfhEbSXKIs/edit#gid=0)
 
-[Datasets from Irish government](https://data.gov.ie/dataset?q=environment&res_format=GEOJSON)
+[UK govt open data portal](https://data.gov.uk/)
 
-[Data sets - NHS Digital](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets)
+[UK open data by location](https://www.getthedata.com/)
 
-[Data Sets | Makeover Monday](http://www.makeovermonday.co.uk/data/)
+[UK data service: social research data](https://www.ukdataservice.ac.uk/get-data)
 
-[Datassist -- catalogue of different indexes around the world](https://docs.google.com/document/d/15BMSmaHGtR0hvhl80g32sfsJ-GhYjKAWSZJaUSA6iWQ/edit?mc_cid=9d475b8bdc&mc_eid=88c7f91a73)
-
-[Kaggle BIGQUERY datasets](https://www.kaggle.com/datasets?search=%23bigquery)
-
-[London Datastore – Greater London Authority](https://data.london.gov.uk/)
-
-[List of Data Portals around the world](https://dataportals.org/)
-
-[European Union Open Data Portal](https://data.europa.eu/euodp/en/data/)
-
-[European Data Portal](https://www.europeandataportal.eu/en/homepage)
-
-[Find open data - UK govt](https://data.gov.uk/)
-
-[Dataset Collections - DataHub](https://datahub.io/collections)
-
-[Edjnet Search Engine for EU datasets](https://edp.europeandatajournalism.eu/?language=en)
-
-[Open Data - City of Leipzig](https://opendata.leipzig.de/), Germany
-
-[Open Data - City Paris](https://opendata.paris.fr/explore/?sort=modified), France
-
-UK[open data by location](https://www.getthedata.com/)
-
-[US institutional open data by API](https://www.opendatanetwork.com/)
-
-[Some random project dataset at Paristech](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets)
-
-[GeoCommons - massive archive of data](http://geocommons.com/)
-
-[Over 7,000 sets of social research data -- UK data service](https://www.ukdataservice.ac.uk/get-data)
-
-[List of datasets, Knight Science Journalism MIT](https://ksj.mit.edu/resource/data-journalism-tools/databases/)
-
- 
+[World data portals: a list of 590](https://dataportals.org/)

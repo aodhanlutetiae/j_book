@@ -8,11 +8,13 @@
     - file: arts
     - file: business
     - file: cities
+    - file: crime
     - file: education
     - file: environment
     - file: foi
     - file: health
     - file: journalism
+    - file: misc
     - file: politics
     - file: politics_us
     - file: religion

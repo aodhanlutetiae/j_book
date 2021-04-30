@@ -1,5 +1,6 @@
 # Cities
 
+[CCTV cameras in Wales](https://traffic.wales/cctv-cameras)
 
 [Rough sleeping in England questionnaire (initial results)](https://www.gov.uk/government/publications/rough-sleeping-questionnaire-initial-findings)
 

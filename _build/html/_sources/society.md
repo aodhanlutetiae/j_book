@@ -1,5 +1,9 @@
 # Society
 
+[Database of empty homes in England](https://www.actiononemptyhomes.org/facts-and-figures)
+
+[all uk pubs](https://www.pubsgalore.co.uk/)
+
 [Permits for all exterior table & chairs in Edinburgh](https://www.edinburgh.gov.uk/licences-permits/view-existing-tables-chairs-permits/1)
 
 [Data on historical slave trade — enslaved.org](https://enslaved.org/data)
@@ -65,5 +69,7 @@ See also, mapping resources for IoD <span style="text-decoration:underline;">htt
 [Publications banned by the Catholic Church](https://github.com/aodhanlutetiae/index)
 
 [Southern Poverty Law Center’s dataset of ‘public symbols of the Confederacy’](https://docs.google.com/spreadsheets/d/17ps4aqRyaIfpu7KdGsy2HRZaaQiXUfLrpUbaR9yS51E/edit#gid=40011151)
+
+[Wales national survey 2020](https://gov.wales/national-survey-wales-results-viewer) and [here](https://gov.wales/national-survey-wales)
 
 [Welsh language stats, year to June 2020](https://gov.wales/welsh-language-data-annual-population-survey-july-2019-june-2020)

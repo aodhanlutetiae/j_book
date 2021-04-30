@@ -1,5 +1,9 @@
 # Journalism
 
+[RSF press freedom index 2021](https://rsf.org/index.php)
+
+[Ofcom podcast survey 2021](https://www.ofcom.org.uk/research-and-data/data/statistics/stats21)
+
 [Trump's Negative Tweets About the Press (ongoing) - Google Sheets](https://docs.google.com/spreadsheets/d/1uNA6nsgcRhhQ0b6USsMNzhYLMfuDRSMhbGZNZ00WkHk/edit#gid=0)
 
 [U.S. Press Freedom Tracker API](https://pressfreedomtracker.us/data/)
