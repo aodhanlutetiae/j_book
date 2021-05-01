@@ -1,12 +1,8 @@
 # Cities
 
+[Africa urban data -- Africapolis](https://www.africapolis.org/data)
+
 [Airbnb data by (selected) cities — http://insideairbnb.com](http://insideairbnb.com)
-
-[Air Quality In Wales — Welsh government](https://airquality.gov.wales/maps-data)
-
-[Air Quality Network London](http://www.londonair.org.uk/london/asp/datadownload.asp)
-
-[Air pollution in India — Open Government Data](https://data.gov.in/keywords/air-pollution)
 
 [Bees in cities with locations — https://spotabee.buzz/](https://spotabee.buzz)
 

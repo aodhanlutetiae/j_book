@@ -8,7 +8,7 @@ Lists of datasets released by journalists or governments or others.
 
 [Buzzfeed: all story datasets & analyses](https://github.com/BuzzFeedNews/everything#guides)
 
-Cities: [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified)
+Cities: [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified)
 
 [Datassist: catalogue of different indexes available](https://docs.google.com/document/d/15BMSmaHGtR0hvhl80g32sfsJ-GhYjKAWSZJaUSA6iWQ/edit?mc_cid=9d475b8bdc&mc_eid=88c7f91a73)
 
@@ -23,6 +23,8 @@ Cities: [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glas
 [Humanitarian data exchange](https://data.humdata.org/)
 
 [Interesting datasets for computational journalists (2015) — Dan Nguyen](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
+
+[Investigative journalism: 18 sources](https://www.journalism.co.uk/news/data-sources-for-investigative-journalists/s2/a708756/)
 
 [Istat: data from Italy's ONS](https://www.istat.it/)
 
@@ -50,7 +52,7 @@ Cities: [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glas
 
 [Paris Tech: random datasets — James Eagan](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets)
 
-[Propublica: story datasets](https://www.propublica.org/datastore/)
+[Propublica: story datasets](https://www.propublica.org/datastore/) with [APIs](https://www.propublica.org/datastore/apis)
 
 [Pudding: all story datasets](https://github.com/the-pudding/data)
 
@@ -59,6 +61,8 @@ Cities: [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glas
 [Sourceful: finding useful public Google documents](https://sourceful.co.uk/)
 
 [SODP: data sources for journalists](https://www.stateofdigitalpublishing.com/insights/top-data-sources-journalists/)
+
+[Stanford list of US datasets for journalists](http://www.padjo.org/datasets/)
 
 [Stats Wales catalogue](https://statswales.gov.wales/Catalogue)
 

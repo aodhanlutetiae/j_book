@@ -12,6 +12,8 @@
 
 [Fincen files - glocal financial transactions -- ICIJ](https://www.icij.org/investigations/fincen-files/explore-the-fincen-files-data/)
 
+[German Companies (dataset on over 5 million)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
+
 [Kickstarter datasets scraped en masse](https://webrobots.io/kickstarter-datasets/)
 
 [Livestock in Wales - last ten years](https://statswales.gov.wales/Catalogue/Agriculture/Agricultural-Survey/Annual-Survey-Results/total-livestock-in-wales-by-year)
