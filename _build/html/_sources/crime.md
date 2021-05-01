@@ -1,59 +1,61 @@
 # Crime
 
-[Use (and abuse) of blue badge system in UK](https://www.google.com/url?q=https://www.gov.uk/government/statistical-data-sets/blue-badge-scheme-statistics-data-tables-dis&sa=D&source=editors&ust=1619805122946000&usg=AOvVaw0c-rG1_cJO6mC8JvNhkndu)
+[Antiquities crime on social media — ATHAR Project](http://atharproject.org/report2019/&sa=D&source=editors&ust=1619805122952000&usg=AOvVaw2cdl4llzqGgalPKUXZieee)
 
-[Courts martial records in the UK](https://www.google.com/url?q=https://data.gov.uk/dataset/df73bbd3-a801-4106-a1fc-eb7b6209fe1b/court-martial-results-from-the-military-court-centres&sa=D&source=editors&ust=1619805122947000&usg=AOvVaw0jQUuBvbp-IHO-EgCWYHtY)
+[Blue badge system in UK: use and abuse](https://www.gov.uk/government/statistical-data-sets/blue-badge-scheme-statistics-data-tables-dis&sa=D&source=editors&ust=1619805122946000&usg=AOvVaw0c-rG1_cJO6mC8JvNhkndu)
 
-[Women and criminal justice system — UK](https://www.google.com/url?q=https://www.gov.uk/government/collections/women-and-the-criminal-justice-system&sa=D&source=editors&ust=1619805122947000&usg=AOvVaw02Lo6JFG6Y3tHtomUG7QZn)
+[Courts martial records UK](https://data.gov.uk/dataset/df73bbd3-a801-4106-a1fc-eb7b6209fe1b/court-martial-results-from-the-military-court-centres&sa=D&source=editors&ust=1619805122947000&usg=AOvVaw0jQUuBvbp-IHO-EgCWYHtY)
 
-[Details on incidents of US police violence against protesters -- Propublica](https://www.google.com/url?q=https://projects.propublica.org/protest-police-videos&sa=D&source=editors&ust=1619805122948000&usg=AOvVaw10rGDhO6PL-587FMiE7mk-)
+[Crime in England and Wales 2020 — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables&sa=D&source=editors&ust=1619805122949000&usg=AOvVaw3kyj8cWe0PdZHMZWNIt-ex)
 
-[List of civilian complaints against NYPD police officers, 1982-2020 — Propublica](https://www.google.com/url?q=https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers&sa=D&source=editors&ust=1619805122948000&usg=AOvVaw0B2riQK_-vlvb2j9S6TKnM)
+[Cyber crime in England and Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesexperimentaltables&sa=D&source=editors&ust=1619805122951000&usg=AOvVaw3oYkI1UYBxO2uT6v6XHLpP)
 
-[US prison deaths — Reuters](https://www.google.com/url?q=https://www.reuters.com/investigates/special-report/usa-jails-graphic/&sa=D&source=editors&ust=1619805122948000&usg=AOvVaw3u7UvFWJdn-vqUJI8DDKhg)
+[Electric bicycle laws (Access)](https://dataverse.harvard.edu/dataset.xhtml?persistentId%3Ddoi:10.7910/DVN/W9NGI2&sa=D&source=editors&ust=1619805122956000&usg=AOvVaw1TY5fzQAp9XquWycDzbv9J)
 
-[Crime in England and Wales 2020 - Office for National Statistics](https://www.google.com/url?q=https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables&sa=D&source=editors&ust=1619805122949000&usg=AOvVaw3kyj8cWe0PdZHMZWNIt-ex)
+[EU laws (140K) — Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId%3Ddoi:10.7910/DVN/0EGYWY&sa=D&source=editors&ust=1619805122953000&usg=AOvVaw2rgBMybUup78UuK5rFLr2e)
 
-[Traffic stops by US police - The Stanford Open Policing Project](https://www.google.com/url?q=https://openpolicing.stanford.edu/data/&sa=D&source=editors&ust=1619805122950000&usg=AOvVaw0MNAazuKxhRJXE65rqP_O_)
+[Hate Crime data — HateLab](https://hatelab.net/data/&sa=D&source=editors&ust=1619805122953000&usg=AOvVaw0d2-pBGE7WLbZQuWwJKLl7)
 
-[UK prison populations -- UK govt](https://www.google.com/url?q=https://www.gov.uk/government/statistics/prison-population-figures-2020&sa=D&source=editors&ust=1619805122950000&usg=AOvVaw1yQQI5IFwBm7GZxfzL8laa)
+[Human trafficking victims (48K) — Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/&sa=D&source=editors&ust=1619805122954000&usg=AOvVaw1_7P21K7AbQs5n4_O6T_1X)
 
-[All US death row prisoners since 1976 -- The Intercept](https://www.google.com/url?q=https://github.com/firstlookmedia/the-condemned-data&sa=D&source=editors&ust=1619805122950000&usg=AOvVaw2UTaAY6nzY11TVjxn2oUxy)
+[Illegal downloading in UK (report)](https://www.gov.uk/government/publications/online-copyright-infringement-tracker-survey-10th-wave/online-copyright-infringement-tracker-survey-10th-wave-executive-summary)
 
-[Stats and data -- London's Metropolitan police](https://www.google.com/url?q=https://www.met.police.uk/sd/stats-and-data/&sa=D&source=editors&ust=1619805122951000&usg=AOvVaw040rWnk-WzmaRYcgshDHD0)
+[Policing data UK](https://data.police.uk/data/&sa=D&source=editors&ust=1619805122952000&usg=AOvVaw0aJbfpbpVdku_HVXKoh1hV)
 
-[Cyber crime in England and Wales -- Office for National Statistics](https://www.google.com/url?q=https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesexperimentaltables&sa=D&source=editors&ust=1619805122951000&usg=AOvVaw3oYkI1UYBxO2uT6v6XHLpP)
+[Police stop & search figures by ethnicity in UK](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest%23data-sources&sa=D&source=editors&ust=1619805122956000&usg=AOvVaw0wOia-soEgbVkKMy_KhaHm)
 
-[UK policing data -- data.police.uk](https://www.google.com/url?q=https://data.police.uk/data/&sa=D&source=editors&ust=1619805122952000&usg=AOvVaw0aJbfpbpVdku_HVXKoh1hV)
+[Prison populations UK](https://www.gov.uk/government/statistics/prison-population-figures-2020&sa=D&source=editors&ust=1619805122950000&usg=AOvVaw1yQQI5IFwBm7GZxfzL8laa)
 
-[360 years of US case law -- Access Project](https://www.google.com/url?q=https://case.law/&sa=D&source=editors&ust=1619805122952000&usg=AOvVaw1so7ClOMhknCC222NxyA47)
+[London's Metropolitan police](https://www.met.police.uk/sd/stats-and-data/&sa=D&source=editors&ust=1619805122951000&usg=AOvVaw040rWnk-WzmaRYcgshDHD0)
 
-[Antiquities crime on social media -- ATHAR Project](https://www.google.com/url?q=http://atharproject.org/report2019/&sa=D&source=editors&ust=1619805122952000&usg=AOvVaw2cdl4llzqGgalPKUXZieee)
+[US civilian complaints against NYPD police, 1982-2020 — Propublica](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers)
 
-[26K records of people killed during encounters with US police -- Fatal Encounters](https://www.google.com/url?q=https://fatalencounters.org/&sa=D&source=editors&ust=1619805122953000&usg=AOvVaw0Yz7EFH0rIAVf3xyp63Fue)
+[US case law (360 years) — Access Project](https://case.law/&sa=D&source=editors&ust=1619805122952000&usg=AOvVaw1so7ClOMhknCC222NxyA47)
 
-[Hate Crime data -- HateLab \*\*](https://www.google.com/url?q=https://hatelab.net/data/&sa=D&source=editors&ust=1619805122953000&usg=AOvVaw0d2-pBGE7WLbZQuWwJKLl7)
+[US people killed during encounters with US police (26K) — Fatal Encounters](https://fatalencounters.org/&sa=D&source=editors&ust=1619805122953000&usg=AOvVaw0Yz7EFH0rIAVf3xyp63Fue)
 
-[140K EU laws (almost all EU laws) -- Harvard](https://www.google.com/url?q=https://dataverse.harvard.edu/dataset.xhtml?persistentId%3Ddoi:10.7910/DVN/0EGYWY&sa=D&source=editors&ust=1619805122953000&usg=AOvVaw2rgBMybUup78UuK5rFLr2e)
+[US prison deaths — Reuters](https://www.reuters.com/investigates/special-report/usa-jails-graphic/&sa=D&source=editors&ust=1619805122948000&usg=AOvVaw3u7UvFWJdn-vqUJI8DDKhg)
 
-[Texas death row inmates executed since 1976 -- Select Star SQL](https://www.google.com/url?q=https://selectstarsql.com/frontmatter.html&sa=D&source=editors&ust=1619805122954000&usg=AOvVaw05zEUtOabalNhfUQv-S_9D)
+[US police violence against protesters — Propublica](https://projects.propublica.org/protest-police-videos&sa=D&source=editors&ust=1619805122948000&usg=AOvVaw10rGDhO6PL-587FMiE7mk-)
 
-[Data on 48K humantrafficking victims -- Counter Trafficking Data Collaborative](https://www.google.com/url?q=https://www.ctdatacollaborative.org/&sa=D&source=editors&ust=1619805122954000&usg=AOvVaw1_7P21K7AbQs5n4_O6T_1X)
+[US police traffic stops — The Stanford Open Policing Project](https://openpolicing.stanford.edu/data/&sa=D&source=editors&ust=1619805122950000&usg=AOvVaw0MNAazuKxhRJXE65rqP_O_)
 
-[Chicago police officers who had civil rights lawsuits against them with settlements paid out to complainant - Database](https://www.google.com/url?q=http://projects.chicagoreporter.com/settlements/search/officersDatabase&sa=D&source=editors&ust=1619805122954000&usg=AOvVaw0Y_piJlQp1dk5NyM3kOcgt)
+[US death row prisoners since 1976 — The Intercept](https://github.com/firstlookmedia/the-condemned-data)
 
-[US police officers killed / injured on duty 2019](https://www.google.com/url?q=https://ucr.fbi.gov/leoka/2019/downloads/download-files&sa=D&source=editors&ust=1619805122955000&usg=AOvVaw0IKzJQVefsMc5FUyn9Ap0y)
+[US death row inmates executed since 1976 — Select Star SQL](https://www.google.com/url?q=https://selectstarsql.com/frontmatter.html&sa=D&source=editors&ust=1619805122954000&usg=AOvVaw05zEUtOabalNhfUQv-S_9D)
 
-[12,000 civilian complaints against NYPD](https://www.google.com/url?q=https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers&sa=D&source=editors&ust=1619805122955000&usg=AOvVaw3G22P0JEJKpcUhlkm-axYF)
+[US police officers in Chicago who had civil rights lawsuits against them with settlements paid to complainant](http://projects.chicagoreporter.com/settlements/search/officersDatabase&sa=D&source=editors&ust=1619805122954000&usg=AOvVaw0Y_piJlQp1dk5NyM3kOcgt)
 
-[UK police stop & search figures by ethnicity](https://www.google.com/url?q=https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest%23data-sources&sa=D&source=editors&ust=1619805122956000&usg=AOvVaw0wOia-soEgbVkKMy_KhaHm)
+[US police officers killed or injured on duty 2019](https://ucr.fbi.gov/leoka/2019/downloads/download-files&sa=D&source=editors&ust=1619805122955000&usg=AOvVaw0IKzJQVefsMc5FUyn9Ap0y)
 
-[Datasets of laws on electric bicycles (Access)](https://www.google.com/url?q=https://dataverse.harvard.edu/dataset.xhtml?persistentId%3Ddoi:10.7910/DVN/W9NGI2&sa=D&source=editors&ust=1619805122956000&usg=AOvVaw1TY5fzQAp9XquWycDzbv9J)
+[US police violence and Black Lives Matters protest — Bellingcat](https://docs.google.com/spreadsheets/d/1-9KKfaEDhgeJ8dz8HjsFNBniDCQj-5ADWbuMkw2hNBU/edit#gid=1686998620)
 
-[Report on illegal downloading in UK](https://www.gov.uk/government/publications/online-copyright-infringement-tracker-survey-10th-wave/online-copyright-infringement-tracker-survey-10th-wave-executive-summary)
+[US 12,000 civilian complaints against NYPD](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers&sa=D&source=editors&ust=1619805122955000&usg=AOvVaw3G22P0JEJKpcUhlkm-axYF)
 
 [US shootings. The violence project](https://www.theviolenceproject.org/mass-shooter-database/)
 
 [US shootings. Gun violence archive](https://www.gunviolencearchive.org/methodology)
 
 [US shootings. Mother Jones](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data)
+
+[Women and criminal justice system UK](https://www.gov.uk/government/collections/women-and-the-criminal-justice-system&sa=D&source=editors&ust=1619805122947000&usg=AOvVaw02Lo6JFG6Y3tHtomUG7QZn)

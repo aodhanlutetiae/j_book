@@ -1,25 +1,23 @@
 # Politics (US)
 
-[Police violence and Black Lives Matters protest — Bellingcat](https://docs.google.com/spreadsheets/d/1-9KKfaEDhgeJ8dz8HjsFNBniDCQj-5ADWbuMkw2hNBU/edit#gid=1686998620)
+[Campaign finance data -- FEC](https://www.fec.gov/data/)
+
+[Campaign finance data via OpenFEC: how to get started — Sunlight Foundation](https://sunlightfoundation.com/2015/07/08/openfec-makes-campaign-finance-data-more-accessible-with-new-api-heres-how-to-get-started/)
 
 [Federal Election Commission - election results](https://www.fec.gov/introduction-campaign-finance/election-and-voting-information/)
 
-[US Campaign finance data -- FEC](https://www.fec.gov/data/)
+[Finance Database -- Institute for Democracy & Electoral Assistance](https://www.idea.int/data-tools/data/political-finance-database)
 
-[OpenFEC makes campaign finance data more accessible with new API: Here’s how to get started : Sunlight Foundation](https://sunlightfoundation.com/2015/07/08/openfec-makes-campaign-finance-data-more-accessible-with-new-api-heres-how-to-get-started/)
+[Gmail's treatment of US political email -- The Markup](https://github.com/the-markup/investigation-wheres-my-email)
+
+[Migrant children detention in the US](https://github.com/themarshallproject/cbp-migrantchildren-detention-data)
 
 [MIT's election data](https://electionlab.mit.edu/data)
 
+[Postal Service weekly performance — how much mail got dealt with?](https://drive.google.com/drive/folders/1WIiUIu0PP_5D1j8R_-T7IN7kVWk9lvuj)
+
 [Princeton's guide to various US election data](https://libguides.princeton.edu/elections#s-lg-box-12629001)
 
-[US census data on voter registration](https://www.census.gov/topics/public-sector/voting.html)
+[US Diplomacy -- Wikileaks cables](https://wikileaks.org/plusd/)
 
-[Public Library of US Diplomacy -- Wikileaks cables](https://wikileaks.org/plusd/)
-
-[Datasets behind FiveThirtyEight stories -- FiveThirtyEight](https://data.fivethirtyeight.com/)
-
-[Political Finance Database -- Institute for Democracy & Electoral Assistance](https://www.idea.int/data-tools/data/political-finance-database)
-
-[Detention of migrant children in the US](https://github.com/themarshallproject/cbp-migrantchildren-detention-data)
-
-[Weekly performance of the US Postal Service — how much mail got dealt with?](https://drive.google.com/drive/folders/1WIiUIu0PP_5D1j8R_-T7IN7kVWk9lvuj)
+[Voter registration census data](https://www.census.gov/topics/public-sector/voting.html)

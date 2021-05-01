@@ -1,47 +1,49 @@
 # Mapping
 
-[11M placenames](http://www.geonames.org/)
-
-[High resolution population density (facebook & humanitarian data exchange)](https://dataforgood.fb.com/docs/high-resolution-population-density-maps-demographic-estimates-documentation/#how-to-access-data) & [here (AWS)](https://registry.opendata.aws/dataforgood-fb-hrsl/)
-
-[Find postboxes (global)](https://postboxmap.com/en)
-
-[UK lighthouses](https://datashare.is.ed.ac.uk/handle/10283/2425)
+[Cardiff public rights of way (GEOJSON Files)](https://www.rowmaps.com/jsons/CD/)
 
 [Consumer Data Research geodata (UK)](https://data.cdrc.ac.uk/geodata-packs)
 
-[18K maps at the British Library](https://blogs.bl.uk/magnificentmaps/2020/10/the-ktop-18000-digitised-maps-and-views-released.html)
-
-[Geocommons - 150K Geojson maps on github uploaded by public](https://github.com/geoiq/gc_data)
-
-and [simple webpage list](http://geocommons.com/search.html)
-
-[List of mapping resources, including geographical datasets](https://github.com/tolomaps/resources/)
-
-[Mapping Locations of Reported Pot Holes in Toronto (article)](https://towardsdatascience.com/mapping-locations-of-reported-pot-holes-in-toronto-using-python-376402d8da53)
-
-[Ordnance Survey data (UK)](https://osdatahub.os.uk/downloads/open#BDLINE)  
-
-[Geoportal for UK geographical data -- ONS](http://geoportal.statistics.gov.uk)
-
-[Github repo of older mapping data](https://martinjc.github.io/UK-GeoJSON)
-
-[LLE Geoportal for Wales spatial data -- Welsh govt & Natural Resources Wales](http://lle.gov.wales/catalogue?t=1&lang=en)
-
-[Digital Atlas of Roman & Medieval civilisation](https://darmc.harvard.edu/data-availability)
-
-[UK Lighthouses in England & Wales, 1514 — 1911 ](https://reshare.ukdataservice.ac.uk/854172/)
-
-[Spatial data for the world (GIS)](http://www.diva-gis.org/datadown)
-
-[More world spatial data -- countries & cities](http://www.naturalearthdata.com/downloads/110m-cultural-vectors/)
+[Freehold registered property in the UK (polygon data)](https://use-land-property-data.service.gov.uk/datasets/inspire)
 
 [French regions mapping data](https://www.data.gouv.fr/en/datasets/contours-des-regions-francaises-sur-openstreetmap/)
 
-[https://www.gov.uk/government/news/inspire-data-to-be-shared-under-open-terms](https://www.gov.uk/government/news/inspire-data-to-be-shared-under-open-terms)
+[Ireland Ordnance Survey](https://data-osi.opendata.arcgis.com/)
 
-[Public rights of way of Cardiff (GEOJSON Files)](https://www.rowmaps.com/jsons/CD/)
+[Lighthouses in England & Wales, 1514-1911 ](https://reshare.ukdataservice.ac.uk/854172/)
 
-[Statistical GIS Boundary Files for London - London Datastore](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london)
+[Lighthouses in the UK](https://datashare.is.ed.ac.uk/handle/10283/2425)
 
-[Polygon data for freehold registered property in the UK](https://use-land-property-data.service.gov.uk/datasets/inspire)
+[London Statistical GIS Boundary Files](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london)
+
+[Map data - Natural Earth](http://www.naturalearthdata.com/downloads/)
+
+[Mapping resources, including geographical datasets](https://github.com/tolomaps/resources/)
+
+[Maps at the British Library (18K)](https://blogs.bl.uk/magnificentmaps/2020/10/the-ktop-18000-digitised-maps-and-views-released.html)
+
+[Maps in Geojson from public: Geocommons (150K)](https://github.com/geoiq/gc_data) and [simple webpage list](http://geocommons.com/search.html)
+
+[Placenames (11 million)](http://www.geonames.org/)
+
+[Population density in high resolution (facebook & humanitarian data exchange)](https://dataforgood.fb.com/docs/high-resolution-population-density-maps-demographic-estimates-documentation/#how-to-access-data) & [here (AWS)](https://registry.opendata.aws/dataforgood-fb-hrsl/)
+
+[Postbox finder (global)](https://postboxmap.com/en)
+
+[Potholes in Toronto: Mapping Locations (article)](https://towardsdatascience.com/mapping-locations-of-reported-pot-holes-in-toronto-using-python-376402d8da53)
+
+[Roman & Medieval civilisation digital atlas](https://darmc.harvard.edu/data-availability)
+
+[UK land spatial polygons (23M)](https://www.gov.uk/guidance/inspire-index-polygons-spatial-data)
+
+[UK Ordnance Survey data](https://osdatahub.os.uk/downloads/open#BDLINE)  
+
+[UK geographical data geoportal — ONS](http://geoportal.statistics.gov.uk)
+
+[US infrastructure map data](https://hifld-geoplatform.opendata.arcgis.com/)
+
+[Wales spatial data geoportal — Welsh govt & Natural Resources Wales](http://lle.gov.wales/catalogue?t=1&lang=en)
+
+[World spatial data](http://www.diva-gis.org/datadown)
+
+[World spatial data — countries & cities](http://www.naturalearthdata.com/downloads/110m-cultural-vectors/)
