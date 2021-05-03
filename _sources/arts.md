@@ -1,7 +1,5 @@
 # Arts & Culture
 
-[3,000 haikus on the 2020 news](https://www.kaggle.com/newshaikus/dataset/metadata)
-
 [Chord progressions of 5,000 songs — AmitKohli](https://www.amitkohli.com/chord-progressions-of-5-000-songs/)
 
 [Crossword clues (huge number)](http://xd.saul.pw/data/)

@@ -4,6 +4,8 @@ Lists of datasets released by journalists or governments or others.
 
 [538: all story datasets](https://fivethirtyeight.datasettes.com/fivethirtyeight)
 
+[Accountability project](https://www.publicaccountability.org/)
+
 [BBC data unit: all story datasets](https://github.com/BBC-Data-Unit/shared-data-unit)
 
 [Buzzfeed: all story datasets & analyses](https://github.com/BuzzFeedNews/everything#guides)

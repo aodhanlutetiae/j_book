@@ -1,5 +1,7 @@
 # Journalism
 
+[3,000 haikus on the 2020 news](https://www.kaggle.com/newshaikus/dataset/metadata)
+
 [Accountability Project (US)](https://www.publicaccountability.org/datasets/home/)
 
 [Data archive of interest to US journalists — Big Local News](https://biglocalnews.org/)
