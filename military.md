@@ -1,5 +1,7 @@
 # Military
 
+— See also courts martial data under [Crime](https://aodhanlutetiae.github.io/j_book/crime.html#)
+
 [Armed Conflict Location & Event Data](https://www.acleddata.com/)
 
 [Global arms sales since 1950](https://www.sipri.org/databases/armstransfers)

@@ -10,7 +10,7 @@
 
 [Ireland Ordnance Survey](https://data-osi.opendata.arcgis.com/)
 
-[Lighthouses in England & Wales, 1514-1911 ](https://reshare.ukdataservice.ac.uk/854172/)
+[Lighthouses in England & Wales, 1514-1911](https://reshare.ukdataservice.ac.uk/854522/)
 
 [Lighthouses in the UK](https://datashare.is.ed.ac.uk/handle/10283/2425)
 
@@ -30,7 +30,7 @@
 
 [Postbox finder (global)](https://postboxmap.com/en)
 
-[Potholes in Toronto: Mapping Locations (article)](https://towardsdatascience.com/mapping-locations-of-reported-pot-holes-in-toronto-using-python-376402d8da53)
+[Potholes in Toronto: Mapping Locations (article & API method)](https://towardsdatascience.com/mapping-locations-of-reported-pot-holes-in-toronto-using-python-376402d8da53)
 
 [Roman & Medieval civilisation digital atlas](https://darmc.harvard.edu/data-availability)
 

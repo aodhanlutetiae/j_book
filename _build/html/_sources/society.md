@@ -18,7 +18,7 @@
 
 [Deprivation indices in England 2019 — UK govt](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019). [See also, mapping resources for IoD](https://www.gov.uk/guidance/english-indices-of-deprivation-2019-mapping-resources)
 
-[Deprivation Index in Wales — States Wales](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation)
+[Deprivation Index in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation)
 
 [Empty homes in England](https://www.actiononemptyhomes.org/facts-and-figures)
 
@@ -48,6 +48,8 @@
 
 [Patents geocoded (18 million)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OTTBDX)
 
+[Postal statistics (global)](https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications/Postal-Statistics)
+
 [Pubs in the UK](https://www.pubsgalore.co.uk/)
 
 [Same-sex marriage postal survey in Australia 2017](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1800.02017)
@@ -65,6 +67,8 @@
 [UK: Overseas residents and UK residents abroad — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/travelandtourism)
 
 [Wales national survey 2020](https://gov.wales/national-survey-wales-results-viewer) and [here](https://gov.wales/national-survey-wales)
+
+[Water points around the world](https://www.waterpointdata.org/access-data/)
 
 [Welsh language stats, year to June 2020](https://gov.wales/welsh-language-data-annual-population-survey-july-2019-june-2020)
 

@@ -29,4 +29,5 @@
   sections:
     - file: j_book_test
 
+- file: tools
 - file: about
