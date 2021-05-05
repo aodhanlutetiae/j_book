@@ -1,9 +1,7 @@
 Monitoring
 ==========
 
-Who's releasing what?
-
-Get alerted to what's coming out or what's been updated or been changed
+Who's releasing what? Get alerted to what's coming out or what's been updated or been changed
 
 [Bureau Local slack channel that monitors UK govt releases](https://bureau-local-slack-invite.herokuapp.com/)
 

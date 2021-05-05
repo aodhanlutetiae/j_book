@@ -2,66 +2,44 @@
 
 These are tools (or lists of tools) that have been *built for journalism* (rather than those that are useful for journalists or for technologists).
 
-[Aleph (OCCRP)](https://aleph.occrp.org)
+[Aleph (OCCRP)](https://aleph.occrp.org) | "Access to a vast archive of government records and open databases"
 
-[BBC News Labs](https://bbcnewslabs.co.uk)
+[BBC News Labs](https://bbcnewslabs.co.uk) & [repo](https://github.com/BBC-News-Labs) | Tools built by the BBC's innovation lab
 
-[Blacklight (The Markup)](https://themarkup.org/blacklight)
+[Blacklight (The Markup)](https://themarkup.org/blacklight) | Real-time website privacy inspector
 
-[Bureau Local list of tools](https://docs.google.com/spreadsheets/d/1Em4MYqOiGUz31RAeCZTFBr9I5PWCizEB8OjMLei9C8Y/edit#gid=454588363)
+[Casefinder (Caerphilly observer)](https://clwstwr.org.uk/projects/casefinder) | Search planning for Magistrates' Courts
 
-[Common Knowledge Project](https://commonknowledge.appspot.com)
+[DataKit (AP)](https://datakit.ap.org/) | Command line tool for managing news projects
 
-[DataKit (AP)](https://datakit.ap.org/)
+[Datasette](https://datasette.io/) &[YouTube talk](https://www.youtube.com/watch?v%3DpTr1uLQTJNE&sa=D) | Publish your data using this powerful framework
 
-[Data Journalism Tools](https://datajournalism.tools)
+[Datashare (ICIJ)](https://icij.gitbook.io/datashare/) | Analyse, search, filter & sort documents
 
-[Datasette](https://datasette.io/) & [YouTube talk](https://www.youtube.com/watch?v%3DpTr1uLQTJNE&sa=D)
+[Django-collaborative (Propublica)](https://github.com/propublica/django-collaborative) | Web app for building stories on tipoffs from the public
 
-[Datashare (ICIJ)](https://icij.gitbook.io/datashare/)
+[Follow That Page](https://www.followthatpage.com) | Sends you an email when a webpage changes
 
-[Django-collaborative (Propublica)](https://github.com/propublica/django-collaborative)
+[Google Journalist Studio](https://journaliststudio.google.com/) | Google tools for reporting
 
-[DUG: Data Unit Guide](https://dug.news/index.html)
+[Harvester (AP)](https://harvester.ap.org) & [presentation](https://vimeo.com/520123772/2a3edddf19) & [repo](https://github.com/associatedpress/harvester) | Newsroom platform for collecting data
 
-[EDJ resources for journalists](https://www.europeandatajournalism.eu/eng/Resources-for-Journalists)
+[Klaxon](https://newsklaxon.org/) | Be alerted when websites or online files are updated
 
-[Follow That Page](https://www.followthatpage.com)
+[Knight Lab](https://knightlab.northwestern.edu/projects/) | Tools from the Knight Lab at Northwestern University
 
-[Google News Initiative tools](https://newsinitiative.withgoogle.com/training/tools)
+[Overview](https://www.overviewdocs.com/) | Search, visualise and review up to hundreds of thousands of documents
 
-[Google Journalist Studio](https://journaliststudio.google.com/)
+[MapChecking](https://www.mapchecking.com) | Crowd size estimator - Security parameters currently broken
 
-[GIJN resource list](https://helpdesk.gijn.org/support/home)
+[OpenSpending](https://openspending.org/) | Search and analyse fiscal data that is public
 
-[Harvester (AP)](https://harvester.ap.org) & [presentation](https://vimeo.com/520123772/2a3edddf19) & [repo](https://github.com/associatedpress/harvester)
+[PANDA Project](http://pandaproject.net/) | Newsroom data journalism platform
 
-[Journalist's Toolbox](https://www.journaliststoolbox.org) & [videos](https://www.youtube.com/channel/UC8CCl01DmsE65wh-qPqjSLQ/videos)
+[ProPublica news apps](https://www.propublica.org/newsapps) | Tools from Propublica
 
-[Klaxon](https://newsklaxon.org/)
+[Typerighter (Guardian)](https://github.com/guardian/typerighter) | Checks if a text respects the Style Guide
 
-[Knight Lab](https://knightlab.northwestern.edu/projects/)
+[Visualping](https://visualping.io/) | Monitor website changes
 
-[Overview](https://www.overviewdocs.com/)
-
-[MapChecking](https://www.mapchecking.com)
-
-[OpenSpending](https://openspending.org/)
-
-[PANDA Project](http://pandaproject.net/)
-
-[Pinterest list of journalism tools](https://www.pinterest.com/journalismtools/)
-
-[ProPublica news apps](https://www.propublica.org/newsapps)
-
-[SilverLining Project](https://journalistsresource.org/studies/society/news-media/silverlining-project-big-data-dark-web)
-
-[Typerighter (Guardian)](https://github.com/guardian/typerighter)
-
-[Tools for Reporters](https://toolsforreporters.com/archive)
-
-[Visualping](https://visualping.io/)
-
-[Vozdata (La nacion)](https://vozdata.lanacion.com.ar/cd/paso-buenos-aires)
-
-[Workbench](https://app.workbenchdata.com/courses/en/intro-to-data-journalism)
+[Vozdata (La nacion)](https://vozdata.lanacion.com.ar/cd/paso-buenos-aires) | Project using [Crowdata](https://crowdata.readthedocs.io/en/latest/) to turn pdfs into datasets

@@ -1,5 +1,7 @@
 # Cities
 
+— See also 'Cities' under [Collections](https://aodhanlutetiae.github.io/j_book/collections.html)
+
 [Africa urban data -- Africapolis](https://www.africapolis.org/data)
 
 [Airbnb data by (selected) cities — http://insideairbnb.com](http://insideairbnb.com)

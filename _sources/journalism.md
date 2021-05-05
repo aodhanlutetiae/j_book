@@ -16,7 +16,7 @@
 
 [French press cards awarded in 2013 (statistics) — French government](https://www.data.gouv.fr/en/datasets/attributions-de-cartes-de-presse-en-2013/)
 
-[Guardian journalism: 2 million pieces of Guardian content via API](https://open-platform.theguardian.com/accessAAPI)
+[Guardian journalism: 2 million pieces of Guardian content via API](https://open-platform.theguardian.com/)
 
 [ICIJ Offshore Leaks Database (Panama 2015, Paradise 2017)](https://offshoreleaks.icij.org/)
 
