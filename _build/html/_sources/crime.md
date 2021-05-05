@@ -4,6 +4,8 @@
 
 [Blue badge system in UK: use and abuse](https://www.gov.uk/government/statistical-data-sets/blue-badge-scheme-statistics-data-tables-dis&sa=D&source=editors&ust=1619805122946000&usg=AOvVaw0c-rG1_cJO6mC8JvNhkndu)
 
+[Chicago's (in)famous 'Strategic Subject List'](https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List-Historical/4aki-r3np)
+
 [Courts martial records UK](https://data.gov.uk/dataset/df73bbd3-a801-4106-a1fc-eb7b6209fe1b/court-martial-results-from-the-military-court-centres&sa=D&source=editors&ust=1619805122947000&usg=AOvVaw0jQUuBvbp-IHO-EgCWYHtY)
 
 [Crime in England and Wales 2020 — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables&sa=D&source=editors&ust=1619805122949000&usg=AOvVaw3kyj8cWe0PdZHMZWNIt-ex)
