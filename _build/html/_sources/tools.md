@@ -20,7 +20,7 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Follow That Page](https://www.followthatpage.com) | Sends you an email when a webpage changes
 
-[Google Journalist Studio](https://journaliststudio.google.com/) | Google tools for reporting
+[Google Journalist Studio](https://journaliststudio.google.com/) | Google tools for reporting, including [Pinpoint](https://journaliststudio.google.com/pinpoint/collections) for mass analysis of documents
 
 [Harvester (AP)](https://harvester.ap.org) & [presentation](https://vimeo.com/520123772/2a3edddf19) & [repo](https://github.com/associatedpress/harvester) | Newsroom platform for collecting data
 
@@ -39,6 +39,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 [ProPublica news apps](https://www.propublica.org/newsapps) | Tools from Propublica
 
 [Typerighter (Guardian)](https://github.com/guardian/typerighter) | Checks if a text respects the Style Guide
+
+[YouTube Tracking](https://youtube.tracking.exposed) | Monitor and collect personalised recommendations to investigate YouTube's recommender system.
 
 [Visualping](https://visualping.io/) | Monitor website changes
 

@@ -12,7 +12,9 @@
 
 [UK arms export data](https://github.com/caatdata/uk-arms-export-data)
 
-[United Nations Peacekeeping Open Data Portal](https://peacekeeping.un.org/en/open-data-portal?utm_source=GIJN+Mailing+List&utm_campaign=a5f0234ea6-EMAIL_CAMPAIGN_2019_12_16_05_24)
+[UN peacekeeping open data portal](https://peacekeeping.un.org/en/open-data-portal)
+
+[UN peace mission mandates, 1991-2020](https://www.peacemissions.info/)
 
 [US military equipment in Iraq — Wikileaks](https://wikileaks.org/wiki/Iraq_OIF_Property_List.csv)
 
