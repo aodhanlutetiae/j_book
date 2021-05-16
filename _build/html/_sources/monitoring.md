@@ -3,7 +3,7 @@ Monitoring
 
 Who's releasing what? Get alerted to what's coming out or what's been updated or been changed
 
-[Bureau Local slack channel that monitors UK govt releases](https://bureau-local-slack-invite.herokuapp.com/)
+[Bureau Local slack channel to monitor gov.uk data releases](https://bureau-local-slack-invite.herokuapp.com/)
 
 [Google dataset search](https://datasetsearch.research.google.com/)
 
@@ -15,4 +15,4 @@ Who's releasing what? Get alerted to what's coming out or what's been updated or
 
 [Statistics for Wales (on twitter)](https://twitter.com/statisticswales)
 
-[UK government alerts by email on updated pages or data](https://www.gov.uk/help/update-email-notifications)
+[UK government email alerts on updated pages or data](https://www.gov.uk/help/update-email-notifications)

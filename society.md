@@ -26,8 +26,6 @@
 
 [Free school meals in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Education-and-Skills/Schools-and-Teachers/Schools-Census/Pupil-Level-Annual-School-Census/Provision-of-Meals-and-Milk/pupilseligibleforfreeschoolmeals-by-localauthorityregion-year)
 
-[GDELT Project](https://www.gdeltproject.org/)
-
 [How popular is your birthday? — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18)
 
 [Indian ethnic group in the UK](https://www.gov.uk/government/publications/ethnicity-facts-and-figures-indian-ethnic-group?utm_source=2dbdb1f4-d794-471c-ad67-b0815458dc71)
