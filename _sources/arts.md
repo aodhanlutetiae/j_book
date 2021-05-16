@@ -32,6 +32,10 @@
 
 [Star Wars API — Hallett & Bura](https://swapi.dev)
 
+[Statues of sportspeople](http://offbeat.group.shef.ac.uk/statues/)
+
 [Tate collection](https://github.com/tategallery/collection)
 
 [Taylor Swift lyrics (all)](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-29/taylor_swift_lyrics.csv)
+
+[UK public monuments & sculptures](https://www.vads.ac.uk/digital/collection/PMSA/search)
