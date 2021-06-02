@@ -4,6 +4,8 @@
 
 [Big Mac Index — The Economist](https://github.com/TheEconomist/big-mac-data)
 
+[Coins: what people have in their wallets (survey)](https://data.mendeley.com/datasets/f257j67ym6/2)
+
 [Companies House API](https://developer.companieshouse.gov.uk/api/docs/)
 
 [Enron emails (500K) - investigate the infamous company](https://www.kaggle.com/wcukierski/enron-email-dataset)
@@ -33,5 +35,7 @@
 [UK labour market statistics](https://www.nomisweb.co.uk/)
 
 [UK business creation & demise up to 2020 3rd quarter — ONS](https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/businessdemographyquarterlyexperimentalstatisticsuk)
+
+[UK working from home by local authority](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
 
 [World mining datasets](https://doi.pangaea.de/10.1594/PANGAEA.910894)

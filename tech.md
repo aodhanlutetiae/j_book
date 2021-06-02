@@ -10,6 +10,8 @@
 
 [Browser trackers — list from DuckDuckGo](https://spreadprivacy.com/duckduckgo-tracker-radar/)
 
+[Cell phone towers around the world — OpenCellId](https://www.opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942)
+
 [CIA spyware and malware — WikiLeaks](https://wikileaks.org/+-Government-+.html)
 
 [Computer users Data for 12 users on their computers for 55 days](https://www.sciencedirect.com/science/article/pii/S2352340920306612)

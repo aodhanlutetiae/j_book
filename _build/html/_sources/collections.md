@@ -16,11 +16,15 @@ Cities: [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](ht
 
 [Data Is Plural: archive of data mentioned in email — J Singer-Vine](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 
+[Data Times](https://thedatatimes.com/)
+
 [Get the data: Q&A forum for finding answers in or about data](http://getthedata.org/)
 
 [Google Bigquery datasets on Kaggle](https://www.kaggle.com/datasets?search=%23bigquery)
 
 [Harvard University's data repository](https://dataverse.harvard.edu/)
+
+[Higher Education Statistics Agency](https://www.hesa.ac.uk/data-and-analysis)
 
 [Humanitarian data exchange](https://data.humdata.org/)
 
@@ -54,7 +58,7 @@ Cities: [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](ht
 
 [Paris Tech: random datasets — James Eagan](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets)
 
-[Propublica: story datasets](https://www.propublica.org/datastore/) with [APIs](https://www.propublica.org/datastore/apis)
+[Propublica: story datasets](https://www.propublica.org/datastore/datasets) with [APIs](https://www.propublica.org/datastore/apis)
 
 [Pudding: all story datasets](https://github.com/the-pudding/data)
 
