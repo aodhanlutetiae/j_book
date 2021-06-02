@@ -50,6 +50,8 @@
 
 [Pubs in the UK](https://www.pubsgalore.co.uk/)
 
+[Pubs & bars by UK local authority, 2001-18 (ONS)](https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsbylocalauthority)
+
 [Same-sex marriage postal survey in Australia 2017](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1800.02017)
 
 [Slave trade (historical) — enslaved.org](https://enslaved.org/data)
@@ -71,3 +73,5 @@
 [Welsh language stats, year to June 2020](https://gov.wales/welsh-language-data-annual-population-survey-july-2019-june-2020)
 
 [WikiRumours API for mis- and dis-information](https://www.wikirumours.org/explore_api)
+
+[Young people living at home — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/datasets/youngadultslivingwiththeirparents)

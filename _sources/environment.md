@@ -34,6 +34,8 @@
 
 [Temperature rises in European locations](https://climatechange.europeandatajournalism.eu/en/about)
 
+[UK & Ireland rainfall, 1677-1960](https://github.com/ed-hawkins/rainfall-rescue) with [background](https://twitter.com/ed_hawkins/status/1392758650201120771)
+
 [Water Conflict — World's Water](https://www.worldwater.org/water-conflict/)
 
 [Weather station historic data — Met Office](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data)
