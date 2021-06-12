@@ -14,9 +14,7 @@
 
 [Football stadiums in England latitude & longitude — C Boutaud](https://github.com/martinjc/UK-GeoJSON/tree/master/csv)
 
-[Gambling licences in the UK (public register)](https://secure.gamblingcommission.gov.uk/PublicRegister)
-
-[Gambling licenced premises — data.gov.uk](https://data.gov.uk/dataset/8dc9bef0-ad46-497b-9a74-30a6ce9d2f98/licensed-gambling-premises)
+[Gambling licences in the UK (public register)](https://beta.gamblingcommission.gov.uk/public-register/premises/download)
 
 [Gambling statistics](https://www.gamblingcommission.gov.uk/news-action-and-statistics/Statistics-and-research/Levels-of-participation-and-problem-gambling/Research-library.Gambling)
 

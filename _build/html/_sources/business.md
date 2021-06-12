@@ -16,6 +16,8 @@
 
 [German Companies (dataset on over 5 million)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
 
+[UK homeworking during the pandemic — ONS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/homeworkingintheuklabourmarket)
+
 [Kickstarter datasets scraped en masse](https://webrobots.io/kickstarter-datasets/)
 
 [Livestock in Wales - last ten years](https://statswales.gov.wales/Catalogue/Agriculture/Agricultural-Survey/Annual-Survey-Results/total-livestock-in-wales-by-year)
@@ -36,6 +38,6 @@
 
 [UK business creation & demise up to 2020 3rd quarter — ONS](https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/businessdemographyquarterlyexperimentalstatisticsuk)
 
-[UK working from home by local authority](//www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
+[UK working from home by local authority](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
 
 [World mining datasets](https://doi.pangaea.de/10.1594/PANGAEA.910894)

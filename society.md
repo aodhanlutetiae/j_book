@@ -62,8 +62,6 @@
 
 [Sustainable Development Goals](https://sdg-tracker.org/)
 
-[Table & chair permits (exterior) in Edinburgh](https://www.edinburgh.gov.uk/licences-permits/view-existing-tables-chairs-permits/1)
-
 [UK: Overseas residents and UK residents abroad — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/travelandtourism)
 
 [Wales national survey 2020](https://gov.wales/national-survey-wales-results-viewer) and [here](https://gov.wales/national-survey-wales)
