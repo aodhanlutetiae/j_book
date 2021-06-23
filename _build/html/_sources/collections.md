@@ -14,13 +14,19 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Datassist: catalogue of different indexes available](https://docs.google.com/document/d/15BMSmaHGtR0hvhl80g32sfsJ-GhYjKAWSZJaUSA6iWQ/edit?mc_cid=9d475b8bdc&mc_eid=88c7f91a73)
 
+[Data commons— open sources for students & researchers](https://www.datacommons.org)
+
 [Data Is Plural: archive of data mentioned in email — J Singer-Vine](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 
 [Data Times](https://thedatatimes.com/)
 
+[European data journalism network (institutional datasets)](https://www.europeandatajournalism.eu/eng/Tools-for-journalists/Useful-data)
+
 [Get the data: Q&A forum for finding answers in or about data](http://getthedata.org/)
 
 [Google Bigquery datasets on Kaggle](https://www.kaggle.com/datasets?search=%23bigquery)
+
+[Guardian Data Blog: 1400 stories with data sources(2009-11)](https://docs.google.com/spreadsheets/d/14gdRgcb_4cIRWrIlJRHgWQDGRZczC1Vbn-Hz2TfBL0A/edit?usp=sharing)
 
 [Harvard University's data repository](https://dataverse.harvard.edu/)
 
@@ -71,6 +77,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [Stanford list of US datasets for journalists](http://www.padjo.org/datasets/)
 
 [Stats Wales catalogue](https://statswales.gov.wales/Catalogue)
+
+[UK data service (ESRI-funded collection of datasets)](https://www.ukdataservice.ac.uk/get-data)
 
 [UK govt reports on open data and government — Gavin Freeguard](https://docs.google.com/spreadsheets/d/1lbGnx9sD3eXuQaz0yV6XClznDLwfd3X4PHfhEbSXKIs/edit#gid=0)
 

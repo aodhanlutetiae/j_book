@@ -6,6 +6,8 @@
 
 [Drawings collected by Google for machine learning (50M)](https://github.com/googlecreativelab/quickdraw-dataset)
 
+[E.E. Cummings poetry (JSON & csv)](https://cummings.ee/downloads/)
+
 [Encyclopaedia Britannica – National Library of Scotland](https://data.nls.uk/data/digitised-collections/encyclopaedia-britannica/)
 
 [Eurfa Welsh Dictionary — Kaggle](https://www.kaggle.com/rtatman/eurfa-welsh-dictionary)
@@ -39,5 +41,7 @@
 [Tate collection](https://github.com/tategallery/collection)
 
 [Taylor Swift lyrics (all)](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-29/taylor_swift_lyrics.csv)
+
+[Twin Peaks coffee ('damn fine coffee')](https://data.world/judkacag/the-coffees-of-twin-peaks)
 
 [UK public monuments & sculptures](https://www.vads.ac.uk/digital/collection/PMSA/search)

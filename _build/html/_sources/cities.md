@@ -10,9 +10,11 @@
 
 [Bristol council monthly spends over £500](https://www.bristol.gov.uk/council-spending-performance/spending-over-500)
 
-[Cardiff street list](http://cardiff.streetmapof.co.uk/a/)
-
 [Cardiff 2015 list of CCTV  cameras (needs updating!)](https://www.whatdotheyknow.com/request/locations_of_fixed_cctv_camera_o)
+
+[Cardiff council: problems reported to the Fix My Street app](https://www.fixmystreet.com/reports/Cardiff?zoom=11&lat=51.46762&lon=-3.20633)
+
+[Cardiff street list](http://cardiff.streetmapof.co.uk/a/)
 
 [Electricity demand in India](https://dataverse.harvard.edu/dataverse/REDI)
 

@@ -24,6 +24,8 @@
 
 [Maps in Geojson from public: Geocommons (150K)](https://github.com/geoiq/gc_data) and [simple webpage list](http://geocommons.com/search.html)
 
+[Open UPRN - unique property reference number (OS)](https://www.ordnancesurvey.co.uk/business-government/products/open-uprn)
+
 [Placenames (11 million)](http://www.geonames.org/)
 
 [Population density in high resolution (facebook & humanitarian data exchange)](https://dataforgood.fb.com/docs/high-resolution-population-density-maps-demographic-estimates-documentation/#how-to-access-data) & [here (AWS)](https://registry.opendata.aws/dataforgood-fb-hrsl/)

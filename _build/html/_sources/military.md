@@ -4,6 +4,10 @@
 
 [Armed Conflict Location & Event Data](https://www.acleddata.com/)
 
+[Conflict data programme, Upsala](https://ucdp.uu.se/downloads/)
+
+[Conflict & arms data, Peace Research Institute Oslo](https://www.prio.org/Data/)
+
 [Global arms sales since 1950](https://www.sipri.org/databases/armstransfers)
 
 [Iraq war logs -- Wikileaks](https://wikileaks.org/irq/sort/type/friendly_fire_0.html)

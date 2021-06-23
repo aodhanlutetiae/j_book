@@ -4,6 +4,8 @@
 
 [Air quality In Wales](https://airquality.gov.wales/maps-data)
 
+[Air quality on Castle St, Cardiff](https://airquality.gov.wales/air-pollution/site/CAR04#siteinformation)
+
 [Air quality Network London](http://www.londonair.org.uk/london/asp/datadownload.asp)
 
 [Air pollution in India](https://data.gov.in/keywords/air-pollution)
@@ -29,6 +31,8 @@
 [Open Geography portal](http://geoportal.statistics.gov.uk/)
 
 [Plastic waste by country](https://advances.sciencemag.org/content/6/44/eabd0288/tab-figures-data)
+
+[Sea level data (global)](https://tidesandcurrents.noaa.gov/sltrends/sltrends_global.html)
 
 [Seismic data UK - British Geological Survey](http://www.earthquakes.bgs.ac.uk/helicorder/heli.html)
 

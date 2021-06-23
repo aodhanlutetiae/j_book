@@ -14,6 +14,10 @@
 
 [MIT's election data](https://electionlab.mit.edu/data)
 
+[Police deaths, 538](https://fivethirtyeight.datasettes.com/fivethirtyeight/police-deaths%2Fall_data) & [clean](https://fivethirtyeight.datasettes.com/fivethirtyeight/police-deaths%2Fclean_data)
+
+[Police killings, Washington Post (2015-21)](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/)
+
 [Postal Service weekly performance — how much mail got dealt with?](https://drive.google.com/drive/folders/1WIiUIu0PP_5D1j8R_-T7IN7kVWk9lvuj)
 
 [Princeton's guide to various US election data](https://libguides.princeton.edu/elections#s-lg-box-12629001)
