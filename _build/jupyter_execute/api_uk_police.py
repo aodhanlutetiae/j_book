@@ -5,39 +5,38 @@
 import requests
 
 import pandas as pd
-# pd.options.display.max_columns = 200
-
-## parameters
-
-    - Availability
-
-    Forces
-    Specific force
-    Force senior officers
-    
-    Street level crimes
-    Street level outcomes
-    Crimes at location
-    Crimes with no location
-    Crime categories
-    Last updated
-    Outcomes for a specific crime
-
-    Neighbourhoods
-    Specific neighbourhood
-    Neighbourhood boundary
-    Neighbourhood team
-    Neighbourhood events
-    Neighbourhood priorities
-    Locate neighbourhood
-
-    Stop and searches by area
-    - Stop and searches by location
-    Stop and searches with no location
-    Stop and searches by force
 
 
-## Availability -- last 3 years (36 months)
+### parameters
+
+- Forces
+- Specific force
+- Force senior officers
+
+- Street level crimes
+- Street level outcomes
+- Crimes at location
+- Crimes with no location
+- Crime categories
+- Last updated
+- Outcomes for a specific crime
+
+- Neighbourhoods
+- Specific neighbourhood
+- Neighbourhood boundary
+- Neighbourhood team
+- Neighbourhood events
+- Neighbourhood priorities
+- Locate neighbourhood
+
+- Stop and searches by area
+
+- Stop and searches by location
+- Stop and searches with no location
+- Stop and searches by force
+
+
+### Availability last 36 months
 
 # returns list of all available datasets
 
@@ -51,7 +50,7 @@ print(req.json()[35]['date'])
 # data from latest month
 print(req.json()[0]['date'])
 
-## Stop and search
+### Stop and search
 
 # send query via variables and f-string
 
@@ -67,7 +66,7 @@ print(query)
 req = requests.get(query)
 req
 
-req.json()
+req.json()[0]
 
 # query via assembled url (bicycle theft, April 2021)
 
@@ -78,17 +77,11 @@ req
 
 
 response = req.json()
-
 len(response)
-
-response
-
-# first item in the response
 
 response[0]
 
-## using 'params' argument to supply dictionary of arguments
-
+### 'params' as arguments dict
 
 
 endpoint = 'https://data.police.uk/api/stops-street?'
@@ -99,5 +92,5 @@ req
 
 response = req.json()
 
-response
+response[0]
 
