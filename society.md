@@ -24,6 +24,8 @@
 
 [Etymology database](http://etym.org/)
 
+[EU settlement applications](https://www.gov.uk/government/collections/eu-settlement-scheme-statistics) | [Note](https://blog.ons.gov.uk/2021/07/02/are-there-really-6m-eu-citizens-living-in-the-uk/)
+
 [Faith Survey | Irish Census (2016)](https://faithsurvey.co.uk/irish-census.html)
 
 [Free school meals in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Education-and-Skills/Schools-and-Teachers/Schools-Census/Pupil-Level-Annual-School-Census/Provision-of-Meals-and-Milk/pupilseligibleforfreeschoolmeals-by-localauthorityregion-year)
@@ -69,6 +71,8 @@
 [Wales national survey 2020](https://gov.wales/national-survey-wales-results-viewer) and [here](https://gov.wales/national-survey-wales)
 
 [Water points around the world](https://www.waterpointdata.org/access-data/)
+
+[Water fatalities UK — Water safety forum](https://www.nationalwatersafety.org.uk/waid/annual-reports-and-data)
 
 [Welsh language stats, year to June 2020](https://gov.wales/welsh-language-data-annual-population-survey-july-2019-june-2020)
 

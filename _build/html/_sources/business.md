@@ -12,7 +12,7 @@
 
 [Financial & economic datasets — Bank of England](https://www.bankofengland.co.uk/statistics/research-datasets)
 
-[Fincen files - glocal financial transactions -- ICIJ](https://www.icij.org/investigations/fincen-files/explore-the-fincen-files-data/)
+[Fincen files - global financial transactions -- ICIJ](https://www.icij.org/investigations/fincen-files/explore-the-fincen-files-data/)
 
 [German Companies (dataset on over 5 million)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
 

@@ -6,6 +6,8 @@
 
 [Contracts Finder (£10K+ govt contracts)](https://www.gov.uk/contracts-finder)
 
+[Councils underpaying home care workers: Bureau local investigation (2021)](https://docs.google.com/document/d/1W1x-rUu_B-Z0JPwQMJLfgYhk-JzQBD9LAR_NwGQfDBA/edit#)
+
 [Electoral Commission (elections & financing of)](http://search.electoralcommission.org.uk/?currentPage=0&rows=10&sort=AcceptedDate&order=desc&tab=1&et=pp&et=ppm&et=tp&et=perpar&et=rd&isIrishSourceYes=true&isIrishSourceNo=true&prePoll=false&postPoll=true&register=gb&register=ni&register=none&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)
 
 [Financial statements for UK public sector](https://www.gov.uk/government/collections/whole-of-government-accounts)

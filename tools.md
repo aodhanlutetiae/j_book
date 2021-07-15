@@ -6,6 +6,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [BBC News Labs](https://bbcnewslabs.co.uk) & [repo](https://github.com/BBC-News-Labs) | Tools built by the BBC's innovation lab
 
+[Bellingcat OSINT tools](https://github.com/bellingcat/) | Tools developed by or for Bellingcat for Open source investigations
+
 [Blacklight (The Markup)](https://themarkup.org/blacklight) | Real-time website privacy inspector
 
 [Casefinder (Caerphilly observer)](https://clwstwr.org.uk/projects/casefinder) | Search planning for Magistrates' Courts
@@ -28,11 +30,15 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Knight Lab](https://knightlab.northwestern.edu/projects/) | Tools from the Knight Lab at Northwestern University
 
-[Overview](https://www.overviewdocs.com/) | Search, visualise and review up to hundreds of thousands of documents
-
 [MapChecking](https://www.mapchecking.com) | Crowd size estimator - Security parameters currently broken
 
+[Newssniffer](https://www.newssniffer.co.uk/versions) | Monitor changes to online news articles
+
+[NY Times markup language 'Archie'](http://archieml.org) | Write and edit structured text to be rendered in web pages or interactive graphics (according to NYT)
+
 [OpenSpending](https://openspending.org/) | Search and analyse fiscal data that is public
+
+[Overview](https://www.overviewdocs.com/) | Search, visualise and review up to hundreds of thousands of documents
 
 [PANDA Project](http://pandaproject.net/) | Newsroom data journalism platform
 

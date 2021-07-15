@@ -10,6 +10,8 @@
 
 [Air pollution in India](https://data.gov.in/keywords/air-pollution)
 
+[Carbon footprint estimate per person in England (LSOA)](https://www.carbon.place/)
+
 [Climate Action Tracker](https://climateactiontracker.org/)
 
 [Climate change concern reaches record levels — Ipsos MORI](https://www.ipsos.com/ipsos-mori/en-uk/concern-about-climate-change-reaches-record-levels-half-now-very-concerned)
@@ -19,6 +21,8 @@
 [Dams database – Global Dam Watch](https://globaldamwatch.org/goodd/)
 
 [Disaster Datasets — Planet](https://www.planet.com/disasterdata/datasets/)
+
+[Energy performance of 21 million buildings, England & Wales](https://epc.opendatacommunities.org)
 
 [Google Earth Engine](https://earthengine.google.com/) & [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/)
 
@@ -40,6 +44,8 @@
 
 [UK & Ireland rainfall, 1677-1960](https://github.com/ed-hawkins/rainfall-rescue) with [background](https://twitter.com/ed_hawkins/status/1392758650201120771)
 
-[Water Conflict — World's Water](https://www.worldwater.org/water-conflict/)
+[Water — Transboundary Freshwater Dispute Database](https://transboundarywaters.science.oregonstate.edu/content/transboundary-freshwater-dispute-database)
+
+[Water Conflict — World's Water. 926 water-related conflicts](http://www.worldwater.org/conflict/list/)
 
 [Weather station historic data — Met Office](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data)
