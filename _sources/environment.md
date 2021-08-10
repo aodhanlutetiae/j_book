@@ -36,6 +36,8 @@
 
 [Plastic waste by country](https://advances.sciencemag.org/content/6/44/eabd0288/tab-figures-data)
 
+[Public perception of climate change, Autumn 2020 (UK)](https://www.gov.uk/government/publications/climate-change-and-net-zero-public-awareness-and-perceptions)
+
 [Sea level data (global)](https://tidesandcurrents.noaa.gov/sltrends/sltrends_global.html)
 
 [Seismic data UK - British Geological Survey](http://www.earthquakes.bgs.ac.uk/helicorder/heli.html)

@@ -26,9 +26,15 @@
 
 [Million song dataset (280GB)](http://millionsongdataset.com/)
 
+[New York Philharmonic performances, 1842-2020](https://data.world/popculture/new-york-philharmonic-performances)
+
+[Organs in Britain: National Pipe Organ Register (NPOR)](https://www.npor.org.uk/)
+
 [Profanity in Hip Hop — Sarah Bartlett](https://data.world/sarahlovesdata/profanity-in-hip-hop)
 
 [Project Gutenberg contents data](https://gutensearch.com/)
+
+[Rijksmuseum object metadata API](https://data.rijksmuseum.nl/object-metadata/api/)
 
 [Shakespeare & Co bookshop datasets](https://shakespeareandco.princeton.edu/about/data)
 

@@ -22,6 +22,8 @@
 
 [Illegal downloading in UK (report)](https://www.gov.uk/government/publications/online-copyright-infringement-tracker-survey-10th-wave/online-copyright-infringement-tracker-survey-10th-wave-executive-summary)
 
+[India's 2002 Gujarat riots — analysis of police via Times of India reports](https://github.com/slanglab/IndiaPoliceEvents)
+
 [Policing data UK](https://data.police.uk/data/&sa=D&source=editors&ust=1619805122952000&usg=AOvVaw0aJbfpbpVdku_HVXKoh1hV)
 
 [Police stop & search figures by ethnicity in UK](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest%23data-sources&sa=D&source=editors&ust=1619805122956000&usg=AOvVaw0wOia-soEgbVkKMy_KhaHm)
