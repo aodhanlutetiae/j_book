@@ -8,13 +8,15 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Bellingcat OSINT tools](https://github.com/bellingcat/) | Tools developed by or for Bellingcat for Open source investigations
 
-[Blacklight (The Markup)](https://themarkup.org/blacklight) | Real-time website privacy inspector
+[Blacklight (The Markup)](https://themarkup.org/blacklight) & [repo](https://github.com/the-markup/blacklight-collector) | Real-time website privacy inspector based in part on OpenWPM (see below)
 
 [Casefinder (Caerphilly observer)](https://clwstwr.org.uk/projects/casefinder) | Search planning for Magistrates' Courts
 
+[Code for democracy analysis tool](https://codefordemocracy.org/data/) | Browser-based tool for analysing US politics
+
 [DataKit (AP)](https://datakit.ap.org/) | Command line tool for managing news projects
 
-[Datasette](https://datasette.io/) &[YouTube talk](https://www.youtube.com/watch?v%3DpTr1uLQTJNE&sa=D) | Publish your data using this powerful framework
+[Datasette](https://datasette.io/) & [YouTube talk](https://www.youtube.com/watch?v%3DpTr1uLQTJNE&sa=D) | Publish your data using this powerful framework
 
 [Datashare (ICIJ)](https://icij.gitbook.io/datashare/) | Analyse, search, filter & sort documents
 
@@ -38,6 +40,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [OpenSpending](https://openspending.org/) | Search and analyse fiscal data that is public
 
+[OpenWPM](https://github.com/mozilla/OpenWPM) | Measure privacy levels on websites
+
 [Overview](https://www.overviewdocs.com/) | Search, visualise and review up to hundreds of thousands of documents
 
 [PANDA Project](http://pandaproject.net/) | Newsroom data journalism platform
@@ -51,3 +55,5 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 [Visualping](https://visualping.io/) | Monitor website changes
 
 [Vozdata (La nacion)](https://vozdata.lanacion.com.ar/cd/paso-buenos-aires) | Project using [Crowdata](https://crowdata.readthedocs.io/en/latest/) to turn pdfs into datasets
+
+[WebXray](https://github.com/timlib/webXray) | Analyse sites for trackers and cookies

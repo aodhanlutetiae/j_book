@@ -24,6 +24,8 @@
 
 [Machine Learning Projects: find open data | Kaggle](https://www.kaggle.com/datasets?sortBy=relevance&group=featured&search=tag%3A%27journalism%27)
 
+[Privacy on a million sites — Princeton web census on trackers](https://webtransparency.cs.princeton.edu/webcensus/data-release/)
+
 [Reddit votes - huge collection](https://www.kaggle.com/josephleake/huge-collection-of-reddit-votes/)
 
 [Warrants issued for people's iPhones in connection with crime](https://docs.google.com/spreadsheets/d/1Xmh1QEXYJmVPFlqAdEIVGemvbkoZmk_WyAPGC4eY-eE/edit#gid=0)

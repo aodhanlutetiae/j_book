@@ -16,7 +16,11 @@
 
 [Lobbying in the health sector — Transparence Santé](https://www.eurosfordocs.fr/explore/)
 
+[NHS data release register (what it's sharing with who)](https://digital.nhs.uk/services/data-access-request-service-dars/register-of-approved-data-releases) | See [FT story](https://www.ft.com/content/6f9f6f1f-e2d1-4646-b5ec-7d704e45149e)
+
 [NHS Informatics service for Wales](https://nwis.nhs.wales)
+
+[Pharmaceuticals sales and use in UK and rest of OECD](https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics/oecd-health-data-pharmaceutical-market_data-00545-en)
 
 [WHO Health data and statistics](https://www.who.int/healthinfo/statistics/en/)
 

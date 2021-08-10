@@ -4,6 +4,8 @@
 
 [Big Mac Index — The Economist](https://github.com/TheEconomist/big-mac-data)
 
+[Childcare costs in London](https://data.london.gov.uk/dataset/average-childcare-costs-in-london) [and across OECD](https://stats.oecd.org/Index.aspx?DataSetCode=NCC#)
+
 [Coins: what people have in their wallets (survey)](https://data.mendeley.com/datasets/f257j67ym6/2)
 
 [Companies House API](https://developer.companieshouse.gov.uk/api/docs/)
@@ -16,7 +18,9 @@
 
 [German Companies (dataset on over 5 million)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
 
-[UK homeworking during the pandemic — ONS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/homeworkingintheuklabourmarket)
+[Global companies (7 million +) — data.world](https://data.world/peopledatalabs/free-7-million-company-dataset)
+
+[Homeworking during the pandemic (UK)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/homeworkingintheuklabourmarket)
 
 [Kickstarter datasets scraped en masse](https://webrobots.io/kickstarter-datasets/)
 
@@ -34,7 +38,7 @@
 
 [Plastic bags (England charges for single-use)](https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england)
 
-[Global companies (7 million +) — data.world](https://data.world/peopledatalabs/free-7-million-company-dataset)
+[Restaurant spending via Revolut in pandemic (UK)](https://www.gov.uk/government/publications/revolut-restaurant-card-spending-data)
 
 [UK Land registry - who owns what?](https://use-land-property-data.service.gov.uk)
 

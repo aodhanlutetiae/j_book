@@ -1,12 +1,14 @@
 # Collections
 
-Lists of datasets released by journalists or governments or others.
+Lists and collections of datasets released by journalists or governments or others.
 
 [538: all story datasets](https://fivethirtyeight.datasettes.com/fivethirtyeight)
 
 [Accountability project](https://www.publicaccountability.org/)
 
 [BBC data unit: all story datasets](https://github.com/BBC-Data-Unit/shared-data-unit)
+
+[Bureau Local story data](https://www.thebureauinvestigates.com/local/open-resources)
 
 [Buzzfeed: all story datasets & analyses](https://github.com/BuzzFeedNews/everything#guides)
 
@@ -43,6 +45,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [JSON format datasets (random list)](https://github.com/jdorfman/awesome-json-datasets)
 
 [Makeover Monday](http://www.makeovermonday.co.uk/data/)
+
+[Ministry of Housing, Communities & Local government — data portal](https://opendatacommunities.org/home)
 
 [MIT: Knight Science Journalism dataset list](https://ksj.mit.edu/resource/data-journalism-tools/databases/)
 
