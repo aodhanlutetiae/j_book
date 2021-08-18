@@ -1,0 +1,837 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Open Charge Map API &#8212; Journalism, Data</title>
+    
+  <link rel="stylesheet" href="_static/css/index.f658d18f9b420779cfdf24aa0a7e2d77.css">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/sphinx-book-theme.e7340bb3dbd8dde6db86f25597f54a1b.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="_static/js/index.d3f166471bb80abb5163.js">
+
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/togglebutton.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/sphinx-book-theme.7d483ff0a819d6edff12ce0b1ead3928.js"></script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="author" title="About these documents" href="about.html" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Tools" href="tools.html" />
+    <link rel="prev" title="UK police API" href="api_uk_police.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="index.html">
+  
+  <img src="_static/jomec_logo.png" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Journalism, Data</h1>
+  
+</a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="intro.html">
+   Intro
+  </a>
+ </li>
+</ul>
+<ul class="current nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="monitoring.html">
+   Monitoring
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="collections.html">
+   Collections
+  </a>
+ </li>
+ <li class="toctree-l1 collapsible-parent">
+  <a class="reference internal" href="data.html">
+   Lists of datasets
+  </a>
+  <ul class="collapse-ul">
+   <li class="toctree-l2">
+    <a class="reference internal" href="arts.html">
+     Arts &amp; Culture
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="business.html">
+     Business &amp; Finance
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="cities.html">
+     Cities
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="crime.html">
+     Crime
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="education.html">
+     Education
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="environment.html">
+     Environment
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="health.html">
+     Health
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="journalism.html">
+     Journalism
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="misc.html">
+     Misc
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="politics.html">
+     Politics
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="politics_us.html">
+     Politics (US)
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="religion.html">
+     Religion
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="mapping.html">
+     Mapping
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="military.html">
+     Military
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="society.html">
+     Society
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="sport.html">
+     Sport &amp; gaming
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="tech.html">
+     Tech &amp; IT
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="transport.html">
+     Transport
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="ukgov.html">
+     UK government
+    </a>
+   </li>
+  </ul>
+  <i class="fas fa-chevron-down">
+  </i>
+ </li>
+ <li class="toctree-l1 current active collapsible-parent">
+  <a class="reference internal" href="analysis.html">
+   Notebooks
+  </a>
+  <ul class="current collapse-ul">
+   <li class="toctree-l2">
+    <a class="reference internal" href="api_uk_police.html">
+     UK police API
+    </a>
+   </li>
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     Open Charge Map API
+    </a>
+   </li>
+  </ul>
+  <i class="fas fa-chevron-down">
+  </i>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="tools.html">
+   Tools
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="about.html">
+   About
+  </a>
+ </li>
+</ul>
+
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="_sources/api_openchargemap.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.ipynb</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/executablebooks/jupyter-book"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Fapi_openchargemap.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        
+    </div>
+</div>
+
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+            <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                    data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                    title="Fullscreen mode"><i
+                        class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Launch interactive content"><i class="fas fa-rocket"></i></button>
+    <div class="dropdown-buttons">
+        
+        <a class="binder-button" href="https://mybinder.org/v2/gh/executablebooks/jupyter-book/master?urlpath=tree/docs/api_openchargemap.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Launch Binder" data-toggle="tooltip"
+                data-placement="left"><img class="binder-button-logo"
+                    src="_static/images/logo_binder.svg"
+                    alt="Interact on binder">Binder</button></a>
+        
+        
+        
+        
+    </div>
+</div>
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i>
+            Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#entries-from-the-uk">
+   200 entries from the UK
+  </a>
+ </li>
+</ul>
+
+        </nav>
+        
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="open-charge-map-api">
+<h1>Open Charge Map API<a class="headerlink" href="#open-charge-map-api" title="Permalink to this headline">¶</a></h1>
+<blockquote>
+<div><p>documentation: <a class="reference external" href="https://openchargemap.org/site/develop/api">https://openchargemap.org/site/develop/api</a></p>
+</div></blockquote>
+<blockquote>
+<div><p>forum: <a class="reference external" href="https://community.openchargemap.org/">https://community.openchargemap.org/</a></p>
+</div></blockquote>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">requests</span>
+<span class="kn">import</span> <span class="nn">collections</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># assign API key to variable</span>
+
+<span class="n">ocm_key</span> <span class="o">=</span> <span class="s1">&#39;****&#39;</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># test query for GB (Great Britain), 100 results, as single url</span>
+
+<span class="n">call</span> <span class="o">=</span> <span class="s1">&#39;https://api.openchargemap.io/v3/poi/?key=ocm_key&amp;output=json&amp;countrycode=GB&amp;maxresults=100&amp;compact=true&amp;verbose=false&#39;</span>
+<span class="n">req</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">call</span><span class="p">)</span>
+<span class="n">req</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;Response [200]&gt;
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># all charging points in a 20 mile radius from Jomec</span>
+
+<span class="n">params</span> <span class="o">=</span> <span class="p">{</span><span class="s2">&quot;key&quot;</span><span class="p">:</span> <span class="n">ocm_key</span><span class="p">,</span>
+          <span class="s2">&quot;countrycode&quot;</span><span class="p">:</span> <span class="s2">&quot;GB&quot;</span><span class="p">,</span> 
+          <span class="s2">&quot;output&quot;</span><span class="p">:</span> <span class="s2">&quot;json&quot;</span><span class="p">,</span> 
+          <span class="s2">&quot;latitude&quot;</span><span class="p">:</span> <span class="mf">51.476629314550514</span><span class="p">,</span> 
+          <span class="s2">&quot;longitude&quot;</span><span class="p">:</span> <span class="o">-</span><span class="mf">3.1808810080300978</span><span class="p">,</span> 
+          <span class="s2">&quot;distance&quot;</span><span class="p">:</span><span class="mi">20</span><span class="p">,</span>
+          <span class="s2">&quot;distanceunit&quot;</span><span class="p">:</span> <span class="s1">&#39;Miles&#39;</span><span class="p">,</span>
+          <span class="s2">&quot;compact&quot;</span><span class="p">:</span> <span class="kc">True</span><span class="p">,</span> 
+          <span class="s2">&quot;verbose&quot;</span><span class="p">:</span> <span class="kc">False</span><span class="p">,</span> 
+          <span class="s2">&quot;maxresults&quot;</span><span class="p">:</span> <span class="mi">2_000</span><span class="p">}</span>
+
+<span class="n">endpoint</span> <span class="o">=</span> <span class="s1">&#39;https://api.openchargemap.io/v3/poi/?&#39;</span>
+
+<span class="n">req</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">endpoint</span><span class="p">,</span> <span class="n">params</span> <span class="o">=</span> <span class="n">params</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">req</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;Response [200]&gt;
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># how many items were returned?</span>
+
+<span class="nb">len</span><span class="p">(</span><span class="n">req</span><span class="o">.</span><span class="n">json</span><span class="p">())</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>134
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># assign to variable and examine first item</span>
+
+<span class="n">data</span> <span class="o">=</span> <span class="n">req</span><span class="o">.</span><span class="n">json</span><span class="p">()</span>
+<span class="n">data</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>{&#39;IsRecentlyVerified&#39;: False,
+ &#39;ID&#39;: 88787,
+ &#39;UUID&#39;: &#39;FED58EBC-4C2B-4D67-B13F-8B2ADA11FC1C&#39;,
+ &#39;DataProviderID&#39;: 1,
+ &#39;OperatorID&#39;: 23,
+ &#39;OperatorsReference&#39;: &#39;30531&#39;,
+ &#39;UsageTypeID&#39;: 4,
+ &#39;AddressInfo&#39;: {&#39;ID&#39;: 89133,
+  &#39;Title&#39;: &quot;St David&#39;s Shopping Centre&quot;,
+  &#39;AddressLine1&#39;: &quot;St David&#39;s Shopping Centre Bridge Street Arcade&quot;,
+  &#39;StateOrProvince&#39;: &#39;Cardiff&#39;,
+  &#39;Postcode&#39;: &#39;CF10 2EQ&#39;,
+  &#39;CountryID&#39;: 1,
+  &#39;Latitude&#39;: 51.479103,
+  &#39;Longitude&#39;: -3.174819,
+  &#39;ContactTelephone1&#39;: &#39;+44 292 036 7650&#39;,
+  &#39;Distance&#39;: 0.31188723957969405,
+  &#39;DistanceUnit&#39;: 2},
+ &#39;Connections&#39;: [{&#39;ID&#39;: 126035,
+   &#39;ConnectionTypeID&#39;: 30,
+   &#39;StatusTypeID&#39;: 50,
+   &#39;LevelID&#39;: 2,
+   &#39;Amps&#39;: 32,
+   &#39;Voltage&#39;: 230,
+   &#39;PowerKW&#39;: 13.0,
+   &#39;CurrentTypeID&#39;: 20,
+   &#39;Quantity&#39;: 2}],
+ &#39;NumberOfPoints&#39;: 2,
+ &#39;GeneralComments&#39;: &#39;2 Tesla Connectors, up to 13kW.Available for customers. Self park.&#39;,
+ &#39;StatusTypeID&#39;: 50,
+ &#39;DateLastStatusUpdate&#39;: &#39;2018-10-03T15:07:00Z&#39;,
+ &#39;DataQualityLevel&#39;: 1,
+ &#39;DateCreated&#39;: &#39;2017-06-09T13:39:00Z&#39;,
+ &#39;SubmissionStatusTypeID&#39;: 200}
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># assemble list of postcodes</span>
+
+<span class="n">pc_list</span> <span class="o">=</span> <span class="p">[]</span>
+
+<span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">data</span><span class="p">:</span>
+    
+    <span class="n">pc</span> <span class="o">=</span> <span class="n">x</span><span class="p">[</span><span class="s1">&#39;AddressInfo&#39;</span><span class="p">][</span><span class="s1">&#39;Postcode&#39;</span><span class="p">]</span>
+    <span class="n">pc_list</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">pc</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">pc_list</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>134
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># 20 mile radius reaches over to Bristol - bit far!</span>
+
+<span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">pc_list</span><span class="p">:</span>
+    <span class="k">if</span> <span class="n">x</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">&#39;BS&#39;</span><span class="p">)</span> <span class="o">==</span> <span class="kc">True</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>BS22 9UH
+BS23 1JP
+BS23 1UA
+BS23 1UA
+BS23 3PT
+BS23 3YN
+BS23 3YX
+BS22 6AQ
+BS21 7RH
+BS21 7TU
+BS21 6RR
+BS24 8EE
+BS24 7DX
+BS21 6LH
+BS22 7XN
+BS22 6DB
+BS20 8JJ
+BS49 5AD
+BS49 5AD
+BS240JB
+BS20 7DB
+BS20 7DE
+BS20 7GD
+BS24 0JL
+BS26 2UF
+BS48 4AH
+BS48 1AQ
+BS20 7TN
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># how many postcodes are CF, Cardiff?</span>
+        
+<span class="nb">len</span><span class="p">([</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">pc_list</span> <span class="k">if</span> <span class="n">x</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">&#39;CF&#39;</span><span class="p">)</span> <span class="o">==</span> <span class="kc">True</span><span class="p">])</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>68
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="entries-from-the-uk">
+<h2>200 entries from the UK<a class="headerlink" href="#entries-from-the-uk" title="Permalink to this headline">¶</a></h2>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">params</span> <span class="o">=</span> <span class="p">{</span><span class="s2">&quot;key&quot;</span><span class="p">:</span> <span class="n">ocm_key</span><span class="p">,</span>
+          <span class="s2">&quot;countrycode&quot;</span><span class="p">:</span> <span class="s2">&quot;GB&quot;</span><span class="p">,</span> 
+          <span class="s2">&quot;output&quot;</span><span class="p">:</span> <span class="s2">&quot;json&quot;</span><span class="p">,</span> 
+          <span class="s2">&quot;compact&quot;</span><span class="p">:</span> <span class="kc">True</span><span class="p">,</span> 
+          <span class="s2">&quot;verbose&quot;</span><span class="p">:</span> <span class="kc">False</span><span class="p">,</span> 
+          <span class="s2">&quot;maxresults&quot;</span><span class="p">:</span> <span class="mi">200</span><span class="p">}</span>
+
+<span class="n">endpoint</span> <span class="o">=</span> <span class="s1">&#39;https://api.openchargemap.io/v3/poi/?&#39;</span>
+
+<span class="n">req</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">endpoint</span><span class="p">,</span> <span class="n">params</span> <span class="o">=</span> <span class="n">params</span><span class="p">)</span>
+<span class="n">data</span> <span class="o">=</span> <span class="n">req</span><span class="o">.</span><span class="n">json</span><span class="p">()</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">req</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;Response [200]&gt;
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># empty lists to collect cities, and postcodes (and the IDs of problem entries)</span>
+
+<span class="n">city_list</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="n">pc_list</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="n">problem_list</span> <span class="o">=</span> <span class="p">[]</span>
+
+<span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">data</span><span class="p">:</span>
+    
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">town</span> <span class="o">=</span> <span class="n">x</span><span class="p">[</span><span class="s1">&#39;AddressInfo&#39;</span><span class="p">][</span><span class="s1">&#39;Town&#39;</span><span class="p">]</span>
+        <span class="n">pc</span> <span class="o">=</span> <span class="n">x</span><span class="p">[</span><span class="s1">&#39;AddressInfo&#39;</span><span class="p">][</span><span class="s1">&#39;Postcode&#39;</span><span class="p">]</span>
+
+        <span class="n">city_list</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">town</span><span class="p">)</span>
+        <span class="n">pc_list</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">pc</span><span class="p">)</span>
+    
+    <span class="k">except</span><span class="p">:</span>
+        <span class="n">problem_list</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">x</span><span class="p">[</span><span class="s1">&#39;ID&#39;</span><span class="p">])</span>
+        <span class="k">pass</span>
+
+<span class="c1"># build a frequency distribution dictionary for cities, then postcodes</span>
+<span class="n">counter</span> <span class="o">=</span> <span class="n">collections</span><span class="o">.</span><span class="n">Counter</span><span class="p">(</span><span class="n">city_list</span><span class="p">)</span>
+<span class="n">city_freq_dict</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span><span class="n">counter</span><span class="p">)</span>
+
+<span class="n">counter</span> <span class="o">=</span> <span class="n">collections</span><span class="o">.</span><span class="n">Counter</span><span class="p">(</span><span class="n">pc_list</span><span class="p">)</span>
+<span class="n">pc_freq_dict</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span><span class="n">counter</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># check the number of towns and postcodes gathered, from the 200 entries</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">city_list</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">pc_list</span><span class="p">))</span>
+
+<span class="c1"># and the number of problems</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">problem_list</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>200
+200
+0
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># from a (not at all random) sample of 200 entries, how are UK cities represented?</span>
+
+<span class="nb">dict</span><span class="p">(</span><span class="nb">sorted</span><span class="p">(</span><span class="n">city_freq_dict</span><span class="o">.</span><span class="n">items</span><span class="p">(),</span> <span class="n">key</span><span class="o">=</span><span class="k">lambda</span> <span class="n">item</span><span class="p">:</span> <span class="n">item</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="n">reverse</span> <span class="o">=</span> <span class="kc">True</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>{&#39;Coventry&#39;: 23,
+ &#39;Carlisle&#39;: 9,
+ &#39;Leicester&#39;: 6,
+ &#39;Lancaster&#39;: 5,
+ &#39;Leeds&#39;: 5,
+ &#39;Chester&#39;: 4,
+ &#39;Dundee&#39;: 3,
+ &#39;South Shields&#39;: 3,
+ &#39;Sunderland&#39;: 3,
+ &#39;Isle of Man&#39;: 3,
+ &#39;York&#39;: 3,
+ &#39;Wigston&#39;: 3,
+ &#39;Amesbury&#39;: 2,
+ &#39;Fife&#39;: 2,
+ &#39;Glasgow&#39;: 2,
+ &#39;Newcastle&#39;: 2,
+ &#39;Newcastle upon Tyne&#39;: 2,
+ &#39;Newcastle Upon Tyne&#39;: 2,
+ &#39;County Durham&#39;: 2,
+ &#39;Penrith&#39;: 2,
+ &#39;North Yorkshire&#39;: 2,
+ &#39;Malton&#39;: 2,
+ &#39;Sheffield&#39;: 2,
+ &#39;Frodsham&#39;: 2,
+ &#39;Ellesmere Port&#39;: 2,
+ &#39;Galway&#39;: 2,
+ &#39;Northwich&#39;: 2,
+ &#39;Crewe&#39;: 2,
+ &#39;Nottingham&#39;: 2,
+ &#39;Telford&#39;: 2,
+ &#39;Peterborough&#39;: 2,
+ &#39;Hinckley&#39;: 2,
+ &#39;Birmingham&#39;: 2,
+ &#39;Wealden&#39;: 1,
+ &#39;Southampton&#39;: 1,
+ &#39;Coupar Angus&#39;: 1,
+ &#39;Landford&#39;: 1,
+ &#39;Falkirk&#39;: 1,
+ &#39;Reading&#39;: 1,
+ &#39;Bainsford&#39;: 1,
+ &#39;London&#39;: 1,
+ &#39;Edinburgh&#39;: 1,
+ &#39;Midlothain&#39;: 1,
+ &#39;Motherwell&#39;: 1,
+ &#39;Kilmarnock&#39;: 1,
+ &#39;Northumberland&#39;: 1,
+ &#39;Hebburn&#39;: 1,
+ &#39;Jarrow&#39;: 1,
+ &#39;East Boldon&#39;: 1,
+ &#39;Hartlepool&#39;: 1,
+ &#39;Middlesbrough&#39;: 1,
+ &#39;Whitby&#39;: 1,
+ &#39;Cumbria&#39;: 1,
+ &#39;Ramsey&#39;: 1,
+ &#39;Sedbergh&#39;: 1,
+ &#39;Millom&#39;: 1,
+ &#39;Pickering&#39;: 1,
+ &#39;Hovingham&#39;: 1,
+ &#39;Craven&#39;: 1,
+ &#39;Douglas&#39;: 1,
+ &#39;Barrow-in-Furness&#39;: 1,
+ &#39;Ballasalla&#39;: 1,
+ &#39;Port Erin&#39;: 1,
+ &#39;Port St Mary&#39;: 1,
+ &#39;Morecambe&#39;: 1,
+ &#39;Heysham&#39;: 1,
+ &#39;Hull&#39;: 1,
+ &#39;Blackpool&#39;: 1,
+ &#39;Selby&#39;: 1,
+ &#39;Cottingham&#39;: 1,
+ &#39;Mellor&#39;: 1,
+ &#39;Hedon&#39;: 1,
+ &#39;Bradford&#39;: 1,
+ &#39;Batley&#39;: 1,
+ &#39;Rossendale&#39;: 1,
+ &#39;Dewsbury&#39;: 1,
+ &#39;Wakefield&#39;: 1,
+ &#39;Southport&#39;: 1,
+ &#39;Bolton&#39;: 1,
+ &#39;Wigan&#39;: 1,
+ &#39;Liverpool&#39;: 1,
+ &#39;Manchester&#39;: 1,
+ &#39;Saint Helens&#39;: 1,
+ &#39;Birchwood&#39;: 1,
+ &#39;Prescot&#39;: 1,
+ &#39;Rotherham&#39;: 1,
+ &#39;Worksop&#39;: 1,
+ &#39;Neston&#39;: 1,
+ &#39;Co. Dublin&#39;: 1,
+ &#39;Dublin&#39;: 1,
+ &#39;Macclesfield&#39;: 1,
+ &#39;Lincolnshire&#39;: 1,
+ &#39;Holmes Chapel&#39;: 1,
+ &#39;Tattenhall&#39;: 1,
+ &#39;Hardstoft&#39;: 1,
+ &#39;Nantwich&#39;: 1,
+ &#39;Wells-next-the-Sea&#39;: 1,
+ &#39;Beeston Regis&#39;: 1,
+ &#39;Langham&#39;: 1,
+ &#39;Cromer&#39;: 1,
+ &#39;Grantham&#39;: 1,
+ &#39;Holt&#39;: 1,
+ &#39;Gwynedd&#39;: 1,
+ &#39;Stone&#39;: 1,
+ &#39;Castle Donington,&#39;: 1,
+ &#39;Stafford&#39;: 1,
+ &#39;Fakenham&#39;: 1,
+ &#39;North Walsham&#39;: 1,
+ &#39;Bourne&#39;: 1,
+ &#39;Thringstone&#39;: 1,
+ &#39;Coalville,&#39;: 1,
+ &#39;Hoveton&#39;: 1,
+ &#39;Cannock&#39;: 1,
+ &#39;Lichfield&#39;: 1,
+ &#39;Stamford&#39;: 1,
+ &#39;Norwich&#39;: 1,
+ &#39;Great Yarmouth&#39;: 1,
+ &#39;Bilston&#39;: 1,
+ &#39;Nuneaton&#39;: 1,
+ &#39;Halesowen&#39;: 1,
+ &#39;Kinver&#39;: 1}
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        
+        <div class='prev-next-bottom'>
+            
+    <a class='left-prev' id="prev-link" href="api_uk_police.html" title="previous page">UK police API</a>
+    <a class='right-next' id="next-link" href="tools.html" title="next page">Tools</a>
+
+        </div>
+        
+        </div>
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Aidan O'Donnell<br/>
+        
+            &copy; Copyright 2021.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="_static/js/index.d3f166471bb80abb5163.js"></script>
+
+
+    
+  </body>
+</html>

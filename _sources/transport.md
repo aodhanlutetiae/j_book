@@ -28,6 +28,8 @@
 
 [Naptan: 'most popular dataset you've never heard of'](https://dftdigital.blog.gov.uk/2020/07/06/naptan-the-most-popular-dataset-youve-never-heard-of/)
 
+[Open Charge Map (API)](https://openchargemap.org/site/develop#api)
+
 [Parking Tickets Chicago — ProPublica](https://www.propublica.org/datastore/dataset/chicago-parking-ticket-data)
 
 [Rail & road office UK — ORR](https://dataportal.orr.gov.uk/)
