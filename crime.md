@@ -16,6 +16,8 @@
 
 [EU laws (140K) — Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId%3Ddoi:10.7910/DVN/0EGYWY&sa=D&source=editors&ust=1619805122953000&usg=AOvVaw2rgBMybUup78UuK5rFLr2e)
 
+[Firearms offences](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/offencesinvolvingtheuseofweaponsdatatables)
+
 [Hate Crime data — HateLab](https://hatelab.net/data/&sa=D&source=editors&ust=1619805122953000&usg=AOvVaw0d2-pBGE7WLbZQuWwJKLl7)
 
 [Human trafficking victims (48K) — Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/&sa=D&source=editors&ust=1619805122954000&usg=AOvVaw1_7P21K7AbQs5n4_O6T_1X)

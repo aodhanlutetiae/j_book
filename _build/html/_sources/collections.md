@@ -68,6 +68,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Paris Tech: random datasets — James Eagan](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets)
 
+[Parliamentary data hub](https://explore.data.parliament.uk/)
+
 [Propublica: story datasets](https://www.propublica.org/datastore/datasets) with [APIs](https://www.propublica.org/datastore/apis)
 
 [Pudding: all story datasets](https://github.com/the-pudding/data)

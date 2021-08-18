@@ -24,6 +24,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Follow That Page](https://www.followthatpage.com) | Sends you an email when a webpage changes
 
+[Geocoder (batch) for journalists](https://geocode.localfocus.nl/) | "Locations to coordinates at rocket speed"
+
 [Google Journalist Studio](https://journaliststudio.google.com/) | Google tools for reporting, including [Pinpoint](https://journaliststudio.google.com/pinpoint/collections) for mass analysis of documents
 
 [Harvester (AP)](https://harvester.ap.org) & [presentation](https://vimeo.com/520123772/2a3edddf19) & [repo](https://github.com/associatedpress/harvester) | Newsroom platform for collecting data

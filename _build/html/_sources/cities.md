@@ -14,6 +14,8 @@
 
 [Cardiff council: problems reported to the Fix My Street app](https://www.fixmystreet.com/reports/Cardiff?zoom=11&lat=51.46762&lon=-3.20633)
 
+[Cardiff council: mapping of services via 'Ishare' (includes CCTV)](http://ishare.cardiff.gov.uk/)
+
 [Cardiff street list](http://cardiff.streetmapof.co.uk/a/)
 
 [Electricity demand in India](https://dataverse.harvard.edu/dataverse/REDI)

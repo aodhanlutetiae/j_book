@@ -20,6 +20,8 @@
 
 [Deprivation Index in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation)
 
+[Dog breed statistics — The Kennel Club](https://www.thekennelclub.org.uk/media-centre/breed-registration-statistics)
+
 [Empty homes in England](https://www.actiononemptyhomes.org/facts-and-figures)
 
 [Etymology database](http://etym.org/)
