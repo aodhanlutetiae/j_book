@@ -22,6 +22,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Data Times](https://thedatatimes.com/)
 
+[Department for Transport](https://www.gov.uk/government/organisations/department-for-transport/about/statistics)
+
 [European data journalism network (institutional datasets)](https://www.europeandatajournalism.eu/eng/Tools-for-journalists/Useful-data)
 
 [Get the data: Q&A forum for finding answers in or about data](http://getthedata.org/)

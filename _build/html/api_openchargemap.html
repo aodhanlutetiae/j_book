@@ -335,21 +335,6 @@
         <!-- Table of contents -->
         <div class="d-none d-md-block col-md-2 bd-toc show">
             
-        <div class="tocsection onthispage pt-5 pb-3">
-            <i class="fas fa-list"></i>
-            Contents
-        </div>
-        <nav id="bd-toc-nav">
-            <ul class="nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#entries-from-the-uk">
-   200 entries from the UK
-  </a>
- </li>
-</ul>
-
-        </nav>
-        
         </div>
     </div>
 </div>
@@ -567,11 +552,11 @@ BS20 7TN
 </div>
 </div>
 </div>
-<div class="section" id="entries-from-the-uk">
-<h2>200 entries from the UK<a class="headerlink" href="#entries-from-the-uk" title="Permalink to this headline">¶</a></h2>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">params</span> <span class="o">=</span> <span class="p">{</span><span class="s2">&quot;key&quot;</span><span class="p">:</span> <span class="n">ocm_key</span><span class="p">,</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Try 200 queries on the UK</span>
+
+<span class="n">params</span> <span class="o">=</span> <span class="p">{</span><span class="s2">&quot;key&quot;</span><span class="p">:</span> <span class="n">ocm_key</span><span class="p">,</span>
           <span class="s2">&quot;countrycode&quot;</span><span class="p">:</span> <span class="s2">&quot;GB&quot;</span><span class="p">,</span> 
           <span class="s2">&quot;output&quot;</span><span class="p">:</span> <span class="s2">&quot;json&quot;</span><span class="p">,</span> 
           <span class="s2">&quot;compact&quot;</span><span class="p">:</span> <span class="kc">True</span><span class="p">,</span> 
@@ -636,9 +621,9 @@ BS20 7TN
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>200
-200
-0
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>198
+198
+2
 </pre></div>
 </div>
 </div>
@@ -652,18 +637,27 @@ BS20 7TN
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>{&#39;Coventry&#39;: 23,
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>{&#39;London&#39;: 9,
  &#39;Carlisle&#39;: 9,
- &#39;Leicester&#39;: 6,
+ &#39;Elton&#39;: 7,
+ &#39;Manchester&#39;: 7,
+ &#39;Helmsley&#39;: 5,
+ &#39;York&#39;: 5,
  &#39;Lancaster&#39;: 5,
  &#39;Leeds&#39;: 5,
+ &#39;Whitby&#39;: 4,
+ &#39;Ryedale&#39;: 4,
  &#39;Chester&#39;: 4,
+ &#39;Wycombe&#39;: 3,
+ &#39;Malton&#39;: 3,
+ &#39;Penrith&#39;: 3,
  &#39;Dundee&#39;: 3,
  &#39;South Shields&#39;: 3,
  &#39;Sunderland&#39;: 3,
  &#39;Isle of Man&#39;: 3,
- &#39;York&#39;: 3,
- &#39;Wigston&#39;: 3,
+ &#39;Gloucester&#39;: 2,
+ &#39;Norwich&#39;: 2,
+ &#39;Chichester&#39;: 2,
  &#39;Amesbury&#39;: 2,
  &#39;Fife&#39;: 2,
  &#39;Glasgow&#39;: 2,
@@ -671,9 +665,7 @@ BS20 7TN
  &#39;Newcastle upon Tyne&#39;: 2,
  &#39;Newcastle Upon Tyne&#39;: 2,
  &#39;County Durham&#39;: 2,
- &#39;Penrith&#39;: 2,
  &#39;North Yorkshire&#39;: 2,
- &#39;Malton&#39;: 2,
  &#39;Sheffield&#39;: 2,
  &#39;Frodsham&#39;: 2,
  &#39;Ellesmere Port&#39;: 2,
@@ -681,10 +673,8 @@ BS20 7TN
  &#39;Northwich&#39;: 2,
  &#39;Crewe&#39;: 2,
  &#39;Nottingham&#39;: 2,
- &#39;Telford&#39;: 2,
- &#39;Peterborough&#39;: 2,
- &#39;Hinckley&#39;: 2,
- &#39;Birmingham&#39;: 2,
+ &#39;Worcester&#39;: 1,
+ &#39;City of Edinburgh&#39;: 1,
  &#39;Wealden&#39;: 1,
  &#39;Southampton&#39;: 1,
  &#39;Coupar Angus&#39;: 1,
@@ -692,7 +682,6 @@ BS20 7TN
  &#39;Falkirk&#39;: 1,
  &#39;Reading&#39;: 1,
  &#39;Bainsford&#39;: 1,
- &#39;London&#39;: 1,
  &#39;Edinburgh&#39;: 1,
  &#39;Midlothain&#39;: 1,
  &#39;Motherwell&#39;: 1,
@@ -703,7 +692,6 @@ BS20 7TN
  &#39;East Boldon&#39;: 1,
  &#39;Hartlepool&#39;: 1,
  &#39;Middlesbrough&#39;: 1,
- &#39;Whitby&#39;: 1,
  &#39;Cumbria&#39;: 1,
  &#39;Ramsey&#39;: 1,
  &#39;Sedbergh&#39;: 1,
@@ -733,7 +721,6 @@ BS20 7TN
  &#39;Bolton&#39;: 1,
  &#39;Wigan&#39;: 1,
  &#39;Liverpool&#39;: 1,
- &#39;Manchester&#39;: 1,
  &#39;Saint Helens&#39;: 1,
  &#39;Birchwood&#39;: 1,
  &#39;Prescot&#39;: 1,
@@ -760,21 +747,10 @@ BS20 7TN
  &#39;Stafford&#39;: 1,
  &#39;Fakenham&#39;: 1,
  &#39;North Walsham&#39;: 1,
+ &#39;Wigston&#39;: 1,
  &#39;Bourne&#39;: 1,
- &#39;Thringstone&#39;: 1,
- &#39;Coalville,&#39;: 1,
- &#39;Hoveton&#39;: 1,
- &#39;Cannock&#39;: 1,
- &#39;Lichfield&#39;: 1,
- &#39;Stamford&#39;: 1,
- &#39;Norwich&#39;: 1,
- &#39;Great Yarmouth&#39;: 1,
- &#39;Bilston&#39;: 1,
- &#39;Nuneaton&#39;: 1,
- &#39;Halesowen&#39;: 1,
- &#39;Kinver&#39;: 1}
+ &#39;Thringstone&#39;: 1}
 </pre></div>
-</div>
 </div>
 </div>
 </div>

@@ -2,11 +2,11 @@
 
 [Accidents on UK roads ](https://www.gov.uk/government/collections/road-accidents-and-safety-statistics)
 
+[Accident locator UK](https://www.crashmap.co.uk/)
+
 [Bicycle Cities Index 2019 — commercial rather than scientific survey](https://coya.com/bike/index-2019)
 
 [Cardiff potholes](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
-
-[Cardiff traffic flow](https://roadtraffic.dft.gov.uk/local-authorities/19)
 
 [Car parks in Great Britain — 2015](https://data.gov.uk/dataset/7e7ef556-4173-4dcb-8eef-8ddde4e3824d/car-parks)
 
@@ -26,6 +26,8 @@
 
 [Electric vehicle charging sessions (4K)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NFPQLW)
 
+[HGV drivers from UK and EU over six years](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/adhocs/13633hgvdriversbynationality)
+
 [Naptan: 'most popular dataset you've never heard of'](https://dftdigital.blog.gov.uk/2020/07/06/naptan-the-most-popular-dataset-youve-never-heard-of/)
 
 [Open Charge Map (API)](https://openchargemap.org/site/develop#api)
@@ -34,11 +36,13 @@
 
 [Rail & road office UK — ORR](https://dataportal.orr.gov.uk/)
 
-[Road traffic statistics UK](https://www.gov.uk/government/statistical-data-sets/road-traffic-statistics-tra)
+[Road traffic statistics UK — cars, bicycles & HGVs](https://www.gov.uk/government/statistical-data-sets/road-traffic-statistics-tra)
+
+[Road traffic statistics - Cardiff](https://roadtraffic.dft.gov.uk/local-authorities/19)
 
 [Roundabouts in Europe and the US](https://www.dropbox.com/sh/4zg8kb5tziq6z0r/AACoqXHHmzsQzzc5oKOf0QNna?dl=0)
 
-[Station usage in the UK](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/) [2018-19 file here](https://dataportal.orr.gov.uk/media/1669/time-series-of-estimates-of-station-usage-1997-98-to-2018-19.xlsx)
+[Station usage in the UK](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/)
 
 [Trains (passenger) crossing European borders](https://docs.google.com/spreadsheets/d/12deGLMuX3u-mUaHGlLT0-TXIGZnQ-NILCt6NRA4s0pU/edit#gid=588529542)
 

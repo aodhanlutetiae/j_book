@@ -2,6 +2,8 @@
 
 [3,000 haikus on the 2020 news](https://www.kaggle.com/newshaikus/dataset/metadata)
 
+[A/B headline testing datset — Upworthy](https://osf.io/jd64p/)
+
 [Accountability Project (US)](https://www.publicaccountability.org/datasets/home/)
 
 [Data archive of interest to US journalists — Big Local News](https://biglocalnews.org/)

@@ -69,7 +69,7 @@ len([x for x in pc_list if x.startswith('CF') == True])
 
 
 
-### 200 entries from the UK
+# Try 200 queries on the UK
 
 params = {"key": ocm_key,
           "countrycode": "GB", 
