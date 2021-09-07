@@ -40,6 +40,8 @@
 
 [Restaurant spending via Revolut in pandemic (UK)](https://www.gov.uk/government/publications/revolut-restaurant-card-spending-data)
 
+[Strikes in China](https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2021-03&endDate=2021-09&eventId=&keyword=&addressId=&parentAddressId=&address=&parentAddress=&industry=&parentIndustry=&industryName=)
+
 [UK Land registry - who owns what?](https://use-land-property-data.service.gov.uk)
 
 [UK labour market statistics](https://www.nomisweb.co.uk/)

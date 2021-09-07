@@ -6,6 +6,6 @@
 
 [Student Loans Company: FOI disclosure log archive](https://webarchive.nationalarchives.gov.uk/ukgwa/20190301124453/https://www.slc.co.uk/freedom-of-information/freedom-of-information-disclosures.aspx)
 
-[Student Loans Company: student loans in Wales 2020-21][Higher Education Statistics Agency (HESA), UK](https://www.hesa.ac.uk/data-and-analysis)
+[Student Loans Company: student loans in Wales 2020-21 - HESA](https://www.hesa.ac.uk/data-and-analysis)
 
 [OECD PISA education data - OECD](https://www.oecd.org/pisa/data/)
