@@ -30,7 +30,7 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Google Bigquery datasets on Kaggle](https://www.kaggle.com/datasets?search=%23bigquery)
 
-[Guardian Data Blog: 1400 stories with data sources(2009-11)](https://docs.google.com/spreadsheets/d/14gdRgcb_4cIRWrIlJRHgWQDGRZczC1Vbn-Hz2TfBL0A/edit?usp=sharing)
+[Guardian Data Blog: 1400 stories with data sources (2009-11)](https://docs.google.com/spreadsheets/d/14gdRgcb_4cIRWrIlJRHgWQDGRZczC1Vbn-Hz2TfBL0A/edit?usp=sharing)
 
 [Harvard University's data repository](https://dataverse.harvard.edu/)
 

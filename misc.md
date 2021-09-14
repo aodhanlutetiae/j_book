@@ -1,6 +1,6 @@
 # Misc
 
-[CIA factbook entries as JSON files](https://github.com/factbook/factbook.json)
+[CIA Factbook entries as JSON files](https://github.com/factbook/factbook.json)
 
 [Common crawl: data scraped from the web for anyone to use](https://commoncrawl.org/big-picture/what-we-do/)
 

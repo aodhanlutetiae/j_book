@@ -6,6 +6,8 @@
 
 [Bicycle Cities Index 2019 — commercial rather than scientific survey](https://coya.com/bike/index-2019)
 
+[Bicycle counter Cardiff 2012+ (College of Music)](http://www.cykelfartviser.dk/CykelFartviser/BC_Cardiff_North_Road.jsp)
+
 [Cardiff potholes](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
 
 [Car parks in Great Britain — 2015](https://data.gov.uk/dataset/7e7ef556-4173-4dcb-8eef-8ddde4e3824d/car-parks)
@@ -43,6 +45,8 @@
 [Roundabouts in Europe and the US](https://www.dropbox.com/sh/4zg8kb5tziq6z0r/AACoqXHHmzsQzzc5oKOf0QNna?dl=0)
 
 [Station usage in the UK](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/)
+
+[TFL network demande (bus & tube figures) -- as a visualisation](https://app.powerbi.com/view?r=eyJrIjoiMjZjMmQwYTktZjYxNS00MTIwLTg0ZjAtNWIwNGE0ODMzZGJhIiwidCI6IjFmYmQ2NWJmLTVkZWYtNGVlYS1hNjkyLWEwODljMjU1MzQ2YiIsImMiOjh9)
 
 [Trains (passenger) crossing European borders](https://docs.google.com/spreadsheets/d/12deGLMuX3u-mUaHGlLT0-TXIGZnQ-NILCt6NRA4s0pU/edit#gid=588529542)
 

@@ -38,7 +38,7 @@
 
 [Shakespeare & Co bookshop datasets](https://shakespeareandco.princeton.edu/about/data)
 
-[Six years of data on all operas staged around the world](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8LUFN8)
+[All operas staged around the world, 2012-2017](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8LUFN8)
 
 [Star Wars API — Hallett & Bura](https://swapi.dev)
 

@@ -4,7 +4,7 @@
 
 [Attacks on aid workers around the world](https://aidworkersecurity.org/)
 
-[Blue badge system in UK: use and abuse](https://www.gov.uk/government/statistical-data-sets/blue-badge-scheme-statistics-data-tables-dis&sa=D&source=editors&ust=1619805122946000&usg=AOvVaw0c-rG1_cJO6mC8JvNhkndu)
+[Blue badge system in England: use and abuse](https://www.gov.uk/government/statistical-data-sets/blue-badge-scheme-statistics-data-tables-dis)
 
 [Chicago's (in)famous 'Strategic Subject List'](https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List-Historical/4aki-r3np)
 
@@ -30,9 +30,11 @@
 
 [India's 2002 Gujarat riots — analysis of police via Times of India reports](https://github.com/slanglab/IndiaPoliceEvents)
 
-[Policing data UK](https://data.police.uk/data/&sa=D&source=editors&ust=1619805122952000&usg=AOvVaw0aJbfpbpVdku_HVXKoh1hV)
+[Police data UK](https://data.police.uk/data/&sa=D&source=editors&ust=1619805122952000&usg=AOvVaw0aJbfpbpVdku_HVXKoh1hV)
 
 [Police stop & search figures by ethnicity in UK](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest%23data-sources&sa=D&source=editors&ust=1619805122956000&usg=AOvVaw0wOia-soEgbVkKMy_KhaHm)
+
+[Police use of force data](https://www.gov.uk/government/statistics/police-use-of-force-statistics-england-and-wales-april-2019-to-march-2020)
 
 [Prison populations UK](https://www.gov.uk/government/statistics/prison-population-figures-2021)
 

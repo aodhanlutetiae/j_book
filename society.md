@@ -6,17 +6,19 @@
 
 [Baby names for girls by year in England & Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls)
 
-[Banned by the Catholic Church: publications](https://github.com/aodhanlutetiae/index)
+[Census 1961](https://www.ons.gov.uk/census/2001censusandearlier/1961censussmallareastatistics)
 
-[Census Data in US](https://data.census.gov/cedsci/)
+[Census: Flow data (people movement)](https://wicid.ukdataservice.ac.uk/)
+
+[Census US](https://data.census.gov/cedsci/)
 
 [Central Intelligence Agency World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
 
-[Child Statistics - UNICEF](https://data.unicef.org/)
+[Child Statistics — UNICEF](https://data.unicef.org/)
 
 [Cold war or communism](https://ropercenter.cornell.edu/CFIDE/cf/action/catalog/catalogResult.cfm?keyword=cold%20war%20or%20communism&country=All%20Countries&organization=&type=&fromDate=1/1/1945&toDate=12/31/1991&search_x=65&search_y=13&sortBy=BEG_DATE_DESC)
 
-[Deprivation indices in England 2019 — UK govt](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019). [See also, mapping resources for IoD](https://www.gov.uk/guidance/english-indices-of-deprivation-2019-mapping-resources)
+[Deprivation indices in England 2019 — UK govt](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019). See also [mapping resources for IoD](https://www.gov.uk/guidance/english-indices-of-deprivation-2019-mapping-resources)
 
 [Deprivation Index in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation)
 
@@ -26,9 +28,7 @@
 
 [Etymology database](http://etym.org/)
 
-[EU settlement applications](https://www.gov.uk/government/collections/eu-settlement-scheme-statistics) | [Note](https://blog.ons.gov.uk/2021/07/02/are-there-really-6m-eu-citizens-living-in-the-uk/)
-
-[Faith Survey | Irish Census (2016)](https://faithsurvey.co.uk/irish-census.html)
+[EU settlement applications in UK — ONS](https://www.gov.uk/government/collections/eu-settlement-scheme-statistics) | See [Note](https://blog.ons.gov.uk/2021/07/02/are-there-really-6m-eu-citizens-living-in-the-uk/)
 
 [Free school meals in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Education-and-Skills/Schools-and-Teachers/Schools-Census/Pupil-Level-Annual-School-Census/Provision-of-Meals-and-Milk/pupilseligibleforfreeschoolmeals-by-localauthorityregion-year)
 
@@ -45,8 +45,6 @@
 [Migration Data Portal — International Organisation for Migration](https://gmdac.iom.int/global-migration-data-portal)
 
 [Missing Migrants Project](https://missingmigrants.iom.int/about)
-
-[Monasteries and cooperation in Europe 1000-1600 — Boarnbay & Guerriero](https://www.sciencedirect.com/science/article/pii/S2352340919310868)
 
 [Passport Ranking Index 2019 — Henley & Partners](https://www.henleyglobal.com/download-hpi-2019/)
 
@@ -66,7 +64,7 @@
 
 [Speakers of Foreign Languages Irish Census 2016](http://census2016.geohive.ie/datasets/speakers-of-foreign-languages-by-language-spoken-administrative-county-census-2016-theme-2-5-ireland-2016-cso-osi/data)
 
-[Sustainable Development Goals](https://sdg-tracker.org/)
+[Sustainable Development Goals (tracking)](https://sdg-tracker.org/)
 
 [UK: Overseas residents and UK residents abroad — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/travelandtourism)
 

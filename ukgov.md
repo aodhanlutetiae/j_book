@@ -2,8 +2,6 @@
 
 [Brexit referendum results](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum)
 
-[Census: Flow data (people movement)](https://wicid.ukdataservice.ac.uk/)
-
 [Contracts Finder (£10K+ govt contracts)](https://www.gov.uk/contracts-finder)
 
 [Councils underpaying home care workers: Bureau local investigation (2021)](https://docs.google.com/document/d/1W1x-rUu_B-Z0JPwQMJLfgYhk-JzQBD9LAR_NwGQfDBA/edit#)
@@ -24,8 +22,6 @@
 
 [London planning datahub — not yet live](https://www.london.gov.uk/what-we-do/planning/digital-planning/planning-london-datahub#acc-i-62159)
 
-[My society published datasets (Democracy, FOI, Better cities)](https://data.mysociety.org/)
+[My Society published datasets and tools (Democracy, FOI, Better cities)](https://data.mysociety.org/)
 
-[Petitions to UK government 2017-2019 (sets also available from 2010+)](https://petition.parliament.uk/archived/petitions?parliament=3&state=all)
-
-[TheyWorkForYou: open data related to UK parliaments](https://www.theyworkforyou.com/)
+[Petitions to UK government](https://petition.parliament.uk/archived/petitions?parliament=3&state=all)

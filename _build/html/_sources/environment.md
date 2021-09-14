@@ -18,11 +18,13 @@
 
 [Coalmines in India](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TDEK8O)
 
-[Dams database – Global Dam Watch](https://globaldamwatch.org/goodd/)
+[Dams database — Global Dam Watch](https://globaldamwatch.org/goodd/)
 
 [Disaster Datasets — Planet](https://www.planet.com/disasterdata/datasets/)
 
 [Energy performance of 21 million buildings, England & Wales](https://epc.opendatacommunities.org)
+
+[Fly-tipping Incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
 [Google Earth Engine](https://earthengine.google.com/) & [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/)
 
@@ -40,14 +42,18 @@
 
 [Sea level data (global)](https://tidesandcurrents.noaa.gov/sltrends/sltrends_global.html)
 
-[Seismic data UK - British Geological Survey](http://www.earthquakes.bgs.ac.uk/helicorder/heli.html)
+[Seismic data UK — British Geological Survey](http://www.earthquakes.bgs.ac.uk/helicorder/heli.html)
 
 [Temperature rises in European locations](https://climatechange.europeandatajournalism.eu/en/about)
 
 [UK & Ireland rainfall, 1677-1960](https://github.com/ed-hawkins/rainfall-rescue) with [background](https://twitter.com/ed_hawkins/status/1392758650201120771)
+
+[Wales waste collection, flytipping & recycling](https://statswales.gov.wales/Catalogue/Environment-and-Countryside)
 
 [Water — Transboundary Freshwater Dispute Database](https://transboundarywaters.science.oregonstate.edu/content/transboundary-freshwater-dispute-database)
 
 [Water Conflict — World's Water. 926 water-related conflicts](http://www.worldwater.org/conflict/list/)
 
 [Weather station historic data — Met Office](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data)
+
+[Wind turbines around the world](https://figshare.com/articles/dataset/Global_offshore_wind_farm_dataset/13280252/5)

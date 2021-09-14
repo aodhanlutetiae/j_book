@@ -32,8 +32,8 @@
 
 [Press photographer (Male vs Female) numbers in 2019](https://docs.google.com/spreadsheets/d/1Wu6_s2SzB1v5wXeaeVmfxUEs1rG0iGZlJjsu-Lo87Dw/edit#gid=0)
 
-[RSF press freedom index 2021](https://rsf.org/index.php)
+[RSF press freedom index](https://rsf.org/en/ranking)
 
 [Snowden Digital Surveillance Archive (2013)](https://snowdenarchive.cjfe.org/greenstone/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=snowden1&l=en&w=utf-8)
 
-[Trump's Negative Tweets About the Press](https://docs.google.com/spreadsheets/d/1uNA6nsgcRhhQ0b6USsMNzhYLMfuDRSMhbGZNZ00WkHk/edit#gid=0)
+[Trump's negative tweets about the press](https://docs.google.com/spreadsheets/d/1uNA6nsgcRhhQ0b6USsMNzhYLMfuDRSMhbGZNZ00WkHk/edit#gid=0)

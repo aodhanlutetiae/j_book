@@ -4,19 +4,19 @@
 
 [Big Mac Index — The Economist](https://github.com/TheEconomist/big-mac-data)
 
-[Childcare costs in London](https://data.london.gov.uk/dataset/average-childcare-costs-in-london) [and across OECD](https://stats.oecd.org/Index.aspx?DataSetCode=NCC#)
+[Childcare costs in London](https://data.london.gov.uk/dataset/average-childcare-costs-in-london) and [across OECD](https://stats.oecd.org/Index.aspx?DataSetCode=NCC#)
 
 [Coins: what people have in their wallets (survey)](https://data.mendeley.com/datasets/f257j67ym6/2)
 
 [Companies House API](https://developer.companieshouse.gov.uk/api/docs/)
 
-[Enron emails (500K) - investigate the infamous company](https://www.kaggle.com/wcukierski/enron-email-dataset)
+[Enron emails (500K) — investigate the infamous company](https://www.kaggle.com/wcukierski/enron-email-dataset)
 
 [Financial & economic datasets — Bank of England](https://www.bankofengland.co.uk/statistics/research-datasets)
 
-[Fincen files - global financial transactions -- ICIJ](https://www.icij.org/investigations/fincen-files/explore-the-fincen-files-data/)
+[Fincen files (global financial transactions) — ICIJ](https://www.icij.org/investigations/fincen-files/explore-the-fincen-files-data/)
 
-[German Companies (dataset on over 5 million)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
+[German Companies (5 million +)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
 
 [Global companies (7 million +) — data.world](https://data.world/peopledatalabs/free-7-million-company-dataset)
 
@@ -26,7 +26,7 @@
 
 [Labour market statistics — Nomis (ONS)](https://www.nomisweb.co.uk/)
 
-[Livestock in Wales - last ten years](https://statswales.gov.wales/Catalogue/Agriculture/Agricultural-Survey/Annual-Survey-Results/total-livestock-in-wales-by-year)
+[Livestock in Wales — last ten years](https://statswales.gov.wales/Catalogue/Agriculture/Agricultural-Survey/Annual-Survey-Results/total-livestock-in-wales-by-year)
 
 [Millenium of macroeconomic data — Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx?la=en&hash=73ABBFB603A709FEEB1FD349B1C61F11527F1DE4)
 
@@ -42,7 +42,7 @@
 
 [Strikes in China](https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2021-03&endDate=2021-09&eventId=&keyword=&addressId=&parentAddressId=&address=&parentAddress=&industry=&parentIndustry=&industryName=)
 
-[UK Land registry - who owns what?](https://use-land-property-data.service.gov.uk)
+[UK Land registry: who owns what?](https://use-land-property-data.service.gov.uk)
 
 [UK labour market statistics](https://www.nomisweb.co.uk/)
 

@@ -14,7 +14,7 @@
 
 [CIA spyware and malware — WikiLeaks](https://wikileaks.org/+-Government-+.html)
 
-[Computer users Data for 12 users on their computers for 55 days](https://www.sciencedirect.com/science/article/pii/S2352340920306612)
+[Computer user data for 12 users from their computers over 55 days](https://www.sciencedirect.com/science/article/pii/S2352340920306612)
 
 [CRAWDAD - Project to archive wireless data](https://crawdad.org/registration-new.py)
 
@@ -26,7 +26,7 @@
 
 [Privacy on a million sites — Princeton web census on trackers](https://webtransparency.cs.princeton.edu/webcensus/data-release/)
 
-[Reddit votes - huge collection](https://www.kaggle.com/josephleake/huge-collection-of-reddit-votes/)
+[Reddit votes — huge collection](https://www.kaggle.com/josephleake/huge-collection-of-reddit-votes/)
 
 [Warrants issued for people's iPhones in connection with crime](https://docs.google.com/spreadsheets/d/1Xmh1QEXYJmVPFlqAdEIVGemvbkoZmk_WyAPGC4eY-eE/edit#gid=0)
 

@@ -22,8 +22,4 @@
 
 [US military equipment in Iraq — Wikileaks](https://wikileaks.org/wiki/Iraq_OIF_Property_List.csv)
 
-[US soldiers around the world](https://www.dmdc.osd.mil/appj/dwp/dwp_reports.jsp)
-
-[US training of foreign military units, 2001-18 (200K+) — Security Force Monitor](https://trainingdata.securityforcemonitor.org/state-department-data/training_data?source_uuid__exact=8d439057-bc2d-4141-8ff3-48d6842150eb)
-
 [Yemen war](https://yemendataproject.org)
