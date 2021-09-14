@@ -6,9 +6,7 @@
 
 [European stadiums by capacity — Wikipedia](https://en.wikipedia.org/wiki/List_of_European_stadiums_by_capacity#Capacity_of_80,001_or_more)
 
-[Football data](http://football-data.co.uk/data.php)
-
-[Football data (England)](http://football-data.co.uk/englandm.php)
+[Football data](http://football-data.co.uk/data.php) including [Football data (England)](http://football-data.co.uk/englandm.php)
 
 [Football results in English Premier League — last ten seasons](https://datahub.io/sports-data/english-premier-league)
 
@@ -20,7 +18,7 @@
 
 [LEGO Database — Rebrickable](https://rebrickable.com/downloads/)
 
-[Parkrun results for Cardiff](https://www.parkrun.org.uk/cardiff/results/latestresults/)
+[Parkrun results (Cardiff)](https://www.parkrun.org.uk/cardiff/results/latestresults/)
 
 [Pinball Map](https://pinballmap.com/)
 

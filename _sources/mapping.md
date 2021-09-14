@@ -16,7 +16,7 @@
 
 [London Statistical GIS Boundary Files](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london)
 
-[Map data - Natural Earth](http://www.naturalearthdata.com/downloads/)
+[Map data — Natural Earth](http://www.naturalearthdata.com/downloads/)
 
 [Mapping resources, including geographical datasets](https://github.com/tolomaps/resources/)
 
@@ -34,7 +34,7 @@
 
 [Potholes in Toronto: Mapping Locations (article & API method)](https://towardsdatascience.com/mapping-locations-of-reported-pot-holes-in-toronto-using-python-376402d8da53)
 
-[Roman & Medieval civilisation digital atlas](https://darmc.harvard.edu/data-availability)
+[Mapping historical societies](https://darmc.harvard.edu/data-availability)
 
 [UK land spatial polygons (23M)](https://www.gov.uk/guidance/inspire-index-polygons-spatial-data)
 
@@ -44,7 +44,7 @@
 
 [US infrastructure map data](https://hifld-geoplatform.opendata.arcgis.com/)
 
-[Wales spatial data geoportal — Welsh govt & Natural Resources Wales](http://lle.gov.wales/catalogue?t=1&lang=en)
+[Wales spatial data geoportal — Welsh govt & Natural Resources Wales](http://lle.gov.wales/catalogue?t=1&lang=en) including [listed buildings](http://lle.gov.wales/catalogue/item/ListedBuildings/?lang=en)
 
 [World spatial data](http://www.diva-gis.org/datadown)
 
