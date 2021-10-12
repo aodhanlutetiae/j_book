@@ -52,6 +52,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Typerighter (Guardian)](https://github.com/guardian/typerighter) | Checks if a text respects the Style Guide
 
+[Twick (Buzzfeed)](https://github.com/jsvine/twick) | Command line tool that fetches and stores tweets that match a search query (requires API authentication)
+
 [YouTube Tracking](https://youtube.tracking.exposed) | Monitor and collect personalised recommendations to investigate YouTube's recommender system.
 
 [Visualping](https://visualping.io/) | Monitor website changes

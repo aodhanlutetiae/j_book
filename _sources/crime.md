@@ -6,11 +6,15 @@
 
 [Blue badge system in England: use and abuse](https://www.gov.uk/government/statistical-data-sets/blue-badge-scheme-statistics-data-tables-dis)
 
+[CCTV cameras run by Durham council (Dec 2020)](https://data.gov.uk/dataset/bef4fc96-65e7-444f-b5ab-92bf0473dc17/cctv-camera-locations)
+
 [Chicago's (in)famous 'Strategic Subject List'](https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List-Historical/4aki-r3np)
 
 [Courts martial records UK](https://data.gov.uk/dataset/df73bbd3-a801-4106-a1fc-eb7b6209fe1b/court-martial-results-from-the-military-court-centres&sa=D&source=editors&ust=1619805122947000&usg=AOvVaw0jQUuBvbp-IHO-EgCWYHtY)
 
 [Crime in England and Wales 2020 — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables)
+
+[Crime in England and Wales — police](https://data.police.uk/data/statistical-data/)
 
 [Crime survey for England & Wales (CSEW)](https://www.crimesurvey.co.uk/en/index.html)
 
@@ -29,6 +33,8 @@
 [Illegal downloading in UK (report)](https://www.gov.uk/government/publications/online-copyright-infringement-tracker-survey-10th-wave/online-copyright-infringement-tracker-survey-10th-wave-executive-summary)
 
 [India's 2002 Gujarat riots — analysis of police via Times of India reports](https://github.com/slanglab/IndiaPoliceEvents)
+
+[Justice Ministry statistics](https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&organisations%5B%5D=ministry-of-justice&order=updated-newest)
 
 [Police data UK](https://data.police.uk/data/&sa=D&source=editors&ust=1619805122952000&usg=AOvVaw0aJbfpbpVdku_HVXKoh1hV)
 

@@ -12,7 +12,9 @@
 
 [Carbon footprint estimate per person in England (LSOA)](https://www.carbon.place/)
 
-[Climate Action Tracker](https://climateactiontracker.org/)
+[Climate Action Tracker (global)](https://climateactiontracker.org/)
+
+[Climate action plans by UK council](https://data.climateemergency.uk/)
 
 [Climate change concern reaches record levels — Ipsos MORI](https://www.ipsos.com/ipsos-mori/en-uk/concern-about-climate-change-reaches-record-levels-half-now-very-concerned)
 
@@ -29,6 +31,8 @@
 [Google Earth Engine](https://earthengine.google.com/) & [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/)
 
 [International Environmental Agreements Database Project](https://iea.uoregon.edu/)
+
+[Natural resources Wales](https://naturalresources.wales/evidence-and-data/?lang=en) & [catalogue](https://libcat.naturalresources.wales/folio/)
 
 [Nuclear Incident and Trafficking Database — IAEA](https://www.iaea.org/news/4996)
 
@@ -49,6 +53,8 @@
 [UK & Ireland rainfall, 1677-1960](https://github.com/ed-hawkins/rainfall-rescue) with [background](https://twitter.com/ed_hawkins/status/1392758650201120771)
 
 [Wales waste collection, flytipping & recycling](https://statswales.gov.wales/Catalogue/Environment-and-Countryside)
+
+[Waste data flow reports](https://www.wastedataflow.org/reports/default.aspx)
 
 [Water — Transboundary Freshwater Dispute Database](https://transboundarywaters.science.oregonstate.edu/content/transboundary-freshwater-dispute-database)
 
