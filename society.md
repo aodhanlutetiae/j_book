@@ -24,13 +24,17 @@
 
 [Dog breed statistics — The Kennel Club](https://www.thekennelclub.org.uk/media-centre/breed-registration-statistics)
 
-[Empty homes in England](https://www.actiononemptyhomes.org/facts-and-figures)
-
 [Etymology database](http://etym.org/)
 
 [EU settlement applications in UK — ONS](https://www.gov.uk/government/collections/eu-settlement-scheme-statistics) | See [Note](https://blog.ons.gov.uk/2021/07/02/are-there-really-6m-eu-citizens-living-in-the-uk/)
 
 [Free school meals in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Education-and-Skills/Schools-and-Teachers/Schools-Census/Pupil-Level-Annual-School-Census/Provision-of-Meals-and-Milk/pupilseligibleforfreeschoolmeals-by-localauthorityregion-year)
+
+[Housing: Empty homes in England](https://www.actiononemptyhomes.org/facts-and-figures)
+
+[Housing: price rises and 2nd home ownership — ONS](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/housepricesintouristhotspotsincreasinglyoutofreachforyoungandlowpaid/2021-09-28)
+
+[Housing: chargeable empty & second homes by Welsh local authority — StatsWales](https://statswales.gov.wales/Catalogue/Local-Government/Finance/Council-Tax/Dwellings/chargeableemptyandsecondhomesbylocalauthority)
 
 [How popular is your birthday? — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18)
 

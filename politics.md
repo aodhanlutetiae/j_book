@@ -1,8 +1,12 @@
 # Politics
 
+[Brexit 2016 referendum results](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum)
+
 [Coup dataset](https://databank.illinois.edu/datasets/IDB-9651987)
 
 [Election surveys (lots of countries)](https://u.osu.edu/cnep/surveys/surveys-through-2012/)
+
+[Electoral register figures (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/elections/electoralregistration/datasets/electoralstatisticsforuk)
 
 [EU's Transparency Register — EU](https://ec.europa.eu/transparencyregister/public/homePage.do)
 
@@ -18,13 +22,15 @@
 
 [Hansard](https://hansard.parliament.uk/)
 
-[Lobby meetings with UK ministers (since 2012) — Transparency International (15 MB)](https://openaccess.transparency.org.uk/)
+[Lobby meetings with UK ministers — Transparency International. EU, France, Italy and Chile also available](https://openaccess.transparency.org.uk/)
 
 [Opinion polls across Europe](https://github.com/filipvanlaenen/eopaod)
 
 [Political data for 233 countries — EveryPolitician](http://everypolitician.org/)
 
-[Sanctions imposed the world](https://sanctionsexplorer.org/?mc_cid=9e36fd5865&mc_eid=88c7f91a73)
+[Sanctions imposed around the world](https://sanctionsexplorer.org/?mc_cid=9e36fd5865&mc_eid=88c7f91a73)
+
+[Senedd elections 2021 (under 'supporting evidence')](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/senedd-elections/report-may-2021-elections-wales)
 
 [UK donations to political parties & MPs](http://search.electoralcommission.org.uk/?currentPage=1&rows=10&sort=RegulatedDoneeType&order=asc&tab=1&open=filter&et=pp&isIrishSourceYes=true&isIrishSourceNo=true&date=Accepted&from=&to=&quarters=2020q1&prePoll=false&postPoll=true&register=gb&register=ni&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)
 

@@ -24,4 +24,4 @@
 
 [My Society published datasets and tools (Democracy, FOI, Better cities)](https://data.mysociety.org/)
 
-[Petitions to UK government](https://petition.parliament.uk/archived/petitions?parliament=3&state=all)
+[Petitions to UK government](https://petition.parliament.uk/petitions?state=all)

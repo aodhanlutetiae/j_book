@@ -12,6 +12,10 @@
 
 [Food hygiene ratings for Cardiff](https://ratings.food.gov.uk/enhanced-search/en-GB/%5E/cardiff/Relevance/0/%5E/%5E/0/1/10)
 
+[GP appointments (August 2021)](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/august-2021)
+
+[Health & Safety Executive statistics](https://www.hse.gov.uk/statistics/a-z.htm)
+
 [Hospital trolleys for patients: numbers — Irish Association for Emergency Medicine](http://www.iaem.ie/public/trolley-watch/)
 
 [Lobbying in the health sector — Transparence Santé](https://www.eurosfordocs.fr/explore/)
@@ -21,6 +25,8 @@
 [NHS Informatics service for Wales](https://nwis.nhs.wales)
 
 [Pharmaceuticals sales and use in UK and rest of OECD](https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics/oecd-health-data-pharmaceutical-market_data-00545-en)
+
+[Waiting times — NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/) & [NHS Wales](https://www.wales.nhs.uk/nhswalesaboutus/nhswaitingtimes)
 
 [WHO Health data and statistics](https://www.who.int/healthinfo/statistics/en/)
 

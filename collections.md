@@ -14,6 +14,10 @@ Lists and collections of datasets released by journalists or governments or othe
 
 Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified)
 
+[Consumer data research centre](https://data.cdrc.ac.uk/) & [archive](https://github.com/ESRC-CDRC/open-dataset-archive)
+
+[CSO (Central Statistics Office, Ireland)](https://data.gov.ie/organization/central-statistics-office)
+
 [Datassist: catalogue of different indexes available](https://docs.google.com/document/d/15BMSmaHGtR0hvhl80g32sfsJ-GhYjKAWSZJaUSA6iWQ/edit?mc_cid=9d475b8bdc&mc_eid=88c7f91a73)
 
 [Data commons— open sources for students & researchers](https://www.datacommons.org)
@@ -79,6 +83,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [Random datasets for cleaning — Rachel Tatman](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
 
 [Sourceful: finding useful public Google documents](https://sourceful.co.uk/)
+
+[South Africa's national statistics agency](http://www.statssa.gov.za/)
 
 [SODP: data sources for journalists](https://www.stateofdigitalpublishing.com/insights/top-data-sources-journalists/)
 

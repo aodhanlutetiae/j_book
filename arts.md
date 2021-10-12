@@ -32,11 +32,13 @@
 
 [Profanity in Hip Hop — Sarah Bartlett](https://data.world/sarahlovesdata/profanity-in-hip-hop)
 
-[Project Gutenberg contents data](https://gutensearch.com/)
+[Project Gutenberg contents](https://gutensearch.com/)
 
 [Rijksmuseum object metadata API](https://data.rijksmuseum.nl/object-metadata/api/)
 
 [Shakespeare & Co bookshop datasets](https://shakespeareandco.princeton.edu/about/data)
+
+[Stolpersteine in Hamburg](https://www.stolpersteine-hamburg.de/en.php) & [Berlin](https://www.stolpersteine-berlin.de/en/finding-stolpersteine)
 
 [All operas staged around the world, 2012-2017](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8LUFN8)
 
