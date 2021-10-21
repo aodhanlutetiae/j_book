@@ -26,6 +26,8 @@
 
 [Opinion polls across Europe](https://github.com/filipvanlaenen/eopaod)
 
+[Parliamentary speeches (20 years) in Belgium, Germany, Greece, Ireland, Portugal & Spain](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9MN0RL)
+
 [Political data for 233 countries — EveryPolitician](http://everypolitician.org/)
 
 [Sanctions imposed around the world](https://sanctionsexplorer.org/?mc_cid=9e36fd5865&mc_eid=88c7f91a73)
