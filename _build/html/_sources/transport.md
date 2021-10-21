@@ -46,13 +46,13 @@
 
 [Station usage in the UK](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/)
 
-[TFL network demande (bus & tube figures) -- as a visualisation](https://app.powerbi.com/view?r=eyJrIjoiMjZjMmQwYTktZjYxNS00MTIwLTg0ZjAtNWIwNGE0ODMzZGJhIiwidCI6IjFmYmQ2NWJmLTVkZWYtNGVlYS1hNjkyLWEwODljMjU1MzQ2YiIsImMiOjh9)
+[TFL network demand (bus & tube figures) -- as a visualisation](https://app.powerbi.com/view?r=eyJrIjoiMjZjMmQwYTktZjYxNS00MTIwLTg0ZjAtNWIwNGE0ODMzZGJhIiwidCI6IjFmYmQ2NWJmLTVkZWYtNGVlYS1hNjkyLWEwODljMjU1MzQ2YiIsImMiOjh9)
 
 [Trains (passenger) crossing European borders](https://docs.google.com/spreadsheets/d/12deGLMuX3u-mUaHGlLT0-TXIGZnQ-NILCt6NRA4s0pU/edit#gid=588529542)
 
 [Tube usage figures](https://data.london.gov.uk/dataset/london-underground-performance-reports)
 
-[Velib data over six months (end of 2017) — Baptiste Fontaine](https://data.bfontaine.net/datasets/6-months-of-velibs-usage.html)
+[Vélib data over six months (end of 2017) — Baptiste Fontaine](https://data.bfontaine.net/datasets/6-months-of-velibs-usage.html)
 
 [World's busiest bus / metro lines — Google](https://www.blog.google/products/maps/transit-crowdedness-trends-around/)
 

@@ -12,6 +12,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Casefinder (Caerphilly observer)](https://clwstwr.org.uk/projects/casefinder) | Search planning for Magistrates' Courts
 
+[Censusreporter (US)](https://censusreporter.org/) | Analyse the US census
+
 [Code for democracy analysis tool](https://codefordemocracy.org/data/) | Browser-based tool for analysing US politics
 
 [DataKit (AP)](https://datakit.ap.org/) | Command line tool for managing news projects

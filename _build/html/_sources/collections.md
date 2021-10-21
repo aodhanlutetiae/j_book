@@ -12,7 +12,7 @@ Lists and collections of datasets released by journalists or governments or othe
 
 [Buzzfeed: all story datasets & analyses](https://github.com/BuzzFeedNews/everything#guides)
 
-Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified)
+Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified), [Stirling](https://data.stirling.gov.uk)
 
 [Consumer data research centre](https://data.cdrc.ac.uk/) & [archive](https://github.com/ESRC-CDRC/open-dataset-archive)
 

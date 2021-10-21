@@ -18,6 +18,8 @@
 
 [EU terminology dictionary in all EU languages](https://iate.europa.eu/download-iate)
 
+[Funeral music - coop chart](https://www.coop.co.uk/funeralcare/music/charts)
+
 [IMDb Movie datasets](https://www.imdb.com/interfaces/)
 
 [Indian Movie Database — Parth Parikh](https://github.com/pncnmnp/TIMDB/)

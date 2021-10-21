@@ -16,6 +16,8 @@
 
 [Fincen files (global financial transactions) — ICIJ](https://www.icij.org/investigations/fincen-files/explore-the-fincen-files-data/)
 
+[Fiscal data](https://openspending.org/)
+
 [German Companies (5 million +)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
 
 [Global companies (7 million +) — data.world](https://data.world/peopledatalabs/free-7-million-company-dataset)
