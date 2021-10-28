@@ -10,7 +10,7 @@
 
 [Financial statements for UK public sector](https://www.gov.uk/government/collections/whole-of-government-accounts)
 
-[Find a Tender (High-value govt contracts - £118K+)](https://www.gov.uk/find-tender)
+[Find a Tender (High-value govt contracts of £118K+)](https://www.gov.uk/find-tender)
 
 [Former UK GOV sites](https://www.gov.uk/performance/central-government-websites)
 

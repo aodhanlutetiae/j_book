@@ -38,9 +38,9 @@
 
 [Listed buildings, shipwrecks in Wales](https://cadw.gov.wales/advice-support/cof-cymru/downloads)
 
-[London Fire Brigade animal rescue incidents dataset](https://data.london.gov.uk/dataset/animal-rescue-incidents-attended-by-lfb)
+[London Fire Brigade animal rescue incidents](https://data.london.gov.uk/dataset/animal-rescue-incidents-attended-by-lfb)
 
-[London Fire Brigade obesity incidents dataset](https://data.london.gov.uk/dataset/bariatric-incidents-attended-by-lfb)
+[London Fire Brigade obesity incidents](https://data.london.gov.uk/dataset/bariatric-incidents-attended-by-lfb)
 
 [Rough sleeping in England questionnaire (initial results)](https://www.gov.uk/government/publications/rough-sleeping-questionnaire-initial-findings)
 

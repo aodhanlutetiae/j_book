@@ -8,7 +8,7 @@
 
 [E.E. Cummings poetry (JSON & csv)](https://cummings.ee/downloads/)
 
-[Encyclopaedia Britannica – National Library of Scotland](https://data.nls.uk/data/digitised-collections/encyclopaedia-britannica/)
+[Encyclopaedia Britannica — National Library of Scotland](https://data.nls.uk/data/digitised-collections/encyclopaedia-britannica/)
 
 [Eurfa Welsh Dictionary — Kaggle](https://www.kaggle.com/rtatman/eurfa-welsh-dictionary)
 
@@ -18,7 +18,7 @@
 
 [EU terminology dictionary in all EU languages](https://iate.europa.eu/download-iate)
 
-[Funeral music - coop chart](https://www.coop.co.uk/funeralcare/music/charts)
+[Funeral music — Co-op chart](https://www.coop.co.uk/funeralcare/music/charts)
 
 [IMDb Movie datasets](https://www.imdb.com/interfaces/)
 

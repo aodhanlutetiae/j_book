@@ -58,6 +58,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [YouTube Tracking](https://youtube.tracking.exposed) | Monitor and collect personalised recommendations to investigate YouTube's recommender system.
 
+[Violation index](https://violationtrackeruk.goodjobsfirst.org/) | Database of 60,000 enforcement actions brought against companies by government regulators in England, Scotland, Wales and N Ireland
+
 [Visualping](https://visualping.io/) | Monitor website changes
 
 [Vozdata (La nacion)](https://vozdata.lanacion.com.ar/cd/paso-buenos-aires) | Project using [Crowdata](https://crowdata.readthedocs.io/en/latest/) to turn pdfs into datasets

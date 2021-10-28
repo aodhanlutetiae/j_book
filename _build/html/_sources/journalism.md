@@ -10,7 +10,7 @@
 
 [FOIA Annual Reports 1975-2018 — A. Jay Wagner](https://epublications.marquette.edu/comm_data/1/)
 
-[FOI responses (UK)](https://www.whatdotheyknow.com/)
+[FOI responses (UK) — whatdotheyknow](https://www.whatdotheyknow.com/)
 
 [FOI responses from Cardiff Council](https://foi.cardiff.gov.uk/eng/Pages/default.aspx)
 
@@ -30,7 +30,7 @@
 
 [Press Freedom Tracker US (API)](https://pressfreedomtracker.us/data/)
 
-[Press photographer (Male vs Female) numbers in 2019](https://docs.google.com/spreadsheets/d/1Wu6_s2SzB1v5wXeaeVmfxUEs1rG0iGZlJjsu-Lo87Dw/edit#gid=0)
+[Press photographer numbers (male vs female) in 2019](https://docs.google.com/spreadsheets/d/1Wu6_s2SzB1v5wXeaeVmfxUEs1rG0iGZlJjsu-Lo87Dw/edit#gid=0)
 
 [RSF press freedom index](https://rsf.org/en/ranking)
 

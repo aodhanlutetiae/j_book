@@ -2,7 +2,7 @@
 
 [Air quality UK](https://uk-air.defra.gov.uk/data/data_selector_service?q=2046830#mid)
 
-[Air quality In Wales](https://airquality.gov.wales/maps-data)
+[Air quality in Wales](https://airquality.gov.wales/maps-data)
 
 [Air quality on Castle St, Cardiff](https://airquality.gov.wales/air-pollution/site/CAR04#siteinformation)
 
@@ -26,7 +26,7 @@
 
 [Energy performance of 21 million buildings, England & Wales](https://epc.opendatacommunities.org)
 
-[Fly-tipping Incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
+[Fly-tipping incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
 [Google Earth Engine](https://earthengine.google.com/) & [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/)
 
@@ -43,6 +43,8 @@
 [Plastic waste by country](https://advances.sciencemag.org/content/6/44/eabd0288/tab-figures-data)
 
 [Public perception of climate change, Autumn 2020 (UK)](https://www.gov.uk/government/publications/climate-change-and-net-zero-public-awareness-and-perceptions)
+
+[Scottish energy performance certificates (register)](https://www.scottishepcregister.org.uk/)
 
 [Sea level data (global)](https://tidesandcurrents.noaa.gov/sltrends/sltrends_global.html)
 
