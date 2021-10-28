@@ -24,7 +24,7 @@
 
 [Maps in Geojson from public: Geocommons (150K)](https://github.com/geoiq/gc_data) and [simple webpage list](http://geocommons.com/search.html)
 
-[Open UPRN - unique property reference number (OS)](https://www.ordnancesurvey.co.uk/business-government/products/open-uprn)
+[Open UPRN — unique property reference number (OS)](https://www.ordnancesurvey.co.uk/business-government/products/open-uprn)
 
 [Placenames (11 million)](http://www.geonames.org/)
 

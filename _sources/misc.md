@@ -20,4 +20,4 @@
 
 [UFO reporting center (US)](http://www.nuforc.org/webreports.html)
 
-[UFO sightings data -- National UFO Reporting Center (US)](https://github.com/planetsig/ufo-reports)
+[UFO sightings data — National UFO Reporting Center (US)](https://github.com/planetsig/ufo-reports)

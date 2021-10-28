@@ -14,7 +14,7 @@
 
 [French project to emulate the Every Politician dataset — Code for France](https://pad.codefor.fr/gRw0eCTtRcid7I_sGIrnCw#Apr%C3%A8s-la-NCC--campagne-de-contributions)
 
-[French overseas aid data - AFD](https://opendata.afd.fr/explore/dataset/donnees-aide-au-developpement-afd/information/?disjunctive.pays_de_realisation)
+[French overseas aid data — AFD](https://opendata.afd.fr/explore/dataset/donnees-aide-au-developpement-afd/information/?disjunctive.pays_de_realisation)
 
 [German Bundestag parliamentary minutes since 1949](https://zenodo.org/record/4542662) and [article](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7EJ1KI)
 
@@ -33,6 +33,8 @@
 [Sanctions imposed around the world](https://sanctionsexplorer.org/?mc_cid=9e36fd5865&mc_eid=88c7f91a73)
 
 [Senedd elections 2021 (under 'supporting evidence')](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/senedd-elections/report-may-2021-elections-wales)
+
+[Senedd speeches in 5th Senedd](https://dataverse.harvard.edu/file.xhtml?fileId=4957018&version=1.0)
 
 [UK donations to political parties & MPs](http://search.electoralcommission.org.uk/?currentPage=1&rows=10&sort=RegulatedDoneeType&order=asc&tab=1&open=filter&et=pp&isIrishSourceYes=true&isIrishSourceNo=true&date=Accepted&from=&to=&quarters=2020q1&prePoll=false&postPoll=true&register=gb&register=ni&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)
 

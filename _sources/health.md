@@ -8,7 +8,7 @@
 
 [Drugs Misuse Statistics Scotland](https://data.gov.uk/dataset/c9722747-175e-49e8-b0b9-f89b7255fca5/drugs-misuse-statistics-scotland)
 
-[Emerging infections: monthly summaries](https://www.gov.uk/government/publications/emerging-infections-monthly-summaries?utm_source=36bf476f-58cf-44a9-a7bb-1a689d04260a&utm_medium=email&utm_campaign=govuk-notifications&utm_content=weekly)
+[Emerging infections: monthly summaries](https://www.gov.uk/government/publications/emerging-infections-monthly-summaries)
 
 [Food hygiene ratings for Cardiff](https://ratings.food.gov.uk/enhanced-search/en-GB/%5E/cardiff/Relevance/0/%5E/%5E/0/1/10)
 
@@ -28,6 +28,6 @@
 
 [Waiting times — NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/) & [NHS Wales](https://www.wales.nhs.uk/nhswalesaboutus/nhswaitingtimes)
 
-[WHO Health data and statistics](https://www.who.int/healthinfo/statistics/en/)
+[WHO health data and statistics](https://www.who.int/healthinfo/statistics/en/)
 
 [WHO Global Health Observatory data](http://apps.who.int/gho/data/node.home)

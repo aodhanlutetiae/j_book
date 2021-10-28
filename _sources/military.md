@@ -10,7 +10,7 @@
 
 [Global arms sales since 1950](https://www.sipri.org/databases/armstransfers)
 
-[Iraq war logs -- Wikileaks](https://wikileaks.org/irq/sort/type/friendly_fire_0.html)
+[Iraq war logs — Wikileaks](https://wikileaks.org/irq/sort/type/friendly_fire_0.html)
 
 [Spanish Civil War database](https://github.com/ihrworld/ihr-scwd)
 

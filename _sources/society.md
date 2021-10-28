@@ -44,7 +44,7 @@
 
 [Irish passports — Irish govt](https://www.dfa.ie/passports/open-data/)
 
-[Marriage, cohabitation and civil partnerships - ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships)
+[Marriage, cohabitation and civil partnerships — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships)
 
 [Migration Data Portal — International Organisation for Migration](https://gmdac.iom.int/global-migration-data-portal)
 
@@ -70,7 +70,7 @@
 
 [Sustainable Development Goals (tracking)](https://sdg-tracker.org/)
 
-[Travel in and out of the UK - international passenger survey](https://www.ons.gov.uk/surveys/informationforhouseholdsandindividuals/householdandindividualsurveys/internationalpassengersurvey)
+[Travel in and out of the UK — international passenger survey](https://www.ons.gov.uk/surveys/informationforhouseholdsandindividuals/householdandindividualsurveys/internationalpassengersurvey)
 
 [UK: Overseas residents and UK residents abroad — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/travelandtourism)
 

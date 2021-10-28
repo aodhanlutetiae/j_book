@@ -54,4 +54,6 @@
 
 [UK working from home by local authority](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
 
+[Violation index — 60,000 enforcement actions brought against companies by government regulators in England, Scotland, Wales and N Ireland](https://violationtrackeruk.goodjobsfirst.org/)
+
 [World mining datasets](https://doi.pangaea.de/10.1594/PANGAEA.910894)
