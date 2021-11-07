@@ -1,8 +1,12 @@
 # Business & economy
 
+[ATMs in the UK](https://www.link.co.uk/initiatives/financial-inclusion-monthly-report/)
+
 [Automation of jobs — ONS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25)
 
 [Big Mac Index — The Economist](https://github.com/TheEconomist/big-mac-data)
+
+[Charities index UK](https://findthatcharity.uk/)
 
 [Childcare costs in London](https://data.london.gov.uk/dataset/average-childcare-costs-in-london) and [across OECD](https://stats.oecd.org/Index.aspx?DataSetCode=NCC#)
 
@@ -30,6 +34,8 @@
 
 [Labour market statistics — Nomis (ONS)](https://www.nomisweb.co.uk/)
 
+[Land registry UK: who owns what?](https://use-land-property-data.service.gov.uk) & [price paid data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#yearly-file)
+
 [Livestock in Wales — last ten years](https://statswales.gov.wales/Catalogue/Agriculture/Agricultural-Survey/Annual-Survey-Results/total-livestock-in-wales-by-year)
 
 [Millenium of macroeconomic data — Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx?la=en&hash=73ABBFB603A709FEEB1FD349B1C61F11527F1DE4)
@@ -45,8 +51,6 @@
 [Restaurant spending via Revolut in pandemic (UK)](https://www.gov.uk/government/publications/revolut-restaurant-card-spending-data)
 
 [Strikes in China](https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2021-03&endDate=2021-09&eventId=&keyword=&addressId=&parentAddressId=&address=&parentAddress=&industry=&parentIndustry=&industryName=)
-
-[UK Land registry: who owns what?](https://use-land-property-data.service.gov.uk)
 
 [UK labour market statistics](https://www.nomisweb.co.uk/)
 
