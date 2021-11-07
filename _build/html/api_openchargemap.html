@@ -55,7 +55,7 @@
     <link rel="author" title="About these documents" href="about.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Tools" href="tools.html" />
+    <link rel="next" title="Basic charts in pandas" href="viz_pandas_syntax.html" />
     <link rel="prev" title="UK police API" href="api_uk_police.html" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -116,7 +116,7 @@
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="business.html">
-     Business &amp; Finance
+     Business &amp; economy
     </a>
    </li>
    <li class="toctree-l2">
@@ -221,6 +221,16 @@
    <li class="toctree-l2 current active">
     <a class="current reference internal" href="#">
      Open Charge Map API
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="viz_pandas_syntax.html">
+     Basic charts in pandas
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="viz_summary_stats.html">
+     Summary statistics
     </a>
    </li>
   </ul>
@@ -421,7 +431,7 @@
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>134
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>0
 </pre></div>
 </div>
 </div>
@@ -436,40 +446,14 @@
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>{&#39;IsRecentlyVerified&#39;: False,
- &#39;ID&#39;: 88787,
- &#39;UUID&#39;: &#39;FED58EBC-4C2B-4D67-B13F-8B2ADA11FC1C&#39;,
- &#39;DataProviderID&#39;: 1,
- &#39;OperatorID&#39;: 23,
- &#39;OperatorsReference&#39;: &#39;30531&#39;,
- &#39;UsageTypeID&#39;: 4,
- &#39;AddressInfo&#39;: {&#39;ID&#39;: 89133,
-  &#39;Title&#39;: &quot;St David&#39;s Shopping Centre&quot;,
-  &#39;AddressLine1&#39;: &quot;St David&#39;s Shopping Centre Bridge Street Arcade&quot;,
-  &#39;StateOrProvince&#39;: &#39;Cardiff&#39;,
-  &#39;Postcode&#39;: &#39;CF10 2EQ&#39;,
-  &#39;CountryID&#39;: 1,
-  &#39;Latitude&#39;: 51.479103,
-  &#39;Longitude&#39;: -3.174819,
-  &#39;ContactTelephone1&#39;: &#39;+44 292 036 7650&#39;,
-  &#39;Distance&#39;: 0.31188723957969405,
-  &#39;DistanceUnit&#39;: 2},
- &#39;Connections&#39;: [{&#39;ID&#39;: 126035,
-   &#39;ConnectionTypeID&#39;: 30,
-   &#39;StatusTypeID&#39;: 50,
-   &#39;LevelID&#39;: 2,
-   &#39;Amps&#39;: 32,
-   &#39;Voltage&#39;: 230,
-   &#39;PowerKW&#39;: 13.0,
-   &#39;CurrentTypeID&#39;: 20,
-   &#39;Quantity&#39;: 2}],
- &#39;NumberOfPoints&#39;: 2,
- &#39;GeneralComments&#39;: &#39;2 Tesla Connectors, up to 13kW.Available for customers. Self park.&#39;,
- &#39;StatusTypeID&#39;: 50,
- &#39;DateLastStatusUpdate&#39;: &#39;2018-10-03T15:07:00Z&#39;,
- &#39;DataQualityLevel&#39;: 1,
- &#39;DateCreated&#39;: &#39;2017-06-09T13:39:00Z&#39;,
- &#39;SubmissionStatusTypeID&#39;: 200}
+<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
+<span class="ne">IndexError</span><span class="g g-Whitespace">                                </span>Traceback (most recent call last)
+<span class="o">&lt;</span><span class="n">ipython</span><span class="o">-</span><span class="nb">input</span><span class="o">-</span><span class="mi">6</span><span class="o">-</span><span class="n">d94cf29cf2de</span><span class="o">&gt;</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<span class="g g-Whitespace">      </span><span class="mi">2</span> 
+<span class="g g-Whitespace">      </span><span class="mi">3</span> <span class="n">data</span> <span class="o">=</span> <span class="n">req</span><span class="o">.</span><span class="n">json</span><span class="p">()</span>
+<span class="ne">----&gt; </span><span class="mi">4</span> <span class="n">data</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+
+<span class="ne">IndexError</span>: list index out of range
 </pre></div>
 </div>
 </div>
@@ -621,9 +605,9 @@ BS20 7TN
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>198
-198
-2
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>200
+200
+0
 </pre></div>
 </div>
 </div>
@@ -637,27 +621,18 @@ BS20 7TN
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>{&#39;London&#39;: 9,
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>{&#39;Coventry&#39;: 22,
  &#39;Carlisle&#39;: 9,
- &#39;Elton&#39;: 7,
- &#39;Manchester&#39;: 7,
- &#39;Helmsley&#39;: 5,
- &#39;York&#39;: 5,
+ &#39;Leicester&#39;: 6,
  &#39;Lancaster&#39;: 5,
  &#39;Leeds&#39;: 5,
- &#39;Whitby&#39;: 4,
- &#39;Ryedale&#39;: 4,
  &#39;Chester&#39;: 4,
- &#39;Wycombe&#39;: 3,
- &#39;Malton&#39;: 3,
- &#39;Penrith&#39;: 3,
  &#39;Dundee&#39;: 3,
  &#39;South Shields&#39;: 3,
  &#39;Sunderland&#39;: 3,
  &#39;Isle of Man&#39;: 3,
- &#39;Gloucester&#39;: 2,
- &#39;Norwich&#39;: 2,
- &#39;Chichester&#39;: 2,
+ &#39;York&#39;: 3,
+ &#39;Wigston&#39;: 3,
  &#39;Amesbury&#39;: 2,
  &#39;Fife&#39;: 2,
  &#39;Glasgow&#39;: 2,
@@ -665,7 +640,9 @@ BS20 7TN
  &#39;Newcastle upon Tyne&#39;: 2,
  &#39;Newcastle Upon Tyne&#39;: 2,
  &#39;County Durham&#39;: 2,
+ &#39;Penrith&#39;: 2,
  &#39;North Yorkshire&#39;: 2,
+ &#39;Malton&#39;: 2,
  &#39;Sheffield&#39;: 2,
  &#39;Frodsham&#39;: 2,
  &#39;Ellesmere Port&#39;: 2,
@@ -673,7 +650,10 @@ BS20 7TN
  &#39;Northwich&#39;: 2,
  &#39;Crewe&#39;: 2,
  &#39;Nottingham&#39;: 2,
- &#39;Worcester&#39;: 1,
+ &#39;Telford&#39;: 2,
+ &#39;Peterborough&#39;: 2,
+ &#39;Hinckley&#39;: 2,
+ &#39;Birmingham&#39;: 2,
  &#39;City of Edinburgh&#39;: 1,
  &#39;Wealden&#39;: 1,
  &#39;Southampton&#39;: 1,
@@ -682,6 +662,7 @@ BS20 7TN
  &#39;Falkirk&#39;: 1,
  &#39;Reading&#39;: 1,
  &#39;Bainsford&#39;: 1,
+ &#39;London&#39;: 1,
  &#39;Edinburgh&#39;: 1,
  &#39;Midlothain&#39;: 1,
  &#39;Motherwell&#39;: 1,
@@ -692,6 +673,7 @@ BS20 7TN
  &#39;East Boldon&#39;: 1,
  &#39;Hartlepool&#39;: 1,
  &#39;Middlesbrough&#39;: 1,
+ &#39;Whitby&#39;: 1,
  &#39;Cumbria&#39;: 1,
  &#39;Ramsey&#39;: 1,
  &#39;Sedbergh&#39;: 1,
@@ -721,6 +703,7 @@ BS20 7TN
  &#39;Bolton&#39;: 1,
  &#39;Wigan&#39;: 1,
  &#39;Liverpool&#39;: 1,
+ &#39;Manchester&#39;: 1,
  &#39;Saint Helens&#39;: 1,
  &#39;Birchwood&#39;: 1,
  &#39;Prescot&#39;: 1,
@@ -747,9 +730,19 @@ BS20 7TN
  &#39;Stafford&#39;: 1,
  &#39;Fakenham&#39;: 1,
  &#39;North Walsham&#39;: 1,
- &#39;Wigston&#39;: 1,
  &#39;Bourne&#39;: 1,
- &#39;Thringstone&#39;: 1}
+ &#39;Thringstone&#39;: 1,
+ &#39;Coalville,&#39;: 1,
+ &#39;Hoveton&#39;: 1,
+ &#39;Cannock&#39;: 1,
+ &#39;Lichfield&#39;: 1,
+ &#39;Stamford&#39;: 1,
+ &#39;Norwich&#39;: 1,
+ &#39;Great Yarmouth&#39;: 1,
+ &#39;Bilston&#39;: 1,
+ &#39;Nuneaton&#39;: 1,
+ &#39;Halesowen&#39;: 1,
+ &#39;Kinver&#39;: 1}
 </pre></div>
 </div>
 </div>
@@ -782,7 +775,7 @@ BS20 7TN
         <div class='prev-next-bottom'>
             
     <a class='left-prev' id="prev-link" href="api_uk_police.html" title="previous page">UK police API</a>
-    <a class='right-next' id="next-link" href="tools.html" title="next page">Tools</a>
+    <a class='right-next' id="next-link" href="viz_pandas_syntax.html" title="next page">Basic charts in pandas</a>
 
         </div>
         

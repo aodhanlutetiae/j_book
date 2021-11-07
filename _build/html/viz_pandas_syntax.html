@@ -1,0 +1,1022 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basic charts in pandas &#8212; Journalism, Data</title>
+    
+  <link rel="stylesheet" href="_static/css/index.f658d18f9b420779cfdf24aa0a7e2d77.css">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/sphinx-book-theme.e7340bb3dbd8dde6db86f25597f54a1b.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="_static/js/index.d3f166471bb80abb5163.js">
+
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/togglebutton.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/sphinx-book-theme.7d483ff0a819d6edff12ce0b1ead3928.js"></script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="author" title="About these documents" href="about.html" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Summary statistics" href="viz_summary_stats.html" />
+    <link rel="prev" title="Open Charge Map API" href="api_openchargemap.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="index.html">
+  
+  <img src="_static/jomec_logo.png" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Journalism, Data</h1>
+  
+</a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="intro.html">
+   Intro
+  </a>
+ </li>
+</ul>
+<ul class="current nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="monitoring.html">
+   Monitoring
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="collections.html">
+   Collections
+  </a>
+ </li>
+ <li class="toctree-l1 collapsible-parent">
+  <a class="reference internal" href="data.html">
+   Lists of datasets
+  </a>
+  <ul class="collapse-ul">
+   <li class="toctree-l2">
+    <a class="reference internal" href="arts.html">
+     Arts &amp; Culture
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="business.html">
+     Business &amp; economy
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="cities.html">
+     Cities
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="crime.html">
+     Crime
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="education.html">
+     Education
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="environment.html">
+     Environment
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="health.html">
+     Health
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="journalism.html">
+     Journalism
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="misc.html">
+     Misc
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="politics.html">
+     Politics
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="politics_us.html">
+     Politics (US)
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="religion.html">
+     Religion
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="mapping.html">
+     Mapping
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="military.html">
+     Military
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="society.html">
+     Society
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="sport.html">
+     Sport &amp; gaming
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="tech.html">
+     Tech &amp; IT
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="transport.html">
+     Transport
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="ukgov.html">
+     UK government
+    </a>
+   </li>
+  </ul>
+  <i class="fas fa-chevron-down">
+  </i>
+ </li>
+ <li class="toctree-l1 current active collapsible-parent">
+  <a class="reference internal" href="analysis.html">
+   Notebooks
+  </a>
+  <ul class="current collapse-ul">
+   <li class="toctree-l2">
+    <a class="reference internal" href="api_uk_police.html">
+     UK police API
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="api_openchargemap.html">
+     Open Charge Map API
+    </a>
+   </li>
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     Basic charts in pandas
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="viz_summary_stats.html">
+     Summary statistics
+    </a>
+   </li>
+  </ul>
+  <i class="fas fa-chevron-down">
+  </i>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="tools.html">
+   Tools
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="about.html">
+   About
+  </a>
+ </li>
+</ul>
+
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="_sources/viz_pandas_syntax.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.ipynb</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/executablebooks/jupyter-book"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Fviz_pandas_syntax.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        
+    </div>
+</div>
+
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+            <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                    data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                    title="Fullscreen mode"><i
+                        class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Launch interactive content"><i class="fas fa-rocket"></i></button>
+    <div class="dropdown-buttons">
+        
+        <a class="binder-button" href="https://mybinder.org/v2/gh/executablebooks/jupyter-book/master?urlpath=tree/docs/viz_pandas_syntax.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Launch Binder" data-toggle="tooltip"
+                data-placement="left"><img class="binder-button-logo"
+                    src="_static/images/logo_binder.svg"
+                    alt="Interact on binder">Binder</button></a>
+        
+        
+        
+        
+    </div>
+</div>
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i>
+            Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#documentation">
+   documentation
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bar-chart">
+   Bar chart
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#linechart">
+   Linechart
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#scatterplot">
+   Scatterplot
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#histogram">
+   Histogram
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#piechart">
+   Piechart
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#boxplot">
+   Boxplot
+  </a>
+ </li>
+</ul>
+
+        </nav>
+        
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="basic-charts-in-pandas">
+<h1>Basic charts in pandas<a class="headerlink" href="#basic-charts-in-pandas" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="documentation">
+<h2>documentation<a class="headerlink" href="#documentation" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p><a class="reference external" href="https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.DataFrame.plot.html">https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.DataFrame.plot.html</a></p>
+</div></blockquote>
+<blockquote>
+<div><p><a class="reference external" href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.hist.html">https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.hist.html</a></p>
+</div></blockquote>
+<blockquote>
+<div><p>Source (pubs): <a class="reference external" href="https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsbylocalauthority">https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsbylocalauthority</a></p>
+</div></blockquote>
+<blockquote>
+<div><p>Source (population): <a class="reference external" href="https://statswales.gov.wales/Catalogue/Population-and-Migration/Population/Estimates/Local-Authority/populationestimates-by-localauthority-year">https://statswales.gov.wales/Catalogue/Population-and-Migration/Population/Estimates/Local-Authority/populationestimates-by-localauthority-year</a></p>
+</div></blockquote>
+<blockquote>
+<div><p>plots available in pandas</p>
+</div></blockquote>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>    ‘line’ : line plot (default)
+    ‘bar’ : vertical bar plot
+    ‘barh’ : horizontal bar plot
+    ‘hist’ : histogram
+    ‘box’ : boxplot
+    ‘kde’ : Kernel Density Estimation plot
+    ‘density’ : same as ‘kde’
+    ‘area’ : area plot
+    ‘pie’ : pie plot
+    ‘scatter’ : scatter plot
+    ‘hexbin’ : hexbin plot
+</pre></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># import population data in Wales for 2001, 2018</span>
+
+<span class="n">path</span> <span class="o">=</span> <span class="s1">&#39;/Users/aidanair/Documents/DATA/ALL_DATASETS/&#39;</span>
+<span class="n">file</span> <span class="o">=</span> <span class="s1">&#39;wales_population.csv&#39;</span>
+
+<span class="n">pop</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">path</span> <span class="o">+</span> <span class="n">file</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">pop</span><span class="p">[:</span><span class="mi">3</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>area</th>
+      <th>pop_one</th>
+      <th>pop_eighteen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Isle of Anglesey</td>
+      <td>67,806</td>
+      <td>69,961</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Gwynedd</td>
+      <td>116,844</td>
+      <td>124,178</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Conwy</td>
+      <td>109,674</td>
+      <td>117,181</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># check data types </span>
+
+<span class="n">pop</span><span class="o">.</span><span class="n">info</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;class &#39;pandas.core.frame.DataFrame&#39;&gt;
+RangeIndex: 22 entries, 0 to 21
+Data columns (total 3 columns):
+ #   Column        Non-Null Count  Dtype 
+---  ------        --------------  ----- 
+ 0   area          22 non-null     object
+ 1   pop_one       22 non-null     object
+ 2   pop_eighteen  22 non-null     object
+dtypes: object(3)
+memory usage: 656.0+ bytes
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># fix integers</span>
+
+<span class="c1"># remove the ,</span>
+<span class="n">pop</span> <span class="o">=</span> <span class="n">pop</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;,&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span> <span class="n">regex</span> <span class="o">=</span> <span class="kc">True</span><span class="p">)</span>
+
+<span class="c1"># cast population columns to integers</span>
+<span class="n">pop</span><span class="o">.</span><span class="n">pop_one</span> <span class="o">=</span> <span class="n">pop</span><span class="o">.</span><span class="n">pop_one</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">int</span><span class="p">)</span>
+<span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span> <span class="o">=</span> <span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">int</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># check datatypes again</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">pop</span><span class="o">.</span><span class="n">info</span><span class="p">())</span>
+<span class="n">pop</span><span class="p">[:</span><span class="mi">3</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;class &#39;pandas.core.frame.DataFrame&#39;&gt;
+RangeIndex: 22 entries, 0 to 21
+Data columns (total 3 columns):
+ #   Column        Non-Null Count  Dtype 
+---  ------        --------------  ----- 
+ 0   area          22 non-null     object
+ 1   pop_one       22 non-null     int64 
+ 2   pop_eighteen  22 non-null     int64 
+dtypes: int64(2), object(1)
+memory usage: 656.0+ bytes
+None
+</pre></div>
+</div>
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>area</th>
+      <th>pop_one</th>
+      <th>pop_eighteen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Isle of Anglesey</td>
+      <td>67806</td>
+      <td>69961</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Gwynedd</td>
+      <td>116844</td>
+      <td>124178</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Conwy</td>
+      <td>109674</td>
+      <td>117181</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+</div>
+<div class="section" id="bar-chart">
+<h2>Bar chart<a class="headerlink" href="#bar-chart" title="Permalink to this headline">¶</a></h2>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># use area names column as index (instead of row numbers) - this will label the x axis</span>
+
+<span class="n">pop</span><span class="o">.</span><span class="n">set_index</span><span class="p">(</span><span class="s1">&#39;area&#39;</span><span class="p">,</span> <span class="n">inplace</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># bar chart</span>
+
+<span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;bar&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:xlabel=&#39;area&#39;&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_11_1.png" src="_images/viz_pandas_syntax_11_1.png" />
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># # horizontal bar chart, with adjusted opacity and figure size</span>
+
+<span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;barh&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;population (2018)&#39;</span><span class="p">,</span> <span class="n">alpha</span> <span class="o">=</span> <span class="mf">0.5</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">9</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:ylabel=&#39;area&#39;&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_12_1.png" src="_images/viz_pandas_syntax_12_1.png" />
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># stacked barchart with title, grid and labels</span>
+
+<span class="n">pop</span><span class="p">[[</span><span class="s1">&#39;pop_one&#39;</span><span class="p">,</span><span class="s1">&#39;pop_eighteen&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;barh&#39;</span><span class="p">,</span> 
+                                     <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">9</span><span class="p">),</span>
+                                     <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;Population estimates mid-2001 &amp; mid-2018 in Wales (by local authority)&#39;</span><span class="p">,</span>
+                                     <span class="n">grid</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>
+                                     <span class="n">stacked</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span>
+                                     <span class="n">xlabel</span> <span class="o">=</span> <span class="s1">&#39;Area&#39;</span><span class="p">,</span> 
+                                     <span class="n">ylabel</span> <span class="o">=</span> <span class="s1">&#39;Population&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:title={&#39;center&#39;:&#39;Population estimates mid-2001 &amp; mid-2018 in Wales (by local authority)&#39;}, ylabel=&#39;Area&#39;&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_13_1.png" src="_images/viz_pandas_syntax_13_1.png" />
+</div>
+</div>
+</div>
+<div class="section" id="linechart">
+<h2>Linechart<a class="headerlink" href="#linechart" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p>using numbers of pubs in Wales by local authority 2001-18</p>
+</div></blockquote>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">path</span> <span class="o">=</span> <span class="s1">&#39;/Users/aidanair/Documents/DATA/ALL_DATASETS/&#39;</span>
+<span class="n">file</span> <span class="o">=</span> <span class="s1">&#39;wales_pubs_area_2001_18.csv&#39;</span>
+
+<span class="n">years</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">path</span> <span class="o">+</span> <span class="n">file</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># set the area name as the index</span>
+
+<span class="n">years</span> <span class="o">=</span> <span class="n">years</span><span class="o">.</span><span class="n">set_index</span><span class="p">(</span><span class="s1">&#39;area&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># transpose the df so the years run on the vertical index</span>
+
+<span class="n">years</span> <span class="o">=</span> <span class="n">years</span><span class="o">.</span><span class="n">transpose</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">years</span><span class="p">[</span><span class="s1">&#39;Conwy&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
+<span class="ne">TypeError</span><span class="g g-Whitespace">                                 </span>Traceback (most recent call last)
+<span class="o">&lt;</span><span class="n">ipython</span><span class="o">-</span><span class="nb">input</span><span class="o">-</span><span class="mi">14</span><span class="o">-</span><span class="mf">1e8</span><span class="n">d9cc3f86d</span><span class="o">&gt;</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<span class="ne">----&gt; </span><span class="mi">1</span> <span class="n">years</span><span class="p">[</span><span class="s1">&#39;Conwy&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+
+<span class="nn">~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_core.py</span> in <span class="ni">__call__</span><span class="nt">(self, *args, **kwargs)</span>
+<span class="g g-Whitespace">    </span><span class="mi">970</span>                     <span class="n">data</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="n">label_name</span>
+<span class="g g-Whitespace">    </span><span class="mi">971</span> 
+<span class="ne">--&gt; </span><span class="mi">972</span>         <span class="k">return</span> <span class="n">plot_backend</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">kind</span><span class="o">=</span><span class="n">kind</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">973</span> 
+<span class="g g-Whitespace">    </span><span class="mi">974</span>     <span class="fm">__call__</span><span class="o">.</span><span class="vm">__doc__</span> <span class="o">=</span> <span class="vm">__doc__</span>
+
+<span class="nn">~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_matplotlib/__init__.py</span> in <span class="ni">plot</span><span class="nt">(data, kind, **kwargs)</span>
+<span class="g g-Whitespace">     </span><span class="mi">69</span>             <span class="n">kwargs</span><span class="p">[</span><span class="s2">&quot;ax&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="nb">getattr</span><span class="p">(</span><span class="n">ax</span><span class="p">,</span> <span class="s2">&quot;left_ax&quot;</span><span class="p">,</span> <span class="n">ax</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">70</span>     <span class="n">plot_obj</span> <span class="o">=</span> <span class="n">PLOT_CLASSES</span><span class="p">[</span><span class="n">kind</span><span class="p">](</span><span class="n">data</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+<span class="ne">---&gt; </span><span class="mi">71</span>     <span class="n">plot_obj</span><span class="o">.</span><span class="n">generate</span><span class="p">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">72</span>     <span class="n">plot_obj</span><span class="o">.</span><span class="n">draw</span><span class="p">()</span>
+<span class="g g-Whitespace">     </span><span class="mi">73</span>     <span class="k">return</span> <span class="n">plot_obj</span><span class="o">.</span><span class="n">result</span>
+
+<span class="nn">~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_matplotlib/core.py</span> in <span class="ni">generate</span><span class="nt">(self)</span>
+<span class="g g-Whitespace">    </span><span class="mi">284</span>     <span class="k">def</span> <span class="nf">generate</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<span class="g g-Whitespace">    </span><span class="mi">285</span>         <span class="bp">self</span><span class="o">.</span><span class="n">_args_adjust</span><span class="p">()</span>
+<span class="ne">--&gt; </span><span class="mi">286</span>         <span class="bp">self</span><span class="o">.</span><span class="n">_compute_plot_data</span><span class="p">()</span>
+<span class="g g-Whitespace">    </span><span class="mi">287</span>         <span class="bp">self</span><span class="o">.</span><span class="n">_setup_subplots</span><span class="p">()</span>
+<span class="g g-Whitespace">    </span><span class="mi">288</span>         <span class="bp">self</span><span class="o">.</span><span class="n">_make_plot</span><span class="p">()</span>
+
+<span class="nn">~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_matplotlib/core.py</span> in <span class="ni">_compute_plot_data</span><span class="nt">(self)</span>
+<span class="g g-Whitespace">    </span><span class="mi">451</span>         <span class="c1"># no non-numeric frames or series allowed</span>
+<span class="g g-Whitespace">    </span><span class="mi">452</span>         <span class="k">if</span> <span class="n">is_empty</span><span class="p">:</span>
+<span class="ne">--&gt; </span><span class="mi">453</span>             <span class="k">raise</span> <span class="ne">TypeError</span><span class="p">(</span><span class="s2">&quot;no numeric data to plot&quot;</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">454</span> 
+<span class="g g-Whitespace">    </span><span class="mi">455</span>         <span class="bp">self</span><span class="o">.</span><span class="n">data</span> <span class="o">=</span> <span class="n">numeric_data</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_convert_to_ndarray</span><span class="p">)</span>
+
+<span class="ne">TypeError</span>: no numeric data to plot
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">years</span><span class="p">[[</span><span class="s1">&#39;Cardiff&#39;</span><span class="p">,</span> <span class="s1">&#39;Newport&#39;</span><span class="p">,</span> <span class="s1">&#39;Swansea&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">9</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_19_1.png" src="_images/viz_pandas_syntax_19_1.png" />
+</div>
+</div>
+</div>
+<div class="section" id="scatterplot">
+<h2>Scatterplot<a class="headerlink" href="#scatterplot" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p>Wales pubs and population in 2018: gives a (dependent) variable to set against population: the number of pubs in local authorities</p>
+</div></blockquote>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">path</span> <span class="o">=</span> <span class="s1">&#39;/Users/aidanair/Documents/DATA/ALL_DATASETS/&#39;</span>
+<span class="n">file</span> <span class="o">=</span> <span class="s1">&#39;wales_all.csv&#39;</span>
+
+<span class="n">pp</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">path</span> <span class="o">+</span> <span class="n">file</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">pp</span><span class="p">[:</span><span class="mi">3</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>area</th>
+      <th>pubs</th>
+      <th>pop</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Isle of Anglesey</td>
+      <td>60</td>
+      <td>69961</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Gwynedd</td>
+      <td>120</td>
+      <td>124178</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Conwy</td>
+      <td>100</td>
+      <td>117181</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># scatterplot with dotsize (s) and dotcolour (c)</span>
+
+<span class="n">pp</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> 
+        <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;pop&#39;</span><span class="p">,</span> 
+        <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;pubs&#39;</span><span class="p">,</span> 
+        <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">9</span><span class="p">),</span>
+        <span class="n">alpha</span> <span class="o">=</span> <span class="mf">0.9</span><span class="p">,</span>
+        <span class="n">title</span> <span class="o">=</span> <span class="p">(</span><span class="s1">&#39;Population (mid-2018 estimate) and number of pubs in Wales (by local authority)&#39;</span><span class="p">),</span>
+        <span class="n">grid</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>
+        <span class="n">s</span> <span class="o">=</span> <span class="mi">165</span><span class="p">,</span> 
+        <span class="n">c</span> <span class="o">=</span> <span class="s1">&#39;r&#39;</span><span class="p">,</span>
+        <span class="n">xlabel</span> <span class="o">=</span> <span class="s1">&#39;POPULATION&#39;</span><span class="p">,</span>
+        <span class="n">ylabel</span> <span class="o">=</span> <span class="s1">&#39;PUBS&#39;</span><span class="p">)</span>
+
+<span class="c1"># save to current directory</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="s1">&#39;wales_pop_pub.png&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<img alt="_images/viz_pandas_syntax_23_0.png" src="_images/viz_pandas_syntax_23_0.png" />
+</div>
+</div>
+</div>
+<div class="section" id="histogram">
+<h2>Histogram<a class="headerlink" href="#histogram" title="Permalink to this headline">¶</a></h2>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># histogram on a single column</span>
+
+<span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">hist</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_25_1.png" src="_images/viz_pandas_syntax_25_1.png" />
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># histogram on both cols</span>
+
+<span class="n">pop</span><span class="p">[[</span><span class="s1">&#39;pop_one&#39;</span><span class="p">,</span><span class="s1">&#39;pop_eighteen&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;hist&#39;</span><span class="p">,</span> 
+                                     <span class="n">alpha</span> <span class="o">=</span> <span class="mf">0.5</span><span class="p">,</span> 
+                                     <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">9</span><span class="p">),</span>
+                                     <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;Population estimates mid-2001 &amp; mid-2018 in Wales (by local authority)&#39;</span><span class="p">,</span>
+                                     <span class="n">grid</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>
+                                     <span class="n">stacked</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span>
+                                     <span class="n">bins</span> <span class="o">=</span> <span class="mi">12</span><span class="p">,</span>
+                                     <span class="n">xlabel</span> <span class="o">=</span> <span class="s1">&#39;Area&#39;</span><span class="p">,</span> 
+                                     <span class="n">ylabel</span> <span class="o">=</span> <span class="s1">&#39;Population&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:title={&#39;center&#39;:&#39;Population estimates mid-2001 &amp; mid-2018 in Wales (by local authority)&#39;}, ylabel=&#39;Frequency&#39;&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_26_1.png" src="_images/viz_pandas_syntax_26_1.png" />
+</div>
+</div>
+</div>
+<div class="section" id="piechart">
+<h2>Piechart<a class="headerlink" href="#piechart" title="Permalink to this headline">¶</a></h2>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># piechart</span>
+
+<span class="n">pop</span><span class="p">[</span><span class="s1">&#39;pop_one&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="o">.</span><span class="n">pie</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">20</span><span class="p">,</span><span class="mi">12</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:ylabel=&#39;pop_one&#39;&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_28_1.png" src="_images/viz_pandas_syntax_28_1.png" />
+</div>
+</div>
+</div>
+<div class="section" id="boxplot">
+<h2>Boxplot<a class="headerlink" href="#boxplot" title="Permalink to this headline">¶</a></h2>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># box plots by single column...</span>
+
+<span class="n">pop</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="s1">&#39;pop_one&#39;</span><span class="p">)</span> 
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_30_1.png" src="_images/viz_pandas_syntax_30_1.png" />
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">pop</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="s1">&#39;pop_eighteen&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_31_1.png" src="_images/viz_pandas_syntax_31_1.png" />
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># ... and by df (with default vertical turned off) and colour selected</span>
+
+<span class="n">pop</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="n">vert</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span> <span class="n">grid</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span> <span class="n">color</span> <span class="o">=</span> <span class="s1">&#39;red&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_32_1.png" src="_images/viz_pandas_syntax_32_1.png" />
+</div>
+</div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        
+        <div class='prev-next-bottom'>
+            
+    <a class='left-prev' id="prev-link" href="api_openchargemap.html" title="previous page">Open Charge Map API</a>
+    <a class='right-next' id="next-link" href="viz_summary_stats.html" title="next page">Summary statistics</a>
+
+        </div>
+        
+        </div>
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Aidan O'Donnell<br/>
+        
+            &copy; Copyright 2021.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="_static/js/index.d3f166471bb80abb5163.js"></script>
+
+
+    
+  </body>
+</html>

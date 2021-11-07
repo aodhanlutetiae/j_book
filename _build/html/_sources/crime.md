@@ -4,6 +4,8 @@
 
 [Antiquities crime on social media — ATHAR Project](http://atharproject.org/report2019/)
 
+[Arrests in England & Wales by location, sex, ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/number-of-arrests/latest)
+
 [Attacks on aid workers around the world](https://aidworkersecurity.org/)
 
 [Blue badge system in England: use and abuse](https://www.gov.uk/government/statistical-data-sets/blue-badge-scheme-statistics-data-tables-dis)
@@ -44,6 +46,8 @@
 
 [Prison populations UK](https://www.gov.uk/government/statistics/prison-population-figures-2021)
 
+[Rural crime survey UK 2018](https://www.nationalruralcrimenetwork.net/research/internal/2018survey/)
+
 [London's Metropolitan police](https://data.london.gov.uk/dataset/?org=db7940dd-ee1a-4a68-b874-c34151e16e82)
 
 [US civilian complaints against NYPD police, 1982-2020 — Propublica](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers)
@@ -60,7 +64,7 @@
 
 [US death row prisoners since 1976 — The Intercept](https://github.com/firstlookmedia/the-condemned-data)
 
-[US death row inmates executed since 1976 — Select Star SQL](https://www.google.com/url?q=https://selectstarsql.com/frontmatter.html)
+[US death row inmates executed since 1976 — Select Star SQL](https://selectstarsql.com/frontmatter.html)
 
 [US police officers in Chicago who had civil rights lawsuits against them with settlements paid to complainant](http://projects.chicagoreporter.com/settlements/search/officersDatabase)
 

@@ -26,6 +26,8 @@
 
 [Metadata for all Samuel Beckett letters — The Samuel Beckett Society](https://beckett.library.emory.edu/)
 
+[Metropolitan Museum of Art collection, New York. 400k+ entries](https://github.com/metmuseum/openaccess/)
+
 [Million song dataset (280GB)](http://millionsongdataset.com/)
 
 [New York Philharmonic performances, 1842-2020](https://data.world/popculture/new-york-philharmonic-performances)

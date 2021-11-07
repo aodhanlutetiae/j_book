@@ -26,6 +26,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Data Times](https://thedatatimes.com/)
 
+[Dataverse: research datasets made public — Harvard](https://dataverse.harvard.edu/)
+
 [Department for Transport](https://www.gov.uk/government/organisations/department-for-transport/about/statistics)
 
 [European data journalism network (institutional datasets)](https://www.europeandatajournalism.eu/eng/Tools-for-journalists/Useful-data)
@@ -33,6 +35,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [Get the data: Q&A forum for finding answers in or about data](http://getthedata.org/)
 
 [Google Bigquery datasets on Kaggle](https://www.kaggle.com/datasets?search=%23bigquery)
+
+[Goverment Statistical Service (beta)](https://beta.gss-data.org.uk/datasets)
 
 [Guardian Data Blog: 1400 stories with data sources (2009-11)](https://docs.google.com/spreadsheets/d/14gdRgcb_4cIRWrIlJRHgWQDGRZczC1Vbn-Hz2TfBL0A/edit?usp=sharing)
 

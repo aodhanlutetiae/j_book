@@ -22,9 +22,13 @@
 
 [Dams database — Global Dam Watch](https://globaldamwatch.org/goodd/)
 
+[Diet in the UK, survey](https://www.gov.uk/government/collections/national-diet-and-nutrition-survey)
+
 [Disaster Datasets — Planet](https://www.planet.com/disasterdata/datasets/)
 
 [Energy performance of 21 million buildings, England & Wales](https://epc.opendatacommunities.org)
+
+[Energy performance certificates, Scottish register](https://www.scottishepcregister.org.uk/)
 
 [Fly-tipping incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 

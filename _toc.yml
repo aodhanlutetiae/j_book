@@ -29,6 +29,8 @@
   sections:
     - file: api_uk_police
     - file: api_openchargemap
+    - file: viz_pandas_syntax
+    - file: viz_summary_stats
 
 - file: tools
 - file: about

@@ -22,6 +22,8 @@
 
 [Google Trends — random CSV files](https://github.com/googletrends/data)
 
+[Internet shutdowns around the world](https://www.accessnow.org/keepiton/)
+
 [Machine Learning Projects: find open data | Kaggle](https://www.kaggle.com/datasets?sortBy=relevance&group=featured&search=tag%3A%27journalism%27)
 
 [Privacy on a million sites — Princeton web census on trackers](https://webtransparency.cs.princeton.edu/webcensus/data-release/)
