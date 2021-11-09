@@ -29,6 +29,7 @@
 
 import pandas as pd
 
+import matplotlib.pyplot as plt
 
 # import population data in Wales for 2001, 2018
 
@@ -36,6 +37,7 @@ path = '/Users/aidanair/Documents/DATA/ALL_DATASETS/'
 file = 'wales_population.csv'
 
 pop = pd.read_csv(path + file)
+
 
 pop[:3]
 
@@ -63,13 +65,17 @@ pop[:3]
 
 pop.set_index('area', inplace=True)
 
+pop.head()
+
 # bar chart
 
 pop.pop_eighteen.plot(kind = 'bar')
 
+
+
 # # horizontal bar chart, with adjusted opacity and figure size
 
-pop.pop_eighteen.plot(kind = 'barh', y = 'population (2018)', alpha = 0.5, figsize=(15,9))
+pop.pop_eighteen.plot(kind = 'barh', alpha = 0.5, figsize=(15,9))
 
 # stacked barchart with title, grid and labels
 
@@ -88,19 +94,40 @@ pop[['pop_one','pop_eighteen']].plot(kind = 'barh',
 path = '/Users/aidanair/Documents/DATA/ALL_DATASETS/'
 file = 'wales_pubs_area_2001_18.csv'
 
+# give the df a variable name 'years'
 years = pd.read_csv(path + file)
+
+years[:2]
+
+# delete the 'code' column
+
+del years['code']
 
 # set the area name as the index
 
 years = years.set_index('area')
 
-# transpose the df so the years run on the vertical index
+years[:2]
 
-years = years.transpose()
+# transpose to set the years as the y axis and rename the vertical axis as 'year'
 
-years['Conwy'].plot()
+years = years.transpose().rename_axis('year', axis=1)
+
+years[:2]
+
+# plot a single column by time
+
+years.Conwy.plot()
+
+# plot a selection of columns
 
 years[['Cardiff', 'Newport', 'Swansea']].plot(figsize = (15, 9))
+
+# plot a period and several areas
+
+years['2008':'2016'][['Ceredigion', 'Pembrokeshire', 'Carmarthenshire']].plot(figsize = (15, 9))
+
+
 
 ## Scatterplot
 
@@ -167,3 +194,4 @@ pop.boxplot('pop_eighteen')
 # ... and by df (with default vertical turned off) and colour selected
 
 pop.boxplot(vert = False, grid = False, color = 'red')
+

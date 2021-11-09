@@ -40,7 +40,7 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Newssniffer](https://www.newssniffer.co.uk/versions) | Monitor changes to online news articles
 
-[NY Times markup language 'Archie'](http://archieml.org) | Write and edit structured text to be rendered in web pages or interactive graphics (according to NYT)
+[NY Times markup language 'Archie'](http://archieml.org) | Write & edit structured text to rendered in web pages or interactive graphics
 
 [OpenSpending](https://openspending.org/) | Search and analyse fiscal data that is public
 
@@ -58,7 +58,7 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [YouTube Tracking](https://youtube.tracking.exposed) | Monitor and collect personalised recommendations to investigate YouTube's recommender system.
 
-[Violation index](https://violationtrackeruk.goodjobsfirst.org/) | Database of 60,000 enforcement actions brought against companies by government regulators in England, Scotland, Wales and N Ireland
+[Violation index](https://violationtrackeruk.goodjobsfirst.org/) | 60K enforcement actions against companies by UK govt regulators
 
 [Visualping](https://visualping.io/) | Monitor website changes
 

@@ -34,7 +34,9 @@
 
 [Senedd elections 2021 (under 'supporting evidence')](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/senedd-elections/report-may-2021-elections-wales)
 
-[Senedd speeches in 5th Senedd](https://dataverse.harvard.edu/file.xhtml?fileId=4957018&version=1.0)
+[Senedd Record in 5th Senedd](https://dataverse.harvard.edu/file.xhtml?fileId=4957018&version=1.0)
+
+[Senedd Record for current parliament via XML](https://record.assembly.wales/XMLExport)
 
 [Terrorism database - GTD](https://www.start.umd.edu/gtd/)
 

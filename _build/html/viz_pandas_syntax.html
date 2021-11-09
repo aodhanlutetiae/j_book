@@ -433,6 +433,8 @@
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
 </pre></div>
 </div>
 </div>
@@ -622,6 +624,70 @@ None
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">pop</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>pop_one</th>
+      <th>pop_eighteen</th>
+    </tr>
+    <tr>
+      <th>area</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Isle of Anglesey</th>
+      <td>67806</td>
+      <td>69961</td>
+    </tr>
+    <tr>
+      <th>Gwynedd</th>
+      <td>116844</td>
+      <td>124178</td>
+    </tr>
+    <tr>
+      <th>Conwy</th>
+      <td>109674</td>
+      <td>117181</td>
+    </tr>
+    <tr>
+      <th>Denbighshire</th>
+      <td>93070</td>
+      <td>95330</td>
+    </tr>
+    <tr>
+      <th>Flintshire</th>
+      <td>148629</td>
+      <td>155593</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># bar chart</span>
 
 <span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;bar&#39;</span><span class="p">)</span>
@@ -632,14 +698,14 @@ None
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:xlabel=&#39;area&#39;&gt;
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_11_1.png" src="_images/viz_pandas_syntax_11_1.png" />
+<img alt="_images/viz_pandas_syntax_12_1.png" src="_images/viz_pandas_syntax_12_1.png" />
 </div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># # horizontal bar chart, with adjusted opacity and figure size</span>
 
-<span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;barh&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;population (2018)&#39;</span><span class="p">,</span> <span class="n">alpha</span> <span class="o">=</span> <span class="mf">0.5</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">9</span><span class="p">))</span>
+<span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;barh&#39;</span><span class="p">,</span> <span class="n">alpha</span> <span class="o">=</span> <span class="mf">0.5</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">9</span><span class="p">))</span>
 </pre></div>
 </div>
 </div>
@@ -647,7 +713,7 @@ None
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:ylabel=&#39;area&#39;&gt;
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_12_1.png" src="_images/viz_pandas_syntax_12_1.png" />
+<img alt="_images/viz_pandas_syntax_13_1.png" src="_images/viz_pandas_syntax_13_1.png" />
 </div>
 </div>
 <div class="cell docutils container">
@@ -668,7 +734,7 @@ None
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:title={&#39;center&#39;:&#39;Population estimates mid-2001 &amp; mid-2018 in Wales (by local authority)&#39;}, ylabel=&#39;Area&#39;&gt;
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_13_1.png" src="_images/viz_pandas_syntax_13_1.png" />
+<img alt="_images/viz_pandas_syntax_14_1.png" src="_images/viz_pandas_syntax_14_1.png" />
 </div>
 </div>
 </div>
@@ -682,7 +748,115 @@ None
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">path</span> <span class="o">=</span> <span class="s1">&#39;/Users/aidanair/Documents/DATA/ALL_DATASETS/&#39;</span>
 <span class="n">file</span> <span class="o">=</span> <span class="s1">&#39;wales_pubs_area_2001_18.csv&#39;</span>
 
+<span class="c1"># give the df a variable name &#39;years&#39;</span>
 <span class="n">years</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">path</span> <span class="o">+</span> <span class="n">file</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">years</span><span class="p">[:</span><span class="mi">2</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>code</th>
+      <th>area</th>
+      <th>2001</th>
+      <th>2002</th>
+      <th>2003</th>
+      <th>2004</th>
+      <th>2005</th>
+      <th>2006</th>
+      <th>2007</th>
+      <th>2008</th>
+      <th>2009</th>
+      <th>2010</th>
+      <th>2011</th>
+      <th>2012</th>
+      <th>2013</th>
+      <th>2014</th>
+      <th>2015</th>
+      <th>2016</th>
+      <th>2017</th>
+      <th>2018</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>W06000001</td>
+      <td>Isle of Anglesey</td>
+      <td>75</td>
+      <td>85</td>
+      <td>90</td>
+      <td>85</td>
+      <td>85</td>
+      <td>90</td>
+      <td>90</td>
+      <td>80</td>
+      <td>80</td>
+      <td>75</td>
+      <td>70</td>
+      <td>75</td>
+      <td>55</td>
+      <td>60</td>
+      <td>60</td>
+      <td>60</td>
+      <td>60</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>W06000002</td>
+      <td>Gwynedd</td>
+      <td>135</td>
+      <td>135</td>
+      <td>145</td>
+      <td>145</td>
+      <td>135</td>
+      <td>145</td>
+      <td>150</td>
+      <td>160</td>
+      <td>150</td>
+      <td>135</td>
+      <td>130</td>
+      <td>140</td>
+      <td>140</td>
+      <td>140</td>
+      <td>125</td>
+      <td>120</td>
+      <td>120</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># delete the &#39;code&#39; column</span>
+
+<span class="k">del</span> <span class="n">years</span><span class="p">[</span><span class="s1">&#39;code&#39;</span><span class="p">]</span>
 </pre></div>
 </div>
 </div>
@@ -698,61 +872,233 @@ None
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># transpose the df so the years run on the vertical index</span>
-
-<span class="n">years</span> <span class="o">=</span> <span class="n">years</span><span class="o">.</span><span class="n">transpose</span><span class="p">()</span>
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">years</span><span class="p">[</span><span class="s1">&#39;Conwy&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">years</span><span class="p">[:</span><span class="mi">2</span><span class="p">]</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
-<span class="ne">TypeError</span><span class="g g-Whitespace">                                 </span>Traceback (most recent call last)
-<span class="o">&lt;</span><span class="n">ipython</span><span class="o">-</span><span class="nb">input</span><span class="o">-</span><span class="mi">14</span><span class="o">-</span><span class="mf">1e8</span><span class="n">d9cc3f86d</span><span class="o">&gt;</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
-<span class="ne">----&gt; </span><span class="mi">1</span> <span class="n">years</span><span class="p">[</span><span class="s1">&#39;Conwy&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
 
-<span class="nn">~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_core.py</span> in <span class="ni">__call__</span><span class="nt">(self, *args, **kwargs)</span>
-<span class="g g-Whitespace">    </span><span class="mi">970</span>                     <span class="n">data</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="n">label_name</span>
-<span class="g g-Whitespace">    </span><span class="mi">971</span> 
-<span class="ne">--&gt; </span><span class="mi">972</span>         <span class="k">return</span> <span class="n">plot_backend</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">kind</span><span class="o">=</span><span class="n">kind</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
-<span class="g g-Whitespace">    </span><span class="mi">973</span> 
-<span class="g g-Whitespace">    </span><span class="mi">974</span>     <span class="fm">__call__</span><span class="o">.</span><span class="vm">__doc__</span> <span class="o">=</span> <span class="vm">__doc__</span>
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
 
-<span class="nn">~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_matplotlib/__init__.py</span> in <span class="ni">plot</span><span class="nt">(data, kind, **kwargs)</span>
-<span class="g g-Whitespace">     </span><span class="mi">69</span>             <span class="n">kwargs</span><span class="p">[</span><span class="s2">&quot;ax&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="nb">getattr</span><span class="p">(</span><span class="n">ax</span><span class="p">,</span> <span class="s2">&quot;left_ax&quot;</span><span class="p">,</span> <span class="n">ax</span><span class="p">)</span>
-<span class="g g-Whitespace">     </span><span class="mi">70</span>     <span class="n">plot_obj</span> <span class="o">=</span> <span class="n">PLOT_CLASSES</span><span class="p">[</span><span class="n">kind</span><span class="p">](</span><span class="n">data</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
-<span class="ne">---&gt; </span><span class="mi">71</span>     <span class="n">plot_obj</span><span class="o">.</span><span class="n">generate</span><span class="p">()</span>
-<span class="g g-Whitespace">     </span><span class="mi">72</span>     <span class="n">plot_obj</span><span class="o">.</span><span class="n">draw</span><span class="p">()</span>
-<span class="g g-Whitespace">     </span><span class="mi">73</span>     <span class="k">return</span> <span class="n">plot_obj</span><span class="o">.</span><span class="n">result</span>
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>2001</th>
+      <th>2002</th>
+      <th>2003</th>
+      <th>2004</th>
+      <th>2005</th>
+      <th>2006</th>
+      <th>2007</th>
+      <th>2008</th>
+      <th>2009</th>
+      <th>2010</th>
+      <th>2011</th>
+      <th>2012</th>
+      <th>2013</th>
+      <th>2014</th>
+      <th>2015</th>
+      <th>2016</th>
+      <th>2017</th>
+      <th>2018</th>
+    </tr>
+    <tr>
+      <th>area</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Isle of Anglesey</th>
+      <td>75</td>
+      <td>85</td>
+      <td>90</td>
+      <td>85</td>
+      <td>85</td>
+      <td>90</td>
+      <td>90</td>
+      <td>80</td>
+      <td>80</td>
+      <td>75</td>
+      <td>70</td>
+      <td>75</td>
+      <td>55</td>
+      <td>60</td>
+      <td>60</td>
+      <td>60</td>
+      <td>60</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <th>Gwynedd</th>
+      <td>135</td>
+      <td>135</td>
+      <td>145</td>
+      <td>145</td>
+      <td>135</td>
+      <td>145</td>
+      <td>150</td>
+      <td>160</td>
+      <td>150</td>
+      <td>135</td>
+      <td>130</td>
+      <td>140</td>
+      <td>140</td>
+      <td>140</td>
+      <td>125</td>
+      <td>120</td>
+      <td>120</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># transpose to set the years as the y axis and rename the vertical axis as &#39;year&#39;</span>
 
-<span class="nn">~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_matplotlib/core.py</span> in <span class="ni">generate</span><span class="nt">(self)</span>
-<span class="g g-Whitespace">    </span><span class="mi">284</span>     <span class="k">def</span> <span class="nf">generate</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-<span class="g g-Whitespace">    </span><span class="mi">285</span>         <span class="bp">self</span><span class="o">.</span><span class="n">_args_adjust</span><span class="p">()</span>
-<span class="ne">--&gt; </span><span class="mi">286</span>         <span class="bp">self</span><span class="o">.</span><span class="n">_compute_plot_data</span><span class="p">()</span>
-<span class="g g-Whitespace">    </span><span class="mi">287</span>         <span class="bp">self</span><span class="o">.</span><span class="n">_setup_subplots</span><span class="p">()</span>
-<span class="g g-Whitespace">    </span><span class="mi">288</span>         <span class="bp">self</span><span class="o">.</span><span class="n">_make_plot</span><span class="p">()</span>
-
-<span class="nn">~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_matplotlib/core.py</span> in <span class="ni">_compute_plot_data</span><span class="nt">(self)</span>
-<span class="g g-Whitespace">    </span><span class="mi">451</span>         <span class="c1"># no non-numeric frames or series allowed</span>
-<span class="g g-Whitespace">    </span><span class="mi">452</span>         <span class="k">if</span> <span class="n">is_empty</span><span class="p">:</span>
-<span class="ne">--&gt; </span><span class="mi">453</span>             <span class="k">raise</span> <span class="ne">TypeError</span><span class="p">(</span><span class="s2">&quot;no numeric data to plot&quot;</span><span class="p">)</span>
-<span class="g g-Whitespace">    </span><span class="mi">454</span> 
-<span class="g g-Whitespace">    </span><span class="mi">455</span>         <span class="bp">self</span><span class="o">.</span><span class="n">data</span> <span class="o">=</span> <span class="n">numeric_data</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_convert_to_ndarray</span><span class="p">)</span>
-
-<span class="ne">TypeError</span>: no numeric data to plot
+<span class="n">years</span> <span class="o">=</span> <span class="n">years</span><span class="o">.</span><span class="n">transpose</span><span class="p">()</span><span class="o">.</span><span class="n">rename_axis</span><span class="p">(</span><span class="s1">&#39;year&#39;</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">years</span><span class="p">[[</span><span class="s1">&#39;Cardiff&#39;</span><span class="p">,</span> <span class="s1">&#39;Newport&#39;</span><span class="p">,</span> <span class="s1">&#39;Swansea&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">9</span><span class="p">))</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">years</span><span class="p">[:</span><span class="mi">2</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>year</th>
+      <th>Isle of Anglesey</th>
+      <th>Gwynedd</th>
+      <th>Conwy</th>
+      <th>Denbighshire</th>
+      <th>Flintshire</th>
+      <th>Wrexham</th>
+      <th>Ceredigion</th>
+      <th>Pembrokeshire</th>
+      <th>Carmarthenshire</th>
+      <th>Swansea</th>
+      <th>...</th>
+      <th>Vale of Glamorgan</th>
+      <th>Cardiff</th>
+      <th>Rhondda Cynon Taf</th>
+      <th>Caerphilly</th>
+      <th>Blaenau Gwent</th>
+      <th>Torfaen</th>
+      <th>Monmouthshire</th>
+      <th>Newport</th>
+      <th>Powys</th>
+      <th>Merthyr Tydfil</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2001</th>
+      <td>75</td>
+      <td>135</td>
+      <td>105</td>
+      <td>110</td>
+      <td>145</td>
+      <td>130</td>
+      <td>75</td>
+      <td>205</td>
+      <td>225</td>
+      <td>200</td>
+      <td>...</td>
+      <td>100</td>
+      <td>220</td>
+      <td>185</td>
+      <td>130</td>
+      <td>45</td>
+      <td>75</td>
+      <td>115</td>
+      <td>105</td>
+      <td>235</td>
+      <td>55</td>
+    </tr>
+    <tr>
+      <th>2002</th>
+      <td>85</td>
+      <td>135</td>
+      <td>115</td>
+      <td>120</td>
+      <td>145</td>
+      <td>140</td>
+      <td>80</td>
+      <td>205</td>
+      <td>235</td>
+      <td>230</td>
+      <td>...</td>
+      <td>100</td>
+      <td>240</td>
+      <td>195</td>
+      <td>140</td>
+      <td>55</td>
+      <td>85</td>
+      <td>125</td>
+      <td>105</td>
+      <td>230</td>
+      <td>55</td>
+    </tr>
+  </tbody>
+</table>
+<p>2 rows × 22 columns</p>
+</div></div></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># plot a single column by time</span>
+
+<span class="n">years</span><span class="o">.</span><span class="n">Conwy</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
@@ -760,7 +1106,37 @@ None
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_19_1.png" src="_images/viz_pandas_syntax_19_1.png" />
+<img alt="_images/viz_pandas_syntax_23_1.png" src="_images/viz_pandas_syntax_23_1.png" />
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># plot a selection of columns</span>
+
+<span class="n">years</span><span class="p">[[</span><span class="s1">&#39;Cardiff&#39;</span><span class="p">,</span> <span class="s1">&#39;Newport&#39;</span><span class="p">,</span> <span class="s1">&#39;Swansea&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">9</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_24_1.png" src="_images/viz_pandas_syntax_24_1.png" />
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># plot a period and several areas</span>
+
+<span class="n">years</span><span class="p">[</span><span class="s1">&#39;2008&#39;</span><span class="p">:</span><span class="s1">&#39;2016&#39;</span><span class="p">][[</span><span class="s1">&#39;Ceredigion&#39;</span><span class="p">,</span> <span class="s1">&#39;Pembrokeshire&#39;</span><span class="p">,</span> <span class="s1">&#39;Carmarthenshire&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">9</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
+</pre></div>
+</div>
+<img alt="_images/viz_pandas_syntax_25_1.png" src="_images/viz_pandas_syntax_25_1.png" />
 </div>
 </div>
 </div>
@@ -854,7 +1230,7 @@ None
 </div>
 </div>
 <div class="cell_output docutils container">
-<img alt="_images/viz_pandas_syntax_23_0.png" src="_images/viz_pandas_syntax_23_0.png" />
+<img alt="_images/viz_pandas_syntax_30_0.png" src="_images/viz_pandas_syntax_30_0.png" />
 </div>
 </div>
 </div>
@@ -872,7 +1248,7 @@ None
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_25_1.png" src="_images/viz_pandas_syntax_25_1.png" />
+<img alt="_images/viz_pandas_syntax_32_1.png" src="_images/viz_pandas_syntax_32_1.png" />
 </div>
 </div>
 <div class="cell docutils container">
@@ -895,7 +1271,7 @@ None
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:title={&#39;center&#39;:&#39;Population estimates mid-2001 &amp; mid-2018 in Wales (by local authority)&#39;}, ylabel=&#39;Frequency&#39;&gt;
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_26_1.png" src="_images/viz_pandas_syntax_26_1.png" />
+<img alt="_images/viz_pandas_syntax_33_1.png" src="_images/viz_pandas_syntax_33_1.png" />
 </div>
 </div>
 </div>
@@ -913,7 +1289,7 @@ None
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:ylabel=&#39;pop_one&#39;&gt;
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_28_1.png" src="_images/viz_pandas_syntax_28_1.png" />
+<img alt="_images/viz_pandas_syntax_35_1.png" src="_images/viz_pandas_syntax_35_1.png" />
 </div>
 </div>
 </div>
@@ -931,7 +1307,7 @@ None
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_30_1.png" src="_images/viz_pandas_syntax_30_1.png" />
+<img alt="_images/viz_pandas_syntax_37_1.png" src="_images/viz_pandas_syntax_37_1.png" />
 </div>
 </div>
 <div class="cell docutils container">
@@ -944,7 +1320,7 @@ None
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_31_1.png" src="_images/viz_pandas_syntax_31_1.png" />
+<img alt="_images/viz_pandas_syntax_38_1.png" src="_images/viz_pandas_syntax_38_1.png" />
 </div>
 </div>
 <div class="cell docutils container">
@@ -959,7 +1335,7 @@ None
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_32_1.png" src="_images/viz_pandas_syntax_32_1.png" />
+<img alt="_images/viz_pandas_syntax_39_1.png" src="_images/viz_pandas_syntax_39_1.png" />
 </div>
 </div>
 </div>
