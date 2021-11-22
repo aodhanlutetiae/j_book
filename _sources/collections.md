@@ -32,6 +32,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [European data journalism network (institutional datasets)](https://www.europeandatajournalism.eu/eng/Tools-for-journalists/Useful-data)
 
+[EU statistics: eurostat](https://ec.europa.eu/eurostat/data/database)
+
 [Get the data: Q&A forum for finding answers in or about data](http://getthedata.org/)
 
 [Google Bigquery datasets on Kaggle](https://www.kaggle.com/datasets?search=%23bigquery)
