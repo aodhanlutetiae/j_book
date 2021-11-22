@@ -20,7 +20,7 @@
 
 [Deprivation indices in England 2019 — UK govt](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019). See also [mapping resources for IoD](https://www.gov.uk/guidance/english-indices-of-deprivation-2019-mapping-resources)
 
-[Deprivation Index in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation)
+[Deprivation Index in Wales (WIMD) — Stats Wales](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation)
 
 [Dog breed statistics — The Kennel Club](https://www.thekennelclub.org.uk/media-centre/breed-registration-statistics)
 
@@ -55,6 +55,8 @@
 [Passport Ranking Index 2019 — Henley & Partners](https://www.henleyglobal.com/download-hpi-2019/)
 
 [Patents geocoded (18 million)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OTTBDX)
+
+[Population estimates for UK and nations (latest)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest)
 
 [Postal statistics (global)](https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications/Postal-Statistics)
 

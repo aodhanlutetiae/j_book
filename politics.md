@@ -32,6 +32,8 @@
 
 [Sanctions imposed around the world](https://sanctionsexplorer.org/?mc_cid=9e36fd5865&mc_eid=88c7f91a73)
 
+[Scottish parliament](https://data.parliament.scot/#/home)
+
 [Senedd elections 2021 (under 'supporting evidence')](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/senedd-elections/report-may-2021-elections-wales)
 
 [Senedd Record in 5th Senedd](https://dataverse.harvard.edu/file.xhtml?fileId=4957018&version=1.0)

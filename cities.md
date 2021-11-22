@@ -42,6 +42,8 @@
 
 [London Fire Brigade obesity incidents](https://data.london.gov.uk/dataset/bariatric-incidents-attended-by-lfb)
 
+[Properties by council tax (Valuation Office Agency)](https://www.gov.uk/government/organisations/valuation-office-agency/about/statistics)
+
 [Rough sleeping in England questionnaire (initial results)](https://www.gov.uk/government/publications/rough-sleeping-questionnaire-initial-findings)
 
 [Rubbish collection monthly amounts in New York City — NYC Open Data](https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5)

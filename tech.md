@@ -18,13 +18,15 @@
 
 [CRAWDAD — Project to archive wireless data](https://crawdad.org/registration-new.py)
 
-[Cyber defence exercise: list of traffic and event logs](https://www.sciencedirect.com/science/article/pii/S2352340920306788) See note below.
+[Cyber defence exercise: list of traffic and event logs](https://www.sciencedirect.com/science/article/pii/S2352340920306788)
 
 [Google Trends — random CSV files](https://github.com/googletrends/data)
 
 [Internet shutdowns around the world](https://www.accessnow.org/keepiton/)
 
 [Machine Learning Projects: find open data | Kaggle](https://www.kaggle.com/datasets?sortBy=relevance&group=featured&search=tag%3A%27journalism%27)
+
+[Non-fungible token (NFT) market, April-Sept 2021](https://www.kaggle.com/simiotic/ethereum-nfts)
 
 [Privacy on a million sites — Princeton web census on trackers](https://webtransparency.cs.princeton.edu/webcensus/data-release/)
 

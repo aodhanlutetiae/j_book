@@ -14,6 +14,8 @@
 
 [Football stadiums in England latitude & longitude — C Boutaud](https://github.com/martinjc/UK-GeoJSON/tree/master/csv)
 
+[Formula One results since 1950 (API)](https://ergast.com/mrd/)
+
 [Gambling licences in the UK (public register)](https://beta.gamblingcommission.gov.uk/public-register/premises/download)
 
 [Gambling statistics](https://www.gamblingcommission.gov.uk/news-action-and-statistics/Statistics-and-research/Levels-of-participation-and-problem-gambling/Research-library.Gambling)
