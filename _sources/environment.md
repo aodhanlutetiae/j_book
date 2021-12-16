@@ -4,7 +4,9 @@
 
 [Air quality in Wales](https://airquality.gov.wales/maps-data)
 
-[Air quality on Castle St, Cardiff](https://airquality.gov.wales/air-pollution/site/CAR04#siteinformation)
+[Air quality on Cardiff's Castle St](https://uk-air.defra.gov.uk/data/datawarehouse)
+
+[Air quality on Cardiff's Queen St & Newport Rd](https://uk-air.defra.gov.uk/data/data_selector_service)
 
 [Air quality Network London](http://www.londonair.org.uk/london/asp/datadownload.asp)
 

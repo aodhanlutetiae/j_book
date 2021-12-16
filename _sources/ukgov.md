@@ -20,8 +20,12 @@
 
 [gov.uk open data releases](https://data.gov.uk/)
 
+['Levelling up' funding programmes](https://www.gov.uk/government/collections/new-levelling-up-and-community-investments)
+
 [London planning datahub — not yet live](https://www.london.gov.uk/what-we-do/planning/digital-planning/planning-london-datahub#acc-i-62159)
 
 [My Society published datasets and tools (Democracy, FOI, Better cities)](https://data.mysociety.org/)
 
 [Petitions to UK government](https://petition.parliament.uk/petitions?state=all)
+
+[Planning appeals, England](https://www.gov.uk/government/publications/planning-inspectorate-appeals-database)
