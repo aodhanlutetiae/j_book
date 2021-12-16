@@ -62,8 +62,6 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [MIT: Knight Science Journalism dataset list](https://ksj.mit.edu/resource/data-journalism-tools/databases/)
 
-[New York Times training: some datasets (Word doc)](https://github.com/nytimes/data-training/tree/master/Various-tip-sheets)
-
 [NHS Digital](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets)
 
 [NICAR database library (US)](https://www.ire.org/nicar/database-library)

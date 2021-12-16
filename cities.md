@@ -40,6 +40,8 @@
 
 [London Fire Brigade animal rescue incidents](https://data.london.gov.uk/dataset/animal-rescue-incidents-attended-by-lfb)
 
+[London Fire Brigade lift entrapments](https://data.london.gov.uk/dataset/shut-in-lift-releases--lift-entrapments--attended-by-lfb)
+
 [London Fire Brigade obesity incidents](https://data.london.gov.uk/dataset/bariatric-incidents-attended-by-lfb)
 
 [Properties by council tax (Valuation Office Agency)](https://www.gov.uk/government/organisations/valuation-office-agency/about/statistics)

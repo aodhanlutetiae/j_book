@@ -48,6 +48,8 @@
 
 [Plastic bags (England charges for single-use)](https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england)
 
+[Property sales (residential) 1995-21 by region, England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/numberofresidentialpropertysalesfornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset06)
+
 [Restaurant spending via Revolut in pandemic (UK)](https://www.gov.uk/government/publications/revolut-restaurant-card-spending-data)
 
 [Strikes in China](https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2021-03&endDate=2021-09&eventId=&keyword=&addressId=&parentAddressId=&address=&parentAddress=&industry=&parentIndustry=&industryName=)

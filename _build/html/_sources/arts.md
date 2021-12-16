@@ -52,8 +52,6 @@
 
 [Tate collection](https://github.com/tategallery/collection)
 
-[Taylor Swift lyrics (all)](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-29/taylor_swift_lyrics.csv)
-
 [Twin Peaks coffee ('damn fine coffee')](https://data.world/judkacag/the-coffees-of-twin-peaks)
 
-[UK public monuments & sculptures](https://www.vads.ac.uk/digital/collection/PMSA/search)
+[UK public monuments, statues & sculptures](https://www.vads.ac.uk/digital/collection/PMSA/search)

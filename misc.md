@@ -16,8 +16,6 @@
 
 [Nobel prize](https://www.nobelprize.org/about/developer-zone-2/)
 
-[Tool to extract data from web-based graphics](https://automeris.io/WebPlotDigitizer/)
-
 [UFO reporting center (US)](http://www.nuforc.org/webreports.html)
 
 [UFO sightings data — National UFO Reporting Center (US)](https://github.com/planetsig/ufo-reports)
