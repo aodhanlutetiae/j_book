@@ -4,17 +4,39 @@
 
 [Cycling routes in the EU](https://www.biroto.eu/en/news/eurovelo-routes-having-a-gps-tracCycling)
 
-[European stadiums by capacity — Wikipedia](https://en.wikipedia.org/wiki/List_of_European_stadiums_by_capacity#Capacity_of_80,001_or_more)
+[Cycling: Tour de France GPS data](https://github.com/jdai20/Project_4)
+
+[Cycling: Tour de France: every cyclist](https://github.com/camminady/LeTourDataSet/)
+
+[FIFA 15 - 22 complete player dataset](https://www.kaggle.com/stefanoleone992/fifa-22-complete-player-dataset/)
 
 [Football banning orders in England & Wales](https://www.gov.uk/government/statistics/football-related-arrests-and-banning-orders-england-and-wales-2020-to-2021-season)
 
+[Football datasets - various](https://datahub.io/collections/football)
+
+[Footbal data and overview to soccer analytics](https://github.com/devinpleuler/analytics-handbook/)
+
+[Football data from Statsbomb](https://github.com/statsbomb/open-data)
+
+[Football match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
+
+[Football tracking data - sample - from Metrica](https://github.com/metrica-sports/sample-data)
+
+[Football broadcast tracking data - sample - from SkillCorner](https://github.com/SkillCorner/opendata)
+
+[Football predictions dataset (538)](https://datahub.io/five-thirty-eight/soccer-spi)
+
 [Football data](http://football-data.co.uk/data.php) including [Football data (England)](http://football-data.co.uk/englandm.php)
+
+[Football deaths mid-game (*NOTE: methodology unclear)](https://www.kaggle.com/shivamb/football-deaths)
 
 [Football results in English Premier League — last ten seasons](https://datahub.io/sports-data/english-premier-league)
 
-[Football stadiums in England latitude & longitude — C Boutaud](https://github.com/martinjc/UK-GeoJSON/tree/master/csv)
+[Football analytics: Spatio-temporal match data — Springer Nature](https://researchdata.springernature.com/users/326532-luca-pappalardo/posts/55353-soccer-spatio-temporal-match-data-for-sports-analytics)
 
 [Formula One results since 1950 (API)](https://ergast.com/mrd/)
+
+[Gambling - Betting on football data](https://www.football-data.co.uk/)
 
 [Gambling licences in the UK (public register)](https://beta.gamblingcommission.gov.uk/public-register/premises/download)
 
@@ -22,18 +44,22 @@
 
 [LEGO Database — Rebrickable](https://rebrickable.com/downloads/)
 
+[NHL data (API)](https://www.kevinsidwar.com/iot/2017/7/1/the-undocumented-nhl-stats-api)
+
 [Parkrun results (Cardiff)](https://www.parkrun.org.uk/cardiff/results/latestresults/)
 
 [Pinball Map](https://pinballmap.com/)
 
 [Rugby union matches](http://www.rugbydata.com/)
 
-[Soccer analytics: Spatio-temporal match data — Springer Nature](https://researchdata.springernature.com/users/326532-luca-pappalardo/posts/55353-soccer-spatio-temporal-match-data-for-sports-analytics)
+[Stadiums in Europe by capacity — Wikipedia](https://en.wikipedia.org/wiki/List_of_European_stadiums_by_capacity#Capacity_of_80,001_or_more)
 
-[Tour de France GPS data](https://github.com/jdai20/Project_4)
+[Stadiums (football) in England latitude & longitude — C Boutaud](https://github.com/martinjc/UK-GeoJSON/tree/master/csv)
 
-[Tour de France: every cyclist](https://github.com/camminady/LeTourDataSet/)
+[Stadiums (football) database](http://stadiumdb.com/)
 
-[US college sport financing](http://cafidatabase.knightcommission.org/)
+[Tennis time (538) dataset](https://datahub.io/five-thirty-eight/tennis-time)
+
+[US college athletics financial database](http://cafidatabase.knightcommission.org/)
 
 [US school sport](https://ope.ed.gov/athletics/#/)

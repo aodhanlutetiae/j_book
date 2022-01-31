@@ -30,9 +30,13 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Department for Transport](https://www.gov.uk/government/organisations/department-for-transport/about/statistics)
 
+[The Economist: repository of story data and code](https://github.com/TheEconomist)
+
 [European data journalism network (institutional datasets)](https://www.europeandatajournalism.eu/eng/Tools-for-journalists/Useful-data)
 
 [EU statistics: eurostat](https://ec.europa.eu/eurostat/data/database)
+
+[European data portal](https://data.europa.eu/en)
 
 [Get the data: Q&A forum for finding answers in or about data](http://getthedata.org/)
 

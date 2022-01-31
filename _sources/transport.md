@@ -50,6 +50,8 @@
 
 [Trains (passenger) crossing European borders](https://docs.google.com/spreadsheets/d/12deGLMuX3u-mUaHGlLT0-TXIGZnQ-NILCt6NRA4s0pU/edit#gid=588529542)
 
+[Train stations in Wales: entries & exits by station, year](https://statswales.gov.wales/Catalogue/Transport/rail/Rail-Station-Usage/numberofrailstationentriesandexitsinwales-by-station-year)
+
 [Tube usage figures](https://data.london.gov.uk/dataset/london-underground-performance-reports)
 
 [Vélib data over six months (end of 2017) — Baptiste Fontaine](https://data.bfontaine.net/datasets/6-months-of-velibs-usage.html)

@@ -54,11 +54,15 @@
 
 [Missing Migrants Project](https://missingmigrants.iom.int/about)
 
+[National identity, Wales](https://statswales.gov.wales/Catalogue/Equality-and-Diversity/National-Identity/nationalidentity-by-year-identity)
+
 [Ofsted: inspections of schools and children's care facilities](https://www.gov.uk/government/organisations/ofsted)
 
 [Passport Ranking Index 2019 — Henley & Partners](https://www.henleyglobal.com/download-hpi-2019/)
 
 [Patents geocoded (18 million)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OTTBDX)
+
+[Planning appeals](https://www.gov.uk/government/publications/planning-inspectorate-appeals-database)
 
 [Population estimates for UK and nations (latest)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest)
 
@@ -91,6 +95,8 @@
 [Water fatalities UK — Water safety forum](https://www.nationalwatersafety.org.uk/waid/annual-reports-and-data)
 
 [Welsh language statistics, various sectors](https://statswales.gov.wales/Catalogue/Welsh-Language)
+
+[Welsh history resources](https://rcahmw.gov.uk/discover/)
 
 [WikiRumours API for mis- and dis-information](https://www.wikirumours.org/explore_api)
 
