@@ -24,21 +24,29 @@
 
 [Cyber crime in England and Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesexperimentaltables&sa=D&source=editors&ust=1619805122951000&usg=AOvVaw3oYkI1UYBxO2uT6v6XHLpP)
 
+[Drink driving data (UK)](https://www.gov.uk/government/statistical-data-sets/reported-drinking-and-driving-ras51#digital-breath-tests-in-england-and-wales)
+
 [Electric bicycle laws (Access)](https://dataverse.harvard.edu/dataset.xhtml?persistentId%3Ddoi:10.7910/DVN/W9NGI2)
 
 [EU laws (140K) — Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId%3Ddoi:10.7910/DVN/0EGYWY)
 
 [Firearms offences](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/offencesinvolvingtheuseofweaponsdatatables)
 
+[Harassment perception survey](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/perceptionsofpersonalsafetyandexperiencesofharassmentgreatbritain/2to27june2021)
+
 [Hate Crime data — HateLab](https://hatelab.net/data)
 
-[Human trafficking victims (48K) — Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/&sa=D&source=editors&ust=1619805122954000&usg=AOvVaw1_7P21K7AbQs5n4_O6T_1X)
+[Human trafficking victims (48K) — Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/)
 
 [Illegal downloading in UK (report)](https://www.gov.uk/government/publications/online-copyright-infringement-tracker-survey-10th-wave/online-copyright-infringement-tracker-survey-10th-wave-executive-summary)
 
 [India's 2002 Gujarat riots — analysis of police via Times of India reports](https://github.com/slanglab/IndiaPoliceEvents)
 
 [Justice Ministry statistics](https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&organisations%5B%5D=ministry-of-justice&order=updated-newest)
+
+[Met police statistics](https://www.met.police.uk/sd/stats-and-data/)
+
+[Police staffing data](https://www.gov.uk/government/statistics/police-workforce-open-data-tables)
 
 [Police stop & search figures by ethnicity in UK](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest%23data-sources)
 

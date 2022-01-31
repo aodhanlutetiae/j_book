@@ -30,6 +30,8 @@
 
 [Non-fungible token (NFT) market, April-Sept 2021](https://www.kaggle.com/simiotic/ethereum-nfts)
 
+[NFT marketplaces data](https://dappradar.com/nft/marketplaces)
+
 [Privacy on a million sites — Princeton web census on trackers](https://webtransparency.cs.princeton.edu/webcensus/data-release/)
 
 [Reddit votes — huge collection](https://www.kaggle.com/josephleake/huge-collection-of-reddit-votes/)

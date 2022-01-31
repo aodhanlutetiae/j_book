@@ -14,6 +14,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Censusreporter (US)](https://censusreporter.org/) | Analyse the US census
 
+[Change detection](https://github.com/dgtlmoon/changedetection.io) | More website change monitoring
+
 [Code for democracy analysis tool](https://codefordemocracy.org/data/) | Browser-based tool for analysing US politics
 
 [DataKit (AP)](https://datakit.ap.org/) | Command line tool for managing news projects

@@ -12,6 +12,8 @@
 
 [Air pollution in India](https://data.gov.in/keywords/air-pollution)
 
+[Air quality around the world: by country](https://openaq.org/#/countries)
+
 [Carbon footprint estimate per person in England (LSOA)](https://www.carbon.place/)
 
 [Climate Action Tracker (global)](https://climateactiontracker.org/)
@@ -22,11 +24,17 @@
 
 [Coalmines in India](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TDEK8O)
 
+[Coal plants in Europe](https://beyond-coal.eu/database/)
+
+[Council climate change plans](https://www.mysociety.org/covering-councils-progress-towards-net-zero/)
+
 [Dams database — Global Dam Watch](https://globaldamwatch.org/goodd/)
 
 [Diet in the UK, survey](https://www.gov.uk/government/collections/national-diet-and-nutrition-survey)
 
 [Disaster Datasets — Planet](https://www.planet.com/disasterdata/datasets/)
+
+[Emissions in India](https://urbanemissions.info/india-emissions-inventory/)
 
 [Energy performance of 21 million buildings, England & Wales](https://epc.opendatacommunities.org)
 
@@ -38,6 +46,8 @@
 
 [International Environmental Agreements Database Project](https://iea.uoregon.edu/)
 
+[Littering in England](https://www.gov.uk/government/publications/litter-and-littering-in-england-data-dashboard/litter-and-littering-in-england-2018-to-2019)
+
 [Natural resources Wales](https://naturalresources.wales/evidence-and-data/?lang=en) & [catalogue](https://libcat.naturalresources.wales/folio/)
 
 [Nuclear Incident and Trafficking Database — IAEA](https://www.iaea.org/news/4996)
@@ -47,6 +57,8 @@
 [Open Geography portal](http://geoportal.statistics.gov.uk/)
 
 [Plastic waste by country](https://advances.sciencemag.org/content/6/44/eabd0288/tab-figures-data)
+
+[Power plants around the world](https://datasets.wri.org/dataset/globalpowerplantdatabase)
 
 [Public perception of climate change, Autumn 2020 (UK)](https://www.gov.uk/government/publications/climate-change-and-net-zero-public-awareness-and-perceptions)
 

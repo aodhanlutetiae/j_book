@@ -2,6 +2,8 @@
 
 — See also courts martial data under [Crime](https://aodhanlutetiae.github.io/j_book/crime.html#)
 
+[Airwars](https://airwars.org/)
+
 [Armed Conflict Location & Event Data](https://www.acleddata.com/)
 
 [Conflict data programme, Upsala](https://ucdp.uu.se/downloads/)

@@ -14,15 +14,15 @@
 
 [Cardiff CCTV cameras](https://foi.cardiff.gov.uk/ENG/DataSets/Forms/Data%20Set/docsethomepage.aspx?ID=341&FolderCTID=0x0120D52000247D5EEF4C698246BF70B3A320E31C9700EC288F337C1A4F419C19B359C6EB30C9&List=8ab83359-5015-41de-872d-7d104efef8e2&RootFolder=%2FENG%2FDataSets%2FCCTV%20Devices%202020&RecSrc=%2FENG%2FDataSets%2FCCTV%20Devices%202020)
 
-[Dog fouling in Stirling](https://data.stirling.gov.uk/dataset/safer-communities)
-
-[Durham CCTV cameras](https://data.gov.uk/dataset/bef4fc96-65e7-444f-b5ab-92bf0473dc17/cctv-camera-locations)
-
 [Cardiff council: problems reported to the Fix My Street app](https://www.fixmystreet.com/reports/Cardiff?zoom=11&lat=51.46762&lon=-3.20633)
 
 [Cardiff council: mapping of services via 'Ishare' (includes CCTV)](http://ishare.cardiff.gov.uk/)
 
 [Cardiff street list](http://cardiff.streetmapof.co.uk/a/)
+
+[Dog fouling in Stirling](https://data.stirling.gov.uk/dataset/safer-communities)
+
+[Durham CCTV cameras](https://data.gov.uk/dataset/bef4fc96-65e7-444f-b5ab-92bf0473dc17/cctv-camera-locations)
 
 [Electricity demand in India](https://dataverse.harvard.edu/dataverse/REDI)
 

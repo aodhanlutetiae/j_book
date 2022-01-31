@@ -13,12 +13,12 @@
     - file: environment
     - file: health
     - file: journalism
+    - file: mapping
+    - file: military
     - file: misc
     - file: politics
     - file: politics_us
     - file: religion
-    - file: mapping
-    - file: military
     - file: society
     - file: sport
     - file: tech
