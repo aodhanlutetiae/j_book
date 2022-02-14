@@ -18,6 +18,8 @@
 
 [Football data from Statsbomb](https://github.com/statsbomb/open-data)
 
+[Football finance](https://twitter.com/KieranMaguire) | No data but the account tweets a lot of potentially interesting data sources
+
 [Football match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
 
 [Football tracking data - sample - from Metrica](https://github.com/metrica-sports/sample-data)

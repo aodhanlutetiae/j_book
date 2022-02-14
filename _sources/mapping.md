@@ -1,5 +1,16 @@
 # Mapping
 
+- [Digimap](https://digimap.edina.ac.uk)
+- [Digital Earth Africa](https://www.digitalearthafrica.org/products-and-services/datasets)
+- [Digital elevation models (DEM) for the world - eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation)
+- [Digital elevation models (DEM) for the world - viewfinder](http://viewfinderpanoramas.org/dem3.html)
+- [GIS datasets](https://freegisdata.rtwilson.com/)
+- [Global power stations dataset](https://datasets.wri.org/dataset/globalpowerplantdatabase)
+- [Nuclear power stations worldwide](https://datashare.ed.ac.uk/handle/10283/2464?show=full)
+- [Ordnance Survey Great Britain Zoomstack](https://www.ordnancesurvey.co.uk/business-government/products/open-zoomstack)
+- [Elevation file for Wales](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation)
+- [Shapefile for contour map of Wales](https://datashare.ed.ac.uk/handle/10283/2410?show=full)
+
 [Arcgis hub](https://hub.arcgis.com/search)
 
 [Cardiff public rights of way (GEOJSON Files)](https://www.rowmaps.com/jsons/CD/)
