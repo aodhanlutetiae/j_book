@@ -6,7 +6,9 @@ Lists and collections of datasets released by journalists or governments or othe
 
 [Accountability project](https://www.publicaccountability.org/)
 
-[BBC data unit: all story datasets](https://github.com/BBC-Data-Unit/shared-data-unit)
+[AWS hosted datasets](https://registry.opendata.aws/)
+
+[BBC shared data unit: all story datasets](https://github.com/BBC-Data-Unit/shared-data-unit)
 
 [Bureau Local story data](https://www.thebureauinvestigates.com/local/open-resources)
 
@@ -72,7 +74,7 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [OECD Data](https://data.oecd.org/)
 
-[Ofcom data releases](https://www.ofcom.org.uk/research-and-data/data/statistics/stats20)
+[Ofcom data releases 2021](https://www.ofcom.org.uk/research-and-data/data/statistics/stats21)
 
 [ONS data stories: Project Cairo](https://onsvisual.github.io/project_cairo/)
 

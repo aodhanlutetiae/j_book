@@ -1,6 +1,6 @@
 # Health
 
-[A&E waiting times in Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Waiting-Times/Accident-and-Emergency)
+[A&E waiting times, Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Waiting-Times/emergency-department) [and England](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)
 
 [Children’s heart surgery UK](https://childrensheartsurgery.info/)
 
