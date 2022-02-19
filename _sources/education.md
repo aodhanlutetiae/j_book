@@ -4,6 +4,8 @@
 
 [Clothing rules in US schools — The Pudding](https://github.com/the-pudding/data/tree/master/dress-codes)
 
+[Erasmus mobility scheme, 2014-19](https://data.europa.eu/data/datasets/erasmus-mobility-statistics-2014-2019-v2?locale=en)
+
 [GCSE strong passes in English & Maths, by gender, geography, ethnicity](https://data.gov.uk/dataset/ec1efd76-d6ad-4594-9b4d-944aa4170e63/gcse-english-and-maths-results-by-ethnicity)
 
 [OFSTED](https://www.gov.uk/government/organisations/ofsted/about/statistics) & [ESTYN](https://www.estyn.gov.wales/) education monitoring data

@@ -72,6 +72,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [NICAR database library (US)](https://www.ire.org/nicar/database-library)
 
+[OCCRP. Organised crime and corruption reporting project - datasets](https://aleph.occrp.org/datasets)
+
 [OECD Data](https://data.oecd.org/)
 
 [Ofcom data releases 2021](https://www.ofcom.org.uk/research-and-data/data/statistics/stats21)

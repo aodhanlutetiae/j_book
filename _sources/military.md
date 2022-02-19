@@ -16,6 +16,8 @@
 
 [Spanish Civil War database](https://github.com/ihrworld/ihr-scwd)
 
+[UK armed forces diversity statistics](https://www.gov.uk/government/collections/uk-armed-forces-biannual-diversity-statistics-index)
+
 [UK arms export data](https://github.com/caatdata/uk-arms-export-data)
 
 [UN peacekeeping open data portal](https://peacekeeping.un.org/en/open-data-portal)
