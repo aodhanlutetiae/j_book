@@ -18,15 +18,13 @@
 
 [Climate Action Tracker (global)](https://climateactiontracker.org/)
 
-[Climate action plans by UK council](https://data.climateemergency.uk/)
+[Climate action plans by UK council](https://data.climateemergency.uk/) & [Council climate change plans](https://www.mysociety.org/covering-councils-progress-towards-net-zero/)
 
 [Climate change concern reaches record levels — Ipsos MORI](https://www.ipsos.com/ipsos-mori/en-uk/concern-about-climate-change-reaches-record-levels-half-now-very-concerned)
 
 [Coalmines in India](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TDEK8O)
 
 [Coal plants in Europe](https://beyond-coal.eu/database/)
-
-[Council climate change plans](https://www.mysociety.org/covering-councils-progress-towards-net-zero/)
 
 [Dams database — Global Dam Watch](https://globaldamwatch.org/goodd/)
 
@@ -39,6 +37,8 @@
 [Energy performance of 21 million buildings, England & Wales](https://epc.opendatacommunities.org)
 
 [Energy performance certificates, Scottish register](https://www.scottishepcregister.org.uk/)
+
+[Environmental data UK (includes Defra, EA)](https://data.gov.uk/search?filters%5Btopic%5D=Environment)
 
 [Fly-tipping incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
@@ -78,7 +78,7 @@
 
 [Water — Transboundary Freshwater Dispute Database](https://transboundarywaters.science.oregonstate.edu/content/transboundary-freshwater-dispute-database)
 
-[Water Conflict — World's Water. 926 water-related conflicts](http://www.worldwater.org/conflict/list/)
+[Water Conflict. 926 global conflicts](http://www.worldwater.org/conflict/list/)
 
 [Weather station historic data — Met Office](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data)
 

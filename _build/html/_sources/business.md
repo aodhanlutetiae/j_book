@@ -4,7 +4,11 @@
 
 [Automation of jobs — ONS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25)
 
+[Beer and pubs in the UK](https://beerandpub.com/statistics/)
+
 [Big Mac Index — The Economist](https://github.com/TheEconomist/big-mac-data)
+
+[Business births, deaths and survival rates, ONS](https://www.ons.gov.uk/businessindustryandtrade/changestobusiness/businessbirthsdeathsandsurvivalrates)
 
 [Charities index UK](https://findthatcharity.uk/)
 
@@ -15,6 +19,8 @@
 [Coins: what people have in their wallets (survey)](https://data.mendeley.com/datasets/f257j67ym6/2)
 
 [Companies House API](https://developer.companieshouse.gov.uk/api/docs/)
+
+[Company info registers (UK) in OCCRP investigative database](https://aleph.occrp.org/datasets?collectionsfacet=countries&collectionsfacet=category&collectionsfacet_size%3Acategory=1000&collectionsfacet_size%3Acountries=1000&collectionsfacet_total%3Acategory=true&collectionsfacet_total%3Acountries=true&collectionsfilter%3Acountries=gb&collectionslimit=30&collectionssort=created_at%3Adesc)
 
 [Enron emails (500K) — investigate the infamous company](https://www.kaggle.com/wcukierski/enron-email-dataset)
 

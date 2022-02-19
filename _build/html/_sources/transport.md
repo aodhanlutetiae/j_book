@@ -20,6 +20,8 @@
 
 [Cost of transit in world cities](https://transitcosts.com/data/)
 
+[Cyclestreets - mapping UK bike data](https://www.cyclestreets.org/)
+
 [Driving Licence Data for GB — data.gov.uk ](https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data)
 
 [Driving Licence Data for London](https://data.london.gov.uk/dataset/licensed-vehicles-numbers-borough)

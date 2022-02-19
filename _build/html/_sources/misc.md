@@ -6,8 +6,6 @@
 
 [Foreign Ministers in 13 powerful countries since 1789](http://www.stanceatlund.org/foreign-minister-dataset.html)
 
-[Google Public Data Explorer](https://www.google.co.uk/publicdata/directory)
-
 [Historical datasets](http://www.historicalstatistics.org/)
 
 [Small datasets of historical interest for statistics development](https://cran.r-project.org/web/packages/HistData/index.html)

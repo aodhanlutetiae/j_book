@@ -46,6 +46,8 @@
 
 [Met police statistics](https://www.met.police.uk/sd/stats-and-data/)
 
+[Open sanctions - people and companies](https://www.opensanctions.org/)
+
 [Police staffing data](https://www.gov.uk/government/statistics/police-workforce-open-data-tables)
 
 [Police stop & search figures by ethnicity in UK](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest%23data-sources)
