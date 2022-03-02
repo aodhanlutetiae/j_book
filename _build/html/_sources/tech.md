@@ -8,6 +8,8 @@
 
 [Bad language on Shutterstock](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 
+[Bossware & employment tech database](https://home.coworker.org/worktech)
+
 [Browser trackers — list from DuckDuckGo](https://spreadprivacy.com/duckduckgo-tracker-radar/)
 
 [Cell phone towers around the world — OpenCellId](https://www.opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942)

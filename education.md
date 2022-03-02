@@ -1,5 +1,7 @@
 # Education
 
+[A Level statistics (Ofqual)](https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&organisations%5B%5D=ofqual&order=updated-newest)
+
 [Books that get put on teaching syllabi (huge list)](https://opensyllabus.org/)
 
 [Clothing rules in US schools — The Pudding](https://github.com/the-pudding/data/tree/master/dress-codes)

@@ -40,6 +40,8 @@
 
 [Environmental data UK (includes Defra, EA)](https://data.gov.uk/search?filters%5Btopic%5D=Environment)
 
+[Environment Agency overview of data published](https://www.gov.uk/government/organisations/environment-agency/about/publication-scheme)
+
 [Fly-tipping incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
 [Google Earth Engine](https://earthengine.google.com/) & [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/)

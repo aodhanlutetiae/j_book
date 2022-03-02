@@ -22,6 +22,8 @@
 
 [Company info registers (UK) in OCCRP investigative database](https://aleph.occrp.org/datasets?collectionsfacet=countries&collectionsfacet=category&collectionsfacet_size%3Acategory=1000&collectionsfacet_size%3Acountries=1000&collectionsfacet_total%3Acategory=true&collectionsfacet_total%3Acountries=true&collectionsfilter%3Acountries=gb&collectionslimit=30&collectionssort=created_at%3Adesc)
 
+[Earning power by area - Wales](https://statswales.gov.wales/Catalogue/Business-Economy-and-Labour-Market/People-and-Work/Earnings/medianhourlyearnings-by-welshlocalareas-year)
+
 [Enron emails (500K) — investigate the infamous company](https://www.kaggle.com/wcukierski/enron-email-dataset)
 
 [Financial & economic datasets — Bank of England](https://www.bankofengland.co.uk/statistics/research-datasets)

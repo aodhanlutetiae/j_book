@@ -24,6 +24,8 @@
 
 [Dog breed statistics — The Kennel Club](https://www.thekennelclub.org.uk/media-centre/breed-registration-statistics)
 
+[Dog population estimates by postcode](https://data.gov.uk/dataset/ec8fc820-2e36-49d0-a09c-e2901e10b2e4/dog-population-per-postcode-district)
+
 [Etymology database](http://etym.org/)
 
 [EU settlement applications in UK — ONS](https://www.gov.uk/government/collections/eu-settlement-scheme-statistics) | See [Note](https://blog.ons.gov.uk/2021/07/02/are-there-really-6m-eu-citizens-living-in-the-uk/)

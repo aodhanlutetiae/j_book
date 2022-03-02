@@ -4,6 +4,8 @@
 
 [Accident locator UK](https://www.crashmap.co.uk/)
 
+[Aviation statistics in UK (Civil Aviation Authority)](https://www.caa.co.uk/data-and-analysis/)
+
 [Bicycle Cities Index 2019 — commercial rather than scientific survey](https://coya.com/bike/index-2019)
 
 [Bicycle counter Cardiff 2012+ (College of Music)](http://www.cykelfartviser.dk/CykelFartviser/BC_Cardiff_North_Road.jsp)
