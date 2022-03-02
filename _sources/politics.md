@@ -1,6 +1,6 @@
 # Politics
 
-[All party parliamentary groups, registers of](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-all-party-party-parliamentary-groups/)
+[All party parliamentary groups (registers of)](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-all-party-party-parliamentary-groups/) | [Financial donations (searchable) via Open Democracy](https://www.opendemocracy.net/en/dark-money-investigations/all-party-parliamentary-groups-search-the-data/)
 
 [Brexit 2016 referendum results](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum)
 
@@ -26,6 +26,8 @@
 
 [Lobby meetings with UK ministers — Transparency International. EU, France, Italy and Chile also available](https://openaccess.transparency.org.uk/)
 
+[Lobbyists register](https://registerofconsultantlobbyists.force.com/CLR_Search)
+
 [Opinion polls across Europe](https://github.com/filipvanlaenen/eopaod)
 
 [Parliamentary speeches (20 years) in Belgium, Germany, Greece, Ireland, Portugal & Spain](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9MN0RL)
@@ -33,6 +35,8 @@
 [Political data for 233 countries — EveryPolitician](http://everypolitician.org/)
 
 [Sanctions imposed around the world](https://sanctionsexplorer.org/?mc_cid=9e36fd5865&mc_eid=88c7f91a73)
+
+[Sanctions list (UK)](https://www.gov.uk/government/publications/the-uk-sanctions-list)
 
 [Scottish parliament](https://data.parliament.scot/#/home)
 

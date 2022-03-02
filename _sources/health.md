@@ -1,6 +1,6 @@
 # Health
 
-[A&E waiting times, Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Waiting-Times/emergency-department) [and England](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)
+[A&E waiting times, Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Waiting-Times/emergency-department) & [England](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)
 
 [Alcohol-related deaths, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/alcoholrelateddeathsintheunitedkingdom/registeredin2020/relateddata)
 
