@@ -40,7 +40,7 @@
 
 [Gambling - Betting on football data](https://www.football-data.co.uk/)
 
-[Gambling licences in the UK (public register)](https://beta.gamblingcommission.gov.uk/public-register/premises/download)
+[Gambling licences in the UK (public register)](https://www.gamblingcommission.gov.uk/public-and-players/public-register)
 
 [Gambling statistics](https://www.gamblingcommission.gov.uk/news-action-and-statistics/Statistics-and-research/Levels-of-participation-and-problem-gambling/Research-library.Gambling)
 
