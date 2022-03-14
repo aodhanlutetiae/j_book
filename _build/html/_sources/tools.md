@@ -18,6 +18,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Code for democracy analysis tool](https://codefordemocracy.org/data/) | Browser-based tool for analysing US politics
 
+[Coverdrop](https://www.lightbluetouchpaper.org/2022/03/11/coverdrop-securing-initial-contact-for-whistleblowers/) | Lets whistleblowers contact news groups safely
+
 [DataKit (AP)](https://datakit.ap.org/) | Command line tool for managing news projects
 
 [Datasette](https://datasette.io/) & [YouTube talk](https://www.youtube.com/watch?v%3DpTr1uLQTJNE&sa=D) | Publish your data using this powerful framework
@@ -58,7 +60,7 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Typerighter (Guardian)](https://github.com/guardian/typerighter) | Checks if a text respects the Style Guide
 
-[Twick (Buzzfeed)](https://github.com/jsvine/twick) | Command line tool that fetches and stores tweets that match a search query (requires API authentication)
+[Twick (Buzzfeed)](https://github.com/jsvine/twick) | Command line tool to fetch & store tweets from a search query (API authentication)
 
 [YouTube Tracking](https://youtube.tracking.exposed) | Monitor and collect personalised recommendations to investigate YouTube's recommender system.
 

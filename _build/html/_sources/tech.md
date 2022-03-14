@@ -40,6 +40,8 @@
 
 [Satellites](https://www.ucsusa.org/resources/satellite-database#.VF_jIlPF8Wg)
 
+[Scammers - database of internet scams](https://scamsearch.io/)
+
 [Submarine cable network](https://github.com/telegeography/www.submarinecablemap.com#how-can-i-download-the-dataset)
 
 [Warrants issued for people's iPhones in connection with crime](https://docs.google.com/spreadsheets/d/1Xmh1QEXYJmVPFlqAdEIVGemvbkoZmk_WyAPGC4eY-eE/edit#gid=0)
