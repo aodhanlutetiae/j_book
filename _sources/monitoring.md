@@ -5,6 +5,8 @@ Who's releasing what? Get alerted to what's coming out or what's been updated or
 
 [Bureau Local slack channel to monitor gov.uk data releases](https://bureau-local-slack-invite.herokuapp.com/)
 
+[Census (2021) release calendar](https://www.ons.gov.uk/census/censustransformationprogramme/census2021outputs/releaseplans)
+
 [Google dataset search](https://datasetsearch.research.google.com/)
 
 [NHS 12-month calendar](https://www.england.nhs.uk/statistics/12-months-statistics-calendar/)

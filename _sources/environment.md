@@ -38,6 +38,8 @@
 
 [Energy performance certificates, Scottish register](https://www.scottishepcregister.org.uk/)
 
+[Energy performance by fuel type](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/estimatedproportionofdwellingswithanenergyperformancecertificatebymainfueltypeormethodofheatingusedincentralheating)
+
 [Environmental data UK (includes Defra, EA)](https://data.gov.uk/search?filters%5Btopic%5D=Environment)
 
 [Environment Agency overview of data published](https://www.gov.uk/government/organisations/environment-agency/about/publication-scheme)
