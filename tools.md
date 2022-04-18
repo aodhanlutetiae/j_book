@@ -20,6 +20,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Coverdrop](https://www.lightbluetouchpaper.org/2022/03/11/coverdrop-securing-initial-contact-for-whistleblowers/) | Lets whistleblowers contact news groups safely
 
+[Crowdsourced data platform](https://correctiv.org/crowdnewsroom-pro/)
+
 [DataKit (AP)](https://datakit.ap.org/) | Command line tool for managing news projects
 
 [Datasette](https://datasette.io/) & [YouTube talk](https://www.youtube.com/watch?v%3DpTr1uLQTJNE&sa=D) | Publish your data using this powerful framework
@@ -33,6 +35,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 [Geocoder (batch) for journalists](https://geocode.localfocus.nl/) | "Locations to coordinates at rocket speed"
 
 [Google Journalist Studio](https://journaliststudio.google.com/) | Google tools for reporting, including [Pinpoint](https://journaliststudio.google.com/pinpoint/collections) for mass analysis of documents
+
+[Harassment manager (Jigsaw-Google)](https://github.com/conversationai/harassment-manager)
 
 [Harvester (AP)](https://harvester.ap.org) & [presentation](https://vimeo.com/520123772/2a3edddf19) & [repo](https://github.com/associatedpress/harvester) | Newsroom platform for collecting data
 

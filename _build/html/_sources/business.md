@@ -22,6 +22,8 @@
 
 [Company info registers (UK) in OCCRP investigative database](https://aleph.occrp.org/datasets?collectionsfacet=countries&collectionsfacet=category&collectionsfacet_size%3Acategory=1000&collectionsfacet_size%3Acountries=1000&collectionsfacet_total%3Acategory=true&collectionsfacet_total%3Acountries=true&collectionsfilter%3Acountries=gb&collectionslimit=30&collectionssort=created_at%3Adesc)
 
+[Consumer price inflation](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/march2022)
+
 [Earning power by area - Wales](https://statswales.gov.wales/Catalogue/Business-Economy-and-Labour-Market/People-and-Work/Earnings/medianhourlyearnings-by-welshlocalareas-year)
 
 [Enron emails (500K) — investigate the infamous company](https://www.kaggle.com/wcukierski/enron-email-dataset)
@@ -63,6 +65,8 @@
 [Property sales (residential) 1995-21 by region, England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/numberofresidentialpropertysalesfornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset06)
 
 [Restaurant spending via Revolut in pandemic (UK)](https://www.gov.uk/government/publications/revolut-restaurant-card-spending-data)
+
+[Retail location data](https://www.localdatacompany.com)
 
 [Strikes in China](https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2021-03&endDate=2021-09&eventId=&keyword=&addressId=&parentAddressId=&address=&parentAddress=&industry=&parentIndustry=&industryName=)
 

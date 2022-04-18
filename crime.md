@@ -10,6 +10,8 @@
 
 [Blue badge system in England: use and abuse](https://www.gov.uk/government/statistical-data-sets/blue-badge-scheme-statistics-data-tables-dis)
 
+[Case law - UK national archives](https://caselaw.nationalarchives.gov.uk/)
+
 [CCTV cameras run by Durham council (Dec 2020)](https://data.gov.uk/dataset/bef4fc96-65e7-444f-b5ab-92bf0473dc17/cctv-camera-locations)
 
 [Chicago's (in)famous 'Strategic Subject List'](https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List-Historical/4aki-r3np)
@@ -44,6 +46,8 @@
 
 [Met police statistics](https://www.met.police.uk/sd/stats-and-data/)
 
+[Metropolitan police, data about](https://data.london.gov.uk/dataset/?org=db7940dd-ee1a-4a68-b874-c34151e16e82)
+
 [Open sanctions - people and companies](https://www.opensanctions.org/)
 
 [Police staffing data](https://www.gov.uk/government/statistics/police-workforce-open-data-tables)
@@ -54,13 +58,11 @@
 
 [Prison populations UK](https://www.gov.uk/government/statistics/prison-population-figures-2021)
 
+[Returning defendant in Magistrates and Crown courts](https://www.gov.uk/government/publications/data-first-criminal-courts-linked-data)
+
 [Rural crime survey UK 2018](https://www.nationalruralcrimenetwork.net/research/internal/2018survey/)
 
-[London's Metropolitan police](https://data.london.gov.uk/dataset/?org=db7940dd-ee1a-4a68-b874-c34151e16e82)
-
 [US civilian complaints against NYPD police, 1982-2020 — Propublica](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers)
-
-[US case law (360 years) — Access Project](https://case.law)
 
 [US people killed during encounters with US police (26K) — Fatal Encounters](https://fatalencounters.org)
 

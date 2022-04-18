@@ -68,6 +68,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [MIT: Knight Science Journalism dataset list](https://ksj.mit.edu/resource/data-journalism-tools/databases/)
 
+[My Society datasets (including UK political datasets)](https://data.mysociety.org/)
+
 [NHS Digital](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets)
 
 [NICAR database library (US)](https://www.ire.org/nicar/database-library)
@@ -93,6 +95,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [Pudding: all story datasets](https://github.com/the-pudding/data)
 
 [Random datasets for cleaning — Rachel Tatman](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
+
+[Scotland National Records](https://www.nrscotland.gov.uk/statistics-and-data)
 
 [Sourceful: finding useful public Google documents](https://sourceful.co.uk/)
 

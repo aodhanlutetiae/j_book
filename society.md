@@ -6,6 +6,8 @@
 
 [Baby names for girls by year in England & Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls)
 
+[Census 1921](https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?theme=92)
+
 [Census 1961](https://www.ons.gov.uk/census/2001censusandearlier/1961censussmallareastatistics)
 
 [Census: Flow data (people movement)](https://wicid.ukdataservice.ac.uk/)
@@ -22,6 +24,8 @@
 
 [Deprivation Index in Wales (WIMD) — Stats Wales](https://statswales.gov.wales/Catalogue/Community-Safety-and-Social-Inclusion/Welsh-Index-of-Multiple-Deprivation)
 
+[Divorce in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales)
+
 [Dog breed statistics — The Kennel Club](https://www.thekennelclub.org.uk/media-centre/breed-registration-statistics)
 
 [Dog population estimates by postcode](https://data.gov.uk/dataset/ec8fc820-2e36-49d0-a09c-e2901e10b2e4/dog-population-per-postcode-district)
@@ -32,15 +36,21 @@
 
 [Free school meals in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Education-and-Skills/Schools-and-Teachers/Schools-Census/Pupil-Level-Annual-School-Census/Provision-of-Meals-and-Milk/pupilseligibleforfreeschoolmeals-by-localauthorityregion-year)
 
+[Housing: affordability (price to earnings)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2021/relateddata)
+
 [Housing: empty homes in England](https://www.actiononemptyhomes.org/facts-and-figures)
 
 [Housing: empty & second homes in Wales](https://statswales.gov.wales/Catalogue/Local-Government/Finance/Council-Tax/Dwellings/chargeableemptyandsecondhomesbylocalauthority)
 
 [Housing: evictions immediately after pandemic - Bureau Local](https://docs.google.com/spreadsheets/d/1CBXphX_BUG9lfsn4vTJVknEm75kivNvTkPLiMMwTkmE/edit#gid=119963784) and [blog](https://www.thebureauinvestigates.com/blog/2021-12-09/opening-the-data-on-closed-door-evictions) and [explainer](https://docs.google.com/document/d/1mUBUMkOREXxtiiBL6MXD20d3-BbOxQX3NWwAMJWg_2A/edit)
 
+[Housing ombudsman](https://www.housing-ombudsman.org.uk/landlords/)
+
 [Housing: overseas ownership for England & Wales property](https://github.com/centreforpublicdata/titles-overseas-individuals) & [background](https://www.centreforpublicdata.org/property-data-overseas-individuals)
 
 [Housing: price rises and 2nd home ownership — ONS](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/housepricesintouristhotspotsincreasinglyoutofreachforyoungandlowpaid/2021-09-28)
+
+[Housing: reference rents](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-march-2022)
 
 [How popular is your birthday? — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18)
 
@@ -56,7 +66,7 @@
 
 [Missing Migrants Project](https://missingmigrants.iom.int/about)
 
-[Migration Wales, rest of UK](https://statswales.gov.wales/Catalogue/Population-and-Migration/Migration/Internal/migrationbetweenwalesandrestofuk-by-localauthority-flow-gender-age)
+[Migration Wales, rest of UK](https://statswales.gov.wales/Catalogue/Population-and-Migration/Migration/Internal/migrationbetweenwalesandrestofuk-by-localauthority-flow-sex-age)
 
 [National identity, Wales](https://statswales.gov.wales/Catalogue/Equality-and-Diversity/National-Identity/nationalidentity-by-year-identity)
 

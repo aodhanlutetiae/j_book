@@ -28,6 +28,8 @@
 
 [Lobbyists register](https://registerofconsultantlobbyists.force.com/CLR_Search)
 
+[Local election results, Wales 2017](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/wales-local-council-elections/results-and-turnout-may-2017-wales-local-elections)
+
 [Opinion polls across Europe](https://github.com/filipvanlaenen/eopaod)
 
 [Parliamentary speeches (20 years) in Belgium, Germany, Greece, Ireland, Portugal & Spain](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9MN0RL)

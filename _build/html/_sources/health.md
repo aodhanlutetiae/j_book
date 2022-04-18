@@ -4,9 +4,15 @@
 
 [Alcohol-related deaths, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/alcoholrelateddeathsintheunitedkingdom/registeredin2020/relateddata)
 
+[Ambulance response times, England](https://www.england.nhs.uk/statistics/statistical-work-areas/ambulance-quality-indicators/)
+
 [Bed numbers during pandemic, Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Activity/nhs-activity-and-capacity-during-the-coronavirus-pandemic/nhsbed-by-date-use)
 
+[Care Quality Commission (Social care regulator, England)](https://www.cqc.org.uk)
+
 [Children’s heart surgery UK](https://childrensheartsurgery.info/)
+
+[Children's health at 11, 13 & 15, the 'HBSC' survey](http://www.hbsc.org/)
 
 [Covid UK grant tracker](https://covidtracker.threesixtygiving.org/)
 

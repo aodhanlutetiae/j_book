@@ -1,5 +1,7 @@
 # UK government
 
+[Benefits data from DWP](https://stat-xplore.dwp.gov.uk)
+
 [Brexit referendum results](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum)
 
 [Contracts Finder (£10K+ govt contracts)](https://www.gov.uk/contracts-finder)
@@ -22,6 +24,8 @@
 
 ['Levelling up' funding programmes](https://www.gov.uk/government/collections/new-levelling-up-and-community-investments)
 
+[Local authorities in England: revenue, spending & financing (2021-22)](https://www.gov.uk/government/statistics/local-authority-revenue-expenditure-and-financing-england-2021-to-2022-budget-individual-local-authority-data)
+
 [London planning datahub — not yet live](https://www.london.gov.uk/what-we-do/planning/digital-planning/planning-london-datahub#acc-i-62159)
 
 [My Society published datasets and tools (Democracy, FOI, Better cities)](https://data.mysociety.org/)
@@ -29,3 +33,5 @@
 [Petitions to UK government](https://petition.parliament.uk/petitions?state=all)
 
 [Planning appeals, England](https://www.gov.uk/government/publications/planning-inspectorate-appeals-database)
+
+[Ukraine sponsorship scheme by nations](https://www.gov.uk/government/publications/homes-for-ukraine-sponsorship-scheme-numbers-of-visa-applications)

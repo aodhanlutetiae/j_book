@@ -57,6 +57,8 @@
 
 [US infrastructure map data](https://hifld-geoplatform.opendata.arcgis.com/)
 
+[Ukraine and regions in geojson](https://github.com/EugeneBorshch/ukraine_geojson)
+
 [Wales spatial data geoportal — Welsh govt & Natural Resources Wales](http://lle.gov.wales/catalogue?t=1&lang=en) including [listed buildings](http://lle.gov.wales/catalogue/item/ListedBuildings/?lang=en)
 
 [World spatial data](http://www.diva-gis.org/datadown)

@@ -16,8 +16,6 @@
 
 [CCTV road cameras in Wales](https://traffic.wales/cctv-cameras)
 
-[Chargepoints: national Registry UK](https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints)
-
 [Congestion — TomTom Traffic Index (index only, no data)](https://www.tomtom.com/en_gb/traffic-index/)
 
 [Cost of transit in world cities](https://transitcosts.com/data/)
@@ -31,6 +29,8 @@
 [Driving tests UK (pass rates etc.)](https://www.gov.uk/government/statistical-data-sets/car-driving-test-data-by-test-centre)
 
 [Electric vehicle charging sessions (4K)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NFPQLW)
+
+[Electric vehicle charging points: national Registry UK](https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints)
 
 [HGV drivers from UK and EU over six years](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/adhocs/13633hgvdriversbynationality)
 
