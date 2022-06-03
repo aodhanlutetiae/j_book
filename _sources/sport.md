@@ -46,6 +46,8 @@
 
 [LEGO Database — Rebrickable](https://rebrickable.com/downloads/)
 
+[Major sporting events data (Olympics, World Cup)](https://dataverse.harvard.edu/dataverse/mega-events)
+
 [NHL data (API)](https://www.kevinsidwar.com/iot/2017/7/1/the-undocumented-nhl-stats-api)
 
 [Parkrun results (Cardiff)](https://www.parkrun.org.uk/cardiff/results/latestresults/)

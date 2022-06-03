@@ -46,13 +46,19 @@
 
 [Fly-tipping incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
+[Gas: European Network of Transmission System Operators](https://transparency.entsog.eu)
+
 [Google Earth Engine](https://earthengine.google.com/) & [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/)
+
+[Green belts in England](https://www.gov.uk/government/collections/green-belt-statistics)
 
 [International Environmental Agreements Database Project](https://iea.uoregon.edu/)
 
 [Littering in England](https://www.gov.uk/government/publications/litter-and-littering-in-england-data-dashboard/litter-and-littering-in-england-2018-to-2019)
 
 [Natural resources Wales](https://naturalresources.wales/evidence-and-data/?lang=en) & [catalogue](https://libcat.naturalresources.wales/folio/)
+
+[Net zero targets: tracks 2,000 companies and their pledges](https://zerotracker.net/)
 
 [Nuclear Incident and Trafficking Database — IAEA](https://www.iaea.org/news/4996)
 
@@ -87,3 +93,5 @@
 [Weather station historic data — Met Office](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data)
 
 [Wind turbines around the world](https://figshare.com/articles/dataset/Global_offshore_wind_farm_dataset/13280252/5)
+
+[Wind farms](https://globalenergymonitor.org/projects/global-wind-power-tracker/summary-tables/)

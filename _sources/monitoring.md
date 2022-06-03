@@ -11,6 +11,8 @@ Who's releasing what? Get alerted to what's coming out or what's been updated or
 
 [NHS 12-month calendar](https://www.england.nhs.uk/statistics/12-months-statistics-calendar/)
 
+[NHS data releases upcoming](https://digital.nhs.uk/search/document-type/publication/publicationStatus/false?searchTab=data&sort=date&publiclyAccessible=false&contentSearch=false)
+
 [OECD media releases (by sector)](https://survey2018.oecd.org/Survey.aspx?s=e16cb6ce51dd4c619627d6259c3d7e57%20)
 
 [ONS releases in the coming week](https://www.ons.gov.uk/releasecalendar?view=upcoming)

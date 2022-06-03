@@ -6,6 +6,8 @@
 
 [Baby names for girls by year in England & Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls)
 
+[Census 2021, Northern Ireland](https://www.nisra.gov.uk/publications/census-2021-population-and-household-estimates-for-northern-ireland)
+
 [Census 1921](https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?theme=92)
 
 [Census 1961](https://www.ons.gov.uk/census/2001censusandearlier/1961censussmallareastatistics)
@@ -50,7 +52,7 @@
 
 [Housing: price rises and 2nd home ownership — ONS](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/housepricesintouristhotspotsincreasinglyoutofreachforyoungandlowpaid/2021-09-28)
 
-[Housing: reference rents](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-march-2022)
+[Housing: reference rents, England (April 2022)](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-april-2022)
 
 [How popular is your birthday? — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18)
 
@@ -69,8 +71,6 @@
 [Migration Wales, rest of UK](https://statswales.gov.wales/Catalogue/Population-and-Migration/Migration/Internal/migrationbetweenwalesandrestofuk-by-localauthority-flow-sex-age)
 
 [National identity, Wales](https://statswales.gov.wales/Catalogue/Equality-and-Diversity/National-Identity/nationalidentity-by-year-identity)
-
-[Ofsted: inspections of schools and children's care facilities](https://www.gov.uk/government/organisations/ofsted)
 
 [Passport Ranking Index 2019 — Henley & Partners](https://www.henleyglobal.com/download-hpi-2019/)
 
