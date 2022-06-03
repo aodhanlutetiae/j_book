@@ -34,6 +34,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Geocoder (batch) for journalists](https://geocode.localfocus.nl/) | "Locations to coordinates at rocket speed"
 
+[Globaleaks](https://www.globaleaks.org/) | Whistleblowing submission system
+
 [Google Journalist Studio](https://journaliststudio.google.com/) | Google tools for reporting, including [Pinpoint](https://journaliststudio.google.com/pinpoint/collections) for mass analysis of documents
 
 [Harassment manager (Jigsaw-Google)](https://github.com/conversationai/harassment-manager)
@@ -61,6 +63,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 [PANDA Project](http://pandaproject.net/) | Newsroom data journalism platform
 
 [ProPublica news apps](https://www.propublica.org/newsapps) | Tools from Propublica
+
+[Securedrop](https://securedrop.org/) | Whistleblowing submission system
 
 [Typerighter (Guardian)](https://github.com/guardian/typerighter) | Checks if a text respects the Style Guide
 

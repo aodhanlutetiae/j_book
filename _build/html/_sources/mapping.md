@@ -53,8 +53,6 @@
 
 [Postbox finder (global)](https://postboxmap.com/en)
 
-[Potholes in Toronto: Mapping Locations (article & API method)](https://towardsdatascience.com/mapping-locations-of-reported-pot-holes-in-toronto-using-python-376402d8da53)
-
 [US infrastructure map data](https://hifld-geoplatform.opendata.arcgis.com/)
 
 [Ukraine and regions in geojson](https://github.com/EugeneBorshch/ukraine_geojson)

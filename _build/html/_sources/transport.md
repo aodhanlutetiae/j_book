@@ -10,8 +10,6 @@
 
 [Bicycle counter Cardiff 2012+ (College of Music)](http://www.cykelfartviser.dk/CykelFartviser/BC_Cardiff_North_Road.jsp)
 
-[Cardiff potholes](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
-
 [Car parks in Great Britain — 2015](https://data.gov.uk/dataset/7e7ef556-4173-4dcb-8eef-8ddde4e3824d/car-parks)
 
 [CCTV road cameras in Wales](https://traffic.wales/cctv-cameras)
@@ -39,6 +37,10 @@
 [Open Charge Map (API)](https://openchargemap.org/site/develop#api)
 
 [Parking Tickets Chicago — ProPublica](https://www.propublica.org/datastore/dataset/chicago-parking-ticket-data)
+
+[Potholes Cardiff](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
+
+[Potholes Toronto: Mapping Locations (article & API method)](https://towardsdatascience.com/mapping-locations-of-reported-pot-holes-in-toronto-using-python-376402d8da53)
 
 [Rail & road office UK — ORR](https://dataportal.orr.gov.uk/)
 

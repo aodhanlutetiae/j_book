@@ -34,4 +34,4 @@
 
 [Planning appeals, England](https://www.gov.uk/government/publications/planning-inspectorate-appeals-database)
 
-[Ukraine sponsorship scheme by nations](https://www.gov.uk/government/publications/homes-for-ukraine-sponsorship-scheme-numbers-of-visa-applications)
+[Ukraine sponsorship scheme, homes](https://www.gov.uk/government/publications/homes-for-ukraine-sponsorship-scheme-numbers-of-visa-applications) & [visas](https://www.gov.uk/guidance/ukraine-sponsorship-scheme-visa-data-by-country-upper-and-lower-tier-local-authority)

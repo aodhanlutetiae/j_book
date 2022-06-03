@@ -54,6 +54,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Humanitarian data exchange](https://data.humdata.org/)
 
+[India data portal](https://ndap.niti.gov.in/)
+
 [Interesting datasets for computational journalists (2015) — Dan Nguyen](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
 
 [Investigative journalism: 18 sources](https://www.journalism.co.uk/news/data-sources-for-investigative-journalists/s2/a708756/)
@@ -95,6 +97,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [Pudding: all story datasets](https://github.com/the-pudding/data)
 
 [Random datasets for cleaning — Rachel Tatman](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
+
+[Reddit/datasets](https://www.reddit.com/r/datasets/)
 
 [Scotland National Records](https://www.nrscotland.gov.uk/statistics-and-data)
 

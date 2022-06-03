@@ -30,6 +30,8 @@
 
 [Metropolitan Museum of Art collection, New York. 400k+ entries](https://github.com/metmuseum/openaccess/)
 
+[MoMA: museum of modern art, New York](https://github.com/MuseumofModernArt/collection)
+
 [Million song dataset (280GB)](http://millionsongdataset.com/)
 
 [Netflix data](https://top10.netflix.com/)

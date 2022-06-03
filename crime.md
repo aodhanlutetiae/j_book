@@ -1,5 +1,7 @@
 # Crime
 
+[999 calls response times](https://www.police.uk/pu/your-area/derbyshire-constabulary/performance/999-performance-data/)
+
 [Animals stolen in London — Met police](https://data.london.gov.uk/dataset/mps-stolen-animals-dashboard-data)
 
 [Antiquities crime on social media — ATHAR Project](http://atharproject.org/report2019/)
@@ -30,6 +32,8 @@
 
 [EU laws (140K) — Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId%3Ddoi:10.7910/DVN/0EGYWY)
 
+[Femicide census: women killed by men in the UK (pdf reports)](https://www.femicidecensus.org/)
+
 [Firearms offences](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/offencesinvolvingtheuseofweaponsdatatables)
 
 [Harassment perception survey](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/perceptionsofpersonalsafetyandexperiencesofharassmentgreatbritain/2to27june2021)
@@ -58,7 +62,7 @@
 
 [Prison populations UK](https://www.gov.uk/government/statistics/prison-population-figures-2021)
 
-[Returning defendant in Magistrates and Crown courts](https://www.gov.uk/government/publications/data-first-criminal-courts-linked-data)
+[Returning defendants in Magistrates and Crown courts](https://www.gov.uk/government/publications/data-first-criminal-courts-linked-data)
 
 [Rural crime survey UK 2018](https://www.nationalruralcrimenetwork.net/research/internal/2018survey/)
 

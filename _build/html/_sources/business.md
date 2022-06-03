@@ -1,5 +1,7 @@
 # Business & economy
 
+[Amazon price tracking](https://keepa.com/)
+
 [ATMs in the UK](https://www.link.co.uk/initiatives/financial-inclusion-monthly-report/)
 
 [Automation of jobs — ONS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25)
