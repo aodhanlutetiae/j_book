@@ -56,6 +56,8 @@
 
 [Littering in England](https://www.gov.uk/government/publications/litter-and-littering-in-england-data-dashboard/litter-and-littering-in-england-2018-to-2019)
 
+[Meat consumption globally (OECD)](https://data.oecd.org/agroutput/meat-consumption.htm)
+
 [Natural resources Wales](https://naturalresources.wales/evidence-and-data/?lang=en) & [catalogue](https://libcat.naturalresources.wales/folio/)
 
 [Net zero targets: tracks 2,000 companies and their pledges](https://zerotracker.net/)

@@ -8,6 +8,8 @@
 
 [Gmail's treatment of US political email — The Markup](https://github.com/the-markup/investigation-wheres-my-email)
 
+[Hong Kong political prisoners since 2019](https://hkdc.us/political-prisoners-latest-update/)
+
 [Migrant children detention in the US](https://github.com/themarshallproject/cbp-migrantchildren-detention-data)
 
 [MIT's election data](https://electionlab.mit.edu/data)

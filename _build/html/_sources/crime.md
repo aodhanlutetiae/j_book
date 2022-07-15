@@ -26,6 +26,8 @@
 
 [Crime Survey for England & Wales (CSEW)](https://www.crimesurvey.co.uk/en/index.html)
 
+[Criminal justice statistics](https://www.data.gov.uk/dataset/cbe9ff83-a459-444f-bc92-39dc70bbdec1/criminal-justice-statistics)
+
 [Cyber crime in England and Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesexperimentaltables&sa=D&source=editors&ust=1619805122951000&usg=AOvVaw3oYkI1UYBxO2uT6v6XHLpP)
 
 [Drink driving data (UK)](https://www.gov.uk/government/statistical-data-sets/reported-drinking-and-driving-ras51#digital-breath-tests-in-england-and-wales)

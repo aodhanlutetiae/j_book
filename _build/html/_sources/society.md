@@ -1,16 +1,20 @@
 # Society
 
+[Adoption and fostering data for UK](https://www.gov.uk/government/publications/fostering-and-adoption-agency-datasets)
+
 ['Am I the asshole?' subreddit: Code to scrape](https://github.com/iterative/aita_dataset)
 
-[Baby names for boys by year in England & Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys)
+[Baby names for boys by year in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys)
 
-[Baby names for girls by year in England & Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls)
+[Baby names for girls by year in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls)
+
+[Census 2021, England & Wales (first results)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
 
 [Census 2021, Northern Ireland](https://www.nisra.gov.uk/publications/census-2021-population-and-household-estimates-for-northern-ireland)
 
-[Census 1921](https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?theme=92)
-
 [Census 1961](https://www.ons.gov.uk/census/2001censusandearlier/1961censussmallareastatistics)
+
+[Census 1921](https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?theme=92)
 
 [Census: Flow data (people movement)](https://wicid.ukdataservice.ac.uk/)
 
@@ -53,6 +57,8 @@
 [Housing: price rises and 2nd home ownership — ONS](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/housepricesintouristhotspotsincreasinglyoutofreachforyoungandlowpaid/2021-09-28)
 
 [Housing: reference rents, England (April 2022)](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-april-2022)
+
+[Housing: rental price index UK](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/indexofprivatehousingrentalprices/may2022)
 
 [How popular is your birthday? — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18)
 
@@ -107,6 +113,8 @@
 [Water points around the world](https://www.waterpointdata.org/access-data/)
 
 [Water fatalities UK — Water safety forum](https://www.nationalwatersafety.org.uk/waid/annual-reports-and-data)
+
+[Well-being survey — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/headlineestimatesofpersonalwellbeing)
 
 [Welsh language statistics, various sectors](https://statswales.gov.wales/Catalogue/Welsh-Language)
 

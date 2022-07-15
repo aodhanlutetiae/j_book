@@ -4,7 +4,11 @@
 
 [Accident locator UK](https://www.crashmap.co.uk/)
 
+[Automated car systems involved in crashes (US)](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting#data)
+
 [Aviation statistics in UK (Civil Aviation Authority)](https://www.caa.co.uk/data-and-analysis/)
+
+[Aviation statistics in the EU](https://ansperformance.eu/data/)
 
 [Bicycle Cities Index 2019 — commercial rather than scientific survey](https://coya.com/bike/index-2019)
 
@@ -24,11 +28,17 @@
 
 [Driving Licence Data for London](https://data.london.gov.uk/dataset/licensed-vehicles-numbers-borough)
 
+[Driving offences reported via Operation Snap (West Yorkshire)](https://www.westyorkshire.police.uk/SaferRoadsSubmissions)
+
 [Driving tests UK (pass rates etc.)](https://www.gov.uk/government/statistical-data-sets/car-driving-test-data-by-test-centre)
 
 [Electric vehicle charging sessions (4K)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NFPQLW)
 
 [Electric vehicle charging points: national Registry UK](https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints)
+
+[Electric vehicle chargepoint grants awarded (UK)](https://www.gov.uk/government/statistics/electric-vehicle-charging-device-grant-scheme-statistics-april-2022)
+
+[Fuel sales by week](https://www.data.gov.uk/dataset/9003012e-4564-4a6b-b5f0-8765ccb23a03/average-road-fuel-sales-and-stock-levels)
 
 [HGV drivers from UK and EU over six years](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/adhocs/13633hgvdriversbynationality)
 

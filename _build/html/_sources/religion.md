@@ -2,7 +2,7 @@
 
 [Bible API](https://bible-api.com/)
 
-[Books banned by the Catholic Church: publications](https://github.com/aodhanlutetiae/index)
+[Books banned by the Catholic Church](https://github.com/aodhanlutetiae/index)
 
 [Faith Survey (2016) — Irish Census](https://faithsurvey.co.uk/irish-census.html)
 
