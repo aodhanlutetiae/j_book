@@ -28,6 +28,8 @@
 
 [Football predictions dataset (538)](https://datahub.io/five-thirty-eight/soccer-spi)
 
+[Football: Premier League salaries](https://www.capology.com/uk/premier-league/salaries/)
+
 [Football data](http://football-data.co.uk/data.php) including [Football data (England)](http://football-data.co.uk/englandm.php)
 
 [Football deaths mid-game (*NOTE: methodology unclear)](https://www.kaggle.com/shivamb/football-deaths)

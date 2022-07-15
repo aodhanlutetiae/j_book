@@ -88,6 +88,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Our World in Data: long list of datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
 
+[Oxpeckers (environmental investigation) story datasets](https://oxpeckers.org/get-the-data/)
+
 [Paris Tech: random datasets — James Eagan](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets)
 
 [Parliamentary data hub](https://explore.data.parliament.uk/)

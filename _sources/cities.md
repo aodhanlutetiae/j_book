@@ -52,6 +52,6 @@
 
 [Trees in Paris with lat, long coordinates (ca 200K)](https://opendata.paris.fr/explore/dataset/les-arbres/)
 
-More trees: [Madrid](https://challenge.greemta.eu/dataset/trees/), [Bogota](http://especiales.datasketch.co/arboles-bogota/metodologia.html), [Vienna](https://www.data.gv.at/katalog/dataset/stadt-wien_baumkatasterderstadtwien), [Amsterdam](https://maps.amsterdam.nl/bomen/?LANG=en), [London](https://data.london.gov.uk/dataset/local-authority-maintained-trees), [York](https://data.gov.uk/dataset/12dcc527-a7e2-4b23-a3c5-1501053ff0f5/council-owned-trees), [Helsinki](https://hri.fi/data/en_GB/dataset/helsingin-kaupungin-puurekisteri), [Surrey](https://data.surrey.ca/dataset?tags=trees), and [Dublin](https://data.smartdublin.ie/dataset/trees)  
+More trees: [Amsterdam](https://maps.amsterdam.nl/bomen/?LANG=en), [Bogota](http://especiales.datasketch.co/arboles-bogota/metodologia.html),  [Dublin](https://data.smartdublin.ie/dataset/trees), [Helsinki](https://hri.fi/data/en_GB/dataset/helsingin-kaupungin-puurekisteri), [London](https://data.london.gov.uk/dataset/local-authority-maintained-trees), [Madrid](https://challenge.greemta.eu/dataset/trees/), [New York](https://www.nycgovparks.org/trees/street-tree-planting/locations), [Surrey](https://data.surrey.ca/dataset?tags=trees), [Vienna](https://www.data.gv.at/katalog/dataset/stadt-wien_baumkatasterderstadtwien), and [York](https://data.gov.uk/dataset/12dcc527-a7e2-4b23-a3c5-1501053ff0f5/council-owned-trees)
 
 [World Cities Database — Simplemaps.com](https://simplemaps.com/data/world-cities)
