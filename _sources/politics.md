@@ -30,9 +30,15 @@
 
 [Local election results, Wales 2017](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/wales-local-council-elections/results-and-turnout-may-2017-wales-local-elections)
 
+[Ministerial resignations since Thatcher](https://docs.google.com/spreadsheets/d/1gVHNx4kzXd947AFfQGiJg5zJrdNXrM81t2OC8UJFnw8/edit#gid=0)
+
+[Ministers' gifts, hospitality, travel etc.](https://www.gov.uk/government/collections/ministers-transparency-publications)
+
 [Opinion polls across Europe](https://github.com/filipvanlaenen/eopaod)
 
 [Parliamentary speeches (20 years) in Belgium, Germany, Greece, Ireland, Portugal & Spain](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9MN0RL)
+
+[Petitions to Senedd](https://petitions.senedd.wales/)
 
 [Political data for 233 countries — EveryPolitician](http://everypolitician.org/)
 
