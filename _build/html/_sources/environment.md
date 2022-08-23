@@ -18,7 +18,7 @@
 
 [Climate Action Tracker (global)](https://climateactiontracker.org/)
 
-[Climate action plans by UK council](https://data.climateemergency.uk/) & [Council climate change plans](https://www.mysociety.org/covering-councils-progress-towards-net-zero/)
+[Climate action plans by UK council](https://data.climateemergency.uk/about/data/) & [Council climate change plans](https://www.mysociety.org/covering-councils-progress-towards-net-zero/)
 
 [Climate change concern reaches record levels — Ipsos MORI](https://www.ipsos.com/ipsos-mori/en-uk/concern-about-climate-change-reaches-record-levels-half-now-very-concerned)
 
@@ -80,6 +80,8 @@
 
 [Seismic data UK — British Geological Survey](http://www.earthquakes.bgs.ac.uk/helicorder/heli.html)
 
+[Shark incidents in Australia](https://zenodo.org/record/6672829#.YvXjcZDMLlx)
+
 [Temperature rises in European locations](https://climatechange.europeandatajournalism.eu/en/about)
 
 [UK & Ireland rainfall, 1677-1960](https://github.com/ed-hawkins/rainfall-rescue) with [background](https://twitter.com/ed_hawkins/status/1392758650201120771)
@@ -91,6 +93,8 @@
 [Water — Transboundary Freshwater Dispute Database](https://transboundarywaters.science.oregonstate.edu/content/transboundary-freshwater-dispute-database)
 
 [Water Conflict. 926 global conflicts](http://www.worldwater.org/conflict/list/)
+
+[Water quality in England](https://environment.data.gov.uk/water-quality/view/landing) and [Wales](https://naturalresources.wales/guidance-and-advice/environmental-topics/water-management-and-quality/water-quality/bathing-water-quality/?lang=en)
 
 [Weather station historic data — Met Office](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data)
 

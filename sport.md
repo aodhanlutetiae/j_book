@@ -28,7 +28,7 @@
 
 [Football predictions dataset (538)](https://datahub.io/five-thirty-eight/soccer-spi)
 
-[Football: Premier League salaries](https://www.capology.com/uk/premier-league/salaries/)
+[Football players' salaries](https://www.capology.com/)
 
 [Football data](http://football-data.co.uk/data.php) including [Football data (England)](http://football-data.co.uk/englandm.php)
 
@@ -54,6 +54,8 @@
 
 [Parkrun results (Cardiff)](https://www.parkrun.org.uk/cardiff/results/latestresults/)
 
+[Participation in sport, England](https://activelives.sportengland.org/)
+
 [Pinball Map](https://pinballmap.com/)
 
 [Rugby union matches](http://www.rugbydata.com/)
@@ -65,6 +67,8 @@
 [Stadiums (football) database](http://stadiumdb.com/)
 
 [Tennis time (538) dataset](https://datahub.io/five-thirty-eight/tennis-time)
+
+[Tennis shot-by-shot data from pro matches](http://www.tennisabstract.com/charting/meta.html)
 
 [US college athletics financial database](http://cafidatabase.knightcommission.org/)
 

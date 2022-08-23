@@ -26,6 +26,8 @@
 
 [Food hygiene ratings for Cardiff](https://ratings.food.gov.uk/enhanced-search/en-GB/%5E/cardiff/Relevance/0/%5E/%5E/0/1/10)
 
+[Gender identity referrals (NHS)](https://gids.nhs.uk/about-us/number-of-referrals/)
+
 [GP appointments (August 2021)](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/august-2021)
 
 [Health & Safety Executive statistics](https://www.hse.gov.uk/statistics/a-z.htm)

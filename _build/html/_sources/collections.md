@@ -96,6 +96,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Propublica: story datasets](https://www.propublica.org/datastore/datasets) with [APIs](https://www.propublica.org/datastore/apis)
 
+[Public datasts: a collection](https://github.com/curran/data)
+
 [Pudding: all story datasets](https://github.com/the-pudding/data)
 
 [Random datasets for cleaning — Rachel Tatman](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)

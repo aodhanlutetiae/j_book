@@ -24,6 +24,8 @@
 
 [Child Statistics — UNICEF](https://data.unicef.org/)
 
+[Children in low income families](https://www.gov.uk/government/statistics/children-in-low-income-families-local-area-statistics-2014-to-2020)
+
 [Cold war or communism](https://ropercenter.cornell.edu/CFIDE/cf/action/catalog/catalogResult.cfm?keyword=cold%20war%20or%20communism&country=All%20Countries&organization=&type=&fromDate=1/1/1945&toDate=12/31/1991&search_x=65&search_y=13&sortBy=BEG_DATE_DESC)
 
 [Deprivation indices in England 2019 — UK govt](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019). See also [mapping resources for IoD](https://www.gov.uk/guidance/english-indices-of-deprivation-2019-mapping-resources)
