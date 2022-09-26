@@ -66,7 +66,7 @@
 
 [UK electiontechhandbook.uk — data & tech resources around elections](https://docs.google.com/document/d/1H-lRCPmeXDpWcYReGxljSDO-p04S5i4Q0Sz0GxsnLg8/edit#)
 
-[UK parliament Register of Members' Financial Interests ](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/)
+[UK parliament Register of Members' Financial Interests ](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/) | [Can be queried using Datasette](https://register-of-members-interests.datasettes.com/regmem)
 
 [UK parliament APIs — DDP Explorer](http://explore.data.parliament.uk/)
 

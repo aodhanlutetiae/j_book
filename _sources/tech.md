@@ -52,4 +52,6 @@
 
 [Wikidata — millions of data items related to other Wiki sites](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
+[Wikipedia: all edits to 2008](https://snap.stanford.edu/data/wiki-meta.html)
+
 [Yelp Dataset of business reviews](https://www.yelp.com/dataset)

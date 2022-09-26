@@ -70,11 +70,15 @@
 
 [Irish passports — Irish govt](https://www.dfa.ie/passports/open-data/)
 
+[Lifestyle survey 2011](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/compendium/generallifestylesurvey/2013-03-07/generallifestylesurvey2011referencetables)
+
 [Marriage, cohabitation and civil partnerships — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships)
 
 [Migration Data Portal — International Organisation for Migration](https://gmdac.iom.int/global-migration-data-portal)
 
 [Missing Migrants Project](https://missingmigrants.iom.int/about)
+
+[Migration to UK in small boats by day](https://www.gov.uk/government/statistical-data-sets/migrants-detected-crossing-the-english-channel-in-small-boats) by [week](https://www.gov.uk/government/statistics/migrants-detected-crossing-the-english-channel-in-small-boats-weekly-data) and by [year](https://www.gov.uk/government/statistics/irregular-migration-to-the-uk-year-ending-june-2022)
 
 [Migration Wales, rest of UK](https://statswales.gov.wales/Catalogue/Population-and-Migration/Migration/Internal/migrationbetweenwalesandrestofuk-by-localauthority-flow-sex-age)
 
@@ -84,11 +88,15 @@
 
 [Patents geocoded (18 million)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OTTBDX)
 
+[Pets in the UK](https://www.pfma.org.uk/statistics)
+
 [Planning appeals](https://www.gov.uk/government/publications/planning-inspectorate-appeals-database)
 
 [Population estimates for UK and nations (latest)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest)
 
 [Postal statistics (global)](https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications/Postal-Statistics)
+
+[Public opinion & social trends survey (ONS) — fortnightly](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/31augustto11september2022)
 
 [Pubs in the UK](https://www.pubsgalore.co.uk/)
 
