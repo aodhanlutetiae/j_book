@@ -14,9 +14,9 @@
 
 [Football datasets - various](https://datahub.io/collections/football)
 
-[Footbal data and overview to soccer analytics](https://github.com/devinpleuler/analytics-handbook/)
+[Football data and overview to soccer analytics](https://github.com/devinpleuler/analytics-handbook/)
 
-[Football data from Statsbomb](https://github.com/statsbomb/open-data)
+[Football data from Statsbomb](https://github.com/statsbomb/open-data) [Best used with [Python](https://github.com/statsbomb/statsbombpy) or [R](https://github.com/statsbomb/StatsBombR)]
 
 [Football finance](https://twitter.com/KieranMaguire) | No data but the account tweets a lot of potentially interesting data sources
 
@@ -69,6 +69,8 @@
 [Tennis time (538) dataset](https://datahub.io/five-thirty-eight/tennis-time)
 
 [Tennis shot-by-shot data from pro matches](http://www.tennisabstract.com/charting/meta.html)
+
+[Tennis WTA: women's tour](https://www.wtatennis.com/stats)
 
 [US college athletics financial database](http://cafidatabase.knightcommission.org/)
 

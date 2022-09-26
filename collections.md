@@ -32,7 +32,11 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Department for Transport](https://www.gov.uk/government/organisations/department-for-transport/about/statistics)
 
+[Deutsche Welle: repository of story data](https://github.com/dw-data)
+
 [The Economist: repository of story data and code](https://github.com/TheEconomist)
+
+[Environmental Information: public register](https://www.gov.uk/guidance/access-the-public-register-for-environmental-information)
 
 [European data journalism network (institutional datasets)](https://www.europeandatajournalism.eu/eng/Tools-for-journalists/Useful-data)
 
@@ -70,7 +74,7 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [MIT: Knight Science Journalism dataset list](https://ksj.mit.edu/resource/data-journalism-tools/databases/)
 
-[My Society datasets (including UK political datasets)](https://data.mysociety.org/)
+[My Society datasets (including UK political datasets)](https://data.mysociety.org/datasets/)
 
 [NHS Digital](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets)
 

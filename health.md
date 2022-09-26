@@ -24,6 +24,8 @@
 
 [Emerging infections: monthly summaries](https://www.gov.uk/government/publications/emerging-infections-monthly-summaries)
 
+[Excess winter deaths in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2020to2021provisionaland2019to2020final)
+
 [Food hygiene ratings for Cardiff](https://ratings.food.gov.uk/enhanced-search/en-GB/%5E/cardiff/Relevance/0/%5E/%5E/0/1/10)
 
 [Gender identity referrals (NHS)](https://gids.nhs.uk/about-us/number-of-referrals/)
