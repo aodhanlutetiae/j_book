@@ -14,8 +14,6 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Censusreporter (US)](https://censusreporter.org/) | Analyse the US census
 
-[Change detection](https://github.com/dgtlmoon/changedetection.io) | More website change monitoring
-
 [Code for democracy analysis tool](https://codefordemocracy.org/data/) | Browser-based tool for analysing US politics
 
 [Coverdrop](https://www.lightbluetouchpaper.org/2022/03/11/coverdrop-securing-initial-contact-for-whistleblowers/) | Lets whistleblowers contact news groups safely
@@ -30,8 +28,6 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Django-collaborative (Propublica)](https://github.com/propublica/django-collaborative) | Web app for building stories on tipoffs from the public
 
-[Follow That Page](https://www.followthatpage.com) | Sends you an email when a webpage changes
-
 [Geocoder (batch) for journalists](https://geocode.localfocus.nl/) | "Locations to coordinates at rocket speed"
 
 [Globaleaks](https://www.globaleaks.org/) | Whistleblowing submission system
@@ -42,15 +38,11 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Harvester (AP)](https://harvester.ap.org) & [presentation](https://vimeo.com/520123772/2a3edddf19) & [repo](https://github.com/associatedpress/harvester) | Newsroom platform for collecting data
 
-[Klaxon](https://newsklaxon.org/) | Be alerted when websites or online files are updated
-
 [Knight Lab](https://knightlab.northwestern.edu/projects/) | Tools from the Knight Lab at Northwestern University
 
 [MapChecking](https://www.mapchecking.com) | Crowd size estimator - Security parameters currently broken
 
 [Mother Jones toolbox](https://github.com/motherjones/story-tools) | List of tools for producing journalism
-
-[Newssniffer](https://www.newssniffer.co.uk/versions) | Monitor changes to online news articles
 
 [NY Times markup language 'Archie'](http://archieml.org) | Write & edit structured text to rendered in web pages or interactive graphics
 
@@ -64,6 +56,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [ProPublica news apps](https://www.propublica.org/newsapps) | Tools from Propublica
 
+[Reportermate](https://github.com/nickjevershed/Reportermate-Lib) | Generate copy from .csv file
+
 [Securedrop](https://securedrop.org/) | Whistleblowing submission system
 
 [Typerighter (Guardian)](https://github.com/guardian/typerighter) | Checks if a text respects the Style Guide
@@ -74,8 +68,13 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Violation index](https://violationtrackeruk.goodjobsfirst.org/) | 60K enforcement actions against companies by UK govt regulators
 
-[Visualping](https://visualping.io/) | Monitor website changes
-
 [Vozdata (La nacion)](https://vozdata.lanacion.com.ar/cd/paso-buenos-aires) | Project using [Crowdata](https://crowdata.readthedocs.io/en/latest/) to turn pdfs into datasets
+
+## Webpage update monitors
+- [Change detection](https://github.com/dgtlmoon/changedetection.io)
+- [Follow That Page](https://www.followthatpage.com)
+- [Klaxon](https://newsklaxon.org/)
+- [Newssniffer](https://www.newssniffer.co.uk/versions)
+- [Visualping](https://visualping.io/)
 
 [WebXray](https://github.com/timlib/webXray) | Analyse sites for trackers and cookies

@@ -44,6 +44,8 @@
 
 [NHS Informatics service for Wales](https://nwis.nhs.wales)
 
+[NHS patient safety England](https://www.england.nhs.uk/patient-safety/monthly-data-patient-safety-incident-reports/) & [Wales](https://gov.wales/patient-safety)
+
 [Organ donation UK 2020](https://www.organdonation.nhs.uk/helping-you-to-decide/about-organ-donation/statistics-about-organ-donation/transplant-activity-report/)
 
 [Pharmaceuticals sales and use in UK and rest of OECD](https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics/oecd-health-data-pharmaceutical-market_data-00545-en)

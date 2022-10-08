@@ -17,42 +17,78 @@ Traceback (most recent call last):
     raise CellExecutionError.from_cell_and_msg(cell, exec_reply['content'])
 nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
 ------------------
-years['Conwy'].plot()
+# import population data in Wales for 2001, 2018
+
+path = '/Users/aidanair/Documents/DATA/ALL_DATASETS/'
+file = 'wales_population.csv'
+
+pop = pd.read_csv(path + file)
+
 ------------------
 
 [0;31m---------------------------------------------------------------------------[0m
-[0;31mTypeError[0m                                 Traceback (most recent call last)
-[0;32m<ipython-input-14-1e8d9cc3f86d>[0m in [0;36m<module>[0;34m[0m
-[0;32m----> 1[0;31m [0myears[0m[0;34m[[0m[0;34m'Conwy'[0m[0;34m][0m[0;34m.[0m[0mplot[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0;31mFileNotFoundError[0m                         Traceback (most recent call last)
+[0;32m<ipython-input-2-3d00402a3971>[0m in [0;36m<module>[0;34m[0m
+[1;32m      4[0m [0mfile[0m [0;34m=[0m [0;34m'wales_population.csv'[0m[0;34m[0m[0;34m[0m[0m
+[1;32m      5[0m [0;34m[0m[0m
+[0;32m----> 6[0;31m [0mpop[0m [0;34m=[0m [0mpd[0m[0;34m.[0m[0mread_csv[0m[0;34m([0m[0mpath[0m [0;34m+[0m [0mfile[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
 [0m
-[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_core.py[0m in [0;36m__call__[0;34m(self, *args, **kwargs)[0m
-[1;32m    970[0m                     [0mdata[0m[0;34m.[0m[0mcolumns[0m [0;34m=[0m [0mlabel_name[0m[0;34m[0m[0;34m[0m[0m
-[1;32m    971[0m [0;34m[0m[0m
-[0;32m--> 972[0;31m         [0;32mreturn[0m [0mplot_backend[0m[0;34m.[0m[0mplot[0m[0;34m([0m[0mdata[0m[0;34m,[0m [0mkind[0m[0;34m=[0m[0mkind[0m[0;34m,[0m [0;34m**[0m[0mkwargs[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m    973[0m [0;34m[0m[0m
-[1;32m    974[0m     [0m__call__[0m[0;34m.[0m[0m__doc__[0m [0;34m=[0m [0m__doc__[0m[0;34m[0m[0;34m[0m[0m
+[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/util/_decorators.py[0m in [0;36mwrapper[0;34m(*args, **kwargs)[0m
+[1;32m    309[0m                     [0mstacklevel[0m[0;34m=[0m[0mstacklevel[0m[0;34m,[0m[0;34m[0m[0;34m[0m[0m
+[1;32m    310[0m                 )
+[0;32m--> 311[0;31m             [0;32mreturn[0m [0mfunc[0m[0;34m([0m[0;34m*[0m[0margs[0m[0;34m,[0m [0;34m**[0m[0mkwargs[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m    312[0m [0;34m[0m[0m
+[1;32m    313[0m         [0;32mreturn[0m [0mwrapper[0m[0;34m[0m[0;34m[0m[0m
 
-[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_matplotlib/__init__.py[0m in [0;36mplot[0;34m(data, kind, **kwargs)[0m
-[1;32m     69[0m             [0mkwargs[0m[0;34m[[0m[0;34m"ax"[0m[0;34m][0m [0;34m=[0m [0mgetattr[0m[0;34m([0m[0max[0m[0;34m,[0m [0;34m"left_ax"[0m[0;34m,[0m [0max[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
-[1;32m     70[0m     [0mplot_obj[0m [0;34m=[0m [0mPLOT_CLASSES[0m[0;34m[[0m[0mkind[0m[0;34m][0m[0;34m([0m[0mdata[0m[0;34m,[0m [0;34m**[0m[0mkwargs[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
-[0;32m---> 71[0;31m     [0mplot_obj[0m[0;34m.[0m[0mgenerate[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m     72[0m     [0mplot_obj[0m[0;34m.[0m[0mdraw[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
-[1;32m     73[0m     [0;32mreturn[0m [0mplot_obj[0m[0;34m.[0m[0mresult[0m[0;34m[0m[0;34m[0m[0m
+[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/io/parsers/readers.py[0m in [0;36mread_csv[0;34m(filepath_or_buffer, sep, delimiter, header, names, index_col, usecols, squeeze, prefix, mangle_dupe_cols, dtype, engine, converters, true_values, false_values, skipinitialspace, skiprows, skipfooter, nrows, na_values, keep_default_na, na_filter, verbose, skip_blank_lines, parse_dates, infer_datetime_format, keep_date_col, date_parser, dayfirst, cache_dates, iterator, chunksize, compression, thousands, decimal, lineterminator, quotechar, quoting, doublequote, escapechar, comment, encoding, encoding_errors, dialect, error_bad_lines, warn_bad_lines, on_bad_lines, delim_whitespace, low_memory, memory_map, float_precision, storage_options)[0m
+[1;32m    584[0m     [0mkwds[0m[0;34m.[0m[0mupdate[0m[0;34m([0m[0mkwds_defaults[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[1;32m    585[0m [0;34m[0m[0m
+[0;32m--> 586[0;31m     [0;32mreturn[0m [0m_read[0m[0;34m([0m[0mfilepath_or_buffer[0m[0;34m,[0m [0mkwds[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m    587[0m [0;34m[0m[0m
+[1;32m    588[0m [0;34m[0m[0m
 
-[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_matplotlib/core.py[0m in [0;36mgenerate[0;34m(self)[0m
-[1;32m    284[0m     [0;32mdef[0m [0mgenerate[0m[0;34m([0m[0mself[0m[0;34m)[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
-[1;32m    285[0m         [0mself[0m[0;34m.[0m[0m_args_adjust[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
-[0;32m--> 286[0;31m         [0mself[0m[0;34m.[0m[0m_compute_plot_data[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m    287[0m         [0mself[0m[0;34m.[0m[0m_setup_subplots[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
-[1;32m    288[0m         [0mself[0m[0;34m.[0m[0m_make_plot[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/io/parsers/readers.py[0m in [0;36m_read[0;34m(filepath_or_buffer, kwds)[0m
+[1;32m    480[0m [0;34m[0m[0m
+[1;32m    481[0m     [0;31m# Create the parser.[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
+[0;32m--> 482[0;31m     [0mparser[0m [0;34m=[0m [0mTextFileReader[0m[0;34m([0m[0mfilepath_or_buffer[0m[0;34m,[0m [0;34m**[0m[0mkwds[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m    483[0m [0;34m[0m[0m
+[1;32m    484[0m     [0;32mif[0m [0mchunksize[0m [0;32mor[0m [0miterator[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
 
-[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/plotting/_matplotlib/core.py[0m in [0;36m_compute_plot_data[0;34m(self)[0m
-[1;32m    451[0m         [0;31m# no non-numeric frames or series allowed[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
-[1;32m    452[0m         [0;32mif[0m [0mis_empty[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
-[0;32m--> 453[0;31m             [0;32mraise[0m [0mTypeError[0m[0;34m([0m[0;34m"no numeric data to plot"[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m    454[0m [0;34m[0m[0m
-[1;32m    455[0m         [0mself[0m[0;34m.[0m[0mdata[0m [0;34m=[0m [0mnumeric_data[0m[0;34m.[0m[0mapply[0m[0;34m([0m[0mself[0m[0;34m.[0m[0m_convert_to_ndarray[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/io/parsers/readers.py[0m in [0;36m__init__[0;34m(self, f, engine, **kwds)[0m
+[1;32m    809[0m             [0mself[0m[0;34m.[0m[0moptions[0m[0;34m[[0m[0;34m"has_index_names"[0m[0;34m][0m [0;34m=[0m [0mkwds[0m[0;34m[[0m[0;34m"has_index_names"[0m[0;34m][0m[0;34m[0m[0;34m[0m[0m
+[1;32m    810[0m [0;34m[0m[0m
+[0;32m--> 811[0;31m         [0mself[0m[0;34m.[0m[0m_engine[0m [0;34m=[0m [0mself[0m[0;34m.[0m[0m_make_engine[0m[0;34m([0m[0mself[0m[0;34m.[0m[0mengine[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m    812[0m [0;34m[0m[0m
+[1;32m    813[0m     [0;32mdef[0m [0mclose[0m[0;34m([0m[0mself[0m[0;34m)[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
 
-[0;31mTypeError[0m: no numeric data to plot
-TypeError: no numeric data to plot
+[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/io/parsers/readers.py[0m in [0;36m_make_engine[0;34m(self, engine)[0m
+[1;32m   1038[0m             )
+[1;32m   1039[0m         [0;31m# error: Too many arguments for "ParserBase"[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
+[0;32m-> 1040[0;31m         [0;32mreturn[0m [0mmapping[0m[0;34m[[0m[0mengine[0m[0;34m][0m[0;34m([0m[0mself[0m[0;34m.[0m[0mf[0m[0;34m,[0m [0;34m**[0m[0mself[0m[0;34m.[0m[0moptions[0m[0;34m)[0m  [0;31m# type: ignore[call-arg][0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m   1041[0m [0;34m[0m[0m
+[1;32m   1042[0m     [0;32mdef[0m [0m_failover_to_python[0m[0;34m([0m[0mself[0m[0;34m)[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+
+[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/io/parsers/c_parser_wrapper.py[0m in [0;36m__init__[0;34m(self, src, **kwds)[0m
+[1;32m     49[0m [0;34m[0m[0m
+[1;32m     50[0m         [0;31m# open handles[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
+[0;32m---> 51[0;31m         [0mself[0m[0;34m.[0m[0m_open_handles[0m[0;34m([0m[0msrc[0m[0;34m,[0m [0mkwds[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m     52[0m         [0;32massert[0m [0mself[0m[0;34m.[0m[0mhandles[0m [0;32mis[0m [0;32mnot[0m [0;32mNone[0m[0;34m[0m[0;34m[0m[0m
+[1;32m     53[0m [0;34m[0m[0m
+
+[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/io/parsers/base_parser.py[0m in [0;36m_open_handles[0;34m(self, src, kwds)[0m
+[1;32m    227[0m             [0mmemory_map[0m[0;34m=[0m[0mkwds[0m[0;34m.[0m[0mget[0m[0;34m([0m[0;34m"memory_map"[0m[0;34m,[0m [0;32mFalse[0m[0;34m)[0m[0;34m,[0m[0;34m[0m[0;34m[0m[0m
+[1;32m    228[0m             [0mstorage_options[0m[0;34m=[0m[0mkwds[0m[0;34m.[0m[0mget[0m[0;34m([0m[0;34m"storage_options"[0m[0;34m,[0m [0;32mNone[0m[0;34m)[0m[0;34m,[0m[0;34m[0m[0;34m[0m[0m
+[0;32m--> 229[0;31m             [0merrors[0m[0;34m=[0m[0mkwds[0m[0;34m.[0m[0mget[0m[0;34m([0m[0;34m"encoding_errors"[0m[0;34m,[0m [0;34m"strict"[0m[0;34m)[0m[0;34m,[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m    230[0m         )
+[1;32m    231[0m [0;34m[0m[0m
+
+[0;32m~/Documents/DATA/V_ENV/virtual_env_tri/lib/python3.7/site-packages/pandas/io/common.py[0m in [0;36mget_handle[0;34m(path_or_buf, mode, encoding, compression, memory_map, is_text, errors, storage_options)[0m
+[1;32m    705[0m                 [0mencoding[0m[0;34m=[0m[0mioargs[0m[0;34m.[0m[0mencoding[0m[0;34m,[0m[0;34m[0m[0;34m[0m[0m
+[1;32m    706[0m                 [0merrors[0m[0;34m=[0m[0merrors[0m[0;34m,[0m[0;34m[0m[0;34m[0m[0m
+[0;32m--> 707[0;31m                 [0mnewline[0m[0;34m=[0m[0;34m""[0m[0;34m,[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m    708[0m             )
+[1;32m    709[0m         [0;32melse[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+
+[0;31mFileNotFoundError[0m: [Errno 2] No such file or directory: '/Users/aidanair/Documents/DATA/ALL_DATASETS/wales_population.csv'
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/aidanair/Documents/DATA/ALL_DATASETS/wales_population.csv'
 
