@@ -71,11 +71,28 @@ pop.head()
 
 pop.pop_eighteen.plot(kind = 'bar')
 
+# this works a placeholder 'do nothing' but here stops the <AxesSubplot:title ETC. A semicolon also works
+pass
+
+import matplotlib.pyplot as plt
+
+plt.figure(figsize=(14, 5))
+
+pop.boxplot(vert=False, color = 'black')
+
+plt.xlabel('\nxlabel', fontsize = 14)
+# plt.legend(topleft)
+
+plt.title('Some title\n', fontsize = 16)
+
+plt.show()
 
 
-# # horizontal bar chart, with adjusted opacity and figure size
+<br><br><br>
 
-pop.pop_eighteen.plot(kind = 'barh', alpha = 0.5, figsize=(15,9))
+# # horizontal bar chart, with adjusted opacity, title and figure size
+
+pop.pop_eighteen.plot(kind = 'barh', alpha = 0.5, figsize=(15,9));
 
 # stacked barchart with title, grid and labels
 
@@ -85,8 +102,9 @@ pop[['pop_one','pop_eighteen']].plot(kind = 'barh',
                                      grid = True,
                                      stacked = False,
                                      xlabel = 'Area', 
-                                     ylabel = 'Population')
+                                     ylabel = 'Population');
 
+<br><br>
 ## Linechart
 
 > using numbers of pubs in Wales by local authority 2001-18
@@ -117,17 +135,20 @@ years[:2]
 
 # plot a single column by time
 
-years.Conwy.plot()
+years.Conwy.plot(title = 'Number of pubs in Conwy, 2001-18');
 
 # plot a selection of columns
 
-years[['Cardiff', 'Newport', 'Swansea']].plot(figsize = (15, 9))
+years[['Cardiff', 'Newport', 'Swansea']].plot(figsize = (15, 9), title = 'Number of pubs in Cardiff, Newport & Swansea, 2001-18');
+
 
 # plot a period and several areas
 
-years['2008':'2016'][['Ceredigion', 'Pembrokeshire', 'Carmarthenshire']].plot(figsize = (15, 9))
+years['2008':'2016'][['Ceredigion', 'Pembrokeshire', 'Carmarthenshire']].plot(figsize = (15, 9), 
+                                                                             title = 'Number of pubs in Ceredigion, Carmarthenshire & Pembrokeshire & Swansea, 2008-16');
 
 
+<br><br>
 
 ## Scatterplot
 
@@ -157,11 +178,13 @@ pp.plot(kind = 'scatter',
 # save to current directory
 plt.savefig('wales_pop_pub.png')
 
+<br><br>
+
 ## Histogram
 
 # histogram on a single column
 
-pop.pop_eighteen.hist()
+pop.pop_eighteen.hist();
 
 # histogram on both cols
 
@@ -173,25 +196,33 @@ pop[['pop_one','pop_eighteen']].plot(kind = 'hist',
                                      stacked = False,
                                      bins = 12,
                                      xlabel = 'Area', 
-                                     ylabel = 'Population')
+                                     ylabel = 'Population');
 
+
+<br><br>
 
 ## Piechart
 
 # piechart
 
-pop['pop_one'].plot.pie(figsize=(20,12))
+pop['pop_one'].plot.pie(figsize=(20,12), title = 'Breakdown of Welsh population in 2001 by local authority');
 
+
+<br><br>
 
 ## Boxplot
 
 # box plots by single column...
 
-pop.boxplot('pop_one') 
+pop.boxplot('pop_one'); 
 
-pop.boxplot('pop_eighteen')
+pop.boxplot('pop_eighteen');
 
 # ... and by df (with default vertical turned off) and colour selected
 
-pop.boxplot(vert = False, grid = False, color = 'red')
+pop.boxplot(vert = False, grid = False, color = 'red');
+
+
+
+
 

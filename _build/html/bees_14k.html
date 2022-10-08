@@ -1,0 +1,1225 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>14,000 Bees &#8212; Journalism, Data</title>
+    
+  <link rel="stylesheet" href="_static/css/index.f658d18f9b420779cfdf24aa0a7e2d77.css">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/sphinx-book-theme.e7340bb3dbd8dde6db86f25597f54a1b.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="_static/js/index.d3f166471bb80abb5163.js">
+
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/togglebutton.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/sphinx-book-theme.7d483ff0a819d6edff12ce0b1ead3928.js"></script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="author" title="About these documents" href="about.html" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Basic charts in pandas" href="viz_pandas_syntax.html" />
+    <link rel="prev" title="Open Charge Map API" href="api_openchargemap.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="index.html">
+  
+  <img src="_static/jomec_logo.png" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Journalism, Data</h1>
+  
+</a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="intro.html">
+   Intro
+  </a>
+ </li>
+</ul>
+<ul class="current nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="monitoring.html">
+   Monitoring
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="collections.html">
+   Collections
+  </a>
+ </li>
+ <li class="toctree-l1 collapsible-parent">
+  <a class="reference internal" href="data.html">
+   Lists of datasets
+  </a>
+  <ul class="collapse-ul">
+   <li class="toctree-l2">
+    <a class="reference internal" href="arts.html">
+     Arts &amp; Culture
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="business.html">
+     Business &amp; economy
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="cities.html">
+     Cities
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="crime.html">
+     Crime
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="education.html">
+     Education
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="environment.html">
+     Environment
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="health.html">
+     Health
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="journalism.html">
+     Journalism
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="mapping.html">
+     Mapping
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="military.html">
+     Military
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="misc.html">
+     Misc
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="politics.html">
+     Politics
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="politics_us.html">
+     Politics (US)
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="religion.html">
+     Religion
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="society.html">
+     Society
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="sport.html">
+     Sport &amp; gaming
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="tech.html">
+     Tech &amp; IT
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="transport.html">
+     Transport
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="ukgov.html">
+     UK government
+    </a>
+   </li>
+  </ul>
+  <i class="fas fa-chevron-down">
+  </i>
+ </li>
+ <li class="toctree-l1 current active collapsible-parent">
+  <a class="reference internal" href="analysis.html">
+   Notebooks
+  </a>
+  <ul class="current collapse-ul">
+   <li class="toctree-l2">
+    <a class="reference internal" href="api_uk_police.html">
+     UK police API
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="api_openchargemap.html">
+     Open Charge Map API
+    </a>
+   </li>
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     14,000 Bees
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="viz_pandas_syntax.html">
+     Basic charts in pandas
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="viz_summary_stats.html">
+     Summary statistics
+    </a>
+   </li>
+  </ul>
+  <i class="fas fa-chevron-down">
+  </i>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="tools.html">
+   Tools
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="about.html">
+   About
+  </a>
+ </li>
+</ul>
+
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="_sources/bees_14k.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.ipynb</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/executablebooks/jupyter-book"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Fbees_14k.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        
+    </div>
+</div>
+
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+            <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                    data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                    title="Fullscreen mode"><i
+                        class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Launch interactive content"><i class="fas fa-rocket"></i></button>
+    <div class="dropdown-buttons">
+        
+        <a class="binder-button" href="https://mybinder.org/v2/gh/executablebooks/jupyter-book/master?urlpath=tree/docs/bees_14k.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Launch Binder" data-toggle="tooltip"
+                data-placement="left"><img class="binder-button-logo"
+                    src="_static/images/logo_binder.svg"
+                    alt="Interact on binder">Binder</button></a>
+        
+        
+        
+        
+    </div>
+</div>
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="bees">
+<h1>14,000 Bees<a class="headerlink" href="#bees" title="Permalink to this headline">¶</a></h1>
+<blockquote>
+<div><p><a class="reference external" href="#querying">Jump directly to questions and answers, below</a></p>
+</div></blockquote>
+<p><br><br><br><br></p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># import data and examine size</span>
+
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="n">pd</span><span class="o">.</span><span class="n">set_option</span><span class="p">(</span><span class="s1">&#39;display.max_columns&#39;</span><span class="p">,</span> <span class="mi">50</span><span class="p">)</span>
+<span class="kn">import</span> <span class="nn">warnings</span>
+<span class="n">warnings</span><span class="o">.</span><span class="n">simplefilter</span><span class="p">(</span><span class="n">action</span> <span class="o">=</span> <span class="s1">&#39;ignore&#39;</span><span class="p">,</span> <span class="n">category</span> <span class="o">=</span> <span class="ne">Warning</span><span class="p">)</span>
+
+<span class="n">file</span> <span class="o">=</span> <span class="s1">&#39;/Users/aidanair/Documents/DATA/ALL_DATASETS/bees_0610.csv&#39;</span>
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">file</span><span class="p">,</span> <span class="n">sep</span> <span class="o">=</span> <span class="s1">&#39;;&#39;</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">df</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>(14699, 30)
+</pre></div>
+</div>
+</div>
+</div>
+<blockquote>
+<div><p>The dataset has over 14,000 rows and 30 columns.</p>
+</div></blockquote>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>ID</th>
+      <th>ROOT_ID</th>
+      <th>STATE</th>
+      <th>FEATURED</th>
+      <th>CHECKED</th>
+      <th>VALIDATION_SCORE</th>
+      <th>LATITUDE</th>
+      <th>LONGITUDE</th>
+      <th>CREATED_AT</th>
+      <th>MODIFIED_AT</th>
+      <th>USER_ID</th>
+      <th>IMAGE</th>
+      <th>BEE_VISITING</th>
+      <th>CATEGORY</th>
+      <th>OTHER_PLANT</th>
+      <th>BEE_TYPE</th>
+      <th>OTHER_BEE_TYPE</th>
+      <th>SETTING</th>
+      <th>OTHER_SETTING</th>
+      <th>CLIMBER_TYPE</th>
+      <th>OTHER_CLIMBER</th>
+      <th>SHRUB_TYPE</th>
+      <th>OTHER_SHRUB</th>
+      <th>TREE_TYPE</th>
+      <th>OTHER_TREE</th>
+      <th>WEATHER</th>
+      <th>OTHER_WEATHER</th>
+      <th>EMOTION</th>
+      <th>DESCRIPTION</th>
+      <th>SPOTTED_AT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>693207</td>
+      <td>693207</td>
+      <td>enabled</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-37.785884</td>
+      <td>175.256464</td>
+      <td>2022-10-04 00:32</td>
+      <td>NaN</td>
+      <td>62671</td>
+      <td>https://files.spotteron.com/images/spots/00003...</td>
+      <td>a flower</td>
+      <td>Other plant</td>
+      <td>Lavender</td>
+      <td>Honey bee</td>
+      <td>NaN</td>
+      <td>other</td>
+      <td>Garden centre</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Sunny</td>
+      <td>NaN</td>
+      <td>Happy</td>
+      <td>NaN</td>
+      <td>2022-10-04 11:30</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>693206</td>
+      <td>693206</td>
+      <td>enabled</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-37.785884</td>
+      <td>175.256464</td>
+      <td>2022-10-04 00:27</td>
+      <td>NaN</td>
+      <td>62671</td>
+      <td>https://files.spotteron.com/images/spots/00003...</td>
+      <td>a flower</td>
+      <td>Other plant</td>
+      <td>Lavender</td>
+      <td>Honey bee</td>
+      <td>NaN</td>
+      <td>other</td>
+      <td>Garden Centre</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Sunny</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>2022-10-04 11:26</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>693205</td>
+      <td>693205</td>
+      <td>enabled</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-37.785884</td>
+      <td>175.256464</td>
+      <td>2022-10-04 00:25</td>
+      <td>NaN</td>
+      <td>62671</td>
+      <td>https://files.spotteron.com/images/spots/00003...</td>
+      <td>a flower</td>
+      <td>Other plant</td>
+      <td>Lavender</td>
+      <td>Honey bee</td>
+      <td>NaN</td>
+      <td>other</td>
+      <td>Garden Center</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Sunny</td>
+      <td>NaN</td>
+      <td>Happy</td>
+      <td>There were alot of bees working around the lav...</td>
+      <td>2022-10-04 11:15</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+<blockquote>
+<div><p>CLEANING: remove some columns that hold no data, change data type, make column headers lowercase</p>
+</div></blockquote>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># lowercase the column headings</span>
+
+<span class="n">df_cols2</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">df</span><span class="o">.</span><span class="n">columns</span><span class="p">:</span>
+    <span class="n">term</span> <span class="o">=</span> <span class="n">x</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+    <span class="n">df_cols2</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">term</span><span class="p">)</span>
+    
+<span class="n">df</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="n">df_cols2</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># checking each col to see there are actually values in it, and if so that there is more than one</span>
+
+<span class="c1"># validation_score has only 0 values</span>
+<span class="c1"># climber_type has no values</span>
+<span class="c1"># other_climber has no values</span>
+<span class="c1"># shrub_type has no values</span>
+<span class="c1"># other_shrub has no values</span>
+<span class="c1"># tree_type has no values</span>
+<span class="c1"># other_tree has no values</span>
+
+<span class="n">df</span><span class="o">.</span><span class="n">climber_type</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Series([], Name: climber_type, dtype: int64)
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># drop the cols with no values</span>
+
+<span class="n">df2</span> <span class="o">=</span> <span class="n">df</span><span class="p">[[</span><span class="s1">&#39;state&#39;</span><span class="p">,</span> <span class="s1">&#39;featured&#39;</span><span class="p">,</span> <span class="s1">&#39;checked&#39;</span><span class="p">,</span>
+       <span class="s1">&#39;latitude&#39;</span><span class="p">,</span> <span class="s1">&#39;longitude&#39;</span><span class="p">,</span> <span class="s1">&#39;created_at&#39;</span><span class="p">,</span> <span class="s1">&#39;modified_at&#39;</span><span class="p">,</span> <span class="s1">&#39;user_id&#39;</span><span class="p">,</span>
+       <span class="s1">&#39;image&#39;</span><span class="p">,</span> <span class="s1">&#39;bee_visiting&#39;</span><span class="p">,</span> <span class="s1">&#39;category&#39;</span><span class="p">,</span> <span class="s1">&#39;other_plant&#39;</span><span class="p">,</span> <span class="s1">&#39;bee_type&#39;</span><span class="p">,</span>
+       <span class="s1">&#39;other_bee_type&#39;</span><span class="p">,</span> <span class="s1">&#39;setting&#39;</span><span class="p">,</span> <span class="s1">&#39;other_setting&#39;</span><span class="p">,</span> 
+       <span class="s1">&#39;weather&#39;</span><span class="p">,</span> <span class="s1">&#39;other_weather&#39;</span><span class="p">,</span> <span class="s1">&#39;emotion&#39;</span><span class="p">,</span> <span class="s1">&#39;description&#39;</span><span class="p">,</span> <span class="s1">&#39;spotted_at&#39;</span><span class="p">]]</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># cast three string cols to datetime</span>
+
+<span class="n">df2</span><span class="p">[</span><span class="s1">&#39;created_at&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">df2</span><span class="p">[</span><span class="s1">&#39;created_at&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="s1">&#39;datetime64[ns]&#39;</span><span class="p">)</span>
+<span class="n">df2</span><span class="p">[</span><span class="s1">&#39;modified_at&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">df2</span><span class="p">[</span><span class="s1">&#39;modified_at&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="s1">&#39;datetime64[ns]&#39;</span><span class="p">)</span>
+<span class="n">df2</span><span class="p">[</span><span class="s1">&#39;spotted_at&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">df2</span><span class="p">[</span><span class="s1">&#39;spotted_at&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="s1">&#39;datetime64[ns]&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<p><a id='querying'></a>
+<br><br><br><br></p>
+<blockquote>
+<div><p>QUERYING: below we ask the following questions</p>
+</div></blockquote>
+<blockquote>
+<div><p>What period does the data cover? <strong>April 15, 2020 to Oct 4, 2022</strong></p>
+</div></blockquote>
+<blockquote>
+<div><p>What are the frequency rankings for bee types observed? <strong>Honey bee on top at 3,000+, Leaf-cutter bee rarest at 68 (see below for others)</strong></p>
+</div></blockquote>
+<blockquote>
+<div><p>What do they visit? <strong>Flowers overwhelmingly, but shrubs, trees and climbers also noted</strong></p>
+</div></blockquote>
+<blockquote>
+<div><p>What’s the Honeybee count over the three years? (Note: 2020 and 2022 are partial years) <strong>1,419 (2020), 1,207(2021), 670 (2022)</strong></p>
+</div></blockquote>
+<blockquote>
+<div><p>What’s the bumblebee count (all 6 types considered) over the three years? <strong>3,239 (2020), 1,864(2021), 865 (2022)</strong></p>
+</div></blockquote>
+<blockquote>
+<div><p>In a full year (2021) how are the recorded bumblebees distributed by month? <strong>Over two thirds fall in June, July and August</strong> Chart below.</p>
+</div></blockquote>
+<blockquote>
+<div><p>In a full year (2021) how are the recorded bumblebees distributed by week? <strong>Week 23 has a surge to almost twice the next nearest week, with over 200 sightings</strong> Chart below.</p>
+</div></blockquote>
+<blockquote>
+<div><p>Where does the data come from, geographically?
+<strong>The data extends from the level of New Zealand in the south to the level of Norway in the north and from Alaksa in the west to New Zealand in the east</strong></p>
+</div></blockquote>
+<blockquote>
+<div><p>Assuming Wales to be a crude rectangle, how many observations in Wales? <strong>About 1,300</strong></p>
+</div></blockquote>
+<blockquote>
+<div><p>If we draw a rectangle around Cardiff using Taffs Well in the north-west and a point in the sea in the south-east, how many observations are in Cardiff? <strong>536</strong></p>
+</div></blockquote>
+<blockquote>
+<div><p>How many bees noted in Cardiff, by year? <strong>393, 85, 58</strong></p>
+</div></blockquote>
+<blockquote>
+<div><p>How many bumblebees noted in Cardiff over the three years? <strong>174, 48 and 38</strong></p>
+</div></blockquote>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># what period does the data cover?</span>
+
+<span class="n">df2</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="s1">&#39;created_at&#39;</span><span class="p">,</span> <span class="n">ascending</span> <span class="o">=</span> <span class="kc">False</span><span class="p">)</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span>
+
+<span class="c1"># earliest entry is April 15, 2020</span>
+<span class="c1"># latest entry is Oct 4, 2022</span>
+
+<span class="c1"># note - the spotted at variable has date problems. 2012 dates for &#39;spotted at&#39; that are 2021 dates in reality it seems</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>state</th>
+      <th>featured</th>
+      <th>checked</th>
+      <th>latitude</th>
+      <th>longitude</th>
+      <th>created_at</th>
+      <th>modified_at</th>
+      <th>user_id</th>
+      <th>image</th>
+      <th>bee_visiting</th>
+      <th>category</th>
+      <th>other_plant</th>
+      <th>bee_type</th>
+      <th>other_bee_type</th>
+      <th>setting</th>
+      <th>other_setting</th>
+      <th>weather</th>
+      <th>other_weather</th>
+      <th>emotion</th>
+      <th>description</th>
+      <th>spotted_at</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>enabled</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-37.785884</td>
+      <td>175.256464</td>
+      <td>2022-10-04 00:32:00</td>
+      <td>NaT</td>
+      <td>62671</td>
+      <td>https://files.spotteron.com/images/spots/00003...</td>
+      <td>a flower</td>
+      <td>Other plant</td>
+      <td>Lavender</td>
+      <td>Honey bee</td>
+      <td>NaN</td>
+      <td>other</td>
+      <td>Garden centre</td>
+      <td>Sunny</td>
+      <td>NaN</td>
+      <td>Happy</td>
+      <td>NaN</td>
+      <td>2022-10-04 11:30:00</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>enabled</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-37.785884</td>
+      <td>175.256464</td>
+      <td>2022-10-04 00:27:00</td>
+      <td>NaT</td>
+      <td>62671</td>
+      <td>https://files.spotteron.com/images/spots/00003...</td>
+      <td>a flower</td>
+      <td>Other plant</td>
+      <td>Lavender</td>
+      <td>Honey bee</td>
+      <td>NaN</td>
+      <td>other</td>
+      <td>Garden Centre</td>
+      <td>Sunny</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>2022-10-04 11:26:00</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>enabled</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-37.785884</td>
+      <td>175.256464</td>
+      <td>2022-10-04 00:25:00</td>
+      <td>NaT</td>
+      <td>62671</td>
+      <td>https://files.spotteron.com/images/spots/00003...</td>
+      <td>a flower</td>
+      <td>Other plant</td>
+      <td>Lavender</td>
+      <td>Honey bee</td>
+      <td>NaN</td>
+      <td>other</td>
+      <td>Garden Center</td>
+      <td>Sunny</td>
+      <td>NaN</td>
+      <td>Happy</td>
+      <td>There were alot of bees working around the lav...</td>
+      <td>2022-10-04 11:15:00</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># rankings for bee type</span>
+
+<span class="n">df2</span><span class="o">.</span><span class="n">bee_type</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Honey bee                 3296
+other bee                 3175
+White tailed bumblebee    2533
+Common carder bee         2091
+Buff tailed bumblebee     1501
+Red tailed bumblebee       887
+Small garden bumblebee     849
+Red mason bee              101
+Heath bumblebee            101
+Early mining bumblebee      97
+Leaf-cutter bee             68
+Name: bee_type, dtype: int64
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># rankings for bee visiting</span>
+
+<span class="n">df2</span><span class="o">.</span><span class="n">bee_visiting</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>a flower     10470
+a shrub       3361
+a tree         530
+a climber      338
+Name: bee_visiting, dtype: int64
+</pre></div>
+</div>
+</div>
+</div>
+<p><br><br><br></p>
+<blockquote>
+<div><p>TIME</p>
+</div></blockquote>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># filter for just &#39;Honey bee&#39;</span>
+<span class="n">hb</span> <span class="o">=</span> <span class="n">df2</span><span class="p">[</span><span class="n">df2</span><span class="o">.</span><span class="n">bee_type</span> <span class="o">==</span> <span class="s1">&#39;Honey bee&#39;</span><span class="p">]</span>
+
+<span class="c1"># count by year</span>
+<span class="n">hb</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">hb</span><span class="o">.</span><span class="n">created_at</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">year</span><span class="p">)[</span><span class="s1">&#39;bee_type&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">count</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>created_at
+2020    1419
+2021    1207
+2022     670
+Name: bee_type, dtype: int64
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">bb</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;White tailed bumblebee&#39;</span><span class="p">,</span> <span class="s1">&#39;Buff tailed bumblebee&#39;</span><span class="p">,</span> <span class="s1">&#39;Red tailed bumblebee&#39;</span><span class="p">,</span> <span class="s1">&#39;Small garden bumblebee&#39;</span><span class="p">,</span>
+      <span class="s1">&#39;Heath bumblebee&#39;</span><span class="p">,</span> <span class="s1">&#39;Early mining bumblebee&#39;</span><span class="p">]</span>
+
+<span class="c1"># how many observations for the bumblebees in the list?</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">df2</span><span class="p">[</span><span class="n">df2</span><span class="o">.</span><span class="n">bee_type</span><span class="o">.</span><span class="n">isin</span><span class="p">(</span><span class="n">bb</span><span class="p">)</span> <span class="o">==</span> <span class="kc">True</span><span class="p">]))</span>
+
+<span class="c1"># create df just for bumblebees</span>
+<span class="n">bbo</span> <span class="o">=</span> <span class="n">df2</span><span class="p">[</span><span class="n">df2</span><span class="o">.</span><span class="n">bee_type</span><span class="o">.</span><span class="n">isin</span><span class="p">(</span><span class="n">bb</span><span class="p">)</span> <span class="o">==</span> <span class="kc">True</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>5968
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># what&#39;s the count of bumblebees by year?</span>
+
+<span class="n">bbo</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">bbo</span><span class="o">.</span><span class="n">created_at</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">year</span><span class="p">)[</span><span class="s1">&#39;bee_type&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">count</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>created_at
+2020    3239
+2021    1864
+2022     865
+Name: bee_type, dtype: int64
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Taking just 2021, what&#39;s the distribution over months for bumblebee sightings?</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">bbo</span><span class="p">[</span><span class="n">bbo</span><span class="o">.</span><span class="n">created_at</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">year</span> <span class="o">==</span> <span class="mi">2021</span><span class="p">]</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">bbo</span><span class="o">.</span><span class="n">created_at</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">month</span><span class="p">)[</span><span class="s1">&#39;bee_type&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">count</span><span class="p">())</span>
+
+<span class="n">bbo</span><span class="p">[</span><span class="n">bbo</span><span class="o">.</span><span class="n">created_at</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">year</span> <span class="o">==</span> <span class="mi">2021</span><span class="p">]</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">bbo</span><span class="o">.</span><span class="n">created_at</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">month</span><span class="p">)[</span><span class="s1">&#39;bee_type&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">count</span><span class="p">()</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;bar&#39;</span><span class="p">);</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>created_at
+1       3
+2      22
+3      82
+4     172
+5     184
+6     611
+7     395
+8     303
+9      61
+10     18
+11      8
+12      5
+Name: bee_type, dtype: int64
+</pre></div>
+</div>
+<img alt="_images/bees_14k_17_1.png" src="_images/bees_14k_17_1.png" />
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Taking just 2021, what&#39;s the distribution over weeks for bumblebee sightings?</span>
+
+<span class="n">bbo</span><span class="p">[</span><span class="n">bbo</span><span class="o">.</span><span class="n">created_at</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">year</span> <span class="o">==</span> <span class="mi">2021</span><span class="p">]</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">bbo</span><span class="o">.</span><span class="n">created_at</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">week</span><span class="p">)[</span><span class="s1">&#39;bee_type&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">count</span><span class="p">()</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<img alt="_images/bees_14k_18_0.png" src="_images/bees_14k_18_0.png" />
+</div>
+</div>
+<p><br><br><br></p>
+<blockquote>
+<div><p>PLACE</p>
+</div></blockquote>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># where are we, in terms of this dataset?</span>
+
+<span class="n">df2</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="s1">&#39;latitude&#39;</span><span class="p">,</span> <span class="n">ascending</span> <span class="o">=</span> <span class="kc">False</span><span class="p">)[:</span><span class="mi">3</span><span class="p">]</span>
+
+<span class="c1"># latitude from -39 (for example, the latitude of NZ North Island) to 60 (for example, Shetland, Norway), </span>
+<span class="c1"># longitude from -159 (for example, the longitude of Alaska) to 178 (for example, NZ)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>state</th>
+      <th>featured</th>
+      <th>checked</th>
+      <th>latitude</th>
+      <th>longitude</th>
+      <th>created_at</th>
+      <th>modified_at</th>
+      <th>user_id</th>
+      <th>image</th>
+      <th>bee_visiting</th>
+      <th>category</th>
+      <th>other_plant</th>
+      <th>bee_type</th>
+      <th>other_bee_type</th>
+      <th>setting</th>
+      <th>other_setting</th>
+      <th>weather</th>
+      <th>other_weather</th>
+      <th>emotion</th>
+      <th>description</th>
+      <th>spotted_at</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>14329</th>
+      <td>enabled</td>
+      <td>0</td>
+      <td>0</td>
+      <td>60.436124</td>
+      <td>-26.324983</td>
+      <td>2020-05-13 20:40:00</td>
+      <td>2020-05-19 14:20:00</td>
+      <td>28616</td>
+      <td>https://files.spotteron.com/images/spots/00003...</td>
+      <td>a flower</td>
+      <td>Other plant</td>
+      <td>Paradise Apple Tree (maybe, more research has ...</td>
+      <td>Honey bee</td>
+      <td>NaN</td>
+      <td>Small Garden</td>
+      <td>NaN</td>
+      <td>Sunny</td>
+      <td>NaN</td>
+      <td>Happy</td>
+      <td>The bee was going from flower to flower on the...</td>
+      <td>2020-05-13 15:24:00</td>
+    </tr>
+    <tr>
+      <th>6159</th>
+      <td>enabled</td>
+      <td>0</td>
+      <td>1</td>
+      <td>58.178607</td>
+      <td>-7.053597</td>
+      <td>2021-05-30 08:13:00</td>
+      <td>2021-06-03 11:08:00</td>
+      <td>49360</td>
+      <td>https://files.spotteron.com/images/spots/00003...</td>
+      <td>a flower</td>
+      <td>Bluebell</td>
+      <td>NaN</td>
+      <td>other bee</td>
+      <td>Tree bumblebee</td>
+      <td>Small Garden</td>
+      <td>NaN</td>
+      <td>Sunny</td>
+      <td>NaN</td>
+      <td>Happy</td>
+      <td>NaN</td>
+      <td>2021-05-30 09:08:00</td>
+    </tr>
+    <tr>
+      <th>13846</th>
+      <td>enabled</td>
+      <td>0</td>
+      <td>0</td>
+      <td>58.046897</td>
+      <td>11.600560</td>
+      <td>2020-05-22 12:22:00</td>
+      <td>NaT</td>
+      <td>28844</td>
+      <td>https://files.spotteron.com/images/spots/00003...</td>
+      <td>a climber</td>
+      <td>Other plant</td>
+      <td>Other plant</td>
+      <td>other bee</td>
+      <td>Other</td>
+      <td>Large Garden</td>
+      <td>NaN</td>
+      <td>Sunny</td>
+      <td>NaN</td>
+      <td>Happy</td>
+      <td>A bee house in our shed at the summerhouse. A ...</td>
+      <td>2020-05-22 14:16:00</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># limit to a crude rectangle that is Wales </span>
+
+<span class="c1"># nw corner</span>
+<span class="n">north_limit</span> <span class="o">=</span> <span class="mf">53.482882025806845</span>
+<span class="n">west_limit</span> <span class="o">=</span> <span class="o">-</span><span class="mf">5.46771131838074</span>
+<span class="c1"># se corner</span>
+<span class="n">south_limit</span> <span class="o">=</span> <span class="mf">51.37206027857178</span>
+<span class="n">east_limit</span> <span class="o">=</span> <span class="o">-</span><span class="mf">2.985224612199138</span>
+
+<span class="n">wales</span> <span class="o">=</span> <span class="n">df2</span><span class="p">[(</span><span class="n">df2</span><span class="p">[</span><span class="s2">&quot;latitude&quot;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">south_limit</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">df2</span><span class="p">[</span><span class="s2">&quot;latitude&quot;</span><span class="p">]</span> <span class="o">&lt;</span> <span class="n">north_limit</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">df2</span><span class="p">[</span><span class="s2">&quot;longitude&quot;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">west_limit</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">df2</span><span class="p">[</span><span class="s2">&quot;longitude&quot;</span><span class="p">]</span> <span class="o">&lt;</span> <span class="n">east_limit</span><span class="p">)]</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">wales</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>1372
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># limit to a crude rectangle that is Cardiff using a NW and a SE corner</span>
+
+<span class="c1"># Taffs Well as the western limit</span>
+<span class="n">west_border</span> <span class="o">=</span> <span class="o">-</span><span class="mf">3.272094191771097</span>
+<span class="c1"># Taffs Well as the northern limit</span>
+<span class="n">north_border</span> <span class="o">=</span> <span class="mf">51.544947114627696</span>
+
+<span class="c1"># sea point as eastern limit</span>
+<span class="n">east_border</span> <span class="o">=</span> <span class="o">-</span><span class="mf">3.093220992892372</span>
+<span class="c1"># sea point as southern limit</span>
+<span class="n">south_border</span> <span class="o">=</span> <span class="mf">51.447283364739825</span>
+
+<span class="n">cdf</span> <span class="o">=</span> <span class="n">df2</span><span class="p">[(</span><span class="n">df2</span><span class="p">[</span><span class="s2">&quot;latitude&quot;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">south_border</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">df2</span><span class="p">[</span><span class="s2">&quot;latitude&quot;</span><span class="p">]</span> <span class="o">&lt;</span> <span class="n">north_border</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">df2</span><span class="p">[</span><span class="s2">&quot;longitude&quot;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">west_border</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">df2</span><span class="p">[</span><span class="s2">&quot;longitude&quot;</span><span class="p">]</span> <span class="o">&lt;</span> <span class="n">east_border</span><span class="p">)]</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">cdf</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>536
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># how many observations in &#39;Cardiff&#39; by year?</span>
+
+<span class="n">cdf</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">cdf</span><span class="o">.</span><span class="n">created_at</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">year</span><span class="p">)[</span><span class="s1">&#39;bee_type&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">count</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>created_at
+2020    393
+2021     85
+2022     58
+Name: bee_type, dtype: int64
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># limit the earlier Bumblebee df to the &#39;Cardiff&#39; rectangle - how many in all?</span>
+
+<span class="n">cdf_bb</span> <span class="o">=</span> <span class="n">bbo</span><span class="p">[(</span><span class="n">bbo</span><span class="p">[</span><span class="s2">&quot;latitude&quot;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">south_border</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">bbo</span><span class="p">[</span><span class="s2">&quot;latitude&quot;</span><span class="p">]</span> <span class="o">&lt;</span> <span class="n">north_border</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">bbo</span><span class="p">[</span><span class="s2">&quot;longitude&quot;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">west_border</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">bbo</span><span class="p">[</span><span class="s2">&quot;longitude&quot;</span><span class="p">]</span> <span class="o">&lt;</span> <span class="n">east_border</span><span class="p">)]</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">cdf_bb</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>260
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># how many observations in &#39;Cardiff&#39; by year for all bumblebees?</span>
+
+<span class="n">cdf_bb</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">cdf_bb</span><span class="o">.</span><span class="n">created_at</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">year</span><span class="p">)[</span><span class="s1">&#39;bee_type&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">count</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>created_at
+2020    174
+2021     48
+2022     38
+Name: bee_type, dtype: int64
+</pre></div>
+</div>
+</div>
+</div>
+<p><br><br><br></p>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        
+        <div class='prev-next-bottom'>
+            
+    <a class='left-prev' id="prev-link" href="api_openchargemap.html" title="previous page">Open Charge Map API</a>
+    <a class='right-next' id="next-link" href="viz_pandas_syntax.html" title="next page">Basic charts in pandas</a>
+
+        </div>
+        
+        </div>
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Aidan O'Donnell<br/>
+        
+            &copy; Copyright 2022.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="_static/js/index.d3f166471bb80abb5163.js"></script>
+
+
+    
+  </body>
+</html>

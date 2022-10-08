@@ -77,10 +77,10 @@ print(np.corrcoef(four.x4, four.y4)[1][0].round(5))
 
 # plot the four datasets
 
-one.plot(kind = 'scatter', x = 'x1', y = 'y1', title = 'ONE')
-two.plot(kind = 'scatter', x = 'x2', y = 'y2', title = 'TWO')
-three.plot(kind = 'scatter', x = 'x3', y = 'y3', title = 'THREE')
-four.plot(kind = 'scatter', x = 'x4', y = 'y4', title = 'FOUR')
+one.plot(kind = 'scatter', x = 'x1', y = 'y1', title = 'ONE');
+two.plot(kind = 'scatter', x = 'x2', y = 'y2', title = 'TWO');
+three.plot(kind = 'scatter', x = 'x3', y = 'y3', title = 'THREE');
+four.plot(kind = 'scatter', x = 'x4', y = 'y4', title = 'FOUR');
 
 ## Lines
 
@@ -151,12 +151,12 @@ din
 
 # scatter plot to show any trends in the relationship betwen the data in town A, and the data in town B
 
-din.plot.scatter(x = 'town_A', y = 'town_B')
+din.plot.scatter(x = 'town_A', y = 'town_B');
 
 
 ## Datasaurus dozen (2017)
 
-path = '/Users/aidanair/Documents/DATA/ALL_DATASETS/datasaurus_dozen/'
+path = '/Users/aidanair/Documents/DATA/ALL_DATASETS/'
 file1 = 'DatasaurusDozen.tsv'
 
 d = pd.read_csv(path + file1, sep = "\t")
@@ -187,10 +187,10 @@ display_side_by_side(d[d.dataset == 'away'].describe().round(2),
 # plot both datasets, with their (almost) identical mean, std and correlation
 
 df = d[d.dataset == 'away']
-df.plot(kind = 'scatter', x = 'x', y = 'y')
+df.plot(kind = 'scatter', x = 'x', y = 'y');
 
 df = d[d.dataset == 'bullseye']
-df.plot(kind = 'scatter', x = 'x', y = 'y')
+df.plot(kind = 'scatter', x = 'x', y = 'y');
 
 
 # plot the dinosaur and the dozen others
@@ -200,4 +200,14 @@ sets = d.dataset.unique().tolist()
 for x in sets:
     df = d[d.dataset == x]
     df.plot(kind = 'scatter', x = 'x', y = 'y', title = x)
+
+
+
+
+
+
+
+
+
+
 

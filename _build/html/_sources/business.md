@@ -26,7 +26,9 @@
 
 [Company info registers (UK) in OCCRP investigative database](https://aleph.occrp.org/datasets?collectionsfacet=countries&collectionsfacet=category&collectionsfacet_size%3Acategory=1000&collectionsfacet_size%3Acountries=1000&collectionsfacet_total%3Acategory=true&collectionsfacet_total%3Acountries=true&collectionsfilter%3Acountries=gb&collectionslimit=30&collectionssort=created_at%3Adesc)
 
-[Consumer price inflation](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/march2022)
+[Consumer price inflation](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/august2022)
+
+[Consumer Price Index: basket of goods and services 2022](https://www.ons.gov.uk/releases/consumerpriceinflationbasketofgoodsandservices2022)
 
 [Earning power by area - Wales](https://statswales.gov.wales/Catalogue/Business-Economy-and-Labour-Market/People-and-Work/Earnings/medianhourlyearnings-by-welshlocalareas-year)
 
@@ -45,6 +47,8 @@
 [Global companies (7 million +) — data.world](https://data.world/peopledatalabs/free-7-million-company-dataset)
 
 [Homeworking during the pandemic (UK)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/homeworkingintheuklabourmarket)
+
+[House prices](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housepricestatisticsforsmallareas/previousReleases)
 
 [Job vacancies over 1 million, 2021 (ONS)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/jobsandvacanciesintheuk/september2021/relateddata)
 

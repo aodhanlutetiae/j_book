@@ -224,6 +224,11 @@
     </a>
    </li>
    <li class="toctree-l2">
+    <a class="reference internal" href="bees_14k.html">
+     14,000 Bees
+    </a>
+   </li>
+   <li class="toctree-l2">
     <a class="reference internal" href="viz_pandas_syntax.html">
      Basic charts in pandas
     </a>
@@ -962,21 +967,18 @@
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># plot the four datasets</span>
 
-<span class="n">one</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x1&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y1&#39;</span><span class="p">,</span> <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;ONE&#39;</span><span class="p">)</span>
-<span class="n">two</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x2&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y2&#39;</span><span class="p">,</span> <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;TWO&#39;</span><span class="p">)</span>
-<span class="n">three</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x3&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y3&#39;</span><span class="p">,</span> <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;THREE&#39;</span><span class="p">)</span>
-<span class="n">four</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x4&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y4&#39;</span><span class="p">,</span> <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;FOUR&#39;</span><span class="p">)</span>
+<span class="n">one</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x1&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y1&#39;</span><span class="p">,</span> <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;ONE&#39;</span><span class="p">);</span>
+<span class="n">two</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x2&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y2&#39;</span><span class="p">,</span> <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;TWO&#39;</span><span class="p">);</span>
+<span class="n">three</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x3&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y3&#39;</span><span class="p">,</span> <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;THREE&#39;</span><span class="p">);</span>
+<span class="n">four</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x4&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y4&#39;</span><span class="p">,</span> <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;FOUR&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:title={&#39;center&#39;:&#39;FOUR&#39;}, xlabel=&#39;x4&#39;, ylabel=&#39;y4&#39;&gt;
-</pre></div>
-</div>
+<img alt="_images/viz_summary_stats_8_0.png" src="_images/viz_summary_stats_8_0.png" />
 <img alt="_images/viz_summary_stats_8_1.png" src="_images/viz_summary_stats_8_1.png" />
 <img alt="_images/viz_summary_stats_8_2.png" src="_images/viz_summary_stats_8_2.png" />
 <img alt="_images/viz_summary_stats_8_3.png" src="_images/viz_summary_stats_8_3.png" />
-<img alt="_images/viz_summary_stats_8_4.png" src="_images/viz_summary_stats_8_4.png" />
 </div>
 </div>
 </div>
@@ -1187,15 +1189,12 @@
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># scatter plot to show any trends in the relationship betwen the data in town A, and the data in town B</span>
 
-<span class="n">din</span><span class="o">.</span><span class="n">plot</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;town_A&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;town_B&#39;</span><span class="p">)</span>
+<span class="n">din</span><span class="o">.</span><span class="n">plot</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;town_A&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;town_B&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:xlabel=&#39;town_A&#39;, ylabel=&#39;town_B&#39;&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_summary_stats_17_1.png" src="_images/viz_summary_stats_17_1.png" />
+<img alt="_images/viz_summary_stats_17_0.png" src="_images/viz_summary_stats_17_0.png" />
 </div>
 </div>
 </div>
@@ -1203,7 +1202,7 @@
 <h2>Datasaurus dozen (2017)<a class="headerlink" href="#datasaurus-dozen-2017" title="Permalink to this headline">¶</a></h2>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">path</span> <span class="o">=</span> <span class="s1">&#39;/Users/aidanair/Documents/DATA/ALL_DATASETS/datasaurus_dozen/&#39;</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">path</span> <span class="o">=</span> <span class="s1">&#39;/Users/aidanair/Documents/DATA/ALL_DATASETS/&#39;</span>
 <span class="n">file1</span> <span class="o">=</span> <span class="s1">&#39;DatasaurusDozen.tsv&#39;</span>
 
 <span class="n">d</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">path</span> <span class="o">+</span> <span class="n">file1</span><span class="p">,</span> <span class="n">sep</span> <span class="o">=</span> <span class="s2">&quot;</span><span class="se">\t</span><span class="s2">&quot;</span><span class="p">)</span>
@@ -1493,19 +1492,16 @@ Bullseye: -0.069
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># plot both datasets, with their (almost) identical mean, std and correlation</span>
 
 <span class="n">df</span> <span class="o">=</span> <span class="n">d</span><span class="p">[</span><span class="n">d</span><span class="o">.</span><span class="n">dataset</span> <span class="o">==</span> <span class="s1">&#39;away&#39;</span><span class="p">]</span>
-<span class="n">df</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y&#39;</span><span class="p">)</span>
+<span class="n">df</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y&#39;</span><span class="p">);</span>
 
 <span class="n">df</span> <span class="o">=</span> <span class="n">d</span><span class="p">[</span><span class="n">d</span><span class="o">.</span><span class="n">dataset</span> <span class="o">==</span> <span class="s1">&#39;bullseye&#39;</span><span class="p">]</span>
-<span class="n">df</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y&#39;</span><span class="p">)</span>
+<span class="n">df</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;scatter&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;x&#39;</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;y&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:xlabel=&#39;x&#39;, ylabel=&#39;y&#39;&gt;
-</pre></div>
-</div>
+<img alt="_images/viz_summary_stats_24_0.png" src="_images/viz_summary_stats_24_0.png" />
 <img alt="_images/viz_summary_stats_24_1.png" src="_images/viz_summary_stats_24_1.png" />
-<img alt="_images/viz_summary_stats_24_2.png" src="_images/viz_summary_stats_24_2.png" />
 </div>
 </div>
 <div class="cell docutils container">

@@ -56,7 +56,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Summary statistics" href="viz_summary_stats.html" />
-    <link rel="prev" title="Open Charge Map API" href="api_openchargemap.html" />
+    <link rel="prev" title="14,000 Bees" href="bees_14k.html" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
@@ -221,6 +221,11 @@
    <li class="toctree-l2">
     <a class="reference internal" href="api_openchargemap.html">
      Open Charge Map API
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="bees_14k.html">
+     14,000 Bees
     </a>
    </li>
    <li class="toctree-l2 current active">
@@ -691,29 +696,53 @@ None
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># bar chart</span>
 
 <span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;bar&#39;</span><span class="p">)</span>
+
+<span class="c1"># this works a placeholder &#39;do nothing&#39; but here stops the &lt;AxesSubplot:title ETC. A semicolon also works</span>
+<span class="k">pass</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:xlabel=&#39;area&#39;&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_12_1.png" src="_images/viz_pandas_syntax_12_1.png" />
+<img alt="_images/viz_pandas_syntax_12_0.png" src="_images/viz_pandas_syntax_12_0.png" />
 </div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># # horizontal bar chart, with adjusted opacity and figure size</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">14</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
 
-<span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;barh&#39;</span><span class="p">,</span> <span class="n">alpha</span> <span class="o">=</span> <span class="mf">0.5</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">9</span><span class="p">))</span>
+<span class="n">pop</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="n">vert</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">color</span> <span class="o">=</span> <span class="s1">&#39;black&#39;</span><span class="p">)</span>
+
+<span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;</span><span class="se">\n</span><span class="s1">xlabel&#39;</span><span class="p">,</span> <span class="n">fontsize</span> <span class="o">=</span> <span class="mi">14</span><span class="p">)</span>
+<span class="c1"># plt.legend(topleft)</span>
+
+<span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">&#39;Some title</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">,</span> <span class="n">fontsize</span> <span class="o">=</span> <span class="mi">16</span><span class="p">)</span>
+
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:ylabel=&#39;area&#39;&gt;
+<img alt="_images/viz_pandas_syntax_14_0.png" src="_images/viz_pandas_syntax_14_0.png" />
+</div>
+</div>
+<p><br><br><br></p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># # horizontal bar chart, with adjusted opacity, title and figure size</span>
+
+<span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span> <span class="o">=</span> <span class="s1">&#39;barh&#39;</span><span class="p">,</span> <span class="n">alpha</span> <span class="o">=</span> <span class="mf">0.5</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">9</span><span class="p">));</span>
 </pre></div>
 </div>
-<img alt="_images/viz_pandas_syntax_13_1.png" src="_images/viz_pandas_syntax_13_1.png" />
+</div>
+<div class="cell_output docutils container">
+<img alt="_images/viz_pandas_syntax_16_0.png" src="_images/viz_pandas_syntax_16_0.png" />
 </div>
 </div>
 <div class="cell docutils container">
@@ -726,17 +755,15 @@ None
                                      <span class="n">grid</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>
                                      <span class="n">stacked</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span>
                                      <span class="n">xlabel</span> <span class="o">=</span> <span class="s1">&#39;Area&#39;</span><span class="p">,</span> 
-                                     <span class="n">ylabel</span> <span class="o">=</span> <span class="s1">&#39;Population&#39;</span><span class="p">)</span>
+                                     <span class="n">ylabel</span> <span class="o">=</span> <span class="s1">&#39;Population&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:title={&#39;center&#39;:&#39;Population estimates mid-2001 &amp; mid-2018 in Wales (by local authority)&#39;}, ylabel=&#39;Area&#39;&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_14_1.png" src="_images/viz_pandas_syntax_14_1.png" />
+<img alt="_images/viz_pandas_syntax_17_0.png" src="_images/viz_pandas_syntax_17_0.png" />
 </div>
 </div>
+<p><br><br></p>
 </div>
 <div class="section" id="linechart">
 <h2>Linechart<a class="headerlink" href="#linechart" title="Permalink to this headline">¶</a></h2>
@@ -1098,47 +1125,40 @@ None
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># plot a single column by time</span>
 
-<span class="n">years</span><span class="o">.</span><span class="n">Conwy</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">years</span><span class="o">.</span><span class="n">Conwy</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;Number of pubs in Conwy, 2001-18&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_23_1.png" src="_images/viz_pandas_syntax_23_1.png" />
+<img alt="_images/viz_pandas_syntax_26_0.png" src="_images/viz_pandas_syntax_26_0.png" />
 </div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># plot a selection of columns</span>
 
-<span class="n">years</span><span class="p">[[</span><span class="s1">&#39;Cardiff&#39;</span><span class="p">,</span> <span class="s1">&#39;Newport&#39;</span><span class="p">,</span> <span class="s1">&#39;Swansea&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">9</span><span class="p">))</span>
+<span class="n">years</span><span class="p">[[</span><span class="s1">&#39;Cardiff&#39;</span><span class="p">,</span> <span class="s1">&#39;Newport&#39;</span><span class="p">,</span> <span class="s1">&#39;Swansea&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">9</span><span class="p">),</span> <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;Number of pubs in Cardiff, Newport &amp; Swansea, 2001-18&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_24_1.png" src="_images/viz_pandas_syntax_24_1.png" />
+<img alt="_images/viz_pandas_syntax_27_0.png" src="_images/viz_pandas_syntax_27_0.png" />
 </div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># plot a period and several areas</span>
 
-<span class="n">years</span><span class="p">[</span><span class="s1">&#39;2008&#39;</span><span class="p">:</span><span class="s1">&#39;2016&#39;</span><span class="p">][[</span><span class="s1">&#39;Ceredigion&#39;</span><span class="p">,</span> <span class="s1">&#39;Pembrokeshire&#39;</span><span class="p">,</span> <span class="s1">&#39;Carmarthenshire&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">9</span><span class="p">))</span>
+<span class="n">years</span><span class="p">[</span><span class="s1">&#39;2008&#39;</span><span class="p">:</span><span class="s1">&#39;2016&#39;</span><span class="p">][[</span><span class="s1">&#39;Ceredigion&#39;</span><span class="p">,</span> <span class="s1">&#39;Pembrokeshire&#39;</span><span class="p">,</span> <span class="s1">&#39;Carmarthenshire&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">9</span><span class="p">),</span> 
+                                                                             <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;Number of pubs in Ceredigion, Carmarthenshire &amp; Pembrokeshire &amp; Swansea, 2008-16&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_25_1.png" src="_images/viz_pandas_syntax_25_1.png" />
+<img alt="_images/viz_pandas_syntax_28_0.png" src="_images/viz_pandas_syntax_28_0.png" />
 </div>
 </div>
+<p><br><br></p>
 </div>
 <div class="section" id="scatterplot">
 <h2>Scatterplot<a class="headerlink" href="#scatterplot" title="Permalink to this headline">¶</a></h2>
@@ -1230,9 +1250,10 @@ None
 </div>
 </div>
 <div class="cell_output docutils container">
-<img alt="_images/viz_pandas_syntax_30_0.png" src="_images/viz_pandas_syntax_30_0.png" />
+<img alt="_images/viz_pandas_syntax_32_0.png" src="_images/viz_pandas_syntax_32_0.png" />
 </div>
 </div>
+<p><br><br></p>
 </div>
 <div class="section" id="histogram">
 <h2>Histogram<a class="headerlink" href="#histogram" title="Permalink to this headline">¶</a></h2>
@@ -1240,15 +1261,12 @@ None
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># histogram on a single column</span>
 
-<span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">hist</span><span class="p">()</span>
+<span class="n">pop</span><span class="o">.</span><span class="n">pop_eighteen</span><span class="o">.</span><span class="n">hist</span><span class="p">();</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_32_1.png" src="_images/viz_pandas_syntax_32_1.png" />
+<img alt="_images/viz_pandas_syntax_34_0.png" src="_images/viz_pandas_syntax_34_0.png" />
 </div>
 </div>
 <div class="cell docutils container">
@@ -1263,17 +1281,15 @@ None
                                      <span class="n">stacked</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span>
                                      <span class="n">bins</span> <span class="o">=</span> <span class="mi">12</span><span class="p">,</span>
                                      <span class="n">xlabel</span> <span class="o">=</span> <span class="s1">&#39;Area&#39;</span><span class="p">,</span> 
-                                     <span class="n">ylabel</span> <span class="o">=</span> <span class="s1">&#39;Population&#39;</span><span class="p">)</span>
+                                     <span class="n">ylabel</span> <span class="o">=</span> <span class="s1">&#39;Population&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:title={&#39;center&#39;:&#39;Population estimates mid-2001 &amp; mid-2018 in Wales (by local authority)&#39;}, ylabel=&#39;Frequency&#39;&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_33_1.png" src="_images/viz_pandas_syntax_33_1.png" />
+<img alt="_images/viz_pandas_syntax_35_0.png" src="_images/viz_pandas_syntax_35_0.png" />
 </div>
 </div>
+<p><br><br></p>
 </div>
 <div class="section" id="piechart">
 <h2>Piechart<a class="headerlink" href="#piechart" title="Permalink to this headline">¶</a></h2>
@@ -1281,17 +1297,15 @@ None
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># piechart</span>
 
-<span class="n">pop</span><span class="p">[</span><span class="s1">&#39;pop_one&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="o">.</span><span class="n">pie</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">20</span><span class="p">,</span><span class="mi">12</span><span class="p">))</span>
+<span class="n">pop</span><span class="p">[</span><span class="s1">&#39;pop_one&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="o">.</span><span class="n">pie</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">20</span><span class="p">,</span><span class="mi">12</span><span class="p">),</span> <span class="n">title</span> <span class="o">=</span> <span class="s1">&#39;Breakdown of Welsh population in 2001 by local authority&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:ylabel=&#39;pop_one&#39;&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_35_1.png" src="_images/viz_pandas_syntax_35_1.png" />
+<img alt="_images/viz_pandas_syntax_37_0.png" src="_images/viz_pandas_syntax_37_0.png" />
 </div>
 </div>
+<p><br><br></p>
 </div>
 <div class="section" id="boxplot">
 <h2>Boxplot<a class="headerlink" href="#boxplot" title="Permalink to this headline">¶</a></h2>
@@ -1299,43 +1313,34 @@ None
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># box plots by single column...</span>
 
-<span class="n">pop</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="s1">&#39;pop_one&#39;</span><span class="p">)</span> 
+<span class="n">pop</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="s1">&#39;pop_one&#39;</span><span class="p">);</span> 
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_37_1.png" src="_images/viz_pandas_syntax_37_1.png" />
+<img alt="_images/viz_pandas_syntax_39_0.png" src="_images/viz_pandas_syntax_39_0.png" />
 </div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">pop</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="s1">&#39;pop_eighteen&#39;</span><span class="p">)</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">pop</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="s1">&#39;pop_eighteen&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_38_1.png" src="_images/viz_pandas_syntax_38_1.png" />
+<img alt="_images/viz_pandas_syntax_40_0.png" src="_images/viz_pandas_syntax_40_0.png" />
 </div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># ... and by df (with default vertical turned off) and colour selected</span>
 
-<span class="n">pop</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="n">vert</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span> <span class="n">grid</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span> <span class="n">color</span> <span class="o">=</span> <span class="s1">&#39;red&#39;</span><span class="p">)</span>
+<span class="n">pop</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="n">vert</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span> <span class="n">grid</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span> <span class="n">color</span> <span class="o">=</span> <span class="s1">&#39;red&#39;</span><span class="p">);</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;AxesSubplot:&gt;
-</pre></div>
-</div>
-<img alt="_images/viz_pandas_syntax_39_1.png" src="_images/viz_pandas_syntax_39_1.png" />
+<img alt="_images/viz_pandas_syntax_41_0.png" src="_images/viz_pandas_syntax_41_0.png" />
 </div>
 </div>
 </div>
@@ -1366,7 +1371,7 @@ None
         
         <div class='prev-next-bottom'>
             
-    <a class='left-prev' id="prev-link" href="api_openchargemap.html" title="previous page">Open Charge Map API</a>
+    <a class='left-prev' id="prev-link" href="bees_14k.html" title="previous page">14,000 Bees</a>
     <a class='right-next' id="next-link" href="viz_summary_stats.html" title="next page">Summary statistics</a>
 
         </div>
