@@ -30,7 +30,7 @@
 
 [Gender identity referrals (NHS)](https://gids.nhs.uk/about-us/number-of-referrals/)
 
-[GP appointments (August 2021)](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/august-2021)
+[GP appointments (August 2022)](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/august-2022)
 
 [Health & Safety Executive statistics](https://www.hse.gov.uk/statistics/a-z.htm)
 

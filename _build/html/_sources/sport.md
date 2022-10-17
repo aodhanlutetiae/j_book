@@ -22,9 +22,9 @@
 
 [Football match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
 
-[Football tracking data - sample - from Metrica](https://github.com/metrica-sports/sample-data)
+[Football tracking data (sample) from Metrica](https://github.com/metrica-sports/sample-data)
 
-[Football broadcast tracking data - sample - from SkillCorner](https://github.com/SkillCorner/opendata)
+[Football broadcast tracking data (sample) from SkillCorner](https://github.com/SkillCorner/opendata)
 
 [Football predictions dataset (538)](https://datahub.io/five-thirty-eight/soccer-spi)
 
@@ -34,13 +34,13 @@
 
 [Football deaths mid-game (*NOTE: methodology unclear)](https://www.kaggle.com/shivamb/football-deaths)
 
-[Football results in English Premier League — last ten seasons](https://datahub.io/sports-data/english-premier-league)
+[Football results in Premier League — last ten seasons](https://datahub.io/sports-data/english-premier-league)
 
 [Football analytics: Spatio-temporal match data — Springer Nature](https://researchdata.springernature.com/users/326532-luca-pappalardo/posts/55353-soccer-spatio-temporal-match-data-for-sports-analytics)
 
 [Formula One results since 1950 (API)](https://ergast.com/mrd/)
 
-[Gambling - Betting on football data](https://www.football-data.co.uk/)
+[Gambling: betting on football data](https://www.football-data.co.uk/)
 
 [Gambling licences in the UK (public register)](https://www.gamblingcommission.gov.uk/public-and-players/public-register)
 

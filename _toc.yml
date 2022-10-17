@@ -11,19 +11,19 @@
     - file: crime
     - file: education
     - file: environment
+    - file: gov
     - file: health
     - file: journalism
     - file: mapping
     - file: military
     - file: misc
     - file: politics
-    - file: politics_us
+    - file: politics_world
     - file: religion
     - file: society
     - file: sport
     - file: tech
     - file: transport
-    - file: ukgov
 
 - file: analysis
   sections:

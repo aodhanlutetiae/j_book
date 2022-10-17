@@ -20,7 +20,7 @@
 
 [Coins: what people have in their wallets (survey)](https://data.mendeley.com/datasets/f257j67ym6/2)
 
-[Community interest companies (register)](https://www.gov.uk/government/publications/community-interest-companies-new-cics-registered)
+[Community interest companies (newly registered)](https://www.gov.uk/government/publications/community-interest-companies-new-cics-registered)
 
 [Companies House API](https://developer.companieshouse.gov.uk/api/docs/)
 

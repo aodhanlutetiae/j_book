@@ -4,9 +4,7 @@
 
 ['Am I the asshole?' subreddit: Code to scrape](https://github.com/iterative/aita_dataset)
 
-[Baby names for boys by year in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys)
-
-[Baby names for girls by year in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls)
+[Baby names in England & Wales, 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/2021/relateddata)
 
 [Census 2021, England & Wales (first results)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
 
@@ -19,8 +17,6 @@
 [Census: Flow data (people movement)](https://wicid.ukdataservice.ac.uk/)
 
 [Census US](https://data.census.gov/cedsci/)
-
-[Central Intelligence Agency World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
 
 [Child Statistics — UNICEF](https://data.unicef.org/)
 
@@ -37,8 +33,6 @@
 [Dog breed statistics — The Kennel Club](https://www.thekennelclub.org.uk/media-centre/breed-registration-statistics)
 
 [Dog population estimates by postcode](https://data.gov.uk/dataset/ec8fc820-2e36-49d0-a09c-e2901e10b2e4/dog-population-per-postcode-district)
-
-[Etymology database](http://etym.org/)
 
 [EU settlement applications in UK — ONS](https://www.gov.uk/government/collections/eu-settlement-scheme-statistics) | See [Note](https://blog.ons.gov.uk/2021/07/02/are-there-really-6m-eu-citizens-living-in-the-uk/)
 
@@ -64,7 +58,7 @@
 
 [How popular is your birthday? — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18)
 
-[Indian ethnic group in the UK](https://www.gov.uk/government/publications/ethnicity-facts-and-figures-indian-ethnic-group?utm_source=2dbdb1f4-d794-471c-ad67-b0815458dc71)
+[Indian ethnic group in the UK](https://www.gov.uk/government/publications/ethnicity-facts-and-figures-indian-ethnic-group)
 
 [International Development, Poverty, & Sustainability — World Bank](https://www.worldbank.org/)
 
@@ -86,8 +80,6 @@
 
 [Passport Ranking Index 2019 — Henley & Partners](https://www.henleyglobal.com/download-hpi-2019/)
 
-[Patents geocoded (18 million)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OTTBDX)
-
 [Pets in the UK](https://www.pfma.org.uk/statistics)
 
 [Planning appeals](https://www.gov.uk/government/publications/planning-inspectorate-appeals-database)
@@ -105,8 +97,6 @@
 [Rough sleeper count](https://gov.wales/national-rough-sleeper-count)
 
 [Same-sex marriage postal survey in Australia 2017](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1800.02017)
-
-[Slave trade (historical) — enslaved.org](https://enslaved.org/data)
 
 [Southern Poverty Law Center’s dataset of ‘public symbols of the Confederacy’](https://docs.google.com/spreadsheets/d/17ps4aqRyaIfpu7KdGsy2HRZaaQiXUfLrpUbaR9yS51E/edit#gid=40011151)
 

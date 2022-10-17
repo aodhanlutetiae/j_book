@@ -24,7 +24,7 @@
 
 [Cost of transit in world cities](https://transitcosts.com/data/)
 
-[Cyclestreets - mapping UK bike data](https://www.cyclestreets.org/)
+[Cyclestreets: mapping UK bike data](https://www.cyclestreets.org/)
 
 [Driving Licence Data for GB — data.gov.uk ](https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data)
 
@@ -74,7 +74,7 @@
 
 [Vélib data over six months (end of 2017) — Baptiste Fontaine](https://data.bfontaine.net/datasets/6-months-of-velibs-usage.html)
 
-[World's busiest bus / metro lines — Google](https://www.blog.google/products/maps/transit-crowdedness-trends-around/)
+[World's busiest bus & metro lines — Google](https://www.blog.google/products/maps/transit-crowdedness-trends-around/)
 
 [World’s largest traffic database (allegedly)](https://utd19.ethz.ch/)
 

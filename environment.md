@@ -8,7 +8,7 @@
 
 [Air quality on Cardiff's Queen St & Newport Rd](https://uk-air.defra.gov.uk/data/data_selector_service)
 
-[Air quality Network London](http://www.londonair.org.uk/london/asp/datadownload.asp)
+[Air quality in London](http://www.londonair.org.uk/london/asp/datadownload.asp)
 
 [Air pollution in India](https://data.gov.in/keywords/air-pollution)
 
