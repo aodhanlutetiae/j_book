@@ -6,6 +6,8 @@
 
 [Ambulance response times, England](https://www.england.nhs.uk/statistics/statistical-work-areas/ambulance-quality-indicators/) & [Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Performance/Ambulance-Services)
 
+[Ambulance data (AACE)](https://aace.org.uk/uk-ambulance-service/national-ambulance-data/)
+
 [Bed numbers during pandemic, Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Activity/nhs-activity-and-capacity-during-the-coronavirus-pandemic/nhsbed-by-date-use)
 
 [Care Quality Commission (Social care regulator, England)](https://www.cqc.org.uk)

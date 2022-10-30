@@ -46,7 +46,7 @@
 
 [Senedd Record for current parliament via XML](https://record.assembly.wales/XMLExport)
 
-[Senedd Register of Members' Interests](https://senedd.wales/senedd-business/register-of-members-interests/)
+[Senedd Register of Members' Interests](https://senedd.wales/senedd-business/register-of-members-interests/) & [scraped to a csv](https://github.com/stupidpupil/senedd_scraper/tree/registers_of_interests)
 
 [Parliament APIs — DDP Explorer](http://explore.data.parliament.uk/)
 

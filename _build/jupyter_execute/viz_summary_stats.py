@@ -200,14 +200,3 @@ sets = d.dataset.unique().tolist()
 for x in sets:
     df = d[d.dataset == x]
     df.plot(kind = 'scatter', x = 'x', y = 'y', title = x)
-
-
-
-
-
-
-
-
-
-
-

@@ -74,20 +74,6 @@ pop.pop_eighteen.plot(kind = 'bar')
 # this works a placeholder 'do nothing' but here stops the <AxesSubplot:title ETC. A semicolon also works
 pass
 
-import matplotlib.pyplot as plt
-
-plt.figure(figsize=(14, 5))
-
-pop.boxplot(vert=False, color = 'black')
-
-plt.xlabel('\nxlabel', fontsize = 14)
-# plt.legend(topleft)
-
-plt.title('Some title\n', fontsize = 16)
-
-plt.show()
-
-
 <br><br><br>
 
 # # horizontal bar chart, with adjusted opacity, title and figure size
@@ -211,6 +197,18 @@ pop['pop_one'].plot.pie(figsize=(20,12), title = 'Breakdown of Welsh population 
 <br><br>
 
 ## Boxplot
+
+plt.figure(figsize=(14, 5))
+
+pop.boxplot(vert=False, color = 'black')
+
+plt.xlabel('\nxlabel', fontsize = 14)
+# plt.legend(topleft)
+
+plt.title('Population in Wales (2018, 2001)\n', fontsize = 16)
+
+plt.show()
+
 
 # box plots by single column...
 

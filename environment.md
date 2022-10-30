@@ -34,7 +34,7 @@
 
 [Emissions in India](https://urbanemissions.info/india-emissions-inventory/)
 
-[Energy performance of 21 million buildings, England & Wales](https://epc.opendatacommunities.org)
+[Energy performance of 21 million buildings, England & Wales (requires signup)](https://epc.opendatacommunities.org)
 
 [Energy performance certificates, Scottish register](https://www.scottishepcregister.org.uk/)
 

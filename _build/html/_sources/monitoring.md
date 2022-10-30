@@ -7,6 +7,8 @@ Who's releasing what? Get alerted to what's coming out or what's been updated or
 
 [Census (2021) release calendar](https://www.ons.gov.uk/census/censustransformationprogramme/census2021outputs/releaseplans)
 
+[Financial sanctions (Treasury)](https://public.govdelivery.com/accounts/UKHMTREAS/subscriber/new)
+
 [Google dataset search](https://datasetsearch.research.google.com/)
 
 [NHS 12-month calendar](https://www.england.nhs.uk/statistics/12-months-statistics-calendar/)
@@ -23,4 +25,4 @@ Who's releasing what? Get alerted to what's coming out or what's been updated or
 
 [UK government email alerts on updated pages or data](https://www.gov.uk/help/update-email-notifications)
 
-[UK gov upcoming data releases](https://www.gov.uk/search/research-and-statistics?content_store_document_type=upcoming_statistics&order=updated-newest)
+[UK gov upcoming data releases](https://www.gov.uk/search/research-and-statistics?content_store_document_type=upcoming_statistics&order=updated-newest) or by area, for example the [Home Office](https://www.gov.uk/search/research-and-statistics?content_store_document_type=upcoming_statistics&organisations%5B%5D=home-office)
