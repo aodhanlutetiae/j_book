@@ -12,7 +12,7 @@
 
 [Blue badge system in England: use and abuse](https://www.gov.uk/government/statistical-data-sets/blue-badge-scheme-statistics-data-tables-dis)
 
-[Case law - UK national archives](https://caselaw.nationalarchives.gov.uk/)
+[Case law — UK national archives](https://caselaw.nationalarchives.gov.uk/)
 
 [CCTV cameras run by Durham council (Dec 2020)](https://data.gov.uk/dataset/bef4fc96-65e7-444f-b5ab-92bf0473dc17/cctv-camera-locations)
 
@@ -54,11 +54,11 @@
 
 [Metropolitan police, data about](https://data.london.gov.uk/dataset/?org=db7940dd-ee1a-4a68-b874-c34151e16e82)
 
-[Open sanctions - people and companies](https://www.opensanctions.org/)
+[Open sanctions — people and companies](https://www.opensanctions.org/)
 
 [Police staffing data](https://www.gov.uk/government/statistics/police-workforce-open-data-tables)
 
-[Police stop & search figures by ethnicity in UK](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest%23data-sources)
+[Police stop & search figures by ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest%23data-sources)
 
 [Police use of force data](https://www.gov.uk/government/statistics/police-use-of-force-statistics-england-and-wales-april-2019-to-march-2020)
 
@@ -66,7 +66,7 @@
 
 [Returning defendants in Magistrates and Crown courts](https://www.gov.uk/government/publications/data-first-criminal-courts-linked-data)
 
-[Rural crime survey UK 2018](https://www.nationalruralcrimenetwork.net/research/internal/2018survey/)
+[Rural crime survey 2018](https://www.nationalruralcrimenetwork.net/research/internal/2018survey/)
 
 [US civilian complaints against NYPD police, 1982-2020 — Propublica](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers)
 
@@ -82,7 +82,7 @@
 
 [US death row inmates executed since 1976 — Select Star SQL](https://selectstarsql.com/frontmatter.html)
 
-[US police officers in Chicago who had civil rights lawsuits against them with settlements paid to complainant](http://projects.chicagoreporter.com/settlements/search/officersDatabase)
+[US lawsuits against Chicago police (settlements paid)](http://projects.chicagoreporter.com/settlements/search/officersDatabase)
 
 [US police officers killed or injured on duty 2019](https://ucr.fbi.gov/leoka/2019/downloads/download-files)
 
@@ -96,4 +96,4 @@
 
 [US shootings. Mother Jones](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data)
 
-[Women and criminal justice system UK](https://www.gov.uk/government/collections/women-and-the-criminal-justice-system)
+[Women and criminal justice system](https://www.gov.uk/government/collections/women-and-the-criminal-justice-system)

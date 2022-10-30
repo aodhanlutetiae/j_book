@@ -8,7 +8,7 @@
 
 [APUR — Atelier parisien d'urbanisme](https://opendata.apur.org)
 
-[Bees in cities with locations — https://spotabee.buzz/](https://spotabee.buzz)
+[Bees in cities with locations](https://spotabee.buzz)
 
 [Bristol council monthly spends over £500](https://www.bristol.gov.uk/council-spending-performance/spending-over-500)
 

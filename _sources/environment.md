@@ -8,7 +8,7 @@
 
 [Air quality on Cardiff's Queen St & Newport Rd](https://uk-air.defra.gov.uk/data/data_selector_service)
 
-[Air quality Network London](http://www.londonair.org.uk/london/asp/datadownload.asp)
+[Air quality in London](http://www.londonair.org.uk/london/asp/datadownload.asp)
 
 [Air pollution in India](https://data.gov.in/keywords/air-pollution)
 
@@ -34,7 +34,7 @@
 
 [Emissions in India](https://urbanemissions.info/india-emissions-inventory/)
 
-[Energy performance of 21 million buildings, England & Wales](https://epc.opendatacommunities.org)
+[Energy performance of 21 million buildings, England & Wales (requires signup)](https://epc.opendatacommunities.org)
 
 [Energy performance certificates, Scottish register](https://www.scottishepcregister.org.uk/)
 
