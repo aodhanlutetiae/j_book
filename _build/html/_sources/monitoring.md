@@ -5,7 +5,7 @@ Who's releasing what? Get alerted to what's coming out or what's been updated or
 
 [Bureau Local slack channel to monitor gov.uk data releases](https://bureau-local-slack-invite.herokuapp.com/)
 
-[Census (2021) release calendar](https://www.ons.gov.uk/census/censustransformationprogramme/census2021outputs/releaseplans)
+[Census (2021) release calendar](https://census.gov.uk/census-2021-results/phase-one-topic-summaries)
 
 [Financial sanctions (Treasury)](https://public.govdelivery.com/accounts/UKHMTREAS/subscriber/new)
 

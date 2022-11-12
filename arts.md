@@ -36,6 +36,8 @@
 
 [Million song dataset (280GB)](http://millionsongdataset.com/)
 
+[Museums, UK](https://museweb.dcs.bbk.ac.uk/data)
+
 [Netflix data](https://top10.netflix.com/)
 
 [New York Philharmonic performances, 1842-2020](https://data.world/popculture/new-york-philharmonic-performances)

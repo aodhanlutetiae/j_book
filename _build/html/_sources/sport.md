@@ -58,8 +58,6 @@
 
 [Pinball Map](https://pinballmap.com/)
 
-[Rugby union matches](http://www.rugbydata.com/)
-
 [Stadiums in Europe by capacity — Wikipedia](https://en.wikipedia.org/wiki/List_of_European_stadiums_by_capacity#Capacity_of_80,001_or_more)
 
 [Stadiums (football) in England latitude & longitude — C Boutaud](https://github.com/martinjc/UK-GeoJSON/tree/master/csv)
