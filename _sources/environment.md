@@ -74,8 +74,6 @@
 
 [Public perception of climate change, Autumn 2020 (UK)](https://www.gov.uk/government/publications/climate-change-and-net-zero-public-awareness-and-perceptions)
 
-[Scottish energy performance certificates (register)](https://www.scottishepcregister.org.uk/)
-
 [Sea level data (global)](https://tidesandcurrents.noaa.gov/sltrends/sltrends_global.html)
 
 [Seismic data UK — British Geological Survey](http://www.earthquakes.bgs.ac.uk/helicorder/heli.html)

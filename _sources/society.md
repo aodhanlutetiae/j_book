@@ -8,6 +8,8 @@
 
 [Census 2021, England & Wales (first results)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
 
+[Census 2021, England & Wales (Demography & migration)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/demographyandmigrationdatacontent/2022-11-02)
+
 [Census 2021, Northern Ireland](https://www.nisra.gov.uk/publications/census-2021-population-and-household-estimates-for-northern-ireland)
 
 [Census 1961](https://www.ons.gov.uk/census/2001censusandearlier/1961censussmallareastatistics)
@@ -81,8 +83,6 @@
 [Passport Ranking Index 2019 — Henley & Partners](https://www.henleyglobal.com/download-hpi-2019/)
 
 [Pets in the UK](https://www.pfma.org.uk/statistics)
-
-[Planning appeals](https://www.gov.uk/government/publications/planning-inspectorate-appeals-database)
 
 [Population estimates for UK and nations (latest)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest)
 
