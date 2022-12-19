@@ -1,5 +1,7 @@
 # Sport & gaming
 
+[Basketball: 13,000+ players from women's US college teams](https://github.com/Sports-Roster-Data/womens-college-basketball)
+
 [Cricket data — cricsheet](https://cricsheet.org/)
 
 [Cycling routes in the EU](https://www.biroto.eu/en/news/eurovelo-routes-having-a-gps-tracCycling)
@@ -73,3 +75,5 @@
 [US college athletics financial database](http://cafidatabase.knightcommission.org/)
 
 [US school sport](https://ope.ed.gov/athletics/#/)
+
+[World Cup 2022: uk power usage(national grid)](https://connecteddata.nationalgrid.co.uk/dataset/?page=1)

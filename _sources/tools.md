@@ -8,6 +8,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Bellingcat OSINT tools](https://github.com/bellingcat/) | Tools developed by or for Bellingcat for Open source investigations
 
+[Big Local News (US) tools](https://biglocalnews.org/content/tools/)
+
 [Blacklight (The Markup)](https://themarkup.org/blacklight) & [repo](https://github.com/the-markup/blacklight-collector) | Real-time website privacy inspector based in part on OpenWPM (see below)
 
 [Casefinder (Caerphilly observer)](https://clwstwr.org.uk/projects/casefinder) | Search planning for Magistrates' Courts
@@ -66,15 +68,6 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [YouTube Tracking](https://youtube.tracking.exposed) | Monitor and collect personalised recommendations to investigate YouTube's recommender system.
 
-[Violation index](https://violationtrackeruk.goodjobsfirst.org/) | 60K enforcement actions against companies by UK govt regulators
-
 [Vozdata (La nacion)](https://vozdata.lanacion.com.ar/cd/paso-buenos-aires) | Project using [Crowdata](https://crowdata.readthedocs.io/en/latest/) to turn pdfs into datasets
-
-## Webpage update monitors
-- [Change detection](https://github.com/dgtlmoon/changedetection.io)
-- [Follow That Page](https://www.followthatpage.com)
-- [Klaxon](https://newsklaxon.org/)
-- [Newssniffer](https://www.newssniffer.co.uk/versions)
-- [Visualping](https://visualping.io/)
 
 [WebXray](https://github.com/timlib/webXray) | Analyse sites for trackers and cookies

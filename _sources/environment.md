@@ -16,6 +16,8 @@
 
 [Carbon footprint estimate per person in England (LSOA)](https://www.carbon.place/)
 
+[Carbon offsets database](https://gspp.berkeley.edu/faculty-and-impact/centers/cepp/projects/berkeley-carbon-trading-project/offsets-database)
+
 [Climate Action Tracker (global)](https://climateactiontracker.org/)
 
 [Climate action plans by UK council](https://data.climateemergency.uk/about/data/) & [Council climate change plans](https://www.mysociety.org/covering-councils-progress-towards-net-zero/)
@@ -25,6 +27,8 @@
 [Coalmines in India](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TDEK8O)
 
 [Coal plants in Europe](https://beyond-coal.eu/database/)
+
+[Compliance & environmental crime](https://www.gov.uk/government/publications/environment-agency-2021-data-on-regulated-businesses-in-england)
 
 [Dams database — Global Dam Watch](https://globaldamwatch.org/goodd/)
 
@@ -43,6 +47,8 @@
 [Environmental data UK (includes Defra, EA)](https://data.gov.uk/search?filters%5Btopic%5D=Environment)
 
 [Environment Agency overview of data published](https://www.gov.uk/government/organisations/environment-agency/about/publication-scheme)
+
+[Environmental permits England](https://www.gov.uk/guidance/access-the-public-register-for-environmental-information) & [Wales](https://naturalresources.wales/permits-and-permissions/check-for-a-permit-licence-or-exemption/?lang=en)
 
 [Fly-tipping incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
@@ -74,6 +80,11 @@
 
 [Public perception of climate change, Autumn 2020 (UK)](https://www.gov.uk/government/publications/climate-change-and-net-zero-public-awareness-and-perceptions)
 
+<<<<<<< HEAD
+[Renewable energy trends in the UK](https://www.gov.uk/government/statistics/energy-trends-section-6-renewables)
+
+=======
+>>>>>>> 110f7c7bc4dbccc4ee005b79b3c072b7f1a8bcb2
 [Sea level data (global)](https://tidesandcurrents.noaa.gov/sltrends/sltrends_global.html)
 
 [Seismic data UK — British Geological Survey](http://www.earthquakes.bgs.ac.uk/helicorder/heli.html)
@@ -86,7 +97,7 @@
 
 [Wales waste collection, flytipping & recycling](https://statswales.gov.wales/Catalogue/Environment-and-Countryside)
 
-[Waste data flow reports](https://www.wastedataflow.org/reports/default.aspx)
+[Waste data flow reports. Detailed source information on waste disposal in UK](https://www.wastedataflow.org/reports/default.aspx)
 
 [Water — Transboundary Freshwater Dispute Database](https://transboundarywaters.science.oregonstate.edu/content/transboundary-freshwater-dispute-database)
 
