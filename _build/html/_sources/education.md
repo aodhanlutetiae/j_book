@@ -10,7 +10,7 @@
 
 [GCSE strong passes in English & Maths (by gender, geography, ethnicity)](https://data.gov.uk/dataset/ec1efd76-d6ad-4594-9b4d-944aa4170e63/gcse-english-and-maths-results-by-ethnicity)
 
-[OFSTED](https://www.gov.uk/government/organisations/ofsted/about/statistics) & [ESTYN](https://www.estyn.gov.wales/) education monitoring data
+[OFSTED inspection outcomes](https://www.gov.uk/government/statistical-data-sets/monthly-management-information-ofsteds-school-inspections-outcomes) & [OFSTED](https://www.gov.uk/government/organisations/ofsted/about/statistics) & [ESTYN](https://www.estyn.gov.wales/) education monitoring data
 
 [PISA education data — OECD](https://www.oecd.org/pisa/data/)
 

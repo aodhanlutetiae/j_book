@@ -1,5 +1,7 @@
 # Sport & gaming
 
+[Basketball: 13,000+ players from women's US college teams](https://github.com/Sports-Roster-Data/womens-college-basketball)
+
 [Cricket data — cricsheet](https://cricsheet.org/)
 
 [Cycling routes in the EU](https://www.biroto.eu/en/news/eurovelo-routes-having-a-gps-tracCycling)
@@ -58,8 +60,6 @@
 
 [Pinball Map](https://pinballmap.com/)
 
-[Rugby union matches](http://www.rugbydata.com/)
-
 [Stadiums in Europe by capacity — Wikipedia](https://en.wikipedia.org/wiki/List_of_European_stadiums_by_capacity#Capacity_of_80,001_or_more)
 
 [Stadiums (football) in England latitude & longitude — C Boutaud](https://github.com/martinjc/UK-GeoJSON/tree/master/csv)
@@ -75,3 +75,5 @@
 [US college athletics financial database](http://cafidatabase.knightcommission.org/)
 
 [US school sport](https://ope.ed.gov/athletics/#/)
+
+[World Cup 2022: uk power usage(national grid)](https://connecteddata.nationalgrid.co.uk/dataset/?page=1)

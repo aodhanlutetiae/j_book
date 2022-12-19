@@ -22,7 +22,7 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Datassist: catalogue of different indexes available](https://docs.google.com/document/d/15BMSmaHGtR0hvhl80g32sfsJ-GhYjKAWSZJaUSA6iWQ/edit?mc_cid=9d475b8bdc&mc_eid=88c7f91a73)
 
-[Data commons— open sources for students & researchers](https://www.datacommons.org)
+[Data commons: open sources for students & researchers](https://www.datacommons.org)
 
 [Data Is Plural: archive of data mentioned in email — J Singer-Vine](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 
@@ -54,7 +54,11 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Harvard University's data repository](https://dataverse.harvard.edu/)
 
+[Health & Safety Executive (HSE)](https://www.hse.gov.uk/statistics/a-z.htm)
+
 [Higher Education Statistics Agency](https://www.hesa.ac.uk/data-and-analysis)
+
+[Housing, communities & local govt(Ministry of)](https://opendatacommunities.org/home)
 
 [Humanitarian data exchange](https://data.humdata.org/)
 
@@ -129,5 +133,11 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [UK open data by location](https://www.getthedata.com/)
 
 [UK data service: social research data](https://www.ukdataservice.ac.uk/get-data)
+
+[United Nations](https://www.un.org/en/library/page/databases)
+
+[Wales statistics (from gov)](https://gov.wales/statistics-and-research)
+
+[Wales statistics (more)](https://www.infobasecymru.net/IAS/)
 
 [World data portals: a list of 590](https://dataportals.org/)

@@ -14,11 +14,9 @@
 
 [Case law — UK national archives](https://caselaw.nationalarchives.gov.uk/)
 
-[CCTV cameras run by Durham council (Dec 2020)](https://data.gov.uk/dataset/bef4fc96-65e7-444f-b5ab-92bf0473dc17/cctv-camera-locations)
-
 [Chicago's (in)famous 'Strategic Subject List'](https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List-Historical/4aki-r3np)
 
-[Courts martial records UK](https://data.gov.uk/dataset/df73bbd3-a801-4106-a1fc-eb7b6209fe1b/court-martial-results-from-the-military-court-centres)
+[Courts martial records UK](https://www.gov.uk/government/publications/court-martial-results-from-the-military-court-centres)
 
 [Crime in England and Wales 2020 — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables)
 
@@ -62,11 +60,13 @@
 
 [Police use of force data](https://www.gov.uk/government/statistics/police-use-of-force-statistics-england-and-wales-april-2019-to-march-2020)
 
-[Prison populations UK](https://www.gov.uk/government/statistics/prison-population-figures-2021)
+[Prison populations](https://www.gov.uk/government/statistics/prison-population-figures-2021)
 
 [Returning defendants in Magistrates and Crown courts](https://www.gov.uk/government/publications/data-first-criminal-courts-linked-data)
 
 [Rural crime survey 2018](https://www.nationalruralcrimenetwork.net/research/internal/2018survey/)
+
+[Sentencing statistics](https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-march-2022)
 
 [US civilian complaints against NYPD police, 1982-2020 — Propublica](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers)
 

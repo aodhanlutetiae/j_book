@@ -30,6 +30,8 @@
 
 [Consumer Price Index: basket of goods and services 2022](https://www.ons.gov.uk/releases/consumerpriceinflationbasketofgoodsandservices2022)
 
+[Consumer trends](https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/datasets/consumertrendscurrentpriceseasonallyadjusted)
+
 [Earning power by area - Wales](https://statswales.gov.wales/Catalogue/Business-Economy-and-Labour-Market/People-and-Work/Earnings/medianhourlyearnings-by-welshlocalareas-year)
 
 [Enron emails (500K) — investigate the infamous company](https://www.kaggle.com/wcukierski/enron-email-dataset)
@@ -71,6 +73,8 @@
 [Opencorporates — Largest world database of company info](https://opencorporates.com/)
 
 [Plastic bags (England charges for single-use)](https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england)
+
+[Points of interest dataset (OS)](https://www.ordnancesurvey.co.uk/business-government/products/points-of-interest) "most comprehensive location-based directory of all public and privately-owned businesses, education and leisure services in Britain"
 
 [Property sales (residential) 1995-21 by region, England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/numberofresidentialpropertysalesfornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset06)
 

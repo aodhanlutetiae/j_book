@@ -26,6 +26,8 @@
 
 [Cyclestreets: mapping UK bike data](https://www.cyclestreets.org/)
 
+[Cycling infrastructure in London](https://data.london.gov.uk/dataset/cycling-infrastructure-database)
+
 [Driving Licence Data for GB — data.gov.uk ](https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data)
 
 [Driving Licence Data for London](https://data.london.gov.uk/dataset/licensed-vehicles-numbers-borough)
@@ -65,6 +67,8 @@
 [Station usage in the UK](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/)
 
 [TFL network demand (bus & tube figures) — as a visualisation](https://app.powerbi.com/view?r=eyJrIjoiMjZjMmQwYTktZjYxNS00MTIwLTg0ZjAtNWIwNGE0ODMzZGJhIiwidCI6IjFmYmQ2NWJmLTVkZWYtNGVlYS1hNjkyLWEwODljMjU1MzQ2YiIsImMiOjh9)
+
+[Traffic camera monitoring](https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/trafficcameraactivity)
 
 [Trains (passenger) crossing European borders](https://docs.google.com/spreadsheets/d/12deGLMuX3u-mUaHGlLT0-TXIGZnQ-NILCt6NRA4s0pU/edit#gid=588529542)
 

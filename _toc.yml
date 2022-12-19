@@ -1,37 +1,28 @@
-# Table of contents
-
-- file: intro
+format: jb-article
+root: intro
+sections:
 - file: monitoring
 - file: collections
 - file: data
   sections:
-    - file: arts
-    - file: business
-    - file: cities
-    - file: crime
-    - file: education
-    - file: environment
-    - file: gov
-    - file: health
-    - file: journalism
-    - file: mapping
-    - file: military
-    - file: misc
-    - file: politics
-    - file: politics_world
-    - file: religion
-    - file: society
-    - file: sport
-    - file: tech
-    - file: transport
-
-- file: analysis
-  sections:
-    - file: api_uk_police
-    - file: api_openchargemap
-    - file: bees_14k
-    - file: viz_pandas_syntax
-    - file: viz_summary_stats
-
+  - file: arts
+  - file: business
+  - file: cities
+  - file: crime
+  - file: education
+  - file: environment
+  - file: gov
+  - file: health
+  - file: journalism
+  - file: mapping
+  - file: military
+  - file: misc
+  - file: politics
+  - file: politics_world
+  - file: religion
+  - file: society
+  - file: sport
+  - file: tech
+  - file: transport
 - file: tools
 - file: about

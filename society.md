@@ -6,7 +6,15 @@
 
 [Baby names in England & Wales, 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/2021/relateddata)
 
+[Blue plaques & more](https://openplaques.org/data)
+
 [Census 2021, England & Wales (first results)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
+
+[Census 2021, Welsh language](https://www.ons.gov.uk/releases/welshlanguagecensus2021inwales)
+
+[Census 2021, England & Wales (Ethnic group, national identity, language, and religion)](https://www.ons.gov.uk/releases/ethnicgroupnationalidentitylanguageandreligioncensus2021inenglandandwales)
+
+[Census 2021, England & Wales (Demography & migration)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/demographyandmigrationdatacontent/2022-11-02)
 
 [Census 2021, Northern Ireland](https://www.nisra.gov.uk/publications/census-2021-population-and-household-estimates-for-northern-ireland)
 
@@ -52,7 +60,7 @@
 
 [Housing: price rises and 2nd home ownership — ONS](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/housepricesintouristhotspotsincreasinglyoutofreachforyoungandlowpaid/2021-09-28)
 
-[Housing: reference rents, England (April 2022)](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-april-2022)
+[Housing: reference rents, England (Nov 2022)](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-november-2022)
 
 [Housing: rental price index UK](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/indexofprivatehousingrentalprices/may2022)
 
@@ -82,8 +90,6 @@
 
 [Pets in the UK](https://www.pfma.org.uk/statistics)
 
-[Planning appeals](https://www.gov.uk/government/publications/planning-inspectorate-appeals-database)
-
 [Population estimates for UK and nations (latest)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest)
 
 [Postal statistics (global)](https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications/Postal-Statistics)
@@ -107,6 +113,8 @@
 [Travel in and out of the UK — international passenger survey](https://www.ons.gov.uk/surveys/informationforhouseholdsandindividuals/householdandindividualsurveys/internationalpassengersurvey)
 
 [UK: Overseas residents and UK residents abroad — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/travelandtourism)
+
+[Unclaimed estates of deceased](https://www.gov.uk/government/statistical-data-sets/unclaimed-estates-list)
 
 [Wales national survey 2020](https://gov.wales/national-survey-wales-results-viewer) and [here](https://gov.wales/national-survey-wales)
 

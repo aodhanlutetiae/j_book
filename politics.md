@@ -1,8 +1,10 @@
 # Politics
 
-[All party parliamentary groups (registers of)](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-all-party-party-parliamentary-groups/) | [Financial donations (searchable) via Open Democracy](https://www.opendemocracy.net/en/dark-money-investigations/all-party-parliamentary-groups-search-the-data/)
+[All party parliamentary groups (registers of)](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-all-party-party-parliamentary-groups/) & [Financial donations (searchable) via Open Democracy](https://www.opendemocracy.net/en/dark-money-investigations/all-party-parliamentary-groups-search-the-data/)
 
 [Brexit 2016 referendum results](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum)
+
+[China: dissent](https://chinadissent.net/)
 
 [Donations to political parties & MPs](http://search.electoralcommission.org.uk/?currentPage=1&rows=10&sort=RegulatedDoneeType&order=asc&tab=1&open=filter&et=pp&isIrishSourceYes=true&isIrishSourceNo=true&date=Accepted&from=&to=&quarters=2020q1&prePoll=false&postPoll=true&register=gb&register=ni&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)
 
@@ -46,7 +48,7 @@
 
 [Senedd Record for current parliament via XML](https://record.assembly.wales/XMLExport)
 
-[Senedd Register of Members' Interests](https://senedd.wales/senedd-business/register-of-members-interests/) & [scraped to a csv](https://github.com/stupidpupil/senedd_scraper/tree/registers_of_interests)
+[Senedd Register of Members' Interests](https://senedd.wales/senedd-business/register-of-members-interests/)
 
 [Parliament APIs — DDP Explorer](http://explore.data.parliament.uk/)
 
