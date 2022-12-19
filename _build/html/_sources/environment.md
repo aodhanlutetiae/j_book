@@ -80,11 +80,8 @@
 
 [Public perception of climate change, Autumn 2020 (UK)](https://www.gov.uk/government/publications/climate-change-and-net-zero-public-awareness-and-perceptions)
 
-<<<<<<< HEAD
 [Renewable energy trends in the UK](https://www.gov.uk/government/statistics/energy-trends-section-6-renewables)
 
-=======
->>>>>>> 110f7c7bc4dbccc4ee005b79b3c072b7f1a8bcb2
 [Sea level data (global)](https://tidesandcurrents.noaa.gov/sltrends/sltrends_global.html)
 
 [Seismic data UK — British Geological Survey](http://www.earthquakes.bgs.ac.uk/helicorder/heli.html)

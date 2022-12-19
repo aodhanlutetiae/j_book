@@ -10,13 +10,10 @@
 
 [Census 2021, England & Wales (first results)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
 
-<<<<<<< HEAD
 [Census 2021, Welsh language](https://www.ons.gov.uk/releases/welshlanguagecensus2021inwales)
 
 [Census 2021, England & Wales (Ethnic group, national identity, language, and religion)](https://www.ons.gov.uk/releases/ethnicgroupnationalidentitylanguageandreligioncensus2021inenglandandwales)
 
-=======
->>>>>>> 110f7c7bc4dbccc4ee005b79b3c072b7f1a8bcb2
 [Census 2021, England & Wales (Demography & migration)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/demographyandmigrationdatacontent/2022-11-02)
 
 [Census 2021, Northern Ireland](https://www.nisra.gov.uk/publications/census-2021-population-and-household-estimates-for-northern-ireland)
