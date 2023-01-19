@@ -8,13 +8,21 @@
 
 [Blue plaques & more](https://openplaques.org/data)
 
-[Census 2021, England & Wales (first results)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
+[Census 2021: First results(England & Wales)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
 
-[Census 2021, Welsh language](https://www.ons.gov.uk/releases/welshlanguagecensus2021inwales)
+[Census 2021: Welsh language](https://www.ons.gov.uk/releases/welshlanguagecensus2021inwales)
 
-[Census 2021, England & Wales (Ethnic group, national identity, language, and religion)](https://www.ons.gov.uk/releases/ethnicgroupnationalidentitylanguageandreligioncensus2021inenglandandwales)
+[Census 2021: Demography & migration (England & Wales)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/demographyandmigrationdatacontent/2022-11-02)
 
-[Census 2021, England & Wales (Demography & migration)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/demographyandmigrationdatacontent/2022-11-02)
+[Census 2021: Education (England & Wales)](https://www.ons.gov.uk/releases/educationcensus2021inenglandandwales)
+
+[Census 2021: Ethnic group, national identity, language, and religion (England & Wales)](https://www.ons.gov.uk/releases/ethnicgroupnationalidentitylanguageandreligioncensus2021inenglandandwales)
+
+[Census 2021: Gender identity & sexual orientation (England & Wales)](https://www.ons.gov.uk/releases/sexualorientationandgenderidentitycensus2021inenglandandwales)
+
+[Census 2021: Health (England & Wales)](https://www.ons.gov.uk/releases/healthdisabilityandunpaidcarecensus2021inenglandandwales)
+
+[Census 2021: Housing (England & Wales)](https://www.ons.gov.uk/releases/housingcensus2021inenglandandwales)
 
 [Census 2021, Northern Ireland](https://www.nisra.gov.uk/publications/census-2021-population-and-household-estimates-for-northern-ireland)
 
