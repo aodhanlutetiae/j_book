@@ -20,7 +20,9 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Coverdrop](https://www.lightbluetouchpaper.org/2022/03/11/coverdrop-securing-initial-contact-for-whistleblowers/) | Lets whistleblowers contact news groups safely
 
-[Crowdsourced data platform](https://correctiv.org/crowdnewsroom-pro/)
+[CrowData](https://crowdata.readthedocs.io/en/latest/) Turn pdfs into datasets
+
+[Crowdsourced data platform](https://crowdnewsroom.org/en/)
 
 [DataKit (AP)](https://datakit.ap.org/) | Command line tool for managing news projects
 
@@ -29,6 +31,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 [Datashare (ICIJ)](https://icij.gitbook.io/datashare/) | Analyse, search, filter & sort documents
 
 [Django-collaborative (Propublica)](https://github.com/propublica/django-collaborative) | Web app for building stories on tipoffs from the public
+
+[Document Cloud](https://www.documentcloud.org/home) | 'Turn documents into data'
 
 [Geocoder (batch) for journalists](https://geocode.localfocus.nl/) | "Locations to coordinates at rocket speed"
 
@@ -42,13 +46,13 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Knight Lab](https://knightlab.northwestern.edu/projects/) | Tools from the Knight Lab at Northwestern University
 
-[MapChecking](https://www.mapchecking.com) | Crowd size estimator - Security parameters currently broken
+[MapChecking](https://www.mapchecking.com) | Crowd size estimator
 
 [Mother Jones toolbox](https://github.com/motherjones/story-tools) | List of tools for producing journalism
 
-[NY Times markup language 'Archie'](http://archieml.org) | Write & edit structured text to rendered in web pages or interactive graphics
+[NY Times markup language 'Archie'](http://archieml.org) | Write & edit structured text to render in web pages or interactive graphics
 
-[OpenSpending](https://openspending.org/) | Search and analyse fiscal data that is public
+[OpenSpending](https://community.openspending.org) | Search and analyse fiscal data that is public
 
 [OpenWPM](https://github.com/mozilla/OpenWPM) | Measure privacy levels on websites
 
@@ -56,7 +60,7 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [PANDA Project](http://pandaproject.net/) | Newsroom data journalism platform
 
-[ProPublica news apps](https://www.propublica.org/newsapps) | Tools from Propublica
+[ProPublica news apps](https://www.propublica.org/newsapps) | Tools and apps from Propublica
 
 [Reportermate](https://github.com/nickjevershed/Reportermate-Lib) | Generate copy from .csv file
 
@@ -67,7 +71,5 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 [Twick (Buzzfeed)](https://github.com/jsvine/twick) | Command line tool to fetch & store tweets from a search query (API authentication)
 
 [YouTube Tracking](https://youtube.tracking.exposed) | Monitor and collect personalised recommendations to investigate YouTube's recommender system.
-
-[Vozdata (La nacion)](https://vozdata.lanacion.com.ar/cd/paso-buenos-aires) | Project using [Crowdata](https://crowdata.readthedocs.io/en/latest/) to turn pdfs into datasets
 
 [WebXray](https://github.com/timlib/webXray) | Analyse sites for trackers and cookies
