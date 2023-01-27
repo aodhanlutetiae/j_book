@@ -24,6 +24,8 @@
 
 [Drugs Misuse Statistics Scotland](https://data.gov.uk/dataset/c9722747-175e-49e8-b0b9-f89b7255fca5/drugs-misuse-statistics-scotland)
 
+[Drug-poisoning related deaths (England & Wales)](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsrelatedtodrugpoisoningbyselectedsubstances)
+
 [Emerging infections: monthly summaries](https://www.gov.uk/government/publications/emerging-infections-monthly-summaries)
 
 [Excess winter deaths in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2020to2021provisionaland2019to2020final)
