@@ -32,6 +32,8 @@
 
 [EU laws (140K) — Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId%3Ddoi:10.7910/DVN/0EGYWY)
 
+[FBI data](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads)
+
 [Femicide census: women killed by men in the UK (pdf reports)](https://www.femicidecensus.org/)
 
 [Firearms offences](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/offencesinvolvingtheuseofweaponsdatatables)

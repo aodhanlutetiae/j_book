@@ -6,6 +6,8 @@
 
 [Air quality on Cardiff's Castle St](https://uk-air.defra.gov.uk/data/datawarehouse)
 
+[Air quality at Cardiff's Lakeside primary school](https://uk-air.defra.gov.uk/networks/site-info?uka_id=UKA00452&provider=)
+
 [Air quality on Cardiff's Queen St & Newport Rd](https://uk-air.defra.gov.uk/data/data_selector_service)
 
 [Air quality in London](http://www.londonair.org.uk/london/asp/datadownload.asp)
@@ -54,6 +56,8 @@
 
 [Gas: European Network of Transmission System Operators](https://transparency.entsog.eu)
 
+[Global fishing watch](https://globalfishingwatch.org/datasets-and-code/)
+
 [Google Earth Engine](https://earthengine.google.com/) & [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/)
 
 [Green belts in England](https://www.gov.uk/government/collections/green-belt-statistics)
@@ -89,6 +93,8 @@
 [Shark incidents in Australia](https://zenodo.org/record/6672829#.YvXjcZDMLlx)
 
 [Temperature rises in European locations](https://climatechange.europeandatajournalism.eu/en/about)
+
+[Temperature data (global)](https://berkeleyearth.org/data/)
 
 [UK & Ireland rainfall, 1677-1960](https://github.com/ed-hawkins/rainfall-rescue) with [background](https://twitter.com/ed_hawkins/status/1392758650201120771)
 

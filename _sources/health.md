@@ -26,6 +26,8 @@
 
 [Drug-poisoning related deaths (England & Wales)](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsrelatedtodrugpoisoningbyselectedsubstances)
 
+[E-cigarette use](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/ecigaretteuseingreatbritain)
+
 [Emerging infections: monthly summaries](https://www.gov.uk/government/publications/emerging-infections-monthly-summaries)
 
 [Excess winter deaths in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2020to2021provisionaland2019to2020final)
