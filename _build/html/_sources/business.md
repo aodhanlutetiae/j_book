@@ -2,6 +2,8 @@
 
 [Amazon price tracking](https://keepa.com/)
 
+[Amazon best-sellers](https://data.world/data-hut/amazonbestsellerdata) or [how to scrape it yourself](https://www.blog.datahut.co/post/scraping-amazon-best-seller-data-using-python)
+
 [ATMs in the UK](https://www.link.co.uk/initiatives/financial-inclusion-monthly-report/)
 
 [Automation of jobs — ONS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25)
@@ -9,6 +11,8 @@
 [Beer and pubs in the UK](https://beerandpub.com/statistics/)
 
 [Big Mac Index — The Economist](https://github.com/TheEconomist/big-mac-data)
+
+[Booksellers (independent) in the UK](http://www.bigbeardedbookseller.com/indie-bookshops-england/)
 
 [Business births, deaths and survival rates, ONS](https://www.ons.gov.uk/businessindustryandtrade/changestobusiness/businessbirthsdeathsandsurvivalrates)
 
@@ -93,3 +97,5 @@
 [Working from home, by local authority](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
 
 [World mining datasets](https://doi.pangaea.de/10.1594/PANGAEA.910894)
+
+[Zero hour contracts numbers](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/emp17peopleinemploymentonzerohourscontracts)

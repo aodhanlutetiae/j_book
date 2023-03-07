@@ -14,6 +14,8 @@
 
 [Bicycle counter Cardiff 2012+ (College of Music)](http://www.cykelfartviser.dk/CykelFartviser/BC_Cardiff_North_Road.jsp)
 
+[Bus statistics](https://www.gov.uk/government/statistical-data-sets/bus-statistics-data-tables#local-bus-passenger-journeys-bus01)
+
 [Cars in the EU](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Passenger_cars_in_the_EU)
 
 [Car parks in Great Britain — 2015](https://data.gov.uk/dataset/7e7ef556-4173-4dcb-8eef-8ddde4e3824d/car-parks)

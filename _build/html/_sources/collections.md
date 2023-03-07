@@ -48,6 +48,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Google Bigquery datasets on Kaggle](https://www.kaggle.com/datasets?search=%23bigquery)
 
+[Google dataset search](https://datasetsearch.research.google.com/)
+
 [Goverment Statistical Service (beta)](https://beta.gss-data.org.uk/datasets)
 
 [Guardian Data Blog: 1400 stories with data sources (2009-11)](https://docs.google.com/spreadsheets/d/14gdRgcb_4cIRWrIlJRHgWQDGRZczC1Vbn-Hz2TfBL0A/edit?usp=sharing)
@@ -104,13 +106,15 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Propublica: story datasets](https://www.propublica.org/datastore/datasets) with [APIs](https://www.propublica.org/datastore/apis)
 
-[Public datasts: a collection](https://github.com/curran/data)
+[Public datasets: a collection](https://github.com/curran/data)
 
 [Pudding: all story datasets](https://github.com/the-pudding/data)
 
 [Random datasets for cleaning — Rachel Tatman](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
 
 [Reddit/datasets](https://www.reddit.com/r/datasets/)
+
+[Sanctions: opensanctions](https://www.opensanctions.org/datasets/)
 
 [Scotland National Records](https://www.nrscotland.gov.uk/statistics-and-data)
 

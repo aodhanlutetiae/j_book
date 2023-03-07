@@ -9,6 +9,7 @@ sections:
   - file: business
   - file: cities
   - file: crime
+  - file: databases
   - file: education
   - file: environment
   - file: gov

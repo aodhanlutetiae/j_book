@@ -16,6 +16,8 @@
 
 [FOI responses from the EU](https://www.asktheeu.org/en/list/all)
 
+[FOI response statistics, UK](https://www.gov.uk/government/statistics/freedom-of-information-statistics-july-to-september-2022)
+
 [French press cards awarded in 2013 (statistics) — French government](https://www.data.gouv.fr/en/datasets/attributions-de-cartes-de-presse-en-2013/)
 
 [G-DELT Project. Global database of events, language and tone](https://www.gdeltproject.org/)

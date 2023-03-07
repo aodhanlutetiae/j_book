@@ -4,6 +4,8 @@
 
 [Bandcamp: 1,000,000 sales](https://components.one/datasets/bandcamp-sales)
 
+[Books banned in US prisons](https://observablehq.com/@themarshallproject/prison-banned-books)
+
 [Chord progressions of 5,000 songs — AmitKohli](https://www.amitkohli.com/chord-progressions-of-5-000-songs/)
 
 [Crossword clues (huge number)](http://xd.saul.pw/data/)
