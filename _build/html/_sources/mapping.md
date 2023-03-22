@@ -57,6 +57,6 @@
 
 [Ukraine and regions in geojson](https://github.com/EugeneBorshch/ukraine_geojson)
 
-[Wales spatial data geoportal — Welsh govt & Natural Resources Wales](http://lle.gov.wales/catalogue?t=1&lang=en) including [listed buildings](http://lle.gov.wales/catalogue/item/ListedBuildings/?lang=en)
+[Wales spatial data geoportal — Welsh govt & Natural Resources Wales](https://datamap.gov.wales/) including [listed buildings](https://datamap.gov.wales/layers/inspire-wg:Cadw_ListedBuildings)
 
 [World spatial data](http://www.diva-gis.org/datadown)

@@ -4,11 +4,11 @@
 
 [Air quality in Wales](https://airquality.gov.wales/maps-data)
 
-[Air quality on Cardiff's Castle St](https://uk-air.defra.gov.uk/data/datawarehouse)
+[Air quality on Cardiff's Castle St (locally managed)](https://uk-air.defra.gov.uk/data/datawarehouse)
 
 [Air quality at Cardiff's Lakeside primary school](https://uk-air.defra.gov.uk/networks/site-info?uka_id=UKA00452&provider=)
 
-[Air quality on Cardiff's Queen St & Newport Rd](https://uk-air.defra.gov.uk/data/data_selector_service)
+[Air quality on Cardiff's Queen St & Newport Rd (AURN)](https://uk-air.defra.gov.uk/data/data_selector_service)
 
 [Air quality in London](http://www.londonair.org.uk/london/asp/datadownload.asp)
 
@@ -40,6 +40,8 @@
 
 [Emissions in India](https://urbanemissions.info/india-emissions-inventory/)
 
+[Energy data (twitter thread on sources)](https://twitter.com/Bankfieldbecky/status/1610701605019566088)
+
 [Energy performance of 21 million buildings, England & Wales (requires signup)](https://epc.opendatacommunities.org)
 
 [Energy performance certificates, Scottish register](https://www.scottishepcregister.org.uk/)
@@ -67,6 +69,8 @@
 [Littering in England](https://www.gov.uk/government/publications/litter-and-littering-in-england-data-dashboard/litter-and-littering-in-england-2018-to-2019)
 
 [Meat consumption globally (OECD)](https://data.oecd.org/agroutput/meat-consumption.htm)
+
+[Natural gas imports, Europe](https://www.bruegel.org/dataset/european-natural-gas-imports)
 
 [Natural resources Wales](https://naturalresources.wales/evidence-and-data/?lang=en) & [catalogue](https://libcat.naturalresources.wales/folio/)
 
@@ -109,6 +113,8 @@
 [Water quality in England](https://environment.data.gov.uk/water-quality/view/landing) and [Wales](https://naturalresources.wales/guidance-and-advice/environmental-topics/water-management-and-quality/water-quality/bathing-water-quality/?lang=en)
 
 [Weather station historic data — Met Office](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data)
+
+[Weather data (historic) — Met Office](https://catalogue.ceda.ac.uk/uuid/dbd451271eb04662beade68da43546e1)
 
 [Wind turbines around the world](https://figshare.com/articles/dataset/Global_offshore_wind_farm_dataset/13280252/5)
 

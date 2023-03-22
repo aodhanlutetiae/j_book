@@ -50,6 +50,8 @@
 
 [Rubbish collection monthly amounts in New York City — NYC Open Data](https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5)
 
+[Street names in Europe](https://docs.google.com/spreadsheets/d/1gQ4RZdIw2ayJyOLKqfaxnfix0C-KqU2327Pq-5XBjZg/edit#gid=1184022815)
+
 [Trees in Paris with lat, long coordinates (ca 200K)](https://opendata.paris.fr/explore/dataset/les-arbres/)
 
 More trees: [Amsterdam](https://maps.amsterdam.nl/bomen/?LANG=en), [Bogota](http://especiales.datasketch.co/arboles-bogota/metodologia.html),  [Dublin](https://data.smartdublin.ie/dataset/trees), [Helsinki](https://hri.fi/data/en_GB/dataset/helsingin-kaupungin-puurekisteri), [London](https://data.london.gov.uk/dataset/local-authority-maintained-trees), [Madrid](https://challenge.greemta.eu/dataset/trees/), [New York](https://www.nycgovparks.org/trees/street-tree-planting/locations), [Surrey](https://data.surrey.ca/dataset?tags=trees), [Vienna](https://www.data.gv.at/katalog/dataset/stadt-wien_baumkatasterderstadtwien), and [York](https://data.gov.uk/dataset/12dcc527-a7e2-4b23-a3c5-1501053ff0f5/council-owned-trees)

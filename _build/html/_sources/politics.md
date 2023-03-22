@@ -36,6 +36,8 @@
 
 [Ministers' gifts, hospitality, travel etc.](https://www.gov.uk/government/collections/ministers-transparency-publications)
 
+[MPs annual business costs & claims](https://www.theipsa.org.uk/mp-staffing-business-costs/annual-publications)
+
 [Petitions to Senedd](https://petitions.senedd.wales/)
 
 [Sanctions list](https://www.gov.uk/government/publications/the-uk-sanctions-list)
@@ -51,5 +53,7 @@
 [Senedd Register of Members' Interests](https://senedd.wales/senedd-business/register-of-members-interests/)
 
 [Parliament APIs — DDP Explorer](http://explore.data.parliament.uk/)
+
+[Parliamentary voting](https://www.publicwhip.org.uk/divisions.php)
 
 [Register of Members' Financial Interests](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/) | [Can be queried using Datasette](https://register-of-members-interests.datasettes.com/regmem)

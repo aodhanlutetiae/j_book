@@ -10,6 +10,8 @@ Lists and collections of datasets released by journalists or governments or othe
 
 [BBC shared data unit: all story datasets](https://github.com/BBC-Data-Unit/shared-data-unit)
 
+[Benefits data (DWP)](https://stat-xplore.dwp.gov.uk/webapi/jsf/login.xhtml)
+
 [Bureau Local story data](https://www.thebureauinvestigates.com/local/open-resources)
 
 [Buzzfeed: all story datasets & analyses](https://github.com/BuzzFeedNews/everything#guides)
@@ -125,6 +127,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [SODP: data sources for journalists](https://www.stateofdigitalpublishing.com/insights/top-data-sources-journalists/)
 
 [Stanford list of US datasets for journalists](http://www.padjo.org/datasets/)
+
+[Statista: full access via Cardiff University library](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911649912202420)
 
 [Stats Wales catalogue](https://statswales.gov.wales/Catalogue)
 
