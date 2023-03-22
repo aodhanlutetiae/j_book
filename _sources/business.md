@@ -78,9 +78,11 @@
 
 [Plastic bags (England charges for single-use)](https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england)
 
-[Points of interest dataset (OS)](https://www.ordnancesurvey.co.uk/business-government/products/points-of-interest) "most comprehensive location-based directory of all public and privately-owned businesses, education and leisure services in Britain"
+[Points of interest dataset (OS)](https://www.ordnancesurvey.co.uk/business-government/products/points-of-interest) "location-based directory of all public and privately-owned businesses, education and leisure services in Britain"
 
 [Property sales (residential) 1995-21 by region, England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/numberofresidentialpropertysalesfornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset06)
+
+[Register of overseas entities](https://find-and-update.company-information.service.gov.uk/register-an-overseas-entity/sold-land-filter?start=0)
 
 [Restaurant spending via Revolut in pandemic (UK)](https://www.gov.uk/government/publications/revolut-restaurant-card-spending-data)
 

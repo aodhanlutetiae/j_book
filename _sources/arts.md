@@ -67,3 +67,5 @@
 [Twin Peaks coffee ('damn fine coffee')](https://data.world/judkacag/the-coffees-of-twin-peaks)
 
 [UK public monuments, statues & sculptures](https://www.vads.ac.uk/digital/collection/PMSA/search)
+
+[X-men data, 1963-93](https://github.com/EliCash82/mutantmoneyball)
