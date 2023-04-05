@@ -68,6 +68,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [India data portal](https://ndap.niti.gov.in/)
 
+[Information is beautiful datasets (300+)](https://informationisbeautiful.net/data/)
+
 [Interesting datasets for computational journalists (2015) — Dan Nguyen](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
 
 [Investigative journalism: 18 sources](https://www.journalism.co.uk/news/data-sources-for-investigative-journalists/s2/a708756/)
