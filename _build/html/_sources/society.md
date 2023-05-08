@@ -8,7 +8,7 @@
 
 [Blue plaques & more](https://openplaques.org/data)
 
-[Census 2021: 1st results(England & Wales)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
+[Census 2021: 1st results (England & Wales)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
 
 [Census 2021: Central heating](https://www.ons.gov.uk/datasets/TS046/editions/2021/versions/1)
 
@@ -24,7 +24,7 @@
 
 [Census 2021: Housing (England & Wales)](https://www.ons.gov.uk/releases/housingcensus2021inenglandandwales)
 
-[Census 2021, Northern Ireland](https://www.nisra.gov.uk/publications/census-2021-population-and-household-estimates-for-northern-ireland)
+[Census 2021: Northern Ireland](https://www.nisra.gov.uk/publications/census-2021-population-and-household-estimates-for-northern-ireland)
 
 [Census 2021: Welsh language](https://www.ons.gov.uk/releases/welshlanguagecensus2021inwales)
 

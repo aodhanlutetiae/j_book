@@ -36,7 +36,7 @@
 
 [Grocery purchases by area-level](https://figshare.com/articles/Area-level_grocery_purchases/7796666)
 
-[Listed Buildings in Wales — Welsh government](https://lle.gov.wales/catalogue/item/ListedBuildings/?lang=en)
+[Listed Buildings in Wales — Welsh government](https://datamap.gov.wales/layers/inspire-wg:Cadw_ListedBuildings)
 
 [Listed buildings, shipwrecks in Wales](https://cadw.gov.wales/advice-support/cof-cymru/downloads)
 

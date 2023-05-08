@@ -4,15 +4,11 @@
 
 [Air quality in Wales](https://airquality.gov.wales/maps-data)
 
-[Air quality on Cardiff's Castle St (locally managed)](https://uk-air.defra.gov.uk/data/datawarehouse)
-
-[Air quality at Cardiff's Lakeside primary school](https://uk-air.defra.gov.uk/networks/site-info?uka_id=UKA00452&provider=)
-
-[Air quality on Cardiff's Queen St & Newport Rd (AURN)](https://uk-air.defra.gov.uk/data/data_selector_service)
+[Air quality on Cardiff's Castle St (locally managed)](https://uk-air.defra.gov.uk/data/datawarehouse) & [at Cardiff's Lakeside primary school](https://uk-air.defra.gov.uk/networks/site-info?uka_id=UKA00452&provider=) & [on Cardiff's Queen St & Newport Rd (AURN)](https://uk-air.defra.gov.uk/data/data_selector_service)
 
 [Air quality in London](http://www.londonair.org.uk/london/asp/datadownload.asp)
 
-[Air pollution in India](https://data.gov.in/keywords/air-pollution)
+[Air quality in India](https://data.gov.in/keywords/air-pollution)
 
 [Air quality around the world: by country](https://openaq.org/#/countries)
 

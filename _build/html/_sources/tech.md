@@ -8,8 +8,6 @@
 
 [Bad language on Shutterstock](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 
-[Covid-19 NHS app](https://www.gov.uk/government/publications/nhs-covid-19-app-statistics)
-
 [Bossware & employment tech database](https://home.coworker.org/worktech)
 
 [Browser trackers — list from DuckDuckGo](https://spreadprivacy.com/duckduckgo-tracker-radar/)

@@ -8,7 +8,7 @@
 
 [Clothing rules in US schools — The Pudding](https://github.com/the-pudding/data/tree/master/dress-codes)
 
-[Deparment of education statistics](https://explore-education-statistics.service.gov.uk/)
+[Department of education statistics](https://explore-education-statistics.service.gov.uk/)
 
 [Erasmus mobility scheme, 2014-19](https://data.europa.eu/data/datasets/erasmus-mobility-statistics-2014-2019-v2?locale=en)
 

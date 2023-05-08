@@ -8,7 +8,7 @@
 
 [Cycling: Tour de France GPS data](https://github.com/jdai20/Project_4)
 
-[Cycling: Tour de France: every cyclist](https://github.com/camminady/LeTourDataSet/)
+[Cycling: Tour de France, every cyclist](https://github.com/camminady/LeTourDataSet/)
 
 [FIFA 15 - 22 complete player dataset](https://www.kaggle.com/stefanoleone992/fifa-22-complete-player-dataset/)
 
@@ -34,7 +34,7 @@
 
 [Football data](http://football-data.co.uk/data.php) including [Football data (England)](http://football-data.co.uk/englandm.php)
 
-[Football deaths mid-game (*NOTE: methodology unclear)](https://www.kaggle.com/shivamb/football-deaths)
+[Football deaths mid-game (* methodology unclear)](https://www.kaggle.com/shivamb/football-deaths)
 
 [Football results in Premier League — last ten seasons](https://datahub.io/sports-data/english-premier-league)
 
@@ -70,7 +70,7 @@
 
 [Stadiums (football) database](http://stadiumdb.com/)
 
-[Tennis time (538) dataset](https://datahub.io/five-thirty-eight/tennis-time)
+[Tennis time (538)](https://datahub.io/five-thirty-eight/tennis-time)
 
 [Tennis shot-by-shot data from pro matches](http://www.tennisabstract.com/charting/meta.html)
 
@@ -80,4 +80,4 @@
 
 [US school sport](https://ope.ed.gov/athletics/#/)
 
-[World Cup 2022: uk power usage(national grid)](https://connecteddata.nationalgrid.co.uk/dataset/?page=1)
+[World Cup 2022: UK power usage (national grid)](https://connecteddata.nationalgrid.co.uk/dataset/?page=1)

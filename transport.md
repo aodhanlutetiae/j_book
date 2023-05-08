@@ -6,7 +6,7 @@
 
 [Automated car systems involved in crashes (US)](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting#data)
 
-[Aviation statistics in UK (Civil Aviation Authority)](https://www.caa.co.uk/data-and-analysis/)
+[Aviation statistics in UK — Civil Aviation Authority](https://www.caa.co.uk/data-and-analysis/)
 
 [Aviation statistics in the EU](https://ansperformance.eu/data/)
 
