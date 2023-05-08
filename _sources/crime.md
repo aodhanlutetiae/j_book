@@ -66,6 +66,8 @@
 
 [Prison populations](https://www.gov.uk/government/statistics/prison-population-figures-2021)
 
+[Prosecution & conviction trends (England & Wales)](https://www.gov.uk/government/collections/criminal-justice-statistics-quarterly)
+
 [Returning defendants in Magistrates and Crown courts](https://www.gov.uk/government/publications/data-first-criminal-courts-linked-data)
 
 [Rural crime survey 2018](https://www.nationalruralcrimenetwork.net/research/internal/2018survey/)

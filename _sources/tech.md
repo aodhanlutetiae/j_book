@@ -2,7 +2,7 @@
 
 [Adobserver database: tracking Facebook & YouTube ads](https://adobserver.org/ad-database/)
 
-[AI problems](https://incidentdatabase.ai/)
+[AI problems](https://incidentdatabase.ai/apps/incidents/)
 
 [APIs for use in software and web development](https://github.com/public-apis/public-apis)
 

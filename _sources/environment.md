@@ -38,6 +38,8 @@
 
 [Disaster Datasets — Planet](https://www.planet.com/disasterdata/datasets/)
 
+[Electricity generation: examples of 2023 coronation](https://www.gov.uk/government/publications/uk-electricity-capacity-statistics-kings-coronation-comparisons)
+
 [Emissions in India](https://urbanemissions.info/india-emissions-inventory/)
 
 [Energy data (twitter thread on sources)](https://twitter.com/Bankfieldbecky/status/1610701605019566088)
@@ -53,6 +55,8 @@
 [Environment Agency overview of data published](https://www.gov.uk/government/organisations/environment-agency/about/publication-scheme)
 
 [Environmental permits England](https://www.gov.uk/guidance/access-the-public-register-for-environmental-information) & [Wales](https://naturalresources.wales/permits-and-permissions/check-for-a-permit-licence-or-exemption/?lang=en)
+
+[Flash flooding in cities (England)](https://www.climatenode.org/maps/about_UFF_maps.html)
 
 [Fly-tipping incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
