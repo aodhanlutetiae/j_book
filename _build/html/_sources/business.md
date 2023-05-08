@@ -48,6 +48,8 @@
 
 [Gender pay gap UK reporting data](https://gender-pay-gap.service.gov.uk/)
 
+[Gender pay gap UK by employer](https://gender-pay-gap.service.gov.uk/viewing/search-results?t=1&search=&orderBy=relevance)
+
 [German Companies (5 million +)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
 
 [Global companies (7 million +) — data.world](https://data.world/peopledatalabs/free-7-million-company-dataset)
@@ -75,6 +77,8 @@
 [Offshore leaks databases — ICIJ](https://offshoreleaks.icij.org/)
 
 [Opencorporates — Largest world database of company info](https://opencorporates.com/)
+
+[Overseas entities (UK) via Companies House](https://www.gov.uk/government/news/the-new-register-of-overseas-entities-is-live)
 
 [Plastic bags (England charges for single-use)](https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england)
 

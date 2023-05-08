@@ -10,13 +10,19 @@
 
 [Historical datasets](http://www.historicalstatistics.org/)
 
-[Slave trade (historical)](https://enslaved.org/data)
-
-[Small datasets of historical interest for statistics development](https://cran.r-project.org/web/packages/HistData/index.html)
+[Historical Britain, 1800+](https://www.visionofbritain.org.uk/)
 
 [Nobel laureates](https://www.kaggle.com/nobelfoundation/nobel-laureates)
 
 [Nobel prize](https://www.nobelprize.org/about/developer-zone-2/)
+
+[Power plants around the world](https://developers.google.com/earth-engine/datasets/catalog/WRI_GPPD_power_plants)
+
+[Slave trade (historical)](https://enslaved.org/data)
+
+[Small datasets of historical interest for statistics development](https://cran.r-project.org/web/packages/HistData/index.html)
+
+[UFO reporting (UK)](https://ufoidentified.co.uk/database-faq)
 
 [UFO reporting center (US)](http://www.nuforc.org/webreports.html)
 

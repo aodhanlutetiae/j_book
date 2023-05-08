@@ -16,6 +16,8 @@
 
 [Children's health at 11, 13 & 15, the 'HBSC' survey](http://www.hbsc.org/)
 
+[Covid-19 app downloads](https://www.gov.uk/government/publications/nhs-covid-19-app-statistics)
+
 [Covid UK grant tracker](https://covidtracker.threesixtygiving.org/)
 
 [Data on where NHS hospital patient data is sent](https://theysolditanyway.com/). Monitors the NHS [Digital Data Uses Register](https://digital.nhs.uk/services/data-access-request-service-dars/data-uses-register)

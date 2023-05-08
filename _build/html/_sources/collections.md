@@ -151,3 +151,5 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [Wales statistics (more)](https://www.infobasecymru.net/IAS/)
 
 [World data portals: a list of 590](https://dataportals.org/)
+
+[World resources institute](https://www.wri.org/data)

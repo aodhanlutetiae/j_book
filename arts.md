@@ -8,6 +8,8 @@
 
 [Chord progressions of 5,000 songs — AmitKohli](https://www.amitkohli.com/chord-progressions-of-5-000-songs/)
 
+[Cinema admissions UK](https://www.cinemauk.org.uk/the-industry/facts-and-figures/)
+
 [Crossword clues (huge number)](http://xd.saul.pw/data/)
 
 [Drawings collected by Google for machine learning (50M)](https://github.com/googlecreativelab/quickdraw-dataset)

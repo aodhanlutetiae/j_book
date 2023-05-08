@@ -12,6 +12,8 @@
 
 [Bristol council monthly spends over £500](https://www.bristol.gov.uk/council-spending-performance/spending-over-500)
 
+[Buildings in Europe (200M)](https://eubucco.com/)
+
 [Cardiff CCTV cameras](https://foi.cardiff.gov.uk/ENG/DataSets/Forms/Data%20Set/docsethomepage.aspx?ID=341&FolderCTID=0x0120D52000247D5EEF4C698246BF70B3A320E31C9700EC288F337C1A4F419C19B359C6EB30C9&List=8ab83359-5015-41de-872d-7d104efef8e2&RootFolder=%2FENG%2FDataSets%2FCCTV%20Devices%202020&RecSrc=%2FENG%2FDataSets%2FCCTV%20Devices%202020)
 
 [Cardiff council: problems reported to the Fix My Street app](https://www.fixmystreet.com/reports/Cardiff?zoom=11&lat=51.46762&lon=-3.20633)
@@ -46,11 +48,13 @@
 
 [Properties by council tax (Valuation Office Agency)](https://www.gov.uk/government/organisations/valuation-office-agency/about/statistics)
 
+[Rents in England](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-april-2023)
+
 [Rough sleeping in England questionnaire (initial results)](https://www.gov.uk/government/publications/rough-sleeping-questionnaire-initial-findings)
 
 [Rubbish collection monthly amounts in New York City — NYC Open Data](https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5)
 
-[Street names in Europe](https://docs.google.com/spreadsheets/d/1gQ4RZdIw2ayJyOLKqfaxnfix0C-KqU2327Pq-5XBjZg/edit#gid=1184022815)
+[Street names in Europe](https://docs.google.com/spreadsheets/d/1gQ4RZdIw2ayJyOLKqfaxnfix0C-KqU2327Pq-5XBjZg/edit#gid=1184022815). | See [Mapping diversity](https://mappingdiversity.eu/)
 
 [Trees in Paris with lat, long coordinates (ca 200K)](https://opendata.paris.fr/explore/dataset/les-arbres/)
 
