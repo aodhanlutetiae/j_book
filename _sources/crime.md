@@ -50,9 +50,7 @@
 
 [Justice Ministry statistics](https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&organisations%5B%5D=ministry-of-justice&order=updated-newest)
 
-[Met police statistics](https://www.met.police.uk/sd/stats-and-data/)
-
-[Metropolitan police, data about](https://data.london.gov.uk/dataset/?org=db7940dd-ee1a-4a68-b874-c34151e16e82)
+[Met police statistics](https://www.met.police.uk/sd/stats-and-data/) & [Met police, data about](https://data.london.gov.uk/dataset/?org=db7940dd-ee1a-4a68-b874-c34151e16e82)
 
 [Open sanctions — people and companies](https://www.opensanctions.org/)
 
@@ -73,7 +71,7 @@
 [Rural crime survey 2018](https://www.nationalruralcrimenetwork.net/research/internal/2018survey/)
 
 [Sentencing statistics](https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-march-2022)
-
+<!--
 [US civilian complaints against NYPD police, 1982-2020 — Propublica](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers)
 
 [US people killed during encounters with US police (26K) — Fatal Encounters](https://fatalencounters.org)
@@ -94,12 +92,16 @@
 
 [US police violence and Black Lives Matters protest — Bellingcat](https://docs.google.com/spreadsheets/d/1-9KKfaEDhgeJ8dz8HjsFNBniDCQj-5ADWbuMkw2hNBU/edit#gid=1686998620)
 
+[US Police deaths, 538](https://fivethirtyeight.datasettes.com/fivethirtyeight/police-deaths%2Fall_data) & [clean](https://fivethirtyeight.datasettes.com/fivethirtyeight/police-deaths%2Fclean_data)
+
+[US Police killings (2015-21) — Washington Post](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/)
+
 [US 12,000 civilian complaints against NYPD](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers)
 
 [US shootings. The violence project](https://www.theviolenceproject.org/mass-shooter-database/)
 
 [US shootings. Gun violence archive](https://www.gunviolencearchive.org/methodology)
 
-[US shootings. Mother Jones](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data)
+[US shootings. Mother Jones](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data) -->
 
 [Women and criminal justice system](https://www.gov.uk/government/collections/women-and-the-criminal-justice-system)

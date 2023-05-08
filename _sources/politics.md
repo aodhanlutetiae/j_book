@@ -36,7 +36,7 @@
 
 [Ministers' gifts, hospitality, travel etc.](https://www.gov.uk/government/collections/ministers-transparency-publications)
 
-[MPs annual business costs & claims](https://www.theipsa.org.uk/mp-staffing-business-costs/annual-publications)
+[MPs' annual business costs & claims](https://www.theipsa.org.uk/mp-staffing-business-costs/annual-publications)
 
 [Petitions to Senedd](https://petitions.senedd.wales/)
 

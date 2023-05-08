@@ -48,8 +48,6 @@
 
 [Gender pay gap UK reporting data](https://gender-pay-gap.service.gov.uk/)
 
-[Gender pay gap UK by employer](https://gender-pay-gap.service.gov.uk/viewing/search-results?t=1&search=&orderBy=relevance)
-
 [German Companies (5 million +)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
 
 [Global companies (7 million +) — data.world](https://data.world/peopledatalabs/free-7-million-company-dataset)

@@ -16,8 +16,6 @@
 
 [Nobel prize](https://www.nobelprize.org/about/developer-zone-2/)
 
-[Power plants around the world](https://developers.google.com/earth-engine/datasets/catalog/WRI_GPPD_power_plants)
-
 [Slave trade (historical)](https://enslaved.org/data)
 
 [Small datasets of historical interest for statistics development](https://cran.r-project.org/web/packages/HistData/index.html)

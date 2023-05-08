@@ -26,10 +26,6 @@
 
 [US political email used by Gmail — The Markup](https://github.com/the-markup/investigation-wheres-my-email)
 
-[US Police deaths, 538](https://fivethirtyeight.datasettes.com/fivethirtyeight/police-deaths%2Fall_data) & [clean](https://fivethirtyeight.datasettes.com/fivethirtyeight/police-deaths%2Fclean_data)
-
-[US Police killings (2015-21) — Washington Post](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/)
-
 [US Postal Service weekly performance — how much mail got dealt with?](https://drive.google.com/drive/folders/1WIiUIu0PP_5D1j8R_-T7IN7kVWk9lvuj)
 
 [US diplomacy — Wikileaks cables](https://wikileaks.org/plusd/)
