@@ -82,6 +82,8 @@
 
 [Points of interest dataset (OS)](https://www.ordnancesurvey.co.uk/business-government/products/points-of-interest) "location-based directory of all public and privately-owned businesses, education and leisure services in Britain"
 
+[Property, UK companies owning](https://use-land-property-data.service.gov.uk/datasets/ccod) & [overseas companies owning](https://use-land-property-data.service.gov.uk/datasets/ocod)
+
 [Property sales (residential) 1995-21 by region, England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/numberofresidentialpropertysalesfornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset06)
 
 [Register of overseas entities](https://find-and-update.company-information.service.gov.uk/register-an-overseas-entity/sold-land-filter?start=0)

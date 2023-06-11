@@ -24,6 +24,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Crowdsourced data platform](https://crowdnewsroom.org/en/)
 
+[Dangerzone: sanitize documents](https://dangerzone.rocks/)
+
 [DataKit (AP)](https://datakit.ap.org/) | Command line tool for managing news projects
 
 [Datasette](https://datasette.io/) & [YouTube talk](https://www.youtube.com/watch?v%3DpTr1uLQTJNE&sa=D) | Publish your data using this powerful framework
@@ -34,7 +36,11 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Document Cloud](https://www.documentcloud.org/home) | 'Turn documents into data'
 
+[FOI: send en masse (not tested)](https://www.thomasgodfrey.co.uk/foi)
+
 [Geocoder (batch) for journalists](https://geocode.localfocus.nl/) | "Locations to coordinates at rocket speed"
+
+[Giant | Lets journalists 'search, analyse, categorise and share unstructured data'](https://github.com/guardian/giant)
 
 [Globaleaks](https://www.globaleaks.org/) | Whistleblowing submission system
 
@@ -42,7 +48,7 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Harassment manager (Jigsaw-Google)](https://github.com/conversationai/harassment-manager)
 
-[Harvester (AP)](https://harvester.ap.org) & [presentation](https://vimeo.com/520123772/2a3edddf19) & [repo](https://github.com/associatedpress/harvester) | Newsroom platform for collecting data
+[Harvester (AP)](https://harvester.ap.org) & [presentation](https://vimeo.com/520123772/2a3edddf19) & [repo](https://github.com/associatedpress/harvester) & [talk](https://vimeo.com/520123772/2a3edddf19) | Newsroom platform for collecting data
 
 [Knight Lab](https://knightlab.northwestern.edu/projects/) | Tools from the Knight Lab at Northwestern University
 

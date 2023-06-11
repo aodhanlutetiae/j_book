@@ -18,6 +18,8 @@
 
 [Cars in the EU](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Passenger_cars_in_the_EU)
 
+[Cars in the UK (vehicle registration data)](https://www.gov.uk/government/statistics/vehicle-licensing-statistics-july-to-september-2022/vehicle-licensing-statistics-july-to-september-2022)
+
 [Car parks in Great Britain — 2015](https://data.gov.uk/dataset/7e7ef556-4173-4dcb-8eef-8ddde4e3824d/car-parks)
 
 [CCTV road cameras in Wales](https://traffic.wales/cctv-cameras)
@@ -66,7 +68,13 @@
 
 [Roundabouts in Europe and the US](https://www.dropbox.com/sh/4zg8kb5tziq6z0r/AACoqXHHmzsQzzc5oKOf0QNna?dl=0)
 
+[Space: commercial launches](https://www.faa.gov/data_research/commercial_space_data/)
+
+[Space debris data sources (blogpost)](https://blog.datawrapper.de/space-debris-earth-orbit)
+
 [Station usage in the UK](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/)
+
+[Taxis in Wales](https://statswales.gov.wales/Catalogue/Transport/Roads/Public-Service-Vehicles/licencedtaxisandphvs-by-localauthority-surveyyear)
 
 [TFL network demand (bus & tube figures) — as a visualisation](https://app.powerbi.com/view?r=eyJrIjoiMjZjMmQwYTktZjYxNS00MTIwLTg0ZjAtNWIwNGE0ODMzZGJhIiwidCI6IjFmYmQ2NWJmLTVkZWYtNGVlYS1hNjkyLWEwODljMjU1MzQ2YiIsImMiOjh9)
 

@@ -2,6 +2,8 @@
 
 [All party parliamentary groups (registers of)](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-all-party-party-parliamentary-groups/) & [Financial donations (searchable) via Open Democracy](https://www.opendemocracy.net/en/dark-money-investigations/all-party-parliamentary-groups-search-the-data/)
 
+[Bradford Council: numbers stopped at local elections 2023 for lack of ID](https://www.bradford.gov.uk/your-council/elections-and-voting/voter-id-statistics-4-may-2023/)
+
 [Brexit 2016 referendum results](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum)
 
 [China: dissent](https://chinadissent.net/)
@@ -57,3 +59,5 @@
 [Parliamentary voting](https://www.publicwhip.org.uk/divisions.php)
 
 [Register of Members' Financial Interests](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/) | [Can be queried using Datasette](https://register-of-members-interests.datasettes.com/regmem)
+
+[Transparency register for ministers (gifts, travel etc)](https://www.gov.uk/government/collections/ministers-transparency-publications)

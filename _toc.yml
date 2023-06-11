@@ -8,7 +8,7 @@ sections:
   - file: arts
   - file: business
   - file: cities
-  - file: crime
+  - file: crime_emergency
   - file: databases
   - file: education
   - file: environment

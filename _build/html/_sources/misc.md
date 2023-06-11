@@ -4,6 +4,8 @@
 
 [Common crawl: data scraped from the web for anyone to use](https://commoncrawl.org/big-picture/what-we-do/)
 
+[Crowd disasters](https://zenodo.org/record/7523480)
+
 [Etymology database](http://etym.org/)
 
 [Foreign Ministers in 13 powerful countries since 1789](http://www.stanceatlund.org/foreign-minister-dataset.html)

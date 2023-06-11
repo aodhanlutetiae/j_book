@@ -60,6 +60,8 @@
 
 [All operas staged around the world, 2012-2017](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8LUFN8)
 
+[Spotify statistics for users](https://musicalyst.com/)
+
 [Star Wars API — Hallett & Bura](https://swapi.dev)
 
 [Statues of sportspeople](http://offbeat.group.shef.ac.uk/statues/)

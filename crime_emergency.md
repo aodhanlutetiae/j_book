@@ -1,4 +1,4 @@
-# Crime
+# Crime & emergency
 
 [999 calls response times](https://www.police.uk/pu/your-area/derbyshire-constabulary/performance/999-performance-data/)
 
@@ -36,6 +36,8 @@
 
 [Femicide census: women killed by men in the UK (pdf reports)](https://www.femicidecensus.org/)
 
+[Fire service statistics](https://www.gov.uk/government/collections/fire-statistics)
+
 [Firearms offences](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/offencesinvolvingtheuseofweaponsdatatables)
 
 [Harassment perception survey](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/perceptionsofpersonalsafetyandexperiencesofharassmentgreatbritain/2to27june2021)
@@ -49,6 +51,12 @@
 [India's 2002 Gujarat riots — analysis of police via Times of India reports](https://github.com/slanglab/IndiaPoliceEvents)
 
 [Justice Ministry statistics](https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&organisations%5B%5D=ministry-of-justice&order=updated-newest)
+
+[London Fire Brigade animal rescue incidents](https://data.london.gov.uk/dataset/animal-rescue-incidents-attended-by-lfb)
+
+[London Fire Brigade lift entrapments](https://data.london.gov.uk/dataset/shut-in-lift-releases--lift-entrapments--attended-by-lfb)
+
+[London Fire Brigade obesity incidents](https://data.london.gov.uk/dataset/bariatric-incidents-attended-by-lfb)
 
 [Met police statistics](https://www.met.police.uk/sd/stats-and-data/) & [Met police, data about](https://data.london.gov.uk/dataset/?org=db7940dd-ee1a-4a68-b874-c34151e16e82)
 

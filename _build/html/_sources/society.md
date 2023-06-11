@@ -26,6 +26,8 @@
 
 [Census 2021: Northern Ireland](https://www.nisra.gov.uk/publications/census-2021-population-and-household-estimates-for-northern-ireland)
 
+[Census 2021: Passports held](https://www.ons.gov.uk/datasets/TS005/editions/2021/versions/3)
+
 [Census 2021: Welsh language](https://www.ons.gov.uk/releases/welshlanguagecensus2021inwales)
 
 [Census 2021: Build a dataset](https://www.ons.gov.uk/datasets/create)
@@ -56,6 +58,8 @@
 
 [EU settlement applications in UK — ONS](https://www.gov.uk/government/collections/eu-settlement-scheme-statistics) | See [Note](https://blog.ons.gov.uk/2021/07/02/are-there-really-6m-eu-citizens-living-in-the-uk/)
 
+[Food bank stats (Trussell Trust)](https://www.trusselltrust.org/news-and-blog/latest-stats/)
+
 [Free school meals in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Education-and-Skills/Schools-and-Teachers/Schools-Census/Pupil-Level-Annual-School-Census/Provision-of-Meals-and-Milk/pupilseligibleforfreeschoolmeals-by-localauthorityregion-year)
 
 [Housing: affordability (price to earnings)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2021/relateddata)
@@ -65,6 +69,8 @@
 [Housing: empty & second homes in Wales](https://statswales.gov.wales/Catalogue/Local-Government/Finance/Council-Tax/Dwellings/chargeableemptyandsecondhomesbylocalauthority)
 
 [Housing: evictions immediately after pandemic - Bureau Local](https://docs.google.com/spreadsheets/d/1CBXphX_BUG9lfsn4vTJVknEm75kivNvTkPLiMMwTkmE/edit#gid=119963784) and [blog](https://www.thebureauinvestigates.com/blog/2021-12-09/opening-the-data-on-closed-door-evictions) and [explainer](https://docs.google.com/document/d/1mUBUMkOREXxtiiBL6MXD20d3-BbOxQX3NWwAMJWg_2A/edit)
+
+[Housing: national housing federation data](https://www.housing.org.uk/resources/?q=&typename=Data)
 
 [Housing ombudsman](https://www.housing-ombudsman.org.uk/landlords/)
 

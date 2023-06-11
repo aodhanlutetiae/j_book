@@ -32,6 +32,7 @@ Who's releasing what? Get alerted to what's coming out or what's been updated or
 WEBPAGE UPDATE MONITORS
 
 - [Change detection](https://github.com/dgtlmoon/changedetection.io)
+- [Document Cloud scraper by Muckrock](https://www.muckrock.com/news/archives/2022/may/24/release-notes-keep-an-eye-on-your-favorite-agencie/)
 - [Follow That Page](https://www.followthatpage.com)
 - [Klaxon](https://newsklaxon.org/)
 - [Newssniffer](https://www.newssniffer.co.uk/versions)
