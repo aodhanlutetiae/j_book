@@ -32,6 +32,6 @@
 
 [Royal diary](https://www.royal.uk/court-circular)
 
-[Ukraine sponsorship scheme, numbers](https://www.gov.uk/guidance/ukraine-sponsorship-scheme-visa-data-by-country-upper-and-lower-tier-local-authority) & [applicants](https://www.gov.uk/government/publications/homes-for-ukraine-sponsorship-scheme-and-ukraine-family-scheme-visa-data-by-age-and-sex-of-applicant) & [homelessness duties owed by local authorities](https://www.gov.uk/government/publications/homelessness-management-information-ukrainian-nationals-england)
+[Ukraine sponsorship scheme, numbers](https://www.gov.uk/guidance/ukraine-sponsorship-scheme-visa-data-by-country-upper-and-lower-tier-local-authority) & [applicants](https://www.gov.uk/government/publications/homes-for-ukraine-sponsorship-scheme-and-ukraine-family-scheme-visa-data-by-age-and-sex-of-applicant)
 
 [Ukraine refugees in UK - ONS experience survey](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/visaholdersenteringtheukundertheukrainehumanitarianschemes)

@@ -2,7 +2,7 @@
 
 [Adobserver database: tracking Facebook & YouTube ads](https://adobserver.org/ad-database/)
 
-[AI problems](https://incidentdatabase.ai/apps/incidents/)
+[AI problems recorded (since 2019)](https://incidentdatabase.ai/apps/incidents/)
 
 [APIs for use in software and web development](https://github.com/public-apis/public-apis)
 
@@ -35,6 +35,8 @@
 [NFT marketplaces data](https://dappradar.com/nft/marketplaces)
 
 [Privacy on a million sites — Princeton web census on trackers](https://webtransparency.cs.princeton.edu/webcensus/data-release/)
+
+[Ransomware negotiation conversations](https://github.com/Casualtek/Ransomchats)
 
 [Reddit votes — huge collection](https://www.kaggle.com/josephleake/huge-collection-of-reddit-votes/)
 
