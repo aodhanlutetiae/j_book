@@ -6,6 +6,8 @@
 
 [EU's Transparency Register — EU](https://ec.europa.eu/transparencyregister/public/homePage.do)
 
+[EU lobbying database](https://www.lobbyfacts.eu/)
+
 [French project to emulate the Every Politician dataset — Code for France](https://pad.codefor.fr/gRw0eCTtRcid7I_sGIrnCw#Apr%C3%A8s-la-NCC--campagne-de-contributions)
 
 [French overseas aid data — AFD](https://opendata.afd.fr/explore/dataset/donnees-aide-au-developpement-afd/information/?disjunctive.pays_de_realisation)

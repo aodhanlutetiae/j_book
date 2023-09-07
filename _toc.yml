@@ -9,7 +9,6 @@ sections:
   - file: business
   - file: cities
   - file: crime_emergency
-  - file: databases
   - file: education
   - file: environment
   - file: gov
@@ -23,7 +22,7 @@ sections:
   - file: religion
   - file: society
   - file: sport
-  - file: tech
+  - file: tech_sci
   - file: transport
 - file: tools
 - file: about

@@ -48,6 +48,8 @@
 
 [Gambling statistics](https://www.gamblingcommission.gov.uk/news-action-and-statistics/Statistics-and-research/Levels-of-participation-and-problem-gambling/Research-library.Gambling)
 
+[Greyhound injuries and retirements](https://www.gbgb.org.uk/welfare-care/injury-and-retirement-data/)
+
 [Horseracing: grand national fallers](https://www.britishracecourses.org/grand-national-fallers/)
 
 [LEGO Database — Rebrickable](https://rebrickable.com/downloads/)

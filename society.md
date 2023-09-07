@@ -68,6 +68,8 @@
 
 [Housing: empty & second homes in Wales](https://statswales.gov.wales/Catalogue/Local-Government/Finance/Council-Tax/Dwellings/chargeableemptyandsecondhomesbylocalauthority)
 
+[Housing: English housing survey](https://www.gov.uk/government/collections/english-housing-survey)
+
 [Housing: evictions immediately after pandemic - Bureau Local](https://docs.google.com/spreadsheets/d/1CBXphX_BUG9lfsn4vTJVknEm75kivNvTkPLiMMwTkmE/edit#gid=119963784) and [blog](https://www.thebureauinvestigates.com/blog/2021-12-09/opening-the-data-on-closed-door-evictions) and [explainer](https://docs.google.com/document/d/1mUBUMkOREXxtiiBL6MXD20d3-BbOxQX3NWwAMJWg_2A/edit)
 
 [Housing: national housing federation data](https://www.housing.org.uk/resources/?q=&typename=Data)
@@ -76,11 +78,13 @@
 
 [Housing: overseas ownership for England & Wales property](https://github.com/centreforpublicdata/titles-overseas-individuals) & [background](https://www.centreforpublicdata.org/property-data-overseas-individuals)
 
+[Housing: possession in England & Wales (mortgages, landlords)](https://www.gov.uk/government/collections/mortgage-and-landlord-possession-statistics)
+
 [Housing: price rises and 2nd home ownership — ONS](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/housepricesintouristhotspotsincreasinglyoutofreachforyoungandlowpaid/2021-09-28)
 
 [Housing: reference rents, England (Nov 2022)](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-november-2022)
 
-[Housing: rental price index UK](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/indexofprivatehousingrentalprices/may2022)
+[Housing: rental price index UK](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/indexofprivatehousingrentalpricesreferencetables)
 
 [How popular is your birthday? — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18)
 
@@ -118,7 +122,9 @@
 
 [Pubs & bars by UK local authority, 2001-18 (ONS)](https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsbylocalauthority)
 
-[Rough sleeper count](https://gov.wales/national-rough-sleeper-count)
+[Rough sleeper count, Wales](https://gov.wales/national-rough-sleeper-count)
+
+[Rough sleeping, England](https://www.gov.uk/government/publications/support-for-people-sleeping-rough-in-england-march-2023)
 
 [Same-sex marriage postal survey in Australia 2017](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1800.02017)
 
@@ -134,7 +140,7 @@
 
 [Unclaimed estates of deceased](https://www.gov.uk/government/statistical-data-sets/unclaimed-estates-list)
 
-[Wales national survey 2020](https://gov.wales/national-survey-wales-results-viewer) and [here](https://gov.wales/national-survey-wales)
+[Wales national survey](https://gov.wales/national-survey-wales)
 
 [Water points around the world](https://www.waterpointdata.org/access-data/)
 

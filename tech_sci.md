@@ -1,6 +1,15 @@
-# Tech & IT
+# Tech & Science
 
 [Adobserver database: tracking Facebook & YouTube ads](https://adobserver.org/ad-database/)
+
+AI problems & failures
+- [Borji 2023 catalogue of ChatGPT failures (pdf)](https://arxiv.org/pdf/2302.03494.pdf)
+- [ChatGPT failure archive](https://github.com/giuven95/chatgpt-failures)
+- [Repository of AI problem (AIAAIC)](https://www.aiaaic.org/aiaaic-repository) 
+
+[Algorithms used by UK govt -- official list (6)](https://www.gov.uk/government/collections/algorithmic-transparency-reports)
+
+[Algorithms used by UK govt -- Public law project (41)](https://publiclawproject.org.uk/resources/the-tracking-automated-government-register/)
 
 [AI problems recorded (since 2019)](https://incidentdatabase.ai/apps/incidents/)
 
@@ -40,7 +49,7 @@
 
 [Reddit votes — huge collection](https://www.kaggle.com/josephleake/huge-collection-of-reddit-votes/)
 
-[Satellites](https://www.ucsusa.org/resources/satellite-database#.VF_jIlPF8Wg)
+[Retraction Watch](https://retractionwatch.com/retraction-watch-database-user-guide/)
 
 [Scammers: database of internet scams](https://scamsearch.io/)
 

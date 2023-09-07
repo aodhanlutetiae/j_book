@@ -1,5 +1,7 @@
 # Misc
 
+[BBC Senior executives' pay, expenses etc.](https://www.bbc.co.uk/aboutthebbc/whoweare/staff/)
+
 [Central Intelligence Agency World Factbook](https://www.cia.gov/library/publications/the-world-factbook/) & [CIA Factbook entries as JSON files](https://github.com/factbook/factbook.json)
 
 [Common crawl: data scraped from the web for anyone to use](https://commoncrawl.org/big-picture/what-we-do/)

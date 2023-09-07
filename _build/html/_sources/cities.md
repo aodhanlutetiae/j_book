@@ -28,6 +28,8 @@
 
 [Electricity demand in India](https://dataverse.harvard.edu/dataverse/REDI)
 
+[Farming, urban](https://fallingfruit.org/)
+
 [Footpath shape & dimensions in NYC — NYC Open data](https://data.cityofnewyork.us/City-Government/Sidewalk/vfx9-tbb6)
 
 [Funerals for paupers in Coventry — WhatDoTheyKnow](https://www.whatdotheyknow.com/cy/request/pauper_funerals#incoming-569375)
@@ -48,7 +50,7 @@
 
 [Rubbish collection monthly amounts in New York City — NYC Open Data](https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5)
 
-[Street names in Europe](https://docs.google.com/spreadsheets/d/1gQ4RZdIw2ayJyOLKqfaxnfix0C-KqU2327Pq-5XBjZg/edit#gid=1184022815). | See [Mapping diversity](https://mappingdiversity.eu/)
+[Street names in Europe](https://www.europeandatajournalism.eu/cp_data_news/mapping-diversity-full-dataset-release/)
 
 [Trees in Paris with lat, long coordinates (ca 200K)](https://opendata.paris.fr/explore/dataset/les-arbres/)
 

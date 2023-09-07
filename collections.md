@@ -20,7 +20,7 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Consumer data research centre](https://data.cdrc.ac.uk/) & [archive](https://github.com/ESRC-CDRC/open-dataset-archive)
 
-[CSO (Central Statistics Office, Ireland)](https://data.gov.ie/organization/central-statistics-office)
+[CSO (Central Statistics Office, Ireland)](https://data.cso.ie/)
 
 [Datassist: catalogue of different indexes available](https://docs.google.com/document/d/15BMSmaHGtR0hvhl80g32sfsJ-GhYjKAWSZJaUSA6iWQ/edit?mc_cid=9d475b8bdc&mc_eid=88c7f91a73)
 
@@ -39,6 +39,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [The Economist: repository of story data and code](https://github.com/TheEconomist)
 
 [Environmental Information: public register](https://www.gov.uk/guidance/access-the-public-register-for-environmental-information)
+
+[Euromonitor](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma995729733402420)
 
 [European data journalism network (institutional datasets)](https://www.europeandatajournalism.eu/eng/Tools-for-journalists/Useful-data)
 
@@ -135,6 +137,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [Stats Wales catalogue](https://statswales.gov.wales/Catalogue)
 
 [UK data service (ESRI-funded collection of datasets)](https://www.ukdataservice.ac.uk/get-data)
+
+[UK data archive](https://www.data-archive.ac.uk/)
 
 [UK govt reports on open data and government — Gavin Freeguard](https://docs.google.com/spreadsheets/d/1lbGnx9sD3eXuQaz0yV6XClznDLwfd3X4PHfhEbSXKIs/edit#gid=0)
 

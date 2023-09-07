@@ -20,10 +20,14 @@
 
 [UK arms export data](https://github.com/caatdata/uk-arms-export-data)
 
+[Ukraine conflict: Russian equipment losses](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)
+
 [UN peacekeeping open data portal](https://peacekeeping.un.org/en/open-data-portal)
 
 [UN peace mission mandates, 1991-2020](https://www.peacemissions.info/)
 
 [US military equipment in Iraq — Wikileaks](https://wikileaks.org/wiki/Iraq_OIF_Property_List.csv)
+
+[US overseas wars, 1776-2017](https://sites.tufts.edu/css/mip-research/mip-dataset/)
 
 [Yemen war](https://yemendataproject.org)

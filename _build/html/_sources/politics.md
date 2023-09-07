@@ -30,7 +30,7 @@
 
 [Lobby meetings with UK ministers — Transparency International (EU, France, Italy and Chile also available)](https://openaccess.transparency.org.uk/)
 
-[Lobbyists register](https://registerofconsultantlobbyists.force.com/CLR_Search)
+[Lobbyists register](https://orcl.my.site.com/CLR_Search)[& also](https://lobbying-register.uk/)
 
 [Local election turnout, Wales 2017](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/wales-local-council-elections/report-may-2022-elections-wales)
 
@@ -40,17 +40,19 @@
 
 [MPs' annual business costs & claims](https://www.theipsa.org.uk/mp-staffing-business-costs/annual-publications)
 
-[Petitions to Senedd](https://petitions.senedd.wales/)
-
 [Sanctions list](https://www.gov.uk/government/publications/the-uk-sanctions-list)
 
 [Scottish parliament](https://data.parliament.scot/#/home)
 
 [Senedd elections 2021 (under 'supporting evidence')](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/senedd-elections/report-may-2021-elections-wales)
 
+[Senedd: expenses claimed](https://allowances.assembly.wales/)
+
+[Senedd petitions](https://petitions.senedd.wales/)
+
 [Senedd Record in 5th Senedd](https://dataverse.harvard.edu/file.xhtml?fileId=4957018&version=1.0)
 
-[Senedd Record for current parliament via XML](https://record.assembly.wales/XMLExport)
+[Senedd Record for current parliament via They work for you](https://www.theyworkforyou.com/pwdata/scrapedxml/senedd/en/)
 
 [Senedd Register of Members' Interests](https://senedd.wales/senedd-business/register-of-members-interests/)
 

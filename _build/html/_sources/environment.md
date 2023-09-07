@@ -38,6 +38,8 @@
 
 [Emissions in India](https://urbanemissions.info/india-emissions-inventory/)
 
+[Emissions trading, EU](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en)
+
 [Energy data (twitter thread on sources)](https://twitter.com/Bankfieldbecky/status/1610701605019566088)
 
 [Energy performance of 21 million buildings, England & Wales (requires signup)](https://epc.opendatacommunities.org)
@@ -53,6 +55,8 @@
 [Environmental permits England](https://www.gov.uk/guidance/access-the-public-register-for-environmental-information) & [Wales](https://naturalresources.wales/permits-and-permissions/check-for-a-permit-licence-or-exemption/?lang=en)
 
 [Flash flooding in cities (England)](https://www.climatenode.org/maps/about_UFF_maps.html)
+
+[Fly-tipping incidents, England, ](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
 [Fly-tipping incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
@@ -78,6 +82,8 @@
 
 [Net zero targets: tracks 2,000 companies and their pledges](https://zerotracker.net/)
 
+[Net zero data](https://opennetzero.org/)
+
 [Nuclear Incident and Trafficking Database — IAEA](https://www.iaea.org/news/4996)
 
 [Oceanic, atmospheric, geophysical and coastal data — NCEI](https://www.ncdc.noaa.gov/)
@@ -88,6 +94,8 @@
 
 [Power plants around the world](https://datasets.wri.org/dataset/globalpowerplantdatabase)
 
+[Private jets](https://www.greenpeace.org.uk/news/private-jet-flights-in-the-uk-soar-to-new-heights-analysis/)
+
 [Public perception of climate change, Autumn 2020 (UK)](https://www.gov.uk/government/publications/climate-change-and-net-zero-public-awareness-and-perceptions)
 
 [Renewable energy trends in the UK](https://www.gov.uk/government/statistics/energy-trends-section-6-renewables)
@@ -95,6 +103,8 @@
 [Sea level data (global)](https://tidesandcurrents.noaa.gov/sltrends/sltrends_global.html)
 
 [Seismic data UK — British Geological Survey](http://www.earthquakes.bgs.ac.uk/helicorder/heli.html)
+
+[Sewage dumping in Wales: combined storm overflows](https://corporate.dwrcymru.com/en/community/environment/combined-storm-overflows)
 
 [Shark incidents in Australia](https://zenodo.org/record/6672829#.YvXjcZDMLlx)
 

@@ -18,7 +18,7 @@
 
 [Cars in the EU](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Passenger_cars_in_the_EU)
 
-[Cars in the UK (vehicle registration data)](https://www.gov.uk/government/statistics/vehicle-licensing-statistics-july-to-september-2022/vehicle-licensing-statistics-july-to-september-2022)
+[Cars in the UK (recent vehicle registration data)](https://www.gov.uk/government/statistics/vehicle-licensing-statistics-july-to-september-2022/) & [all vehicle data](https://www.gov.uk/government/statistical-data-sets/vehicle-licensing-statistics-data-files)
 
 [Car parks in Great Britain — 2015](https://data.gov.uk/dataset/7e7ef556-4173-4dcb-8eef-8ddde4e3824d/car-parks)
 
@@ -31,6 +31,8 @@
 [Cyclestreets: mapping UK bike data](https://www.cyclestreets.org/)
 
 [Cycling infrastructure in London](https://data.london.gov.uk/dataset/cycling-infrastructure-database)
+
+[Driving licence and access to cars: who has one?](https://www.ethnicity-facts-figures.service.gov.uk/culture-and-community/transport/driving-licenses-and-access-to-vehicles/latest#data-sources)
 
 [Driving Licence Data for GB — data.gov.uk ](https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data)
 
@@ -72,6 +74,8 @@
 
 [Space debris data sources (blogpost)](https://blog.datawrapper.de/space-debris-earth-orbit)
 
+[Speed compliance, Great Britain](https://www.gov.uk/government/statistics/vehicle-speed-compliance-statistics-for-great-britain-2022/vehicle-speed-compliance-statistics-for-great-britain-2022)
+
 [Station usage in the UK](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/)
 
 [Taxis in Wales](https://statswales.gov.wales/Catalogue/Transport/Roads/Public-Service-Vehicles/licencedtaxisandphvs-by-localauthority-surveyyear)
@@ -83,6 +87,8 @@
 [Trains (passenger) crossing European borders](https://docs.google.com/spreadsheets/d/12deGLMuX3u-mUaHGlLT0-TXIGZnQ-NILCt6NRA4s0pU/edit#gid=588529542)
 
 [Train stations in Wales: entries & exits by station, year](https://statswales.gov.wales/Catalogue/Transport/rail/Rail-Station-Usage/numberofrailstationentriesandexitsinwales-by-station-year)
+
+[Trains: on time or not?](https://www.ontimetrains.co.uk/)
 
 [Tube usage figures](https://data.london.gov.uk/dataset/london-underground-performance-reports)
 
