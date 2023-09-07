@@ -28,6 +28,8 @@
 
 [Companies House API](https://developer.companieshouse.gov.uk/api/docs/)
 
+[Companies influencing elections](https://influenceindustry.org/en/explorer/companies/)
+
 [Company info registers (UK) in OCCRP investigative database](https://aleph.occrp.org/datasets?collectionsfacet=countries&collectionsfacet=category&collectionsfacet_size%3Acategory=1000&collectionsfacet_size%3Acountries=1000&collectionsfacet_total%3Acategory=true&collectionsfacet_total%3Acountries=true&collectionsfilter%3Acountries=gb&collectionslimit=30&collectionssort=created_at%3Adesc)
 
 [Consumer price inflation](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/august2022)
