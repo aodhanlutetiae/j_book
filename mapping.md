@@ -51,7 +51,7 @@
 
 [Population density in high resolution (facebook & humanitarian data exchange)](https://dataforgood.fb.com/docs/high-resolution-population-density-maps-demographic-estimates-documentation/#how-to-access-data) & [here (AWS)](https://registry.opendata.aws/dataforgood-fb-hrsl/)
 
-[Postbox finder (global)](https://postboxmap.com/en)
+[Postbox finder](https://postboxmap.co.uk/)
 
 [US infrastructure map data](https://hifld-geoplatform.opendata.arcgis.com/)
 

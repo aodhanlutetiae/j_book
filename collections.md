@@ -16,9 +16,9 @@ Lists and collections of datasets released by journalists or governments or othe
 
 [Buzzfeed: all story datasets & analyses](https://github.com/BuzzFeedNews/everything#guides)
 
-Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified), [Stirling](https://data.stirling.gov.uk)
+Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified), [Stirling](https://data.stirling.gov.uk)
 
-[Consumer data research centre](https://data.cdrc.ac.uk/) & [archive](https://github.com/ESRC-CDRC/open-dataset-archive)
+[Consumer data research centre](https://data.cdrc.ac.uk/) 
 
 [CSO (Central Statistics Office, Ireland)](https://data.cso.ie/)
 
@@ -42,8 +42,6 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Euromonitor](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma995729733402420)
 
-[European data journalism network (institutional datasets)](https://www.europeandatajournalism.eu/eng/Tools-for-journalists/Useful-data)
-
 [EU statistics: eurostat](https://ec.europa.eu/eurostat/data/database)
 
 [European data portal](https://data.europa.eu/en)
@@ -55,6 +53,8 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 [Google dataset search](https://datasetsearch.research.google.com/)
 
 [Goverment Statistical Service (beta)](https://beta.gss-data.org.uk/datasets)
+
+[Government data service](https://www.data.gov.uk/)
 
 [Guardian Data Blog: 1400 stories with data sources (2009-11)](https://docs.google.com/spreadsheets/d/14gdRgcb_4cIRWrIlJRHgWQDGRZczC1Vbn-Hz2TfBL0A/edit?usp=sharing)
 
@@ -72,8 +72,6 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [Information is beautiful datasets (300+)](https://informationisbeautiful.net/data/)
 
-[Interesting datasets for computational journalists (2015) — Dan Nguyen](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
-
 [Investigative journalism: 18 sources](https://www.journalism.co.uk/news/data-sources-for-investigative-journalists/s2/a708756/)
 
 [Istat: data from Italy's ONS](https://www.istat.it/)
@@ -90,13 +88,11 @@ Cities: [Birmingham](https://data.birmingham.gov.uk/), [Bristol](https://opendat
 
 [NHS Digital](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets)
 
-[NICAR database library (US)](https://www.ire.org/nicar/database-library)
-
 [OCCRP. Organised crime and corruption reporting project - datasets](https://aleph.occrp.org/datasets)
 
 [OECD Data](https://data.oecd.org/)
 
-[Ofcom data releases 2021](https://www.ofcom.org.uk/research-and-data/data/statistics/stats21)
+[Ofcom data releases](https://www.ofcom.org.uk/research-and-data/data/statistics)
 
 [ONS data stories: Project Cairo](https://onsvisual.github.io/project_cairo/)
 

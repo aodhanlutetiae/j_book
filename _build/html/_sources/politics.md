@@ -10,19 +10,17 @@
 
 [Donations to political parties & MPs](http://search.electoralcommission.org.uk/?currentPage=1&rows=10&sort=RegulatedDoneeType&order=asc&tab=1&open=filter&et=pp&isIrishSourceYes=true&isIrishSourceNo=true&date=Accepted&from=&to=&quarters=2020q1&prePoll=false&postPoll=true&register=gb&register=ni&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)
 
-[Electiontechhandbook.uk — data & tech resources around elections](https://docs.google.com/document/d/1H-lRCPmeXDpWcYReGxljSDO-p04S5i4Q0Sz0GxsnLg8/edit#)
+[Electiontechhandbook.uk — data & tech resources around 2019 election](https://docs.google.com/document/d/1H-lRCPmeXDpWcYReGxljSDO-p04S5i4Q0Sz0GxsnLg8/edit#)
 
 [Electoral Commission (elections & financing of)](http://search.electoralcommission.org.uk/?currentPage=0&rows=10&sort=AcceptedDate&order=desc&tab=1&et=pp&et=ppm&et=tp&et=perpar&et=rd&isIrishSourceYes=true&isIrishSourceNo=true&prePoll=false&postPoll=true&register=gb&register=ni&register=none&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)
 
 [Electoral statistics — Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/elections/electoralregistration/datasets/electoralstatisticsforuk)
 
-[Electoral register figures (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/elections/electoralregistration/datasets/electoralstatisticsforuk)
-
-[Facebook Ad Library (UK)](https://www.facebook.com/ads/archive/report/?source=archive-landing-page&country=GB)
+[Facebook Ad Library (UK)](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GB&media_type=all)
 
 [General election results 2019](https://github.com/aodhanlutetiae/uk_election_2019)
 
-[General election results 2019 — Electoral Commission](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/uk-general-elections/results-and-turnout-2017-uk-general-election)
+[General election results 2017 — Electoral Commission](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/uk-general-elections/results-and-turnout-2017-uk-general-election)
 
 [Google & political advertising — Google Transparency Report](https://adstransparency.google.com/political?political&region=GB)
 
@@ -30,9 +28,9 @@
 
 [Lobby meetings with UK ministers — Transparency International (EU, France, Italy and Chile also available)](https://openaccess.transparency.org.uk/)
 
-[Lobbyists register](https://orcl.my.site.com/CLR_Search)[& also](https://lobbying-register.uk/)
+[Lobbyists register](https://orcl.my.site.com/CLR_Search) & [also](https://lobbying-register.uk/)
 
-[Local election turnout, Wales 2017](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/wales-local-council-elections/report-may-2022-elections-wales)
+[Local election turnout, Wales 2022](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/wales-local-council-elections/report-may-2022-elections-wales)
 
 [Ministerial resignations since Thatcher](https://docs.google.com/spreadsheets/d/1gVHNx4kzXd947AFfQGiJg5zJrdNXrM81t2OC8UJFnw8/edit#gid=0)
 
@@ -56,7 +54,7 @@
 
 [Senedd Register of Members' Interests](https://senedd.wales/senedd-business/register-of-members-interests/)
 
-[Parliament APIs — DDP Explorer](http://explore.data.parliament.uk/)
+[Parliament APIs — Westminster](http://explore.data.parliament.uk/)
 
 [Parliamentary voting](https://www.publicwhip.org.uk/divisions.php)
 

@@ -18,11 +18,9 @@
 
 [Government expenditure — all public sectors](https://data.gov.uk/dataset/3266d22c-9d0f-4ebe-b0bc-ea622f858e15/combined-online-information-system)
 
-[gov.uk open data releases](https://data.gov.uk/)
-
 ['Levelling up' funding programmes](https://www.gov.uk/government/collections/new-levelling-up-and-community-investments)
 
-[Local authorities in England: revenue, spending & financing (2021-22)](https://www.gov.uk/government/statistics/local-authority-revenue-expenditure-and-financing-england-2021-to-2022-budget-individual-local-authority-data)
+[Local authorities in England: revenue, spending & financing (2022-23)](https://www.gov.uk/government/statistics/local-authority-revenue-expenditure-and-financing-england-2022-to-2023-budget-individual-local-authority-data)
 
 [My Society published datasets and tools (Democracy, FOI, Better cities)](https://data.mysociety.org/)
 
@@ -38,4 +36,4 @@
 
 [Ukraine sponsorship scheme, numbers](https://www.gov.uk/guidance/ukraine-sponsorship-scheme-visa-data-by-country-upper-and-lower-tier-local-authority) & [applicants](https://www.gov.uk/government/publications/homes-for-ukraine-sponsorship-scheme-and-ukraine-family-scheme-visa-data-by-age-and-sex-of-applicant) & [Ukraine homelessness](https://www.gov.uk/government/publications/homelessness-management-information-ukrainian-nationals-england)
 
-[Ukraine refugees in UK - ONS experience survey](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/visaholdersenteringtheukundertheukrainehumanitarianschemes)
+[Ukraine refugees in UK — ONS experience survey](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/visaholdersenteringtheukundertheukrainehumanitarianschemes)

@@ -1,10 +1,10 @@
 # Journalism
 
-[3,000 haikus on the 2020 news](https://www.kaggle.com/newshaikus/dataset/metadata)
-
-[A/B headline testing datset — Upworthy](https://osf.io/jd64p/)
+[A/B headline testing datset — Upworthy](https://osf.io/jd64p/)
 
 [Accountability Project (US)](https://www.publicaccountability.org/datasets/home/)
+
+[BBC senior executives' pay, expenses etc.](https://www.bbc.co.uk/aboutthebbc/whoweare/staff/)
 
 [Data archive of interest to US journalists — Big Local News](https://biglocalnews.org/)
 
@@ -28,14 +28,12 @@
 
 [News on the Web Ngram (WEB-NGRAM) – The GDELT Project](https://blog.gdeltproject.org/announcing-the-web-news-ngram-datasets-web-ngram/)
 
-[Podcast survey 2021 by Ofcom](https://www.ofcom.org.uk/research-and-data/data/statistics/stats21)
-
 [Press Freedom Tracker US (API)](https://pressfreedomtracker.us/data/)
 
 [Press photographer numbers (male vs female) in 2019](https://docs.google.com/spreadsheets/d/1Wu6_s2SzB1v5wXeaeVmfxUEs1rG0iGZlJjsu-Lo87Dw/edit#gid=0)
 
 [RSF press freedom index](https://rsf.org/en/ranking)
 
-[Snowden Digital Surveillance Archive (2013)](https://snowdenarchive.cjfe.org/greenstone/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=snowden1&l=en&w=utf-8)
+[Snowden Digital Surveillance Archive](https://grid.glendon.yorku.ca/exhibits/show/welcome-to-the-snowden-digital)
 
 [Trump's negative tweets about the press](https://docs.google.com/spreadsheets/d/1uNA6nsgcRhhQ0b6USsMNzhYLMfuDRSMhbGZNZ00WkHk/edit#gid=0)

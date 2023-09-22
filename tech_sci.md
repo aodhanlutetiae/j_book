@@ -29,7 +29,7 @@ AI problems & failures
 
 [Covid apps published on Google Play platform](https://github.com/covid19-apptracker/covid19-apptracker)
 
-[CRAWDAD — Project to archive wireless data](https://crawdad.org/registration-new.py)
+[CRAWDAD — Project to archive wireless data](https://ieee-dataport.org/collections/crawdad)
 
 [Cyber defence exercise: list of traffic and event logs](https://www.sciencedirect.com/science/article/pii/S2352340920306788)
 
@@ -52,8 +52,6 @@ AI problems & failures
 [Retraction Watch](https://retractionwatch.com/retraction-watch-database-user-guide/)
 
 [Scammers: database of internet scams](https://scamsearch.io/)
-
-[Submarine cable network](https://github.com/telegeography/www.submarinecablemap.com#how-can-i-download-the-dataset)
 
 [UK Space Agency](https://www.gov.uk/search/research-and-statistics?parent=uk-space-agency&content_store_document_type=research&organisations%5B%5D=uk-space-agency&order=updated-newest)
 

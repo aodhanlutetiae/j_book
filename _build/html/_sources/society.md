@@ -10,7 +10,7 @@
 
 [Census 2021: 1st results (England & Wales)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
 
-[Census 2021: Central heating](https://www.ons.gov.uk/datasets/TS046/editions/2021/versions/1)
+[Census 2021: Central heating](https://www.ons.gov.uk/datasets/TS046/editions/2021/versions/4)
 
 [Census 2021: Demography & migration (England & Wales)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/demographyandmigrationdatacontent/2022-11-02)
 
@@ -42,7 +42,7 @@
 
 [Child Statistics — UNICEF](https://data.unicef.org/)
 
-[Children in low income families](https://www.gov.uk/government/statistics/children-in-low-income-families-local-area-statistics-2014-to-2020)
+[Children in poorer families](https://www.gov.uk/government/statistics/children-in-low-income-families-local-area-statistics-2014-to-2020)
 
 [Cold war or communism](https://ropercenter.cornell.edu/CFIDE/cf/action/catalog/catalogResult.cfm?keyword=cold%20war%20or%20communism&country=All%20Countries&organization=&type=&fromDate=1/1/1945&toDate=12/31/1991&search_x=65&search_y=13&sortBy=BEG_DATE_DESC)
 
@@ -60,7 +60,7 @@
 
 [Food bank stats (Trussell Trust)](https://www.trusselltrust.org/news-and-blog/latest-stats/)
 
-[Free school meals in Wales — Stats Wales](https://statswales.gov.wales/Catalogue/Education-and-Skills/Schools-and-Teachers/Schools-Census/Pupil-Level-Annual-School-Census/Provision-of-Meals-and-Milk/pupilseligibleforfreeschoolmeals-by-localauthorityregion-year)
+[Free school meals in Wales](https://statswales.gov.wales/Catalogue/Education-and-Skills/Schools-and-Teachers/Schools-Census/Pupil-Level-Annual-School-Census/Provision-of-Meals-and-Milk/pupilseligibleforfreeschoolmeals-by-localauthorityregion-year)
 
 [Housing: affordability (price to earnings)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2021/relateddata)
 
@@ -70,7 +70,7 @@
 
 [Housing: English housing survey](https://www.gov.uk/government/collections/english-housing-survey)
 
-[Housing: evictions immediately after pandemic - Bureau Local](https://docs.google.com/spreadsheets/d/1CBXphX_BUG9lfsn4vTJVknEm75kivNvTkPLiMMwTkmE/edit#gid=119963784) and [blog](https://www.thebureauinvestigates.com/blog/2021-12-09/opening-the-data-on-closed-door-evictions) and [explainer](https://docs.google.com/document/d/1mUBUMkOREXxtiiBL6MXD20d3-BbOxQX3NWwAMJWg_2A/edit)
+[Housing: evictions immediately after pandemic — Bureau Local](https://docs.google.com/spreadsheets/d/1CBXphX_BUG9lfsn4vTJVknEm75kivNvTkPLiMMwTkmE/edit#gid=119963784) and [blog](https://www.thebureauinvestigates.com/blog/2021-12-09/opening-the-data-on-closed-door-evictions) and [explainer](https://docs.google.com/document/d/1mUBUMkOREXxtiiBL6MXD20d3-BbOxQX3NWwAMJWg_2A/edit)
 
 [Housing: national housing federation data](https://www.housing.org.uk/resources/?q=&typename=Data)
 
@@ -100,9 +100,9 @@
 
 [Migration Data Portal — International Organisation for Migration](https://gmdac.iom.int/global-migration-data-portal)
 
-[Missing Migrants Project](https://missingmigrants.iom.int/about)
+[Missing Migrants Project](https://missingmigrants.iom.int)
 
-[Migration to UK in small boats by day](https://www.gov.uk/government/statistical-data-sets/migrants-detected-crossing-the-english-channel-in-small-boats) by [week](https://www.gov.uk/government/statistics/migrants-detected-crossing-the-english-channel-in-small-boats-weekly-data) and by [year](https://www.gov.uk/government/statistics/irregular-migration-to-the-uk-year-ending-june-2022)
+[Migration to UK in small boats by week](https://www.gov.uk/government/publications/migrants-detected-crossing-the-english-channel-in-small-boats) and by [year](https://www.gov.uk/government/statistics/irregular-migration-to-the-uk-year-ending-june-2023)
 
 [Migration Wales, rest of UK](https://statswales.gov.wales/Catalogue/Population-and-Migration/Migration/Internal/migrationbetweenwalesandrestofuk-by-localauthority-flow-sex-age)
 
@@ -128,6 +128,8 @@
 
 [Same-sex marriage postal survey in Australia 2017](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1800.02017)
 
+[Social & political attitudes 2023 (National Centre for Social Research)](https://natcen.ac.uk/s/social-and-political-attitudes)
+
 [Southern Poverty Law Center’s dataset of ‘public symbols of the Confederacy’](https://docs.google.com/spreadsheets/d/17ps4aqRyaIfpu7KdGsy2HRZaaQiXUfLrpUbaR9yS51E/edit#gid=40011151)
 
 [Speakers of Foreign Languages Irish Census 2016](http://census2016.geohive.ie/datasets/speakers-of-foreign-languages-by-language-spoken-administrative-county-census-2016-theme-2-5-ireland-2016-cso-osi/data)
@@ -152,6 +154,6 @@
 
 [Welsh history resources](https://rcahmw.gov.uk/discover/)
 
-[WikiRumours API for mis- and dis-information](https://www.wikirumours.org/explore_api)
+[WikiRumours for mis- and dis-information](https://www.wikirumours.org)
 
 [Young people living at home — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/datasets/youngadultslivingwiththeirparents)

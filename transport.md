@@ -46,7 +46,7 @@
 
 [Electric vehicle charging points: national Registry UK](https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints)
 
-[Electric vehicle chargepoint grants awarded (UK)](https://www.gov.uk/government/statistics/electric-vehicle-charging-device-grant-scheme-statistics-april-2022)
+[Electric vehicle chargepoint grants awarded (UK)](https://www.gov.uk/government/statistics/electric-vehicle-charging-device-grant-scheme-statistics-april-2023)
 
 [Fuel sales by week](https://www.data.gov.uk/dataset/9003012e-4564-4a6b-b5f0-8765ccb23a03/average-road-fuel-sales-and-stock-levels)
 
@@ -68,11 +68,9 @@
 
 [Road traffic statistics — Cardiff](https://roadtraffic.dft.gov.uk/local-authorities/19)
 
-[Roundabouts in Europe and the US](https://www.dropbox.com/sh/4zg8kb5tziq6z0r/AACoqXHHmzsQzzc5oKOf0QNna?dl=0)
-
 [Space: commercial launches](https://www.faa.gov/data_research/commercial_space_data/)
 
-[Space debris data sources (blogpost)](https://blog.datawrapper.de/space-debris-earth-orbit)
+[Space debris data sources](https://ourworldindata.org/grapher/yearly-number-of-objects-launched-into-outer-space?tab=table)
 
 [Speed compliance, Great Britain](https://www.gov.uk/government/statistics/vehicle-speed-compliance-statistics-for-great-britain-2022/vehicle-speed-compliance-statistics-for-great-britain-2022)
 

@@ -18,7 +18,7 @@
 
 [Climate Action Tracker (global)](https://climateactiontracker.org/)
 
-[Climate action plans by UK council](https://data.climateemergency.uk/about/data/) & [Council climate change plans](https://www.mysociety.org/covering-councils-progress-towards-net-zero/)
+[Climate action plans by UK council](https://cape.mysociety.org/about/data/) & [Council climate change plans](https://www.mysociety.org/covering-councils-progress-towards-net-zero/)
 
 [Climate change concern reaches record levels — Ipsos MORI](https://www.ipsos.com/ipsos-mori/en-uk/concern-about-climate-change-reaches-record-levels-half-now-very-concerned)
 
@@ -28,7 +28,7 @@
 
 [Compliance & environmental crime](https://www.gov.uk/government/publications/environment-agency-2021-data-on-regulated-businesses-in-england)
 
-[Dams database — Global Dam Watch](https://globaldamwatch.org/goodd/)
+[Dams database — Global Dam Watch](https://www.globaldamwatch.org/database)
 
 [Diet in the UK, survey](https://www.gov.uk/government/collections/national-diet-and-nutrition-survey)
 
@@ -39,8 +39,6 @@
 [Emissions in India](https://urbanemissions.info/india-emissions-inventory/)
 
 [Emissions trading, EU](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en)
-
-[Energy data (twitter thread on sources)](https://twitter.com/Bankfieldbecky/status/1610701605019566088)
 
 [Energy performance of 21 million buildings, England & Wales (requires signup)](https://epc.opendatacommunities.org)
 
@@ -54,9 +52,7 @@
 
 [Environmental permits England](https://www.gov.uk/guidance/access-the-public-register-for-environmental-information) & [Wales](https://naturalresources.wales/permits-and-permissions/check-for-a-permit-licence-or-exemption/?lang=en)
 
-[Flash flooding in cities (England)](https://www.climatenode.org/maps/about_UFF_maps.html)
-
-[Fly-tipping incidents, England, ](https://data.london.gov.uk/dataset/fly-tipping-incidents)
+[Flash flooding in cities, England](https://www.climatenode.org/maps/about_UFF_maps.html)
 
 [Fly-tipping incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
@@ -112,7 +108,7 @@
 
 [Temperature data (global)](https://berkeleyearth.org/data/)
 
-[UK & Ireland rainfall, 1677-1960](https://github.com/ed-hawkins/rainfall-rescue) with [background](https://twitter.com/ed_hawkins/status/1392758650201120771)
+[UK & Ireland rainfall, 1677-1960](https://github.com/ed-hawkins/rainfall-rescue)
 
 [Wales waste collection, flytipping & recycling](https://statswales.gov.wales/Catalogue/Environment-and-Countryside)
 
@@ -124,9 +120,7 @@
 
 [Water quality in England](https://environment.data.gov.uk/water-quality/view/landing) and [Wales](https://naturalresources.wales/guidance-and-advice/environmental-topics/water-management-and-quality/water-quality/bathing-water-quality/?lang=en)
 
-[Weather station historic data — Met Office](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data)
-
-[Weather data (historic) — Met Office](https://catalogue.ceda.ac.uk/uuid/dbd451271eb04662beade68da43546e1)
+[Weather station historic data — Met Office](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data) & [archive](https://catalogue.ceda.ac.uk/uuid/dbd451271eb04662beade68da43546e1)
 
 [Wind turbines around the world](https://figshare.com/articles/dataset/Global_offshore_wind_farm_dataset/13280252/5)
 

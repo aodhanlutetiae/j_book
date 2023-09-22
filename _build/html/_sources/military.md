@@ -12,7 +12,9 @@
 
 [Global arms sales since 1950](https://www.sipri.org/databases/armstransfers)
 
-[Iraq war logs — Wikileaks](https://wikileaks.org/irq/sort/type/friendly_fire_0.html)
+[Iraq war logs, Friendly fire — Wikileaks](https://wikileaks.org/irq/sort/type/friendly_fire_0.html)
+
+[Iraq war logs, US military equipment — Wikileaks](https://wikileaks.org/wiki/Iraq_OIF_Property_List.csv)
 
 [Spanish Civil War database](https://github.com/ihrworld/ihr-scwd)
 
@@ -25,8 +27,6 @@
 [UN peacekeeping open data portal](https://peacekeeping.un.org/en/open-data-portal)
 
 [UN peace mission mandates, 1991-2020](https://www.peacemissions.info/)
-
-[US military equipment in Iraq — Wikileaks](https://wikileaks.org/wiki/Iraq_OIF_Property_List.csv)
 
 [US overseas wars, 1776-2017](https://sites.tufts.edu/css/mip-research/mip-dataset/)
 
