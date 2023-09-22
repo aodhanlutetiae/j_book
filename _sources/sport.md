@@ -10,35 +10,33 @@
 
 [Cycling: Tour de France, every cyclist](https://github.com/camminady/LeTourDataSet/)
 
-[FIFA 15 - 22 complete player dataset](https://www.kaggle.com/stefanoleone992/fifa-22-complete-player-dataset/)
+[FIFA 15 — 22 complete player dataset](https://www.kaggle.com/stefanoleone992/fifa-22-complete-player-dataset/)
+
+[Football analytics: Spatio-temporal match data — Springer Nature](https://researchdata.springernature.com/users/326532-luca-pappalardo/posts/55353-soccer-spatio-temporal-match-data-for-sports-analytics)
 
 [Football banning orders in England & Wales](https://www.gov.uk/government/statistics/football-related-arrests-and-banning-orders-england-and-wales-2020-to-2021-season)
 
-[Football datasets - various](https://datahub.io/collections/football)
+[Football broadcast tracking data (sample) from SkillCorner](https://github.com/SkillCorner/opendata)
 
 [Football data and overview to soccer analytics](https://github.com/devinpleuler/analytics-handbook/)
 
 [Football data from Statsbomb](https://github.com/statsbomb/open-data) [Best used with [Python](https://github.com/statsbomb/statsbombpy) or [R](https://github.com/statsbomb/StatsBombR)]
 
+[Football datasets - various](https://datahub.io/collections/football)
+
+[Football deaths mid-game (methodology unclear)](https://www.kaggle.com/shivamb/football-deaths)
+
 [Football finance](https://twitter.com/KieranMaguire) | No data but the account tweets a lot of potentially interesting data sources
 
 [Football match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
-
-[Football tracking data (sample) from Metrica](https://github.com/metrica-sports/sample-data)
-
-[Football broadcast tracking data (sample) from SkillCorner](https://github.com/SkillCorner/opendata)
 
 [Football predictions dataset (538)](https://datahub.io/five-thirty-eight/soccer-spi)
 
 [Football players' salaries](https://www.capology.com/)
 
-[Football data](http://football-data.co.uk/data.php) including [Football data (England)](http://football-data.co.uk/englandm.php)
-
-[Football deaths mid-game (* methodology unclear)](https://www.kaggle.com/shivamb/football-deaths)
-
 [Football results in Premier League — last ten seasons](https://datahub.io/sports-data/english-premier-league)
 
-[Football analytics: Spatio-temporal match data — Springer Nature](https://researchdata.springernature.com/users/326532-luca-pappalardo/posts/55353-soccer-spatio-temporal-match-data-for-sports-analytics)
+[Football tracking data (sample) from Metrica](https://github.com/metrica-sports/sample-data)
 
 [Formula One results since 1950 (API)](https://ergast.com/mrd/)
 

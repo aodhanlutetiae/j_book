@@ -4,7 +4,7 @@
 
 [Election surveys (lots of countries)](https://u.osu.edu/cnep/surveys/surveys-through-2012/)
 
-[EU's Transparency Register — EU](https://ec.europa.eu/transparencyregister/public/homePage.do)
+[EU's Transparency Register](https://ec.europa.eu/transparencyregister/public/homePage.do)
 
 [EU lobbying database](https://www.lobbyfacts.eu/)
 
@@ -14,7 +14,7 @@
 
 [German Bundestag parliamentary minutes since 1949](https://zenodo.org/record/4542662) and [article](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7EJ1KI)
 
-[Hong Kong political prisoners since 2019](https://hkdc.us/political-prisoners-latest-update/)
+[Hong Kong political prisoners](https://www.hkdc.us/political-prisoner-database)
 
 [Opinion polls across Europe](https://github.com/filipvanlaenen/eopaod)
 

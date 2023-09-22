@@ -8,7 +8,7 @@
 
 [Ambulance data (AACE)](https://aace.org.uk/uk-ambulance-service/national-ambulance-data/)
 
-[Bed numbers during pandemic, Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Activity/nhs-activity-and-capacity-during-the-coronavirus-pandemic/nhsbed-by-date-use)
+[Bed numbers, Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Activity/nhs-activity-and-capacity-during-the-coronavirus-pandemic/nhsbed-by-date-use)
 
 [Care Quality Commission (Social care regulator, England)](https://www.cqc.org.uk)
 
@@ -24,27 +24,27 @@
 
 [Diagnoses from private companies — Bureau of Investigative Journalism](https://docs.google.com/spreadsheets/d/1JH5yfqJk-T5d6KG6hISm5VkM67xXY-1DBVZkRewA7lU/edit#gid=878013472)
 
-[Drugs Misuse Statistics Scotland](https://data.gov.uk/dataset/c9722747-175e-49e8-b0b9-f89b7255fca5/drugs-misuse-statistics-scotland)
+[Drugs Misuse Statistics, Scotland, 2013](https://data.gov.uk/dataset/c9722747-175e-49e8-b0b9-f89b7255fca5/drugs-misuse-statistics-scotland)
 
-[Drug-poisoning related deaths (England & Wales)](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsrelatedtodrugpoisoningbyselectedsubstances)
+[Drug-poisoning related deaths, England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsrelatedtodrugpoisoningbyselectedsubstances)
 
 [E-cigarette use](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/ecigaretteuseingreatbritain)
 
 [Emerging infections: monthly summaries](https://www.gov.uk/government/publications/emerging-infections-monthly-summaries)
 
-[Excess winter deaths in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2020to2021provisionaland2019to2020final)
+[Excess winter deaths in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2021to2022provisionaland2020to2021final)
 
-[Food hygiene ratings for Cardiff](https://ratings.food.gov.uk/enhanced-search/en-GB/%5E/cardiff/Relevance/0/%5E/%5E/0/1/10)
+[Food hygiene ratings for Cardiff](https://ratings.food.gov.uk/authority-search-landing/556)
 
 [Gender identity referrals (NHS)](https://gids.nhs.uk/about-us/number-of-referrals/)
 
-[GP appointments (August 2022)](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/august-2022)
+[GP appointments (August 2023)](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/august-2023)
 
 [Health & Safety Executive statistics](https://www.hse.gov.uk/statistics/a-z.htm)
 
-[Hospital trolleys for patients: numbers — Irish Association for Emergency Medicine](http://www.iaem.ie/public/trolley-watch/)
+[Hospital trolleys for patients: numbers — Irish Association for Emergency Medicine](https://iaem.ie/public/trolley-watch/)
 
-[Lobbying in the health sector — Transparence Santé](https://www.eurosfordocs.fr/explore/)
+[Lobbying in the health sector — Transparence Santé](https://www.eurosfordocs.fr)
 
 [Medical tourism, to and from UK](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/medicaltourismin2019andtotalvisitstoandfromtheuk2015to2019)
 
@@ -62,9 +62,7 @@
 
 [Prescribing data, England](https://openprescribing.net/)
 
-[Vaping in Great Britain, ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/ecigaretteuseingreatbritain)
-
-[Waiting times — NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/) & [NHS Wales](https://www.wales.nhs.uk/nhswalesaboutus/nhswaitingtimes)
+[Waiting times — NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/) & [NHS Wales](https://www.wales.nhs.uk/nhswalesaboutus/nhswaitingtimes)
 
 [WHO health data and statistics](https://www.who.int/healthinfo/statistics/en/)
 

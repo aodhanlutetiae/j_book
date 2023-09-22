@@ -12,8 +12,6 @@
 
 [Big Mac Index — The Economist](https://github.com/TheEconomist/big-mac-data)
 
-[Booksellers (independent) in the UK](http://www.bigbeardedbookseller.com/indie-bookshops-england/)
-
 [Business births, deaths and survival rates, ONS](https://www.ons.gov.uk/businessindustryandtrade/changestobusiness/businessbirthsdeathsandsurvivalrates)
 
 [Charities index UK](https://findthatcharity.uk/)
@@ -32,9 +30,9 @@
 
 [Company info registers (UK) in OCCRP investigative database](https://aleph.occrp.org/datasets?collectionsfacet=countries&collectionsfacet=category&collectionsfacet_size%3Acategory=1000&collectionsfacet_size%3Acountries=1000&collectionsfacet_total%3Acategory=true&collectionsfacet_total%3Acountries=true&collectionsfilter%3Acountries=gb&collectionslimit=30&collectionssort=created_at%3Adesc)
 
-[Consumer price inflation](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/august2022)
+[Consumer price inflation](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/august2023)
 
-[Consumer Price Index: basket of goods and services 2022](https://www.ons.gov.uk/releases/consumerpriceinflationbasketofgoodsandservices2022)
+[Consumer Price Index: basket of goods and services 2023](https://www.ons.gov.uk/releases/consumerpriceinflationbasketofgoodsandservices2023)
 
 [Consumer trends](https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/datasets/consumertrendscurrentpriceseasonallyadjusted)
 
@@ -58,11 +56,9 @@
 
 [House prices](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housepricestatisticsforsmallareas/previousReleases)
 
-[Job vacancies over 1 million, 2021 (ONS)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/jobsandvacanciesintheuk/september2021/relateddata)
+[Job vacancies over 1 million, 2022 (ONS)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/jobsandvacanciesintheuk/september2022/relateddata)
 
 [Kickstarter datasets scraped en masse](https://webrobots.io/kickstarter-datasets/)
-
-[Labour market statistics — Nomis (ONS)](https://www.nomisweb.co.uk/)
 
 [Land registry UK: who owns what?](https://use-land-property-data.service.gov.uk) & [price paid data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#yearly-file)
 
@@ -98,9 +94,9 @@
 
 [UK labour market statistics](https://www.nomisweb.co.uk/)
 
-[UK business creation & demise up to 2020 3rd quarter — ONS](https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/businessdemographyquarterlyexperimentalstatisticsuk)
+[UK business demographics](https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/businessdemographyquarterlyexperimentalstatisticsuk)
 
-[Violation index — 60,000 enforcement actions brought against companies by government regulators](https://violationtrackeruk.goodjobsfirst.org/)
+[Violation index - 60,000 enforcement actions brought against companies by government regulators](https://violationtrackeruk.goodjobsfirst.org/)
 
 [Working from home, by local authority](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
 

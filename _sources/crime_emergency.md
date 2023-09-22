@@ -30,8 +30,6 @@
 
 [Drink driving data (UK)](https://www.gov.uk/government/statistical-data-sets/reported-drinking-and-driving-ras51#digital-breath-tests-in-england-and-wales)
 
-[EU laws (140K) — Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId%3Ddoi:10.7910/DVN/0EGYWY)
-
 [FBI data](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads)
 
 [Femicide census: women killed by men in the UK (pdf reports)](https://www.femicidecensus.org/)
@@ -66,11 +64,11 @@
 
 [Police staffing data](https://www.gov.uk/government/statistics/police-workforce-open-data-tables)
 
-[Police stop & search figures by ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest%23data-sources)
+[Police stop & search figures by ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest) & [area](https://data.police.uk/data/)
 
 [Police use of force data](https://www.gov.uk/government/statistics/police-use-of-force-statistics-england-and-wales-april-2019-to-march-2020)
 
-[Prison populations](https://www.gov.uk/government/statistics/prison-population-figures-2021)
+[Prison populations](https://www.gov.uk/government/statistics/prison-population-figures-2023)
 
 [Prosecution & conviction trends (England & Wales)](https://www.gov.uk/government/collections/criminal-justice-statistics-quarterly)
 
@@ -78,7 +76,8 @@
 
 [Rural crime survey 2018](https://www.nationalruralcrimenetwork.net/research/internal/2018survey/)
 
-[Sentencing statistics](https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-march-2022)
+[Sentencing statistics](https://www.gov.uk/government/statistics/criminal-justice-system-statistics-quarterly-december-2022)
+
 <!--
 [US civilian complaints against NYPD police, 1982-2020 — Propublica](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers)
 

@@ -78,4 +78,4 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [YouTube Tracking](https://youtube.tracking.exposed) | Monitor and collect personalised recommendations to investigate YouTube's recommender system.
 
-[WebXray](https://github.com/timlib/webXray) | Analyse sites for trackers and cookies
+[WebXray](https://github.com/agilemobiledev/webXray) | Analyse sites for trackers and cookies
