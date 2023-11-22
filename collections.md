@@ -16,6 +16,8 @@ Lists and collections of datasets released by journalists or governments or othe
 
 [Buzzfeed: all story datasets & analyses](https://github.com/BuzzFeedNews/everything#guides)
 
+[Canada statistics office](https://www.statcan.gc.ca/en/start)
+
 Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified), [Stirling](https://data.stirling.gov.uk)
 
 [Consumer data research centre](https://data.cdrc.ac.uk/) 
@@ -39,6 +41,8 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 [The Economist: repository of story data and code](https://github.com/TheEconomist)
 
 [Environmental Information: public register](https://www.gov.uk/guidance/access-the-public-register-for-environmental-information)
+
+[Equality & human rights commission UK](https://www.equalityhumanrights.com/our-work/equality-and-human-rights-monitor/equality-and-human-rights-monitor-2023-supporting-data)
 
 [Euromonitor](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma995729733402420)
 
@@ -68,6 +72,8 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 
 [Humanitarian data exchange](https://data.humdata.org/)
 
+[Human rights data analysis group](https://hrdag.org/)
+
 [India data portal](https://ndap.niti.gov.in/)
 
 [Information is beautiful datasets (300+)](https://informationisbeautiful.net/data/)
@@ -77,6 +83,8 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 [Istat: data from Italy's ONS](https://www.istat.it/)
 
 [JSON format datasets (random list)](https://github.com/jdorfman/awesome-json-datasets)
+
+[London data (Colouring London project)](https://colouring.london/)
 
 [Makeover Monday](http://www.makeovermonday.co.uk/data/)
 
@@ -97,6 +105,8 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 [ONS data stories: Project Cairo](https://onsvisual.github.io/project_cairo/)
 
 [ONS](https://www.ons.gov.uk/)
+
+[ONS user requested data](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/alladhocs)
 
 [Our World in Data: long list of datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
 

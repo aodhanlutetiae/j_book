@@ -12,6 +12,8 @@
 
 [Find a Tender (High-value govt contracts of £118K+)](https://www.gov.uk/find-tender)
 
+[FOI responses by govt: statistics](https://www.gov.uk/government/collections/government-foi-statistics#2023)
+
 [Former UK GOV sites](https://www.gov.uk/performance/central-government-websites)
 
 [Government contracts worth more than £10,000](https://www.gov.uk/contracts-finder)
@@ -24,7 +26,9 @@
 
 [My Society published datasets and tools (Democracy, FOI, Better cities)](https://data.mysociety.org/)
 
-[Petitions to UK government](https://petition.parliament.uk/petitions?state=all)
+[Petitions to UK parliament](https://petition.parliament.uk/petitions?state=all)
+
+[Petitions to Welsh parliament](https://petitions.senedd.wales/)
 
 [Planning appeals, England](https://www.gov.uk/government/publications/planning-inspectorate-appeals-database)
 

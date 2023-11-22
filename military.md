@@ -20,7 +20,7 @@
 
 [UK armed forces diversity statistics](https://www.gov.uk/government/collections/uk-armed-forces-biannual-diversity-statistics-index)
 
-[UK arms export data](https://github.com/caatdata/uk-arms-export-data)
+[UK arms export data (via CAAT)](https://github.com/caatdata/uk-arms-export-data)
 
 [Ukraine conflict: Russian equipment losses](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)
 

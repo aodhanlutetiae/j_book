@@ -16,6 +16,10 @@
 
 [GCSE strong passes in English & Maths 2021 (by gender, geography, ethnicity)](https://data.gov.uk/dataset/ec1efd76-d6ad-4594-9b4d-944aa4170e63/gcse-english-and-maths-results-by-ethnicity)
 
+[HESA: higher education data, UK](https://www.hesa.ac.uk/data-and-analysis)
+
+[Higher education graduate outcomes](https://www.data.gov.uk/dataset/37b401c3-1689-4f3c-bac4-b6cc39cdefa7/higher-education-graduate-outcomes-data)
+
 [OFSTED inspection outcomes](https://www.gov.uk/government/statistical-data-sets/monthly-management-information-ofsteds-school-inspections-outcomes) & [OFSTED](https://www.gov.uk/government/organisations/ofsted/about/statistics) & [OFSTED 5-year data](https://www.gov.uk/government/publications/five-year-ofsted-inspection-data)
 
 [PISA education data — OECD](https://www.oecd.org/pisa/data/)

@@ -38,7 +38,11 @@
 
 [Listed buildings, shipwrecks in Wales](https://cadw.gov.wales/advice-support/cof-cymru/downloads)
 
+[London: earning by borough](https://data.london.gov.uk/dataset/earnings-place-residence-borough)
+
 [Properties by council tax (Valuation Office Agency)](https://www.gov.uk/government/organisations/valuation-office-agency/about/statistics)
+
+[Rats in NYC ('Download raw data')](https://transitapp.com/rats)
 
 [Rents in England](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-april-2023)
 

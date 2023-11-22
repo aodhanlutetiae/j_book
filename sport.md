@@ -12,6 +12,8 @@
 
 [FIFA 15 — 22 complete player dataset](https://www.kaggle.com/stefanoleone992/fifa-22-complete-player-dataset/)
 
+[FIFA - FC. 17,000 player ratings](https://www.ea.com/games/ea-sports-fc/ratings)
+
 [Football analytics: Spatio-temporal match data — Springer Nature](https://researchdata.springernature.com/users/326532-luca-pappalardo/posts/55353-soccer-spatio-temporal-match-data-for-sports-analytics)
 
 [Football banning orders in England & Wales](https://www.gov.uk/government/statistics/football-related-arrests-and-banning-orders-england-and-wales-2020-to-2021-season)

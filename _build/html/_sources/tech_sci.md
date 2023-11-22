@@ -6,12 +6,11 @@ AI problems & failures
 - [Borji 2023 catalogue of ChatGPT failures (pdf)](https://arxiv.org/pdf/2302.03494.pdf)
 - [ChatGPT failure archive](https://github.com/giuven95/chatgpt-failures)
 - [Repository of AI problem (AIAAIC)](https://www.aiaaic.org/aiaaic-repository) 
+- [AI problems recorded (since 2019)](https://incidentdatabase.ai/apps/incidents/)
 
 [Algorithms used by UK govt -- official list (6)](https://www.gov.uk/government/collections/algorithmic-transparency-reports)
 
 [Algorithms used by UK govt -- Public law project (41)](https://publiclawproject.org.uk/resources/the-tracking-automated-government-register/)
-
-[AI problems recorded (since 2019)](https://incidentdatabase.ai/apps/incidents/)
 
 [APIs for use in software and web development](https://github.com/public-apis/public-apis)
 

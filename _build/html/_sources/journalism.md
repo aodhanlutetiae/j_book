@@ -37,3 +37,5 @@
 [Snowden Digital Surveillance Archive](https://grid.glendon.yorku.ca/exhibits/show/welcome-to-the-snowden-digital)
 
 [Trump's negative tweets about the press](https://docs.google.com/spreadsheets/d/1uNA6nsgcRhhQ0b6USsMNzhYLMfuDRSMhbGZNZ00WkHk/edit#gid=0)
+
+[Westminster accredited journalists & media](https://publications.parliament.uk/pa/cm/cmjournl/231013/journalists.htm)

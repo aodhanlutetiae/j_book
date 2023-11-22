@@ -68,6 +68,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [ProPublica news apps](https://www.propublica.org/newsapps) | Tools and apps from Propublica
 
+[Propublica: investigating non-profits (US)](https://projects.propublica.org/nonprofits/)
+
 [Reportermate](https://github.com/nickjevershed/Reportermate-Lib) | Generate copy from .csv file
 
 [Securedrop](https://securedrop.org/) | Whistleblowing submission system
