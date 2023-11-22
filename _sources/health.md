@@ -4,6 +4,8 @@
 
 [Alcohol-related deaths, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/alcoholrelateddeathsintheunitedkingdom/registeredin2020/relateddata)
 
+[Alcohol dependence (England)](https://www.gov.uk/government/collections/alcohol-and-drug-misuse-and-treatment-statistics)
+
 [Ambulance response times, England](https://www.england.nhs.uk/statistics/statistical-work-areas/ambulance-quality-indicators/) & [Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Performance/Ambulance-Services)
 
 [Ambulance data (AACE)](https://aace.org.uk/uk-ambulance-service/national-ambulance-data/)

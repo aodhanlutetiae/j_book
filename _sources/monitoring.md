@@ -4,7 +4,7 @@ Monitoring
 Who's releasing what? Get alerted to what's coming out or what's been updated or changed
 
 
-[Census (2021) release calendar](https://www.ons.gov.uk/census/aboutcensus/releaseplans)
+[Census (2021) release calendar](https://www.ons.gov.uk/releasecalendar?query=census&fromDateDay=&fromDateMonth=&fromDateYear=&toDateDay=&toDateMonth=&toDateYear=&view=upcoming)
 
 [Financial sanctions (Treasury)](https://public.govdelivery.com/accounts/UKHMTREAS/subscriber/new)
 
@@ -20,7 +20,7 @@ Who's releasing what? Get alerted to what's coming out or what's been updated or
 
 [ORR (Office of rail and road)](https://dataportal.orr.gov.uk/publication-dates-for-statistics/)
 
-[Statistics for Wales (on twitter)](https://twitter.com/statisticswales)
+[Statistics for Wales](https://www.gov.wales/statistics-and-research/upcoming)
 
 [UK government email alerts on updated pages or data](https://www.gov.uk/help/update-email-notifications)
 

@@ -6,6 +6,8 @@
 
 [Books banned in US prisons](https://observablehq.com/@themarshallproject/prison-banned-books)
 
+[Books 'banned' in US ('download the full dataset')](https://yarn.joinstatecraft.com/books)
+
 [Chord progressions of 5,000 songs — AmitKohli](https://www.amitkohli.com/chord-progressions-of-5-000-songs/)
 
 [Cinema admissions UK](https://www.cinemauk.org.uk/the-industry/facts-and-figures/)

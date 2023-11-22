@@ -26,6 +26,8 @@
 
 [Terrorism database](https://www.start.umd.edu/gtd/)
 
+[United Nations decisions & resolutions (XML)](https://www.un.org/dgacm/en/content/visualizations-and-machine-readability)
+
 [US political email used by Gmail — The Markup](https://github.com/the-markup/investigation-wheres-my-email)
 
 [US Postal Service weekly performance — how much mail got dealt with?](https://drive.google.com/drive/folders/1WIiUIu0PP_5D1j8R_-T7IN7kVWk9lvuj)
