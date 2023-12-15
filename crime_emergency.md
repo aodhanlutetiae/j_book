@@ -38,6 +38,8 @@
 
 [Firearms offences](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/offencesinvolvingtheuseofweaponsdatatables)
 
+[Fraud & computer misuse (England & Wales), 2022](https://www.ons.gov.uk/releases/natureoffraudandcomputermisuseinenglandandwalesyearendingmarch2022)
+
 [Harassment perception survey](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/perceptionsofpersonalsafetyandexperiencesofharassmentgreatbritain/2to27june2021)
 
 [Hate Crime data — HateLab](https://hatelab.net/data)

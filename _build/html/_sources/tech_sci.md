@@ -34,6 +34,8 @@ AI problems & failures
 
 [Google Trends — random CSV files](https://github.com/googletrends/data)
 
+[ICO - data security incidents (120K)](https://ico.org.uk/action-weve-taken/data-security-incident-trends/)
+
 [Internet shutdowns around the world](https://www.accessnow.org/keepiton/)
 
 [Machine Learning Projects: find open data | Kaggle](https://www.kaggle.com/datasets?sortBy=relevance&group=featured&search=tag%3A%27journalism%27)
