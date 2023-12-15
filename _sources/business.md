@@ -60,7 +60,7 @@
 
 [Kickstarter datasets scraped en masse](https://webrobots.io/kickstarter-datasets/)
 
-[Land registry UK: who owns what?](https://use-land-property-data.service.gov.uk) & [price paid data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#yearly-file)
+[Land registry UK: who owns what?](https://www.gov.uk/government/publications/hm-land-registry-data/public-data) & [price paid data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#yearly-file)
 
 [Livestock in Wales — last ten years](https://statswales.gov.wales/Catalogue/Agriculture/Agricultural-Survey/Annual-Survey-Results/total-livestock-in-wales-by-year)
 
@@ -99,6 +99,8 @@
 [Violation index - 60,000 enforcement actions brought against companies by government regulators](https://violationtrackeruk.goodjobsfirst.org/)
 
 [Working from home, by local authority](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
+
+[Work visas, sponsored, England & Wales](https://assets.publishing.service.gov.uk/media/65574b3b046ed4000d8b9ab8/occupation-visas-datasets-sep-2023.xlsx)
 
 [World mining datasets](https://doi.pangaea.de/10.1594/PANGAEA.910894)
 
