@@ -26,6 +26,8 @@
 
 [Diagnoses from private companies — Bureau of Investigative Journalism](https://docs.google.com/spreadsheets/d/1JH5yfqJk-T5d6KG6hISm5VkM67xXY-1DBVZkRewA7lU/edit#gid=878013472)
 
+[Drinking survey](https://www.drinkaware.co.uk/research/drinkaware-monitors)
+
 [Drugs Misuse Statistics, Scotland, 2013](https://data.gov.uk/dataset/c9722747-175e-49e8-b0b9-f89b7255fca5/drugs-misuse-statistics-scotland)
 
 [Drug-poisoning related deaths, England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsrelatedtodrugpoisoningbyselectedsubstances)
@@ -63,6 +65,8 @@
 [Pharmaceutical lobbying of UK all-party parliamentary groups, 2012-18](https://researchdata.bath.ac.uk/943/)
 
 [Prescribing data, England](https://openprescribing.net/)
+
+[Smoking habits, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/smokinghabitsintheukanditsconstituentcountries)
 
 [Waiting times — NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/) & [NHS Wales](https://www.wales.nhs.uk/nhswalesaboutus/nhswaitingtimes)
 

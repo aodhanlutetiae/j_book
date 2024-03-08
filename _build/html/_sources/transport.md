@@ -34,7 +34,7 @@
 
 [Driving licence and access to cars: who has one?](https://www.ethnicity-facts-figures.service.gov.uk/culture-and-community/transport/driving-licenses-and-access-to-vehicles/latest#data-sources)
 
-[Driving Licence Data for GB — data.gov.uk ](https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data)
+[Driving Licence data (GB)](https://data.gov.uk/dataset/d0be1ed2-9907-4ec4-b552-c048f6aec16a/gb-driving-licence-data)
 
 [Driving Licence Data for London](https://data.london.gov.uk/dataset/licensed-vehicles-numbers-borough)
 

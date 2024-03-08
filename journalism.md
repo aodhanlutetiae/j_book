@@ -8,6 +8,8 @@
 
 [Data archive of interest to US journalists — Big Local News](https://biglocalnews.org/)
 
+[Factchecked information (global)](https://www.factcheckinsights.org/download)
+
 [FOIA Annual Reports 1975-2018 — A. Jay Wagner](https://epublications.marquette.edu/comm_data/1/)
 
 [FOI responses (UK) — whatdotheyknow](https://www.whatdotheyknow.com/)

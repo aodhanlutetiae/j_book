@@ -10,4 +10,6 @@
 
 [Papal visits and human rights index](https://www.econstor.eu/handle/10419/222646)
 
+[Sexual orientation by religion (Census 2021)](https://www.ons.gov.uk/datasets/RM188/editions/2021/versions/4#get-data)
+
 [Witch trials from the year 1300 (43,000)](https://github.com/JakeRuss/witch-trials/tree/master/data)

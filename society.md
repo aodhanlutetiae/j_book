@@ -8,6 +8,8 @@
 
 [Baby names in England & Wales, 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/2021/relateddata)
 
+[Baby names rejected in New Zealand, 2023](https://www.dia.govt.nz/press.nsf/d77da9b523f12931cc256ac5000d19b6/18330eddac3d14c6cc258aae00020b4c!OpenDocument)
+
 [Blue plaques & more](https://openplaques.org/data)
 
 [Census 2021: 1st results (England & Wales)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
@@ -54,6 +56,8 @@
 
 [Divorce in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales)
 
+[Deprivation index in Scotland 2020](https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/)
+
 [Dog breed statistics — The Kennel Club](https://www.thekennelclub.org.uk/media-centre/breed-registration-statistics)
 
 [Dog population estimates by postcode](https://data.gov.uk/dataset/ec8fc820-2e36-49d0-a09c-e2901e10b2e4/dog-population-per-postcode-district)
@@ -67,6 +71,8 @@
 [Housing: affordability (price to earnings)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2021/relateddata)
 
 [Housing: empty homes in England](https://www.actiononemptyhomes.org/facts-and-figures)
+
+[Housing: empty dwellings and second homes (Census 2021)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/numberofvacantdwellingsandsecondhomeswithnousualresidents)
 
 [Housing: empty & second homes in Wales](https://statswales.gov.wales/Catalogue/Local-Government/Finance/Council-Tax/Dwellings/chargeableemptyandsecondhomesbylocalauthority)
 
@@ -95,6 +101,12 @@
 [International Development, Poverty, & Sustainability — World Bank](https://www.worldbank.org/)
 
 [Irish passports — Irish govt](https://www.dfa.ie/passports/open-data/)
+
+[Gypsy or Irish traveller population (Census 2021)](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/datasets/gypsyoririshtravellerpopulationsdataculturalidentity)
+
+[Land ownership (investigating)](https://whoownsengland.org/tools-and-resources/)
+
+[Life expectancy at birth, by local authority](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/lifeexpectancyatbirthandatage65bylocalareasinenglandandwalesreferencetable1)
 
 [Lifestyle survey 2011](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/compendium/generallifestylesurvey/2013-03-07/generallifestylesurvey2011referencetables)
 
@@ -128,7 +140,7 @@
 
 [Rough sleeper count, Wales](https://gov.wales/national-rough-sleeper-count)
 
-[Rough sleeping, England](https://www.gov.uk/government/publications/support-for-people-sleeping-rough-in-england-march-2023)
+[Rough sleeping: snapshot, England](https://www.gov.uk/government/statistical-data-sets/tables-on-rough-sleeping) & [Rough sleeping support, England](https://www.gov.uk/government/publications/support-for-people-sleeping-rough-in-england-march-2023)
 
 [Same-sex marriage postal survey in Australia 2017](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1800.02017)
 

@@ -2,7 +2,7 @@
 
 [Adobserver database: tracking Facebook & YouTube ads](https://adobserver.org/ad-database/)
 
-AI problems & failures
+AI problems & failures (catalogues of)
 - [Borji 2023 catalogue of ChatGPT failures (pdf)](https://arxiv.org/pdf/2302.03494.pdf)
 - [ChatGPT failure archive](https://github.com/giuven95/chatgpt-failures)
 - [Repository of AI problem (AIAAIC)](https://www.aiaaic.org/aiaaic-repository) 

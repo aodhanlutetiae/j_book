@@ -8,6 +8,8 @@
 
 [Clothing rules in US schools — The Pudding](https://github.com/the-pudding/data/tree/master/dress-codes)
 
+[Cost of living & higher education students, Education](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/datasets/costoflivingandhighereducationstudentsengland)
+
 [Department of education statistics](https://explore-education-statistics.service.gov.uk/)
 
 [Erasmus mobility scheme, 2014-20](https://data.europa.eu/data/datasets/erasmus-mobility-statistics-2014-2020?locale=en)
@@ -20,6 +22,8 @@
 
 [Higher education graduate outcomes](https://www.data.gov.uk/dataset/37b401c3-1689-4f3c-bac4-b6cc39cdefa7/higher-education-graduate-outcomes-data)
 
+[Home schooling etc., Wales](https://www.gov.wales/pupils-educated-other-school-september-2022-august-2023)
+
 [OFSTED inspection outcomes](https://www.gov.uk/government/statistical-data-sets/monthly-management-information-ofsteds-school-inspections-outcomes) & [OFSTED](https://www.gov.uk/government/organisations/ofsted/about/statistics) & [OFSTED 5-year data](https://www.gov.uk/government/publications/five-year-ofsted-inspection-data)
 
 [PISA education data — OECD](https://www.oecd.org/pisa/data/)
@@ -31,3 +35,5 @@
 [Student Loans Company: FOI disclosure log archive](https://webarchive.nationalarchives.gov.uk/ukgwa/20190301124453/https://www.slc.co.uk/freedom-of-information/freedom-of-information-disclosures.aspx)
 
 [Student Loans Company: student loans in Wales 2020-21 — HESA](https://www.hesa.ac.uk/data-and-analysis)
+
+[UCAS 2023 application data](https://www.ucas.com/data-and-analysis/undergraduate-statistics-and-reports/ucas-undergraduate-end-cycle-data-resources-2023)

@@ -12,7 +12,13 @@
 
 [Air quality around the world: by country](https://openaq.org/#/countries)
 
+[Boiler upgrade scheme, England & Wales](https://www.gov.uk/government/collections/boiler-upgrade-scheme-statistics)
+
+[Building safety remediation, monthly data](https://www.gov.uk/government/collections/building-safety-remediation)
+
 [Carbon footprint estimate per person in England (LSOA)](https://www.carbon.place/)
+
+[Carbon footprint estimate for a GCSE](https://www.gov.uk/government/publications/the-carbon-footprint-of-a-gcse/the-carbon-footprint-of-a-gcse#results)
 
 [Carbon offsets database](https://gspp.berkeley.edu/faculty-and-impact/centers/cepp/projects/berkeley-carbon-trading-project/offsets-database)
 
@@ -68,6 +74,8 @@
 
 [International Environmental Agreements Database Project](https://iea.uoregon.edu/)
 
+[Litigation around climate change](https://climatecasechart.com/about/)
+
 [Littering in England](https://www.gov.uk/government/publications/litter-and-littering-in-england-data-dashboard/litter-and-littering-in-england-2018-to-2019)
 
 [Meat consumption globally (OECD)](https://data.oecd.org/agroutput/meat-consumption.htm)
@@ -85,6 +93,10 @@
 [Oceanic, atmospheric, geophysical and coastal data — NCEI](https://www.ncdc.noaa.gov/)
 
 [Open Geography portal](http://geoportal.statistics.gov.uk/)
+
+[Opinions, climate change (Opinions & Lifestyle Survey)](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/publicopinionsandsocialtrendsgreatbritainclimatechangeandheatwaveimpacts)
+
+[Planning inspectorate casework England](https://acp.planninginspectorate.gov.uk/) & [Wales](https://www.gov.wales/planning-and-environment-decisions-wales)
 
 [Plastic waste by country](https://advances.sciencemag.org/content/6/44/eabd0288/tab-figures-data)
 

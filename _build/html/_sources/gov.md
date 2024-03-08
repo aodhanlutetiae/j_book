@@ -41,3 +41,5 @@
 [Ukraine sponsorship scheme, numbers](https://www.gov.uk/guidance/ukraine-sponsorship-scheme-visa-data-by-country-upper-and-lower-tier-local-authority) & [applicants](https://www.gov.uk/government/publications/homes-for-ukraine-sponsorship-scheme-and-ukraine-family-scheme-visa-data-by-age-and-sex-of-applicant) & [Ukraine homelessness](https://www.gov.uk/government/publications/homelessness-management-information-ukrainian-nationals-england)
 
 [Ukraine refugees in UK — ONS experience survey](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/visaholdersenteringtheukundertheukrainehumanitarianschemes)
+
+[Ukraine refugees in employment](https://www.gov.uk/government/publications/analysis-of-ukrainian-nationals-entering-employment-in-the-uk?utm_medium=email&utm_campaign=govuk-notifications-topic)

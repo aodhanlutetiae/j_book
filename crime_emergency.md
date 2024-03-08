@@ -18,7 +18,7 @@
 
 [Courts martial records UK](https://www.gov.uk/government/publications/court-martial-results-from-the-military-court-centres)
 
-[Crime in England and Wales 2020 — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables)
+[Crime in England and Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables)
 
 [Crime in England and Wales — police](https://data.police.uk/data/statistical-data/)
 
@@ -27,6 +27,8 @@
 [Criminal justice statistics](https://www.data.gov.uk/dataset/cbe9ff83-a459-444f-bc92-39dc70bbdec1/criminal-justice-statistics)
 
 [Cyber crime in England and Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesexperimentaltables&sa=D&source=editors&ust=1619805122951000&usg=AOvVaw3oYkI1UYBxO2uT6v6XHLpP)
+
+[Domestic abuse, England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/domesticabuseprevalenceandtrendsenglandandwales/previousReleases)
 
 [Drink driving data (UK)](https://www.gov.uk/government/statistical-data-sets/reported-drinking-and-driving-ras51#digital-breath-tests-in-england-and-wales)
 
@@ -69,6 +71,8 @@
 [Police stop & search figures by ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest) & [area](https://data.police.uk/data/)
 
 [Police use of force data](https://www.gov.uk/government/statistics/police-use-of-force-statistics-england-and-wales-april-2019-to-march-2020)
+
+[Police use of live facial recognition in South Wales](https://www.south-wales.police.uk/SysSiteAssets/media/downloads/south-wales/about-us/frt/live-facial-recognition/results-of-all-deployments---lleoliadau-for-live-facial-recognition-lfr.pdf) & [London](https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/advice/lfr/new/lfr-deployment-grid-2023-v.3.2-web.pdf)
 
 [Prison populations](https://www.gov.uk/government/statistics/prison-population-figures-2023)
 

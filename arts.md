@@ -1,5 +1,7 @@
 # Arts & Culture
 
+[Amateur archaeology finds in UK](https://finds.org.uk)
+
 [Art UK: 290,000 public artworks](https://artuk.org/discover)
 
 [Bandcamp: 1,000,000 sales](https://components.one/datasets/bandcamp-sales)
@@ -11,6 +13,8 @@
 [Chord progressions of 5,000 songs — AmitKohli](https://www.amitkohli.com/chord-progressions-of-5-000-songs/)
 
 [Cinema admissions UK](https://www.cinemauk.org.uk/the-industry/facts-and-figures/)
+
+[Cinema admissions, India](https://github.com/HarshaDevulapalli/indian-movie-theatres)
 
 [Crossword clues (huge number)](http://xd.saul.pw/data/)
 
@@ -44,6 +48,10 @@
 
 [Museums, UK](https://museweb.dcs.bbk.ac.uk/data)
 
+[Museums & galleries (DCMS-sponsored, monthly visits](https://www.gov.uk/government/statistical-data-sets/museums-and-galleries-monthly-visits)
+
+[Music sales, UK (Digital entertainment & retail assoc.)](https://www.eraltd.org/yearbook)
+
 [Netflix: what are people watching? (2023)](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 
 [New York Philharmonic performances, 1842-2020](https://data.world/popculture/new-york-philharmonic-performances)
@@ -73,5 +81,7 @@
 [Twin Peaks coffee ('damn fine coffee')](https://data.world/judkacag/the-coffees-of-twin-peaks)
 
 [UK public monuments, statues & sculptures](https://www.vads.ac.uk/digital/collection/PMSA/search)
+
+[Visits to museums & galleries every month (DCMS-sponsored)](https://www.gov.uk/government/statistical-data-sets/museums-and-galleries-monthly-visits)
 
 [X-men data, 1963-93](https://github.com/EliCash82/mutantmoneyball)
