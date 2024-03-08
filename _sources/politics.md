@@ -8,15 +8,13 @@
 
 [China: dissent](https://chinadissent.net/)
 
-[Donations to political parties & MPs](http://search.electoralcommission.org.uk/?currentPage=1&rows=10&sort=RegulatedDoneeType&order=asc&tab=1&open=filter&et=pp&isIrishSourceYes=true&isIrishSourceNo=true&date=Accepted&from=&to=&quarters=2020q1&prePoll=false&postPoll=true&register=gb&register=ni&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)
+[Donations to political parties](http://search.electoralcommission.org.uk/?currentPage=1&rows=10&sort=RegulatedDoneeType&order=asc&tab=1&open=filter&et=pp&isIrishSourceYes=true&isIrishSourceNo=true&date=Accepted&from=&to=&quarters=2020q1&prePoll=false&postPoll=true&register=gb&register=ni&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)
 
 [Electiontechhandbook.uk — data & tech resources around 2019 election](https://docs.google.com/document/d/1H-lRCPmeXDpWcYReGxljSDO-p04S5i4Q0Sz0GxsnLg8/edit#)
 
 [Electoral Commission (elections & financing of)](http://search.electoralcommission.org.uk/?currentPage=0&rows=10&sort=AcceptedDate&order=desc&tab=1&et=pp&et=ppm&et=tp&et=perpar&et=rd&isIrishSourceYes=true&isIrishSourceNo=true&prePoll=false&postPoll=true&register=gb&register=ni&register=none&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)
 
 [Electoral statistics — Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/elections/electoralregistration/datasets/electoralstatisticsforuk)
-
-[Facebook Ad Library (UK)](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GB&media_type=all)
 
 [General election results 2019](https://github.com/aodhanlutetiae/uk_election_2019)
 
@@ -40,6 +38,10 @@
 
 [Opinion polls in the UK](https://www.markpack.org.uk/opinion-polls/)
 
+[Political ads on Facebook: Ad Library (UK)](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GB&media_type=all) & [here](https://www.facebook.com/ads/library/report/)
+
+[Political ads on Google: Ad Transparency (UK)](https://adstransparency.google.com/political?topic=political&region=GB)
+
 [Sanctions list](https://www.gov.uk/government/publications/the-uk-sanctions-list)
 
 [Scottish parliament](https://data.parliament.scot/#/home)
@@ -60,6 +62,6 @@
 
 [Parliamentary voting](https://www.publicwhip.org.uk/divisions.php)
 
-[Register of Members' Financial Interests](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/) | [Can be queried using Datasette](https://register-of-members-interests.datasettes.com/regmem)
+[Register of Members' Financial Interests](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/) | [Can be queried using Datasette](https://register-of-members-interests.datasettes.com/regmem) | [Available as csv / excel file via mysociety](https://pages.mysociety.org/parl_register_interests/)
 
 [Transparency register for ministers (gifts, travel etc)](https://www.gov.uk/government/collections/ministers-transparency-publications)

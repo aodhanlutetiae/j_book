@@ -4,6 +4,8 @@
 
 [Cricket data — cricsheet](https://cricsheet.org/)
 
+[Cricket: ICC world cup 2023](https://www.espncricinfo.com/records/tournament/batting-most-runs-career/icc-cricket-world-cup-2023-24-15338)
+
 [Cycling routes in the EU](https://www.biroto.eu/en/news/eurovelo-routes-having-a-gps-tracCycling)
 
 [Cycling: Tour de France GPS data](https://github.com/jdai20/Project_4)
@@ -38,6 +40,8 @@
 
 [Football results in Premier League — last ten seasons](https://datahub.io/sports-data/english-premier-league)
 
+[Football revenue in Premier League](https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/annual-review-of-football-finance-premier-league-clubs.html)
+
 [Football tracking data (sample) from Metrica](https://github.com/metrica-sports/sample-data)
 
 [Formula One results since 1950 (API)](https://ergast.com/mrd/)
@@ -45,6 +49,8 @@
 [Gambling: betting on football data](https://www.football-data.co.uk/)
 
 [Gambling licences in the UK (public register)](https://www.gamblingcommission.gov.uk/public-and-players/public-register)
+
+[Gambling need for treatment: England](https://www.gov.uk/government/publications/gambling-treatment-need-and-support-prevalence-estimates)
 
 [Gambling statistics](https://www.gamblingcommission.gov.uk/news-action-and-statistics/Statistics-and-research/Levels-of-participation-and-problem-gambling/Research-library.Gambling)
 
@@ -81,5 +87,7 @@
 [US college athletics financial database](http://cafidatabase.knightcommission.org/)
 
 [US school sport](https://ope.ed.gov/athletics/#/)
+
+[Water quality in the Seine, Jan 2024 (link at 'téléchargées ici')](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-on-vous-explique-comment-franceinfo-a-analyse-les-donnees-sur-la-qualite-de-l-eau-de-la-seine_6252078.html)
 
 [World Cup 2022: UK power usage (national grid)](https://connecteddata.nationalgrid.co.uk/dataset/?page=1)

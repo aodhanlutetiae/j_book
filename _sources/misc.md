@@ -4,6 +4,8 @@
 
 [Common crawl: data scraped from the web for anyone to use](https://commoncrawl.org)
 
+[Coroners' Inquests in 18th century London](https://github.com/sharonhoward/ll-coroners)
+
 [Crowd disasters](https://zenodo.org/record/7523480)
 
 [Etymology database](http://etym.org/)
