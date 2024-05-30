@@ -26,6 +26,8 @@
 
 [My Society published datasets and tools (Democracy, FOI, Better cities)](https://data.mysociety.org/)
 
+[Parliamentary questions unanswered: blog](https://www.mysociety.org/2024/03/19/guest-post-what-are-the-questions-mps-ask-that-dont-get-answered/) & [post](https://github.com/centreforpublicdata/written-answers)
+
 [Petitions to UK parliament](https://petition.parliament.uk/petitions?state=all)
 
 [Petitions to Welsh parliament](https://petitions.senedd.wales/)
@@ -42,4 +44,4 @@
 
 [Ukraine refugees in UK — ONS experience survey](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/visaholdersenteringtheukundertheukrainehumanitarianschemes)
 
-[Ukraine refugees in employment](https://www.gov.uk/government/publications/analysis-of-ukrainian-nationals-entering-employment-in-the-uk?utm_medium=email&utm_campaign=govuk-notifications-topic)
+[Ukraine refugees in employment](https://www.gov.uk/government/publications/analysis-of-ukrainian-nationals-entering-employment-in-the-uk)

@@ -4,11 +4,11 @@
 
 [Amazon best-sellers](https://data.world/data-hut/amazonbestsellerdata) or [how to scrape it yourself](https://www.blog.datahut.co/post/scraping-amazon-best-seller-data-using-python)
 
+[Amazon: 5 years of US purchase histories](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY)
+
 [ATMs in the UK](https://www.link.co.uk/initiatives/financial-inclusion-monthly-report/)
 
 [Automation of jobs — ONS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25)
-
-[Beer and pubs in the UK](https://beerandpub.com/statistics/)
 
 [Big Mac Index — The Economist](https://github.com/TheEconomist/big-mac-data)
 
@@ -84,6 +84,10 @@
 
 [Property sales (residential) 1995-21 by region, England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/numberofresidentialpropertysalesfornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset06)
 
+[Pubs and beer in the UK](https://beerandpub.com/statistics/)
+
+[Pubs in the UK](https://beerandpub.com/data-statistics/)
+
 [Register of overseas entities](https://find-and-update.company-information.service.gov.uk/register-an-overseas-entity/sold-land-filter?start=0)
 
 [Restaurant spending via Revolut in pandemic (UK)](https://www.gov.uk/government/publications/revolut-restaurant-card-spending-data)
@@ -97,6 +101,8 @@
 [UK business demographics](https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/businessdemographyquarterlyexperimentalstatisticsuk)
 
 [Violation index - 60,000 enforcement actions brought against companies by government regulators](https://violationtrackeruk.goodjobsfirst.org/)
+
+[Wine: protected designation of origin in France & Italy](https://figshare.com/articles/dataset/Quality_wines_in_Italy_and_France_a_dataset_of_protected_designation_of_origin_specifications/25393261)
 
 [Working from home, by local authority](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
 
