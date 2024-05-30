@@ -68,10 +68,6 @@
 
 [Road traffic statistics — Cardiff](https://roadtraffic.dft.gov.uk/local-authorities/19)
 
-[Space: commercial launches](https://www.faa.gov/data_research/commercial_space_data/)
-
-[Space debris data sources](https://ourworldindata.org/grapher/yearly-number-of-objects-launched-into-outer-space?tab=table)
-
 [Speed compliance, Great Britain](https://www.gov.uk/government/statistics/vehicle-speed-compliance-statistics-for-great-britain-2022/vehicle-speed-compliance-statistics-for-great-britain-2022)
 
 [Station usage in the UK](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/)

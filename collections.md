@@ -36,7 +36,7 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 
 [Department for Transport](https://www.gov.uk/government/organisations/department-for-transport/about/statistics)
 
-[Deutsche Welle: repository of story data](https://github.com/dw-data)
+[Deutsche Welle: repository of story data](https://github.com/orgs/dw-data/repositories)
 
 [The Economist: repository of story data and code](https://github.com/TheEconomist)
 
@@ -58,7 +58,7 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 
 [Goverment Statistical Service (beta)](https://beta.gss-data.org.uk/datasets)
 
-[Government data service](https://www.data.gov.uk/)
+[Government data service](https://www.gov.uk/search/research-and-statistics)
 
 [Guardian Data Blog: 1400 stories with data sources (2009-11)](https://docs.google.com/spreadsheets/d/14gdRgcb_4cIRWrIlJRHgWQDGRZczC1Vbn-Hz2TfBL0A/edit?usp=sharing)
 

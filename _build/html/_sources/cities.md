@@ -34,10 +34,6 @@
 
 [Grocery purchases by area-level](https://figshare.com/articles/Area-level_grocery_purchases/7796666)
 
-[Listed Buildings in Wales — Welsh government](https://datamap.gov.wales/layers/inspire-wg:Cadw_ListedBuildings)
-
-[Listed buildings, shipwrecks in Wales](https://cadw.gov.wales/advice-support/cof-cymru/downloads)
-
 [London: earning by borough](https://data.london.gov.uk/dataset/earnings-place-residence-borough)
 
 [Properties by council tax (Valuation Office Agency)](https://www.gov.uk/government/organisations/valuation-office-agency/about/statistics)
@@ -54,6 +50,6 @@
 
 [Trees in Paris with lat, long coordinates (ca 200K)](https://opendata.paris.fr/explore/dataset/les-arbres/)
 
-More trees: [Amsterdam](https://maps.amsterdam.nl/bomen/?LANG=en), [Bogota](http://especiales.datasketch.co/arboles-bogota/metodologia.html),  [Dublin](https://data.smartdublin.ie/dataset/trees), [Helsinki](https://hri.fi/data/en_GB/dataset/helsingin-kaupungin-puurekisteri), [London](https://data.london.gov.uk/dataset/local-authority-maintained-trees), [Madrid](https://challenge.greemta.eu/dataset/trees/), [New York](https://www.nycgovparks.org/trees/street-tree-planting/locations), [Surrey](https://data.surrey.ca/dataset?tags=trees), [Vienna](https://www.data.gv.at/katalog/dataset/stadt-wien_baumkatasterderstadtwien), and [York](https://data.gov.uk/dataset/12dcc527-a7e2-4b23-a3c5-1501053ff0f5/council-owned-trees)
+More trees: [Amsterdam](https://maps.amsterdam.nl/bomen/?LANG=en), [Bogota](http://especiales.datasketch.co/arboles-bogota/metodologia.html),  [Dublin](https://data.smartdublin.ie/dataset/trees), [Helsinki](https://hri.fi/data/en_GB/dataset/helsingin-kaupungin-puurekisteri), [London](https://data.london.gov.uk/dataset/local-authority-maintained-trees), [Madrid](https://challenge.greemta.eu/dataset/trees/), [Los Anglese](https://github.com/stiles/la-trees), [New York](https://www.nycgovparks.org/trees/street-tree-planting/locations), [Surrey](https://data.surrey.ca/dataset?tags=trees), [Vienna](https://www.data.gv.at/katalog/dataset/stadt-wien_baumkatasterderstadtwien), and [York](https://data.gov.uk/dataset/12dcc527-a7e2-4b23-a3c5-1501053ff0f5/council-owned-trees)
 
 [World Cities Database — Simplemaps.com](https://simplemaps.com/data/world-cities)

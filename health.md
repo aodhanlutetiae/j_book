@@ -4,7 +4,7 @@
 
 [Alcohol-related deaths, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/alcoholrelateddeathsintheunitedkingdom/registeredin2020/relateddata)
 
-[Alcohol dependence (England)](https://www.gov.uk/government/collections/alcohol-and-drug-misuse-and-treatment-statistics)
+[Alcohol dependence by local authority (England)](https://www.gov.uk/government/publications/alcohol-dependence-prevalence-in-england)
 
 [Ambulance response times, England](https://www.england.nhs.uk/statistics/statistical-work-areas/ambulance-quality-indicators/) & [Wales](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Performance/Ambulance-Services)
 
@@ -22,7 +22,7 @@
 
 [Covid UK grant tracker](https://covidtracker.threesixtygiving.org/)
 
-[Data on where NHS hospital patient data is sent](https://theysolditanyway.com/). Monitors the NHS [Digital Data Uses Register](https://digital.nhs.uk/services/data-access-request-service-dars/data-uses-register)
+[Data on where NHS hospital patient data is sent](https://theysolditanyway.com/). Monitors the NHS's [Digital Data Uses Register](https://digital.nhs.uk/services/data-access-request-service-dars/data-uses-register)
 
 [Diagnoses from private companies — Bureau of Investigative Journalism](https://docs.google.com/spreadsheets/d/1JH5yfqJk-T5d6KG6hISm5VkM67xXY-1DBVZkRewA7lU/edit#gid=878013472)
 
@@ -52,7 +52,9 @@
 
 [Medical tourism, to and from UK](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/medicaltourismin2019andtotalvisitstoandfromtheuk2015to2019)
 
-[NHS data release register (what it's sharing with who)](https://digital.nhs.uk/services/data-access-request-service-dars/register-of-approved-data-releases) | See [FT story](https://www.ft.com/content/6f9f6f1f-e2d1-4646-b5ec-7d704e45149e)
+[Mental health of children & young people in England](https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-of-children-and-young-people-in-england/2023-wave-4-follow-up/data-sets)
+
+[NHS data release register (what it's sharing with whom)](https://digital.nhs.uk/services/data-access-request-service-dars/register-of-approved-data-releases) | See [FT story](https://www.ft.com/content/6f9f6f1f-e2d1-4646-b5ec-7d704e45149e)
 
 [NHS Informatics service for Wales](https://nwis.nhs.wales)
 
@@ -67,6 +69,8 @@
 [Prescribing data, England](https://openprescribing.net/)
 
 [Smoking habits, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/smokinghabitsintheukanditsconstituentcountries)
+
+[Suicide statistics, N Ireland](https://www.nisra.gov.uk/publications/suicide-statistics-2022)
 
 [Waiting times — NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/) & [NHS Wales](https://www.wales.nhs.uk/nhswalesaboutus/nhswaitingtimes)
 

@@ -38,6 +38,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [FOI: send en masse (not tested)](https://www.thomasgodfrey.co.uk/foi)
 
+[Frameworks developed in US newsrooms](https://palewi.re/docs/first-visual-story/framework.html)
+
 [Geocoder (batch) for journalists](https://geocode.localfocus.nl/) | "Locations to coordinates at rocket speed"
 
 [Giant | Lets journalists 'search, analyse, categorise and share unstructured data'](https://github.com/guardian/giant)

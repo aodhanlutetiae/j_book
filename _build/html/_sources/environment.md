@@ -74,6 +74,12 @@
 
 [International Environmental Agreements Database Project](https://iea.uoregon.edu/)
 
+[Listed Buildings in Wales — Welsh government](https://datamap.gov.wales/layers/inspire-wg:Cadw_ListedBuildings)
+
+[Listed buildings, shipwrecks in Wales](https://cadw.gov.wales/advice-support/cof-cymru/downloads)
+
+[Listed buildings etc. at risk, England](https://historicengland.org.uk/advice/heritage-at-risk/search-register/)
+
 [Litigation around climate change](https://climatecasechart.com/about/)
 
 [Littering in England](https://www.gov.uk/government/publications/litter-and-littering-in-england-data-dashboard/litter-and-littering-in-england-2018-to-2019)

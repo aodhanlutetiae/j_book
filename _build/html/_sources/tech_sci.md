@@ -54,7 +54,13 @@ AI problems & failures (catalogues of)
 
 [Scammers: database of internet scams](https://scamsearch.io/)
 
-[UK Space Agency](https://www.gov.uk/search/research-and-statistics?parent=uk-space-agency&content_store_document_type=research&organisations%5B%5D=uk-space-agency&order=updated-newest)
+[Space agency, UK](https://www.gov.uk/search/research-and-statistics?parent=uk-space-agency&content_store_document_type=research&organisations%5B%5D=uk-space-agency&order=updated-newest)
+
+[Space: commercial launches](https://www.faa.gov/data_research/commercial_space_data/)
+
+[Space debris data sources](https://ourworldindata.org/grapher/yearly-number-of-objects-launched-into-outer-space?tab=table)
+
+[Space: objects of index launched](https://www.unoosa.org/oosa/osoindex/search-ng.jspx)
 
 [Voice User Interface in Star Trek](https://www.speechinteraction.org/TNG/index.html)
 
@@ -65,3 +71,5 @@ AI problems & failures (catalogues of)
 [Wikipedia: all edits to 2008](https://snap.stanford.edu/data/wiki-meta.html)
 
 [Yelp Dataset of business reviews](https://www.yelp.com/dataset)
+
+[You tube videos transcribed (30bn words)](https://huggingface.co/datasets/PleIAs/YouTube-Commons)

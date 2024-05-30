@@ -36,7 +36,7 @@
 
 [Femicide census: women killed by men in the UK (pdf reports)](https://www.femicidecensus.org/)
 
-[Fire service statistics](https://www.gov.uk/government/collections/fire-statistics)
+[Fire service statistics](https://www.gov.uk/government/statistical-data-sets/fire-statistics-data-tables)
 
 [Firearms offences](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/offencesinvolvingtheuseofweaponsdatatables)
 

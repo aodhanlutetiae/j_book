@@ -30,7 +30,7 @@
 
 [Football deaths mid-game (methodology unclear)](https://www.kaggle.com/shivamb/football-deaths)
 
-[Football finance](https://twitter.com/KieranMaguire) | No data but the account tweets a lot of potentially interesting data sources
+[Football finance](https://twitter.com/KieranMaguire) | No data but tweets data sources
 
 [Football match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
 

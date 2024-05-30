@@ -30,6 +30,8 @@
 
 [EU terminology dictionary in all EU languages](https://iate.europa.eu/download-iate)
 
+[Festivals in the EU](https://www.festivalfinder.eu/find-festival-organisations)
+
 [Funeral music — Co-op chart](https://www.coop.co.uk/funeralcare/music/charts)
 
 [IMDb Movie datasets](https://www.imdb.com/interfaces/)
@@ -38,19 +40,23 @@
 
 [Literary prizes, 1918-2020](https://view.data.post45.org/mlpwinners)
 
+[Markers & monument database](https://www.hmdb.org/)
+
 [Metadata for all Samuel Beckett letters — The Samuel Beckett Society](https://beckett.library.emory.edu/)
 
 [Metropolitan Museum of Art collection, New York. 400k+ entries](https://github.com/metmuseum/openaccess/)
 
-[MoMA: museum of modern art, New York](https://github.com/MuseumofModernArt/collection)
-
 [Million song dataset (280GB)](http://millionsongdataset.com/)
+
+[MoMA: museum of modern art, New York](https://github.com/MuseumofModernArt/collection)
 
 [Museums, UK](https://museweb.dcs.bbk.ac.uk/data)
 
-[Museums & galleries (DCMS-sponsored, monthly visits](https://www.gov.uk/government/statistical-data-sets/museums-and-galleries-monthly-visits)
+[Museums & galleries (DCMS-sponsored), monthly visits](https://www.gov.uk/government/statistical-data-sets/museums-and-galleries-monthly-visits)
 
 [Music sales, UK (Digital entertainment & retail assoc.)](https://www.eraltd.org/yearbook)
+
+[Music streaming survey, Deltapoll](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption)
 
 [Netflix: what are people watching? (2023)](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 
@@ -63,6 +69,8 @@
 [Project Gutenberg contents](https://gutensearch.com/)
 
 [Rijksmuseum object metadata API](https://data.rijksmuseum.nl/object-metadata/api/)
+
+[Rolling Stone's 500 greatest albums 2003 v 2012 v 2020](https://docs.google.com/spreadsheets/d/1QguM-JM3LAJuZlnmY8aN0MutBJrZAzDs3aWZWTtF1WU/edit#gid=0) & [full dataset](https://docs.google.com/spreadsheets/d/1c_Tdnm7S1oo8R9UNtdCVIY7bYASmf_cvMynOJTpKuHA/edit#gid=0)
 
 [Shakespeare & Co bookshop datasets](https://shakespeareandco.princeton.edu/about/data)
 
