@@ -44,6 +44,8 @@
 
 [Football tracking data (sample) from Metrica](https://github.com/metrica-sports/sample-data)
 
+[Football: women's matches since 2011, England](https://github.com/probjects/ewf-database)
+
 [Formula One results since 1950 (API)](https://ergast.com/mrd/)
 
 [Gambling: betting on football data](https://www.football-data.co.uk/)

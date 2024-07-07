@@ -45,7 +45,7 @@
 
 [Open UPRN — unique property reference number (OS)](https://www.ordnancesurvey.co.uk/business-government/products/open-uprn)
 
-[Ordnance Survey UK](https://osdatahub.os.uk/downloads/open#BDLINE)  
+[Ordnance Survey UK](https://osdatahub.os.uk/downloads/open)  
 
 [Placenames (11 million)](http://www.geonames.org/)
 

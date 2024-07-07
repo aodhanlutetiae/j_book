@@ -28,6 +28,8 @@
 
 [Cyber crime in England and Wales — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesexperimentaltables&sa=D&source=editors&ust=1619805122951000&usg=AOvVaw3oYkI1UYBxO2uT6v6XHLpP)
 
+[Death penalties in the world](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LI3WYK)
+
 [Domestic abuse, England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/domesticabuseprevalenceandtrendsenglandandwales/previousReleases)
 
 [Drink driving data (UK)](https://www.gov.uk/government/statistical-data-sets/reported-drinking-and-driving-ras51#digital-breath-tests-in-england-and-wales)
