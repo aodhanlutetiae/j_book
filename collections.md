@@ -2,7 +2,7 @@
 
 Lists and collections of datasets released by journalists or governments or others.
 
-[538: all story datasets](https://fivethirtyeight.datasettes.com/fivethirtyeight)
+[538: all story datasets](https://data.fivethirtyeight.com/)
 
 [Accountability project](https://www.publicaccountability.org/)
 
@@ -18,7 +18,7 @@ Lists and collections of datasets released by journalists or governments or othe
 
 [Canada statistics office](https://www.statcan.gc.ca/en/start)
 
-Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified), [Stirling](https://data.stirling.gov.uk)
+Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [Milan](http://dati.comune.milano.it/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified), [Stirling](https://data.stirling.gov.uk)
 
 [Consumer data research centre](https://data.cdrc.ac.uk/) 
 

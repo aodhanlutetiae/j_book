@@ -16,6 +16,8 @@
 
 [Iraq war logs, US military equipment — Wikileaks](https://wikileaks.org/wiki/Iraq_OIF_Property_List.csv)
 
+[Small arms & light weapons](https://salw-guide.bicc.de/)
+
 [Spanish Civil War database](https://github.com/ihrworld/ihr-scwd)
 
 [UK armed forces diversity statistics](https://www.gov.uk/government/collections/uk-armed-forces-biannual-diversity-statistics-index)

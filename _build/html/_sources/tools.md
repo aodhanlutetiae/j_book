@@ -4,6 +4,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 
 [Aleph (OCCRP)](https://aleph.occrp.org) | "Access to a vast archive of government records and open databases"
 
+[Baker tool for publishing stories, LA Times](https://github.com/datadesk/baker)
+
 [BBC News Labs](https://bbcnewslabs.co.uk) & [repo](https://github.com/BBC-News-Labs) | Tools built by the BBC's innovation lab
 
 [Bellingcat OSINT tools](https://github.com/bellingcat/) | Tools developed by or for Bellingcat for Open source investigations
@@ -75,6 +77,8 @@ These are tools (or lists of tools) that have been *built for journalism* (rathe
 [Reportermate](https://github.com/nickjevershed/Reportermate-Lib) | Generate copy from .csv file
 
 [Securedrop](https://securedrop.org/) | Whistleblowing submission system
+
+[Transcription (Guardian)](https://github.com/guardian/transcription-service) | Transcription service
 
 [Typerighter (Guardian)](https://github.com/guardian/typerighter) | Checks if a text respects the Style Guide
 

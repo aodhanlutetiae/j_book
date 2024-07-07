@@ -68,6 +68,8 @@
 
 [Road traffic statistics — Cardiff](https://roadtraffic.dft.gov.uk/local-authorities/19)
 
+[Road accidents & safety](https://www.gov.uk/government/collections/road-accidents-and-safety-statistics)
+
 [Speed compliance, Great Britain](https://www.gov.uk/government/statistics/vehicle-speed-compliance-statistics-for-great-britain-2022/vehicle-speed-compliance-statistics-for-great-britain-2022)
 
 [Station usage in the UK](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/)

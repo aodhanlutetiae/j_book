@@ -12,6 +12,8 @@
 
 [Donations to political parties](http://search.electoralcommission.org.uk/?currentPage=1&rows=10&sort=RegulatedDoneeType&order=asc&tab=1&open=filter&et=pp&isIrishSourceYes=true&isIrishSourceNo=true&date=Accepted&from=&to=&quarters=2020q1&prePoll=false&postPoll=true&register=gb&register=ni&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)
 
+[Elections: reports from Electoral Commission](https://www.electoralcommission.org.uk/research-reports-and-data/our-reports-and-data-past-elections-and-referendums)
+
 [Electiontechhandbook.uk — data & tech resources around 2019 election](https://docs.google.com/document/d/1H-lRCPmeXDpWcYReGxljSDO-p04S5i4Q0Sz0GxsnLg8/edit#)
 
 [Electoral Commission (elections & financing of)](http://search.electoralcommission.org.uk/?currentPage=0&rows=10&sort=AcceptedDate&order=desc&tab=1&et=pp&et=ppm&et=tp&et=perpar&et=rd&isIrishSourceYes=true&isIrishSourceNo=true&prePoll=false&postPoll=true&register=gb&register=ni&register=none&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)

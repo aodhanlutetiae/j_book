@@ -14,6 +14,8 @@
 
 [Care Quality Commission (Social care regulator, England)](https://www.cqc.org.uk)
 
+[Child & infant mortality, 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/childhoodinfantandperinatalmortalityinenglandandwales/2022)
+
 [Children’s heart surgery UK](https://childrensheartsurgery.info/)
 
 [Children's health at 11, 13 & 15, the 'HBSC' survey](http://www.hbsc.org/)
@@ -49,6 +51,8 @@
 [Hospital trolleys for patients: numbers — Irish Association for Emergency Medicine](https://iaem.ie/public/trolley-watch/)
 
 [Lobbying in the health sector — Transparence Santé](https://www.eurosfordocs.fr)
+
+[Measles 2023, England](https://www.gov.uk/government/publications/measles-epidemiology-2023)
 
 [Medical tourism, to and from UK](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/medicaltourismin2019andtotalvisitstoandfromtheuk2015to2019)
 

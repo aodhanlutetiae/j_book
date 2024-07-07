@@ -40,4 +40,6 @@
 
 [Trump's negative tweets about the press](https://docs.google.com/spreadsheets/d/1uNA6nsgcRhhQ0b6USsMNzhYLMfuDRSMhbGZNZ00WkHk/edit#gid=0)
 
+[US newswires, 3 million](https://huggingface.co/datasets/dell-research-harvard/newswire)
+
 [Westminster accredited journalists & media](https://publications.parliament.uk/pa/cm/cmjournl/231013/journalists.htm)
