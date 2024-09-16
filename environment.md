@@ -86,6 +86,8 @@
 
 [Meat consumption globally (OECD)](https://data.oecd.org/agroutput/meat-consumption.htm)
 
+[National Grid, UK](https://www.nationalgrideso.com/data-portal)
+
 [Natural gas imports, Europe](https://www.bruegel.org/dataset/european-natural-gas-imports)
 
 [Natural resources Wales](https://naturalresources.wales/evidence-and-data/?lang=en) & [catalogue](https://libcat.naturalresources.wales/folio/)
@@ -118,9 +120,11 @@
 
 [Seismic data UK — British Geological Survey](http://www.earthquakes.bgs.ac.uk/helicorder/heli.html)
 
-[Sewage dumping in Wales: combined storm overflows](https://corporate.dwrcymru.com/en/community/environment/combined-storm-overflows)
+[Sewage dumping in Wales: combined storm overflows](https://corporate.dwrcymru.com/en/community/environment/event-duration-monitoring)
 
 [Shark incidents in Australia](https://zenodo.org/record/6672829#.YvXjcZDMLlx)
+
+[Shipwrecks, world](https://docs.google.com/spreadsheets/d/11fk5YeQ4eFOnYSBNpUdHp4TP42gJ7wY5/edit?gid=970169931#gid=970169931)
 
 [Temperature rises in European locations](https://climatechange.europeandatajournalism.eu/en/about)
 

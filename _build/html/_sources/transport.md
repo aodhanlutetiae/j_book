@@ -2,6 +2,8 @@
 
 [Accidents on UK roads ](https://www.gov.uk/government/collections/road-accidents-and-safety-statistics)
 
+[Accidents on UK roads (police data)](https://www.gov.wales/police-recorded-road-collisions)
+
 [Accident locator UK](https://www.crashmap.co.uk/)
 
 [Automated car systems involved in crashes (US)](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting#data)
@@ -57,6 +59,8 @@
 [Open Charge Map (API)](https://openchargemap.org/site/develop#api)
 
 [Parking Tickets Chicago — ProPublica](https://www.propublica.org/datastore/dataset/chicago-parking-ticket-data)
+
+[Petrol prices, UK](https://www.rac.co.uk/drive/advice/fuel-watch/)
 
 [Potholes Cardiff](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
 

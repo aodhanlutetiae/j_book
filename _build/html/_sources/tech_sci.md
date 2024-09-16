@@ -8,6 +8,8 @@ AI problems & failures (catalogues of)
 - [Repository of AI problem (AIAAIC)](https://www.aiaaic.org/aiaaic-repository) 
 - [AI problems recorded (since 2019)](https://incidentdatabase.ai/apps/incidents/)
 
+[AI patents filed by companies](https://eto.tech/dataset-docs/private-sector-ai-indicators/)
+
 [Algorithms used by UK govt -- official list (6)](https://www.gov.uk/government/collections/algorithmic-transparency-reports)
 
 [Algorithms used by UK govt -- Public law project (41)](https://publiclawproject.org.uk/resources/the-tracking-automated-government-register/)
@@ -50,7 +52,7 @@ AI problems & failures (catalogues of)
 
 [Reddit votes — huge collection](https://www.kaggle.com/josephleake/huge-collection-of-reddit-votes/)
 
-[Retraction Watch](https://retractionwatch.com/retraction-watch-database-user-guide/)
+[Retraction Watch](http://retractiondatabase.org/RetractionSearch.aspx)
 
 [Scammers: database of internet scams](https://scamsearch.io/)
 

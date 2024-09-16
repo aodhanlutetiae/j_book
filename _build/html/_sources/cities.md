@@ -40,7 +40,7 @@
 
 [Rats in NYC ('Download raw data')](https://transitapp.com/rats)
 
-[Rents in England](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-april-2023)
+[Rents in England](https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-august-2024)
 
 [Rough sleeping in England questionnaire (initial results)](https://www.gov.uk/government/publications/rough-sleeping-questionnaire-initial-findings)
 

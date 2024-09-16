@@ -28,8 +28,6 @@
 
 [Companies influencing elections](https://influenceindustry.org/en/explorer/companies/)
 
-[Company info registers (UK) in OCCRP investigative database](https://aleph.occrp.org/datasets?collectionsfacet=countries&collectionsfacet=category&collectionsfacet_size%3Acategory=1000&collectionsfacet_size%3Acountries=1000&collectionsfacet_total%3Acategory=true&collectionsfacet_total%3Acountries=true&collectionsfilter%3Acountries=gb&collectionslimit=30&collectionssort=created_at%3Adesc)
-
 [Consumer price inflation](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/august2023)
 
 [Consumer Price Index: basket of goods and services 2023](https://www.ons.gov.uk/releases/consumerpriceinflationbasketofgoodsandservices2023)
@@ -51,6 +49,8 @@
 [German Companies (5 million +)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
 
 [Global companies (7 million +) — data.world](https://data.world/peopledatalabs/free-7-million-company-dataset)
+
+[H&M product data](https://data.world/data-hut/product-data-from-hm)
 
 [Homeworking during the pandemic (UK)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/homeworkingintheuklabourmarket)
 
