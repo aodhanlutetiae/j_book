@@ -136,6 +136,8 @@
 
 [Pubs in the UK](https://www.pubsgalore.co.uk/)
 
+[Pub data, BBPA](https://beerandpub.com/data-statistics/)
+
 [Pubs & bars by UK local authority, 2001-18 (ONS)](https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsbylocalauthority)
 
 [Rough sleeper count, Wales](https://gov.wales/national-rough-sleeper-count)

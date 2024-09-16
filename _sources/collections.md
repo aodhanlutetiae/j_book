@@ -98,6 +98,8 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 
 [NHS Digital](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets)
 
+[North data (companies information)](https://www.northdata.com/_data)
+
 [OCCRP. Organised crime and corruption reporting project - datasets](https://aleph.occrp.org/datasets)
 
 [OECD Data](https://data.oecd.org/)
@@ -143,6 +145,8 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 [Statista: full access via Cardiff University library](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911649912202420)
 
 [Stats Wales catalogue](https://statswales.gov.wales/Catalogue)
+
+[Supreme Court justices: financial connections](https://projects.propublica.org/supreme-connections/)
 
 [UK data service (ESRI-funded collection of datasets)](https://www.ukdataservice.ac.uk/get-data)
 

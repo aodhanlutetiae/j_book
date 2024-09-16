@@ -4,6 +4,8 @@
 
 [Art UK: 290,000 public artworks](https://artuk.org/discover)
 
+[Auction sales](https://springernature.figshare.com/articles/dataset/Buying_a_Work_of_Art_or_an_Artist_Exploring_the_Impact_of_Visual_and_Social_Features_on_Art_Prices/24746268)
+
 [Bandcamp: 1,000,000 sales](https://components.one/datasets/bandcamp-sales)
 
 [Books banned in US prisons](https://observablehq.com/@themarshallproject/prison-banned-books)
@@ -55,6 +57,8 @@
 [MoMA: museum of modern art, New York](https://github.com/MuseumofModernArt/collection)
 
 [Museums, UK](https://museweb.dcs.bbk.ac.uk/data)
+
+[Museum data, UK](https://museumdata.uk/using-data/using-data-faqs/)
 
 [Museums & galleries (DCMS-sponsored), monthly visits](https://www.gov.uk/government/statistical-data-sets/museums-and-galleries-monthly-visits)
 

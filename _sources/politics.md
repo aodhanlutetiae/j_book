@@ -60,7 +60,7 @@
 
 [Senedd Record for current parliament via They work for you](https://www.theyworkforyou.com/pwdata/scrapedxml/senedd/en/)
 
-[Senedd Register of Members' Interests](https://senedd.wales/senedd-business/register-of-members-interests/)
+[Senedd Register of Members' Interests](https://senedd.wales/senedd-business/register-of-members-interests/) & [collected](https://github.com/stupidpupil/senedd_scraper/tree/registers_of_interests)
 
 [Parliament APIs — Westminster](http://explore.data.parliament.uk/)
 
