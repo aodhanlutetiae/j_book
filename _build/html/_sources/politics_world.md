@@ -39,3 +39,6 @@
 [US diplomacy — Wikileaks cables](https://wikileaks.org/plusd/)
 
 [World protest dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ON9XND)
+
+[Supreme Court justices: financial connections](https://projects.propublica.org/supreme-connections/)
+
