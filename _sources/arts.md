@@ -56,7 +56,7 @@
 
 [MoMA: museum of modern art, New York](https://github.com/MuseumofModernArt/collection)
 
-[Museums, UK](https://museweb.dcs.bbk.ac.uk/data)
+<!-- [Museums, UK](https://museweb.dcs.bbk.ac.uk/data) -->
 
 [Museum data, UK](https://museumdata.uk/using-data/using-data-faqs/)
 
@@ -69,6 +69,8 @@
 [Netflix: what are people watching? (2023)](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 
 [New York Philharmonic performances, 1842-2020](https://data.world/popculture/new-york-philharmonic-performances)
+
+[Operas staged around the world, 2012-2017](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8LUFN8)
 
 [Organs in Britain: National Pipe Organ Register (NPOR)](https://www.npor.org.uk/)
 
@@ -83,8 +85,6 @@
 [Shakespeare & Co bookshop datasets](https://shakespeareandco.princeton.edu/about/data)
 
 [Stolpersteine in Hamburg](https://www.stolpersteine-hamburg.de/en.php) & [Berlin](https://www.stolpersteine-berlin.de/en/finding-stolpersteine)
-
-[All operas staged around the world, 2012-2017](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8LUFN8)
 
 [Spotify statistics for users](https://musicalyst.com/)
 

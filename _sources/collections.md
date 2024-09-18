@@ -18,7 +18,7 @@ Lists and collections of datasets released by journalists or governments or othe
 
 [Canada statistics office](https://www.statcan.gc.ca/en/start)
 
-Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Edinburgh](https://edinburghopendata.info/), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [Milan](http://dati.comune.milano.it/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified), [Stirling](https://data.stirling.gov.uk)
+Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [Milan](http://dati.comune.milano.it/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified), [Stirling](https://data.stirling.gov.uk)
 
 [Consumer data research centre](https://data.cdrc.ac.uk/) 
 
@@ -29,8 +29,6 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 [Data commons: open sources for students & researchers](https://www.datacommons.org)
 
 [Data Is Plural: archive of data mentioned in email — J Singer-Vine](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
-
-[Data Times](https://thedatatimes.com/)
 
 [Dataverse: research datasets made public — Harvard](https://dataverse.harvard.edu/)
 
@@ -50,11 +48,11 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 
 [European data portal](https://data.europa.eu/en)
 
-[Get the data: Q&A forum for finding answers in or about data](http://getthedata.org/)
-
 [Google Bigquery datasets on Kaggle](https://www.kaggle.com/datasets?search=%23bigquery)
 
 [Google dataset search](https://datasetsearch.research.google.com/)
+
+[Google documents (useful & public)](https://sourceful.co.uk/)
 
 [Goverment Statistical Service (beta)](https://beta.gss-data.org.uk/datasets)
 
@@ -84,17 +82,15 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 
 [JSON format datasets (random list)](https://github.com/jdorfman/awesome-json-datasets)
 
-[London data (Colouring London project)](https://colouring.london/)
-
-[National centre for social research](https://natcen.ac.uk/)
-
-[Makeover Monday](http://www.makeovermonday.co.uk/data/)
+[Makeover Monday](https://makeovermonday.co.uk/)
 
 [Ministry of Housing, Communities & Local government — data portal](https://opendatacommunities.org/home)
 
 [MIT: Knight Science Journalism dataset list](https://ksj.mit.edu/resource/data-journalism-tools/databases/)
 
 [My Society datasets (including UK political datasets)](https://data.mysociety.org/datasets/)
+
+[National centre for social research](https://natcen.ac.uk/)
 
 [NHS Digital](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets)
 
@@ -120,7 +116,7 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 
 [Parliamentary data hub](https://explore.data.parliament.uk/)
 
-[Propublica: story datasets](https://www.propublica.org/datastore/datasets) with [APIs](https://www.propublica.org/datastore/apis)
+<!-- [Propublica: story datasets](https://www.propublica.org/datastore/datasets) with [APIs](https://www.propublica.org/datastore/apis) -->
 
 [Public datasets: a collection](https://github.com/curran/data)
 
@@ -134,8 +130,6 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 
 [Scotland National Records](https://www.nrscotland.gov.uk/statistics-and-data)
 
-[Sourceful: finding useful public Google documents](https://sourceful.co.uk/)
-
 [South Africa's national statistics agency](http://www.statssa.gov.za/)
 
 [SODP: data sources for journalists](https://www.stateofdigitalpublishing.com/insights/top-data-sources-journalists/)
@@ -145,10 +139,6 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 [Statista: full access via Cardiff University library](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911649912202420)
 
 [Stats Wales catalogue](https://statswales.gov.wales/Catalogue)
-
-[Supreme Court justices: financial connections](https://projects.propublica.org/supreme-connections/)
-
-[UK data service (ESRI-funded collection of datasets)](https://www.ukdataservice.ac.uk/get-data)
 
 [UK data archive](https://www.data-archive.ac.uk/)
 

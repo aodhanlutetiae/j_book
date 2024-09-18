@@ -54,7 +54,7 @@
 
 [Gambling need for treatment: England](https://www.gov.uk/government/publications/gambling-treatment-need-and-support-prevalence-estimates)
 
-[Gambling statistics](https://www.gamblingcommission.gov.uk/news-action-and-statistics/Statistics-and-research/Levels-of-participation-and-problem-gambling/Research-library.Gambling)
+[Gambling statistics](https://www.gamblingcommission.gov.uk/news-action-and-statistics/Statistics-and-research)
 
 [Greyhound injuries and retirements](https://www.gbgb.org.uk/welfare-care/injury-and-retirement-data/)
 
