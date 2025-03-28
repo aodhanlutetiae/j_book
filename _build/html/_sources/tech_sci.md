@@ -10,7 +10,7 @@ AI problems & failures (catalogues of)
 
 [AI patents filed by companies](https://eto.tech/dataset-docs/private-sector-ai-indicators/)
 
-[Algorithms used by UK govt -- official list (6)](https://www.gov.uk/government/collections/algorithmic-transparency-reports)
+[Algorithms used by UK govt -- official list (55)](https://www.gov.uk/government/collections/algorithmic-transparency-reports)
 
 [Algorithms used by UK govt -- Public law project (41)](https://publiclawproject.org.uk/resources/the-tracking-automated-government-register/)
 
@@ -66,7 +66,7 @@ AI problems & failures (catalogues of)
 
 [Voice User Interface in Star Trek](https://www.speechinteraction.org/TNG/index.html)
 
-[Warrants issued for people's iPhones in connection with crime](https://docs.google.com/spreadsheets/d/1Xmh1QEXYJmVPFlqAdEIVGemvbkoZmk_WyAPGC4eY-eE/edit#gid=0)
+[Warrants issued for iPhones in connection with crime](https://docs.google.com/spreadsheets/d/1Xmh1QEXYJmVPFlqAdEIVGemvbkoZmk_WyAPGC4eY-eE/edit#gid=0)
 
 [Wikidata — millions of data items related to other Wiki sites](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 

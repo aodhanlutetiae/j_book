@@ -46,7 +46,9 @@
 
 [Literary prizes, 1918-2020](https://view.data.post45.org/mlpwinners)
 
-[Markers & monument database](https://www.hmdb.org/)
+[Monuments & markers database](https://www.hmdb.org/)
+
+[Monuments, statues & sculptures](https://www.vads.ac.uk/digital/collection/PMSA/search)
 
 [Metadata for all Samuel Beckett letters — The Samuel Beckett Society](https://beckett.library.emory.edu/)
 
@@ -95,9 +97,5 @@
 [Tate collection](https://github.com/tategallery/collection)
 
 [Twin Peaks coffee ('damn fine coffee')](https://data.world/judkacag/the-coffees-of-twin-peaks)
-
-[UK public monuments, statues & sculptures](https://www.vads.ac.uk/digital/collection/PMSA/search)
-
-[Visits to museums & galleries every month (DCMS-sponsored)](https://www.gov.uk/government/statistical-data-sets/museums-and-galleries-monthly-visits)
 
 [X-men data, 1963-93](https://github.com/EliCash82/mutantmoneyball)

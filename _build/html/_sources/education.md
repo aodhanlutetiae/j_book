@@ -36,10 +36,8 @@
 
 [Student complaints (England & Wales)](https://www.oiahe.org.uk/resources-and-publications/case-summaries/)
 
-[Student Loans Company: FOI disclosure log archive](https://webarchive.nationalarchives.gov.uk/ukgwa/20190301124453/https://www.slc.co.uk/freedom-of-information/freedom-of-information-disclosures.aspx)
-
-[Student Loans Company: student loans in Wales 2020-21 — HESA](https://www.hesa.ac.uk/data-and-analysis)
+[Student Loans Company, UK](https://www.gov.uk/government/collections/student-loans-for-higher-and-further-education)
 
 [Suspensions & exclusion, English schools](https://explore-education-statistics.service.gov.uk/find-statistics/suspensions-and-permanent-exclusions-in-england)
 
-[UCAS 2023 application data](https://www.ucas.com/data-and-analysis/undergraduate-statistics-and-reports/ucas-undergraduate-end-cycle-data-resources-2023)
+[UCAS 2024 application data](https://www.ucas.com/data-and-analysis/undergraduate-statistics-and-reports/ucas-undergraduate-end-cycle-data-resources-2024)
