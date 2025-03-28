@@ -6,7 +6,7 @@
 
 [Amazon: 5 years of US purchase histories](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY)
 
-[ATMs in the UK](https://www.link.co.uk/initiatives/financial-inclusion-monthly-report/)
+[ATMs in the UK](https://www.link.co.uk/initiatives/financial-inclusion-monthly-report/) & [Cash, banks & ATMs](https://commonslibrary.parliament.uk/research-briefings/cbp-8570/)
 
 [Automation of jobs — ONS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25)
 
@@ -34,11 +34,17 @@
 
 [Consumer trends](https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/datasets/consumertrendscurrentpriceseasonallyadjusted)
 
+[Corporations paying regularly penalties (world)](https://violationtrackerglobal.goodjobsfirst.org/)
+
 [Earning power by area — Wales](https://statswales.gov.wales/Catalogue/Business-Economy-and-Labour-Market/People-and-Work/Earnings/medianhourlyearnings-by-welshlocalareas-year)
+
+[Eggs](https://www.gov.uk/government/statistics/egg-statistics)
 
 [Enron emails (500K) — investigate the infamous company](https://www.kaggle.com/wcukierski/enron-email-dataset)
 
 [Financial & economic datasets — Bank of England](https://www.bankofengland.co.uk/statistics/research-datasets)
+
+[Financial ombudsman: complaints](https://www.financial-ombudsman.org.uk/data-insight/annual-complaints-data/annual-complaints-data-insight-2023-24#block-7249)
 
 [Fincen files (global financial transactions) — ICIJ](https://www.icij.org/investigations/fincen-files/explore-the-fincen-files-data/)
 
@@ -76,7 +82,9 @@
 
 [Overseas entities (UK) via Companies House](https://www.gov.uk/government/news/the-new-register-of-overseas-entities-is-live)
 
-[Plastic bags (England charges for single-use)](https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england)
+[Payment types survey, 2024](https://brc.org.uk/media/jmrhrss1/2024-payments-survey.pdf)
+
+[Plastic bags (England charges for single-use)](https://www.data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england)
 
 [Points of interest dataset (OS)](https://www.ordnancesurvey.co.uk/business-government/products/points-of-interest) "location-based directory of all public and privately-owned businesses, education and leisure services in Britain"
 
@@ -111,3 +119,4 @@
 [World mining datasets](https://doi.pangaea.de/10.1594/PANGAEA.910894)
 
 [Zero hour contracts numbers](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/emp17peopleinemploymentonzerohourscontracts)
+

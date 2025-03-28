@@ -56,7 +56,7 @@ AI problems & failures (catalogues of)
 
 [Scammers: database of internet scams](https://scamsearch.io/)
 
-[Space agency, UK](https://www.gov.uk/search/research-and-statistics?parent=uk-space-agency&content_store_document_type=research&organisations%5B%5D=uk-space-agency&order=updated-newest)
+[Space agency, UK](https://www.gov.uk/search/research-and-statistics?content_store_document_type=all_research_and_statistics&organisations%5B%5D=uk-space-agency&order=updated-newest)
 
 [Space: commercial launches](https://www.faa.gov/data_research/commercial_space_data/)
 

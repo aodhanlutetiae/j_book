@@ -18,7 +18,7 @@ Lists and collections of datasets released by journalists or governments or othe
 
 [Canada statistics office](https://www.statcan.gc.ca/en/start)
 
-Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [Milan](http://dati.comune.milano.it/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified), [Stirling](https://data.stirling.gov.uk)
+Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https://opendata.bristol.gov.uk/pages/homepage/), [Caerphilly](https://www.caerphilly.gov.uk/my-council/data-protection-and-freedom-of-information/datasets), [Cardiff](https://foi.cardiff.gov.uk/eng/Pages/OpenData_All.aspx), [Glasgow](http://data.glasgow.gov.uk/ ), [Leipzig](https://opendata.leipzig.de/), [London](https://data.london.gov.uk/), [Milan](http://dati.comune.milano.it/), [New York](https://opendata.cityofnewyork.us/), [Paris](https://opendata.paris.fr/explore/?sort=modified), [Stirling](https://data.stirling.gov.uk)
 
 [Consumer data research centre](https://data.cdrc.ac.uk/) 
 
@@ -29,6 +29,8 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 [Data commons: open sources for students & researchers](https://www.datacommons.org)
 
 [Data Is Plural: archive of data mentioned in email — J Singer-Vine](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+
+[Data Mill North](https://datamillnorth.org/search?type=dataset)
 
 [Dataverse: research datasets made public — Harvard](https://dataverse.harvard.edu/)
 

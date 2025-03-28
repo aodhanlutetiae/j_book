@@ -8,6 +8,8 @@
 
 [Arrests in England & Wales by location, sex, ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/number-of-arrests/latest)
 
+[Arson, Wales](https://www.gov.wales/deliberate-fires)
+
 [Attacks on aid workers around the world](https://aidworkersecurity.org/)
 
 [Blue badge system in England: use and abuse](https://www.gov.uk/government/statistical-data-sets/blue-badge-scheme-statistics-data-tables-dis)
@@ -63,6 +65,8 @@
 [London Fire Brigade obesity incidents](https://data.london.gov.uk/dataset/bariatric-incidents-attended-by-lfb)
 
 [Met police statistics](https://www.met.police.uk/sd/stats-and-data/) & [Met police, data about](https://data.london.gov.uk/dataset/?org=db7940dd-ee1a-4a68-b874-c34151e16e82)
+
+[Ministry of Justice statistics](https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&organisations%5B%5D=ministry-of-justice&order=updated-newest)
 
 [Open sanctions — people and companies](https://www.opensanctions.org/)
 

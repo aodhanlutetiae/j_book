@@ -10,6 +10,8 @@
 
 [Bees in cities with locations](https://www.spotteron.com/spotabee/)
 
+[Birmingham Council, card payments](https://cityobservatorybirmingham.opendatasoft.com/explore/dataset/purchase-card-transactions/information/?disjunctive.directorate)
+
 [Bristol council monthly spends over £500](https://www.bristol.gov.uk/council-spending-performance/spending-over-500)
 
 [Cardiff CCTV cameras](https://foi.cardiff.gov.uk/ENG/DataSets/Forms/Data%20Set/docsethomepage.aspx?ID=341&FolderCTID=0x0120D52000247D5EEF4C698246BF70B3A320E31C9700EC288F337C1A4F419C19B359C6EB30C9&List=8ab83359-5015-41de-872d-7d104efef8e2&RootFolder=%2FENG%2FDataSets%2FCCTV%20Devices%202020&RecSrc=%2FENG%2FDataSets%2FCCTV%20Devices%202020)
@@ -19,6 +21,8 @@
 [Cardiff council: mapping of services via 'Ishare' (includes CCTV)](http://ishare.cardiff.gov.uk/)
 
 [Cardiff street list](http://cardiff.streetmapof.co.uk/a/)
+
+[Council tax properties: numbers and bands](https://www.gov.uk/government/publications/council-tax-number-of-properties-by-council-tax-band-and-westminster-parliamentary-constituency-post-2024-general-election-2015-to-2024)
 
 [Dog fouling in Stirling](https://data.stirling.gov.uk/dataset/safer-communities)
 

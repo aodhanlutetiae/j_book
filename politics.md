@@ -46,6 +46,8 @@
 
 [Political ads on Google: Ad Transparency (UK)](https://adstransparency.google.com/political?topic=political&region=GB)
 
+[Register of MPs' interests (XML)](https://pages.mysociety.org/parl_register_interests/) and [other formats](https://pages.mysociety.org/parl_register_interests/datasets/all_time_register/latest)
+
 [Sanctions list](https://www.gov.uk/government/publications/the-uk-sanctions-list)
 
 [Scottish parliament](https://data.parliament.scot/#/home)

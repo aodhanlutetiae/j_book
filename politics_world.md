@@ -22,6 +22,8 @@
 
 [Palestine: catalogue of 'incitement to genocide' (Law for Palestine)](https://law4palestine.org/law-for-palestine-releases-database-with-500-instances-of-israeli-incitement-to-genocide-continuously-updated/). See also: [data *collection* form for denigration of Palestine supporters](https://docs.google.com/forms/d/e/1FAIpQLSdYBrNzp77ivaNXcojTUy7R4YER4k7FnrOgXi3tl5OM5iJ27g/viewform)
 
+[Parliaments around the world](https://data.ipu.org/)
+
 [Parliamentary speeches (20 years) in Belgium, Germany, Greece, Ireland, Portugal & Spain](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9MN0RL)
 
 [Political data for 233 countries — EveryPolitician](http://everypolitician.org/)

@@ -66,7 +66,7 @@
 
 [Music streaming survey, Deltapoll](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption)
 
-[Netflix: what are people watching? (2023)](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
+[Netflix: what are people watching? (2024)](https://about.netflix.com/en/news/what-we-watched-the-first-half-of-2024)
 
 [New York Philharmonic performances, 1842-2020](https://data.world/popculture/new-york-philharmonic-performances)
 

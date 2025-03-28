@@ -6,7 +6,9 @@
 
 ['Am I the asshole?' subreddit: Code to scrape](https://github.com/iterative/aita_dataset)
 
-[Baby names in England & Wales, 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/2021/relateddata)
+[Baby names in England & Wales, 2023:girls](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) & [boys](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys)
+
+[Baby names in England & Wales over time: 1996-2021 ](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996)
 
 [Baby names rejected in New Zealand, 2023](https://www.dia.govt.nz/press.nsf/d77da9b523f12931cc256ac5000d19b6/18330eddac3d14c6cc258aae00020b4c!OpenDocument)
 
@@ -68,6 +70,8 @@
 
 [Free school meals in Wales](https://statswales.gov.wales/Catalogue/Education-and-Skills/Schools-and-Teachers/Schools-Census/Pupil-Level-Annual-School-Census/Provision-of-Meals-and-Milk/pupilseligibleforfreeschoolmeals-by-localauthorityregion-year)
 
+[Gypsy or Irish traveller population (Census 2021)](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/datasets/gypsyoririshtravellerpopulationsdataculturalidentity)
+
 [Housing: affordability (price to earnings)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2021/relateddata)
 
 [Housing: empty homes in England](https://www.actiononemptyhomes.org/facts-and-figures)
@@ -94,6 +98,8 @@
 
 [Housing: rental price index UK](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/indexofprivatehousingrentalpricesreferencetables)
 
+[Housing: price index Wales](https://www.principality.co.uk/home/mortgages/house-price-index-wales)
+
 [How popular is your birthday? — ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18)
 
 [Indian ethnic group in the UK](https://www.gov.uk/government/publications/ethnicity-facts-and-figures-indian-ethnic-group)
@@ -101,8 +107,6 @@
 [International Development, Poverty, & Sustainability — World Bank](https://www.worldbank.org/)
 
 [Irish passports — Irish govt](https://www.dfa.ie/passports/open-data/)
-
-[Gypsy or Irish traveller population (Census 2021)](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/datasets/gypsyoririshtravellerpopulationsdataculturalidentity)
 
 [Land ownership (investigating)](https://whoownsengland.org/tools-and-resources/)
 
@@ -150,7 +154,7 @@
 
 [Southern Poverty Law Center’s dataset of ‘public symbols of the Confederacy’](https://docs.google.com/spreadsheets/d/17ps4aqRyaIfpu7KdGsy2HRZaaQiXUfLrpUbaR9yS51E/edit#gid=40011151)
 
-[Speakers of Foreign Languages Irish Census 2016](http://census2016.geohive.ie/datasets/speakers-of-foreign-languages-by-language-spoken-administrative-county-census-2016-theme-2-5-ireland-2016-cso-osi/data)
+[Speakers of Foreign Languages, Irish Census 2016](http://census2016.geohive.ie/datasets/speakers-of-foreign-languages-by-language-spoken-administrative-county-census-2016-theme-2-5-ireland-2016-cso-osi/data)
 
 [Sustainable Development Goals (tracking)](https://sdg-tracker.org/)
 

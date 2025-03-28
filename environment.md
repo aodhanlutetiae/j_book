@@ -130,6 +130,8 @@
 
 [Temperature data (global)](https://berkeleyearth.org/data/)
 
+[UN climate change conferences: who attended? (30 years)](https://github.com/bagozzib/UNFCCC-Attendance-Data)
+
 [UK & Ireland rainfall, 1677-1960](https://github.com/ed-hawkins/rainfall-rescue)
 
 [Wales waste collection, flytipping & recycling](https://statswales.gov.wales/Catalogue/Environment-and-Countryside)

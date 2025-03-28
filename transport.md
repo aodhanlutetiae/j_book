@@ -62,7 +62,7 @@
 
 [Petrol prices, UK](https://www.rac.co.uk/drive/advice/fuel-watch/)
 
-[Potholes Cardiff](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
+[Potholes](https://www.fillthathole.org.uk)
 
 [Potholes Toronto: Mapping Locations (article & API method)](https://towardsdatascience.com/mapping-locations-of-reported-pot-holes-in-toronto-using-python-376402d8da53)
 
