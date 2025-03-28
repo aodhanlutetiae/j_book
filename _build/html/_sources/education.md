@@ -4,6 +4,8 @@
 
 [Absence rates in schools, England](https://explore-education-statistics.service.gov.uk/find-statistics/pupil-absence-in-schools-in-england)
 
+[Absence: parental responsibility measures](https://explore-education-statistics.service.gov.uk/find-statistics/parental-responsibility-measures/2023-24)
+
 [A Level statistics etc. (Ofqual)](https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&organisations%5B%5D=ofqual&order=updated-newest)
 
 [Books included in teaching syllabi (huge list)](https://opensyllabus.org/)

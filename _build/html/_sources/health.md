@@ -52,6 +52,8 @@
 
 [Hospital trolleys for patients: numbers — Irish Association for Emergency Medicine](https://iaem.ie/public/trolley-watch/)
 
+[Life expectancy in local areas (GB)](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/lifeexpectancyforlocalareasofgreatbritain)
+
 [Lobbying in the health sector — Transparence Santé](https://www.eurosfordocs.fr)
 
 [Measles 2023, England](https://www.gov.uk/government/publications/measles-epidemiology-2023)

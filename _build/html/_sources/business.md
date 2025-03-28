@@ -50,7 +50,7 @@
 
 [Fiscal data](https://openspending.org/)
 
-[Gender pay gap UK reporting data](https://gender-pay-gap.service.gov.uk/)
+[Gender pay gap UK reporting data](https://gender-pay-gap.service.gov.uk/viewing/download)
 
 [German Companies (5 million +)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
 
