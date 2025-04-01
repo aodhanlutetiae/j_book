@@ -28,7 +28,7 @@
 
 [Eurfa Welsh Dictionary — Kaggle](https://www.kaggle.com/rtatman/eurfa-welsh-dictionary)
 
-[Eurovison Song Contest voting (1975-2019)](https://data.world/datagraver/eurovision-song-contest-scores-1975-2019) & [Eurovision Song Contest results database](https://eschome.net/) & [Eurovision Song Contest dataset](https://github.com/Spijkervet/eurovision-dataset)
+[Eurovision Song Contest results database](https://eschome.net/) & [Eurovision Song Contest dataset](https://github.com/Spijkervet/eurovision-dataset)
 
 [EU terminology dictionary in all EU languages](https://iate.europa.eu/download-iate)
 

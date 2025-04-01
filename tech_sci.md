@@ -64,6 +64,8 @@ AI problems & failures (catalogues of)
 
 [Space: objects of index launched](https://www.unoosa.org/oosa/osoindex/search-ng.jspx)
 
+[Tesla fires](https://www.tesla-fire.com/)
+
 [Voice User Interface in Star Trek](https://www.speechinteraction.org/TNG/index.html)
 
 [Warrants issued for iPhones in connection with crime](https://docs.google.com/spreadsheets/d/1Xmh1QEXYJmVPFlqAdEIVGemvbkoZmk_WyAPGC4eY-eE/edit#gid=0)

@@ -50,7 +50,7 @@
 
 [Fiscal data](https://openspending.org/)
 
-[Gender pay gap UK reporting data](https://gender-pay-gap.service.gov.uk/viewing/download)
+[Gender pay gap UK reporting data](https://gender-pay-gap.service.gov.uk/viewing/download) & [Company lookup](https://gender-pay-gap.service.gov.uk/search)
 
 [German Companies (5 million +)](https://blog.opencorporates.com/2019/02/05/german-company-data-now-open-for-all/)
 
@@ -99,6 +99,8 @@
 [Restaurant spending via Revolut in pandemic (UK)](https://www.gov.uk/government/publications/revolut-restaurant-card-spending-data)
 
 [Retail location data](https://www.localdatacompany.com)
+
+[Stamp prices](https://priceofastamp.co.uk/uk-stamp-price-inflation/)
 
 [Strikes in China](https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2021-03&endDate=2021-09&eventId=&keyword=&addressId=&parentAddressId=&address=&parentAddress=&industry=&parentIndustry=&industryName=)
 
