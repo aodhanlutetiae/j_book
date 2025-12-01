@@ -40,6 +40,8 @@
 
 [Excess winter deaths in England & Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2021to2022provisionaland2020to2021final)
 
+[Fireworks injuries, England, 2010-23](https://www.gov.uk/government/statistics/victims-from-fires-with-fireworks-by-injury-severity-and-type-2010-to-2023)
+
 [Food hygiene ratings for Cardiff](https://ratings.food.gov.uk/authority-search-landing/556)
 
 [Gender identity referrals (NHS)](https://gids.nhs.uk/about-us/number-of-referrals/)
@@ -50,9 +52,11 @@
 
 [Hospital trolleys for patients: numbers — Irish Association for Emergency Medicine](https://iaem.ie/public/trolley-watch/)
 
+[Life expectancy in local areas (GB)](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/lifeexpectancyforlocalareasofgreatbritain)
+
 [Lobbying in the health sector — Transparence Santé](https://www.eurosfordocs.fr)
 
-[Measles 2023, England](https://www.gov.uk/government/publications/measles-epidemiology-2023)
+[Measles 2023-25, England](https://www.gov.uk/government/publications/measles-epidemiology-2023)
 
 [Medical tourism, to and from UK](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/medicaltourismin2019andtotalvisitstoandfromtheuk2015to2019)
 
@@ -63,6 +67,8 @@
 [NHS Informatics service for Wales](https://nwis.nhs.wales)
 
 [NHS patient safety England](https://www.england.nhs.uk/patient-safety/monthly-data-patient-safety-incident-reports/) & [Wales](https://gov.wales/patient-safety)
+
+[NHS procurement spending](https://mtadeo.shinyapps.io/Transparency_iniciative/)
 
 [Organ donation](https://www.organdonation.nhs.uk/helping-you-to-decide/about-organ-donation/statistics-about-organ-donation/transplant-activity-report/)
 

@@ -32,8 +32,6 @@
 
 [Coal plants in Europe](https://beyond-coal.eu/database/)
 
-[Compliance & environmental crime](https://www.gov.uk/government/publications/environment-agency-2021-data-on-regulated-businesses-in-england)
-
 [Dams database — Global Dam Watch](https://www.globaldamwatch.org/database)
 
 [Diet in the UK, survey](https://www.gov.uk/government/collections/national-diet-and-nutrition-survey)
@@ -51,6 +49,8 @@
 [Energy performance certificates, Scottish register](https://www.scottishepcregister.org.uk/)
 
 [Energy performance by fuel type](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/estimatedproportionofdwellingswithanenergyperformancecertificatebymainfueltypeormethodofheatingusedincentralheating)
+
+[Environmental crime & compliance](https://www.gov.uk/government/publications/environment-agency-2023-data-on-regulated-businesses-in-england)
 
 [Environmental data UK (includes Defra, EA)](https://data.gov.uk/search?filters%5Btopic%5D=Environment)
 
@@ -129,6 +129,8 @@
 [Temperature rises in European locations](https://climatechange.europeandatajournalism.eu/en/about)
 
 [Temperature data (global)](https://berkeleyearth.org/data/)
+
+[UN climate change conferences: who attended? (30 years)](https://github.com/bagozzib/UNFCCC-Attendance-Data)
 
 [UK & Ireland rainfall, 1677-1960](https://github.com/ed-hawkins/rainfall-rescue)
 

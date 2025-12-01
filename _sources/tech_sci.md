@@ -10,7 +10,7 @@ AI problems & failures (catalogues of)
 
 [AI patents filed by companies](https://eto.tech/dataset-docs/private-sector-ai-indicators/)
 
-[Algorithms used by UK govt -- official list (6)](https://www.gov.uk/government/collections/algorithmic-transparency-reports)
+[Algorithms used by UK govt -- official list (55)](https://www.gov.uk/government/collections/algorithmic-transparency-reports)
 
 [Algorithms used by UK govt -- Public law project (41)](https://publiclawproject.org.uk/resources/the-tracking-automated-government-register/)
 
@@ -56,7 +56,7 @@ AI problems & failures (catalogues of)
 
 [Scammers: database of internet scams](https://scamsearch.io/)
 
-[Space agency, UK](https://www.gov.uk/search/research-and-statistics?parent=uk-space-agency&content_store_document_type=research&organisations%5B%5D=uk-space-agency&order=updated-newest)
+[Space agency, UK](https://www.gov.uk/search/research-and-statistics?content_store_document_type=all_research_and_statistics&organisations%5B%5D=uk-space-agency&order=updated-newest)
 
 [Space: commercial launches](https://www.faa.gov/data_research/commercial_space_data/)
 
@@ -64,9 +64,11 @@ AI problems & failures (catalogues of)
 
 [Space: objects of index launched](https://www.unoosa.org/oosa/osoindex/search-ng.jspx)
 
+[Tesla fires](https://www.tesla-fire.com/)
+
 [Voice User Interface in Star Trek](https://www.speechinteraction.org/TNG/index.html)
 
-[Warrants issued for people's iPhones in connection with crime](https://docs.google.com/spreadsheets/d/1Xmh1QEXYJmVPFlqAdEIVGemvbkoZmk_WyAPGC4eY-eE/edit#gid=0)
+[Warrants issued for iPhones in connection with crime](https://docs.google.com/spreadsheets/d/1Xmh1QEXYJmVPFlqAdEIVGemvbkoZmk_WyAPGC4eY-eE/edit#gid=0)
 
 [Wikidata — millions of data items related to other Wiki sites](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
