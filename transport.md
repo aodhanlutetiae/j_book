@@ -68,6 +68,8 @@
 
 [Rail & road office UK — ORR](https://dataportal.orr.gov.uk/)
 
+[Road safety, Wales](https://www.gosafe.org/request/offence-data/)
+
 [Road traffic statistics UK — cars, bicycles & HGVs](https://www.gov.uk/government/statistical-data-sets/road-traffic-statistics-tra)
 
 [Road traffic statistics — Cardiff](https://roadtraffic.dft.gov.uk/local-authorities/19)

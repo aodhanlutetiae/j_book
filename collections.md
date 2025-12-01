@@ -50,6 +50,8 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 
 [European data portal](https://data.europa.eu/en)
 
+[Geographic data, Wales](https://datamap.gov.wales/search/?limit=700&offset=0)
+
 [Google Bigquery datasets on Kaggle](https://www.kaggle.com/datasets?search=%23bigquery)
 
 [Google dataset search](https://datasetsearch.research.google.com/)
@@ -140,7 +142,7 @@ Cities: [Birmingham](https://www.birmingham.gov.uk/open-data), [Bristol](https:/
 
 [Statista: full access via Cardiff University library](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911649912202420)
 
-[Stats Wales catalogue](https://statswales.gov.wales/Catalogue)
+[Stats Wales catalogue (old)](https://statswales.gov.wales/Catalogue) & [new](https://stats.gov.wales/en-GB)
 
 [UK data archive](https://www.data-archive.ac.uk/)
 

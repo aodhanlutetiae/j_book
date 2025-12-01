@@ -6,7 +6,7 @@
 
 ['Am I the asshole?' subreddit: Code to scrape](https://github.com/iterative/aita_dataset)
 
-[Baby names in England & Wales, 2023:girls](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) & [boys](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys)
+[Baby names in England & Wales, 2024](https://www.ons.gov.uk/releases/babynamesinenglandandwales2024)
 
 [Baby names in England & Wales over time: 1996-2021 ](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996)
 

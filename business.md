@@ -70,6 +70,8 @@
 
 [Livestock in Wales — last ten years](https://statswales.gov.wales/Catalogue/Agriculture/Agricultural-Survey/Annual-Survey-Results/total-livestock-in-wales-by-year)
 
+[Living wage, London](https://data.london.gov.uk/dataset/earning-below-llw/)
+
 [Millennium of macroeconomic data — Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx?la=en&hash=73ABBFB603A709FEEB1FD349B1C61F11527F1DE4)
 
 [Minimum wage — UK employers who underpaid](https://data.gov.uk/dataset/395e42e6-275f-41c6-89b1-c3e3dc5fe154/employers-who-fail-to-pay-national-minimum-or-national-living-wage)

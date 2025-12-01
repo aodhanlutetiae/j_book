@@ -46,6 +46,8 @@
 
 [Literary prizes, 1918-2020](https://view.data.post45.org/mlpwinners)
 
+[Literary prizes, Britain, 1990-2022](https://data.post45.org/posts/british-literary-prizes/)
+
 [Monuments & markers database](https://www.hmdb.org/)
 
 [Monuments, statues & sculptures](https://www.vads.ac.uk/digital/collection/PMSA/search)
