@@ -46,9 +46,11 @@
 
 [Gender identity referrals (NHS)](https://gids.nhs.uk/about-us/number-of-referrals/)
 
-[GP appointments (August 2023)](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/august-2023)
+[GP Appointments](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice)
 
 [Health & Safety Executive statistics](https://www.hse.gov.uk/statistics/a-z.htm)
+
+[Heat mortality](https://www.gov.uk/government/publications/heat-mortality-monitoring-reports)
 
 [Hospital trolleys for patients: numbers — Irish Association for Emergency Medicine](https://iaem.ie/public/trolley-watch/)
 

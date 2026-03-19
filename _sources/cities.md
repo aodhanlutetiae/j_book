@@ -4,7 +4,7 @@
 
 [Africa urban data — Africapolis](https://www.africapolis.org/data)
 
-[Airbnb data by (selected) cities — http://insideairbnb.com](http://insideairbnb.com)
+[Airbnb data by (selected) cities](http://insideairbnb.com)
 
 [APUR — Atelier parisien d'urbanisme](https://opendata.apur.org)
 
@@ -49,6 +49,8 @@
 [Rough sleeping in England questionnaire (initial results)](https://www.gov.uk/government/publications/rough-sleeping-questionnaire-initial-findings)
 
 [Rubbish collection monthly amounts in New York City — NYC Open Data](https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5)
+
+[Short-term letting 2024, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/shorttermletsthroughonlinecollaborativeeconomyplatformsuk/januarytodecember2024)
 
 [Street names in Europe](https://www.europeandatajournalism.eu/cp_data_news/mapping-diversity-full-dataset-release/)
 

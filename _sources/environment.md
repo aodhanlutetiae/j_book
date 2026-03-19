@@ -62,6 +62,8 @@
 
 [Fly-tipping incidents, London](https://data.london.gov.uk/dataset/fly-tipping-incidents)
 
+[Flooding & sewage monitoring project](https://www.floodmapper.co.uk/data-explorer)
+
 [Gas: European Network of Transmission System Operators](https://transparency.entsog.eu)
 
 [Global fishing watch](https://globalfishingwatch.org/datasets-and-code/)

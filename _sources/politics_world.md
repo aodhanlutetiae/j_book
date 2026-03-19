@@ -32,6 +32,8 @@
 
 [Sanctions imposed around the world](https://sanctionsexplorer.org/)
 
+[Sanctions: Open Sanctions](https://www.opensanctions.org/datasets/)
+
 [Terrorism database](https://www.start.umd.edu/gtd/)
 
 [United Nations decisions & resolutions (XML)](https://www.un.org/dgacm/en/content/visualizations-and-machine-readability)
