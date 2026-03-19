@@ -66,6 +66,8 @@ AI problems & failures (catalogues of)
 
 [Space: objects of index launched](https://www.unoosa.org/oosa/osoindex/search-ng.jspx)
 
+[Space: objects launched](https://www.space-track.org)
+
 [Tesla fires](https://www.tesla-fire.com/)
 
 [Voice User Interface in Star Trek](https://www.speechinteraction.org/TNG/index.html)

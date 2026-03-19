@@ -12,6 +12,8 @@
 
 [Baby names rejected in New Zealand, 2023](https://www.dia.govt.nz/press.nsf/d77da9b523f12931cc256ac5000d19b6/18330eddac3d14c6cc258aae00020b4c!OpenDocument)
 
+[Births, England & Wales, 2024](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2024refreshedpopulations)
+
 [Blue plaques & more](https://openplaques.org/data)
 
 [Census 2021: 1st results (England & Wales)](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
@@ -71,6 +73,8 @@
 [Free school meals in Wales](https://statswales.gov.wales/Catalogue/Education-and-Skills/Schools-and-Teachers/Schools-Census/Pupil-Level-Annual-School-Census/Provision-of-Meals-and-Milk/pupilseligibleforfreeschoolmeals-by-localauthorityregion-year)
 
 [Gypsy or Irish traveller population (Census 2021)](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/datasets/gypsyoririshtravellerpopulationsdataculturalidentity)
+
+[Homelessness, Wales](https://www.gov.wales/homelessness-april-2024-march-2025)
 
 [Housing: affordability (price to earnings)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2021/relateddata)
 

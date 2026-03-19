@@ -20,6 +20,8 @@
 
 [Cars in the EU](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Passenger_cars_in_the_EU)
 
+[Cardiff walking & cycling Index](https://www.walkwheelcycletrust.org.uk/the-walking-and-cycling-index/cardiff-walking-and-cycling-index/)
+
 [Cars in the UK (recent vehicle registration data)](https://www.gov.uk/government/statistics/vehicle-licensing-statistics-july-to-september-2022/) & [all vehicle data](https://www.gov.uk/government/statistical-data-sets/vehicle-licensing-statistics-data-files)
 
 [Car parks in Great Britain — 2015](https://data.gov.uk/dataset/7e7ef556-4173-4dcb-8eef-8ddde4e3824d/car-parks)
@@ -50,6 +52,8 @@
 
 [Electric vehicle chargepoint grants awarded (UK)](https://www.gov.uk/government/statistics/electric-vehicle-charging-device-grant-scheme-statistics-april-2023)
 
+[Flight punctuality, UK](https://www.caa.co.uk/data-and-analysis/uk-aviation-market/flight-punctuality/uk-flight-punctuality-statistics/2025/)
+
 [Fuel sales by week](https://www.data.gov.uk/dataset/9003012e-4564-4a6b-b5f0-8765ccb23a03/average-road-fuel-sales-and-stock-levels)
 
 [HGV drivers from UK and EU over six years](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/adhocs/13633hgvdriversbynationality)
@@ -64,9 +68,11 @@
 
 [Potholes](https://www.fillthathole.org.uk)
 
-[Potholes Toronto: Mapping Locations (article & API method)](https://towardsdatascience.com/mapping-locations-of-reported-pot-holes-in-toronto-using-python-376402d8da53)
+<!-- [Potholes Toronto: Mapping Locations (article & API method)](https://towardsdatascience.com/mapping-locations-of-reported-pot-holes-in-toronto-using-python-376402d8da53) -->
 
 [Rail & road office UK — ORR](https://dataportal.orr.gov.uk/)
+
+[Rail delay payments](https://www.gov.uk/government/statistics/delay-compensation-claims-20-july-2025-to-11-october-2025-periods-5-to-7)
 
 [Road safety, Wales](https://www.gosafe.org/request/offence-data/)
 
@@ -74,7 +80,9 @@
 
 [Road traffic statistics — Cardiff](https://roadtraffic.dft.gov.uk/local-authorities/19)
 
-[Road accidents & safety](https://www.gov.uk/government/collections/road-accidents-and-safety-statistics)
+[Road accidents & safety](https://www.gov.uk/government/collections/road-accidents-and-safety-statistics) & [StatsWales](https://statswales.gov.wales/Catalogue/Transport/Roads/Road-Accidents/Casualties/numberofcasualties-by-quarter-year-localauthority-policeforce)
+
+[Shipwrecks (1500 BC - 1500 AD)](https://docs.google.com/spreadsheets/d/11fk5YeQ4eFOnYSBNpUdHp4TP42gJ7wY5/edit?gid=970169931#gid=970169931)
 
 [Speed compliance, Great Britain](https://www.gov.uk/government/statistics/vehicle-speed-compliance-statistics-for-great-britain-2022/vehicle-speed-compliance-statistics-for-great-britain-2022)
 

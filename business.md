@@ -102,6 +102,8 @@
 
 [Retail location data](https://www.localdatacompany.com)
 
+[Retail trends, UK](https://clients-mintel-com.cardiff.idm.oclc.org/content)
+
 [Stamp prices](https://priceofastamp.co.uk/uk-stamp-price-inflation/)
 
 [Strikes in China](https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2021-03&endDate=2021-09&eventId=&keyword=&addressId=&parentAddressId=&address=&parentAddress=&industry=&parentIndustry=&industryName=)

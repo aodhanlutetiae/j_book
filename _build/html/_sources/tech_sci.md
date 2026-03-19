@@ -14,6 +14,8 @@ AI problems & failures (catalogues of)
 
 [Algorithms used by UK govt -- Public law project (41)](https://publiclawproject.org.uk/resources/the-tracking-automated-government-register/)
 
+[Algorithm registers around the world](https://directory.civictech.guide/listing-category/registers-of-government-ai)
+
 [APIs for use in software and web development](https://github.com/public-apis/public-apis)
 
 [Bad language on Shutterstock](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
@@ -63,6 +65,8 @@ AI problems & failures (catalogues of)
 [Space debris data sources](https://ourworldindata.org/grapher/yearly-number-of-objects-launched-into-outer-space?tab=table)
 
 [Space: objects of index launched](https://www.unoosa.org/oosa/osoindex/search-ng.jspx)
+
+[Space: objects launched](https://www.space-track.org)
 
 [Tesla fires](https://www.tesla-fire.com/)
 

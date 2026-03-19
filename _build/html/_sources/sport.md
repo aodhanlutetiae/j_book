@@ -12,9 +12,13 @@
 
 [Cycling: Tour de France, every cyclist](https://github.com/camminady/LeTourDataSet/)
 
+[English Women's football database](https://github.com/probjects/ewf-database)
+
 [FIFA 15 — 22 complete player dataset](https://www.kaggle.com/stefanoleone992/fifa-22-complete-player-dataset/)
 
 [FIFA - FC. 17,000 player ratings](https://www.ea.com/games/ea-sports-fc/ratings)
+
+[FIFA players, sofifa](https://sofifa.com/)
 
 [Football analytics: Spatio-temporal match data — Springer Nature](https://researchdata.springernature.com/users/326532-luca-pappalardo/posts/55353-soccer-spatio-temporal-match-data-for-sports-analytics)
 
@@ -85,6 +89,8 @@
 [Tennis shot-by-shot data from pro matches](http://www.tennisabstract.com/charting/meta.html)
 
 [Tennis WTA: women's tour](https://www.wtatennis.com/stats)
+
+[UFC fights, 1996-2024](https://www.kaggle.com/datasets/maksbasher/ufc-complete-dataset-all-events-1996-2024)
 
 [US college athletics financial database](http://cafidatabase.knightcommission.org/)
 
